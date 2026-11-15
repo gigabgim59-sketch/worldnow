@@ -58,7 +58,7 @@ if(process.env.ANTHROPIC_API_KEY&&LIMIT>0&&PER_RUN>0){
       const {out,usage}=await claudeBatch(list,process.env,glossary);
       const cost=(usage.input_tokens||0)*PIN+(usage.output_tokens||0)*POUT;
       spend.usd=+(spend.usd+cost).toFixed(6);spend.calls++;spend.inputTokens+=usage.input_tokens||0;spend.outputTokens+=usage.output_tokens||0;claudeRun.usd+=cost;
-      const byId=new Map(out.map(o=>[o.id,o.ko]));
+      const byId=new Map(out.map(o=>[+o.id,o.ko]));
       chunk.forEach(([f,a],n)=>{const ko=(byId.get(n)||'').trim();
         if(!ko||bad(ko,a.title)||!numbersOk(a.title,ko)){claudeRun.rejected++;console.log('Claude 번역 거부 '+f.source.id+': '+a.title.slice(0,60)+' → '+ko.slice(0,60));return;}
         if(a.titleKo&&a.titleKo!==ko)a.titleKoAlt=a.titleKo;a.titleKo=ko;a.tr='claude';ccache[ckey(f,a)]=ko;spend.titles++;claudeRun.titles++;});

@@ -81,7 +81,7 @@ async function googleBatch1(t){
 // 제목 여러 개를 매체·나라·언어 정보와 함께 JSON으로 보내고 [{id,ko}] JSON으로 받는다.
 const CLAUDE_SYSTEM=`너는 해외 뉴스 제목을 한국어 신문 헤드라인으로 옮기는 번역가다.
 입력: JSON 배열. 각 항목은 id, title(원문 제목), outlet(매체), country(나라), lang(원문 언어).
-출력: JSON 배열만. 각 항목은 {"id": 입력 id, "ko": 번역}. 설명·머리말·코드블록 표시 금지. 입력의 모든 id를 한 번씩.
+출력: 한 줄에 제목 하나씩, "id: 번역" 형식으로만 쓴다 (예: 0: 영국 정부 자문위원 "피해자 처우 공개해야"). 설명·머리말·코드블록·빈 줄 금지. 입력의 모든 id를 순서대로 한 번씩.
 규칙:
 1. 한국 신문 헤드라인 문체(개조식)로 쓴다. "~했다", "~발령", "~촉구", "~전망", "~ 논란"처럼 끝낸다. "~합니다/~습니다/~나요" 존댓말 금지.
 2. 원문에 없는 정보·해석·평가를 덧붙이지 않는다. 원문이 따옴표로 남의 주장임을 표시했으면 한국어에서도 따옴표를 유지한다.
@@ -101,8 +101,11 @@ async function claudeBatch(list,env,glossary){
   const j=await r.json().catch(()=>null);
   if(!r.ok){const e=Error('Claude '+r.status+': '+(j?.error?.message||'응답 오류'));e.status=r.status;throw e;}
   const text=(j.content||[]).map(c=>c.text||'').join('');
-  let out=[];try{out=JSON.parse(text.slice(text.indexOf('['),text.lastIndexOf(']')+1));}catch{out=[];}
-  return {out:Array.isArray(out)?out:[],usage:j.usage||{},maxTokens:body.max_tokens};
+  // "id: 번역" 줄 형식 (따옴표가 섞여도 깨지지 않음). 혹시 JSON으로 답하면 그것도 읽는다.
+  let out=[...text.matchAll(/^\s*(\d+)\s*[:：|\t]\s*(.+?)\s*$/gm)].map(m=>({id:+m[1],ko:m[2]}));
+  if(!out.length){try{out=JSON.parse(text.slice(text.indexOf('['),text.lastIndexOf(']')+1)).map(o=>({id:+o.id,ko:String(o.ko||'')}));}catch{out=[];}}
+  if(out.length<list.length)console.warn('Claude 응답 일부 누락 ('+out.length+'/'+list.length+'): '+text.slice(0,200).replace(/\n/g,' ⏎ '));
+  return {out,usage:j.usage||{},maxTokens:body.max_tokens};
 }
 // 원문의 숫자가 번역에 남아 있는지 확인 (규모 단위가 붙은 숫자·서수 1~2는 환산되므로 제외)
 const SCALE=/^\s?(?:millions?|milliards?|billions?|trillions?|bn|mn|tn|lakh|crore|млн|млрд|трлн|тыс|ألف|مليون|مليار|k\b)/i;
