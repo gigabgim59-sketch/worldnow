@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T22:55:48.737Z",
+  "generatedAt": "2026-11-15T22:58:57.835Z",
   "feeds": [
     {
       "source": {
@@ -97,7 +97,7 @@
           "titleKo": "영국 중앙은행 수석 이코노미스트, 향후 몇 달 내 금리 인상 가능성 언급"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.097Z",
+      "fetchedAt": "2026-11-15T22:58:56.181Z",
       "status": "ok"
     },
     {
@@ -197,7 +197,7 @@
           "titleKo": "OBR: 영국은 AI로 인해 '매우 고통스러운' 일자리 손실에 직면해 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:45.950Z",
+      "fetchedAt": "2026-11-15T22:58:56.096Z",
       "status": "ok"
     },
     {
@@ -296,7 +296,7 @@
           "titleKo": "마이크로소프트는 글로벌 중단 이후 서비스가 '광범위한 복구'를 경험하고 있다고 밝혔습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:45.910Z",
+      "fetchedAt": "2026-11-15T22:58:56.114Z",
       "status": "ok"
     },
     {
@@ -393,7 +393,7 @@
           "titleKo": "베스트셀러 도서: 장-뤼크 멜랑숑이 공쿠르상을 제치고 1위 차지"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:45.894Z",
+      "fetchedAt": "2026-11-15T22:58:55.986Z",
       "status": "ok"
     },
     {
@@ -492,7 +492,7 @@
           "titleKo": "아동 보호, '살인 면허' 반대와 정부: 파리에서 다양한 요구를 요구하고 추진력을 잃은 사회 운동"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.324Z",
+      "fetchedAt": "2026-11-15T22:58:56.391Z",
       "status": "ok"
     },
     {
@@ -592,7 +592,7 @@
           "titleKo": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.328Z",
+      "fetchedAt": "2026-11-15T22:58:56.457Z",
       "status": "ok"
     },
     {
@@ -680,17 +680,16 @@
         },
         {
           "id": "nyt-7",
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJMaFhaUUdRTmNXSll3UUlCX21rdHYxRGNpUmduVEo1Y29hcGVHazNjdE5mbDhtTlAtRnhfY3RzLWNXOTFiN254MmZOQ0pqMlFtczdwdG83QVdnbGc3alVSLWNpVXhJcTRVNEQ0RC1DUDY5c2lQbWhjM3o1TGx0UnBadk5FSXFNMlNoWE5EX2RpYnhETmx3?oc=5",
-          "date": "2026-11-15T10:02:05.000Z",
+          "title": "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+          "date": "2026-11-15T18:09:00.000Z",
           "topics": [
-            "AI·반도체",
-            "산업·시장"
+            "사회·생활"
           ],
-          "titleKo": "Lutnick은 가족 사업과 겹치는 칩 규칙을 약화시키려고 노력했습니다"
+          "titleKo": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.428Z",
+      "fetchedAt": "2026-11-15T22:58:56.533Z",
       "status": "ok"
     },
     {
@@ -789,7 +788,7 @@
           "titleKo": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.557Z",
+      "fetchedAt": "2026-11-15T22:58:56.595Z",
       "status": "ok"
     },
     {
@@ -890,7 +889,7 @@
           "titleKo": "Jensen Huang이 AI 경쟁에서 베이징을 유지하는 백도어 경로를 구축한 방법"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.741Z",
+      "fetchedAt": "2026-11-15T22:58:56.782Z",
       "status": "ok"
     },
     {
@@ -990,7 +989,7 @@
           "titleKo": "러시아, UAE 외무장관, 아부다비에서 회담 — Russian MFA"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.660Z",
+      "fetchedAt": "2026-11-15T22:58:56.768Z",
       "status": "ok"
     },
     {
@@ -1092,7 +1091,7 @@
           "titleKo": "러시아의 의료 및 교육 부문은 전면전이 시작된 이후 1조 루블 이상의 자금을 잃었다는 조사 결과가 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.649Z",
+      "fetchedAt": "2026-11-15T22:58:56.770Z",
       "status": "ok"
     },
     {
@@ -1139,7 +1138,7 @@
           "titleKo": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.986Z",
+      "fetchedAt": "2026-11-15T22:58:56.932Z",
       "status": "ok"
     },
     {
@@ -1216,7 +1215,7 @@
           "titleKo": "Sachin Tendulkar는 수십억 명의 사람들을 위한 책임 있는 폐기물 관리를 향한 행동 변화를 주도하려는 Recykal의 사명에 동참했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:46.988Z",
+      "fetchedAt": "2026-11-15T22:58:57.087Z",
       "status": "ok"
     },
     {
@@ -1313,7 +1312,7 @@
           "titleKo": "Rinku Singh, Priya Saroj와의 결혼식에 Modi 총리 초대 | 특별한 순간을 공유합니다"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.050Z",
+      "fetchedAt": "2026-11-15T22:58:57.138Z",
       "status": "ok"
     },
     {
@@ -1412,7 +1411,7 @@
           "titleKo": "인도는 이집트와의 더 큰 무역과 투자 관계를 모색하고 있다고 Piyush Goyal이 말했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.174Z",
+      "fetchedAt": "2026-11-15T22:58:57.177Z",
       "status": "ok"
     },
     {
@@ -1428,6 +1427,16 @@
       "items": [
         {
           "id": "hindu-0",
+          "title": "Lalit Modi announces he has acquired British citizenship",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZE5OTS1wRThBU3dnZlZhc05fLTg2dmRQa2hLY3ZoQ1FlYUFHRmU2bzlGZ3FiR3pOLWMyaG4yNC0ybl82ZzdkeG1jcW1zbmpydWY1M3Zhb3VCa2h6RjJRMk5TblBQMURhcnVtZndDeXA2MmNxZnhZRWpLSlAxYnNaMXg3VHZBYldZTzVCMU54NDJqZjh1RFhVMTBQZGsxUHpDZnNzMDNobXN6QnhGYlp0ZDNIZ2ktTkQzcndRM2dYSnptaHk4cXM1NFgyV3NudnlSRmp6OXdXMEdlaTZv0gHjAUFVX3lxTE9vR2FaVzhiUElYNk93QUtVcHR6OGlCdGMtSjlUTHI0NzZndU9LVXBlNnpqYTBGaEl0eTBaUHNtZ1pnQmhiNEp4b3pnLUlQUnE5Q0VBTWlxUjFQMGZDZGN3LVhGdTQ0UHliT3RPazB6OGgyOXphaDRKVlhIbjBXbGVWdENQZ056ZEs0OGg0eUt6YndvWnY5RU0tZ3Z0eWU4ZVNMc1AtdHY1ZFFXMFNfUS1oSDRqellucG0xZFdEN0JVRTJtV0N4RzFTQTMzZTRZYUQ1YWNxbUVtRkVxejA0V2hlTVdJ?oc=5",
+          "date": "2026-11-15T10:14:56.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "Lalit Modi가 영국 시민권을 취득했다고 발표했습니다."
+        },
+        {
+          "id": "hindu-1",
           "title": "U.S. must respect India’s right to defend itself, maintain zero tolerance towards terrorism: Blinken",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNV2JNc2NIYUlNSVZ1UTJBQTF2TmJMaUpIdFpaRGFzRmtpbG43OE8zZ0JHaE1ham5jYXZFVHc3R1ZEMzZ2Z3ppQWVUd0ZuVTMtSS02d0c5SlRELUNEUlJod1ZhbnpndnBHai02Ml9mOTBaUXkxV2RsbHhDZUw1OGxBQk1GUkVybmNUSjAzbEdYdm5iUk9XTy1kOFRwR3NkX25KbGdKczlNbnZZbl9qM2RXcDJtUjdpcENza3dXMnhuOE9mVWVoMF8zZFBJQUZjajI3ckdwZEdfdmIwYTlsWllIcVBweDNER05zVWZ4TGZaTVrSAfcBQVVfeXFMTmVUekVfc0drTTNqRDBCMGVvZDVsNWcyRzhDWDdhejc4UEpPVlBZWXNtcUtzX0FjWmNQd0JrSVliVUJ0dXBuUG1OTjdoY21YTXFjaG5BdmZIWnBFMTFFM0dVVjdxd0g1Mld5Y203ZG5oa21RREI4X3BTY2pzeGNxT29MbHBlZFNVZHJoMldQOXhxak9DM0g4N2pzTFVwRWFfVUtzV2lwNFFIZFJvUzR3RXFkRnFGYUVWZ1pwZlY4OHlmTGl5b1F0WjZ6bndSc1E5YnNZWVVsYm9LYmdRamxldzN6eWc5Rm1mSmVETlpyVmptamFfMWY1bw?oc=5",
           "date": "2026-11-15T01:38:27.000Z",
@@ -1436,16 +1445,6 @@
             "외교·안보"
           ],
           "titleKo": "미국은 인도의 방어권을 존중하고 테러에 대해 무관용을 유지해야 합니다: 블링켄"
-        },
-        {
-          "id": "hindu-1",
-          "title": "Lalit Modi announces he has acquired British citizenship",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZE5OTS1wRThBU3dnZlZhc05fLTg2dmRQa2hLY3ZoQ1FlYUFHRmU2bzlGZ3FiR3pOLWMyaG4yNC0ybl82ZzdkeG1jcW1zbmpydWY1M3Zhb3VCa2h6RjJRMk5TblBQMURhcnVtZndDeXA2MmNxZnhZRWpLSlAxYnNaMXg3VHZBYldZTzVCMU54NDJqZjh1RFhVMTBQZGsxUHpDZnNzMDNobXN6QnhGYlp0ZDNIZ2ktTkQzcndRM2dYSnptaHk4cXM1NFgyV3NudnlSRmp6OXdXMEdlaTZv0gHjAUFVX3lxTE9vR2FaVzhiUElYNk93QUtVcHR6OGlCdGMtSjlUTHI0NzZndU9LVXBlNnpqYTBGaEl0eTBaUHNtZ1pnQmhiNEp4b3pnLUlQUnE5Q0VBTWlxUjFQMGZDZGN3LVhGdTQ0UHliT3RPazB6OGgyOXphaDRKVlhIbjBXbGVWdENQZ056ZEs0OGg0eUt6YndvWnY5RU0tZ3Z0eWU4ZVNMc1AtdHY1ZFFXMFNfUS1oSDRqellucG0xZFdEN0JVRTJtV0N4RzFTQTMzZTRZYUQ1YWNxbUVtRkVxejA0V2hlTVdJ?oc=5",
-          "date": "2026-11-15T10:14:56.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "Lalit Modi가 영국 시민권을 취득했다고 발표했습니다."
         },
         {
           "id": "hindu-2",
@@ -1510,7 +1509,7 @@
           "titleKo": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.478Z",
+      "fetchedAt": "2026-11-15T22:58:57.420Z",
       "status": "ok"
     },
     {
@@ -1608,7 +1607,7 @@
           "titleKo": "Akali Dal과 BJP는 Punjab 의회 선거의 의석 공유에 동의하고 이번 달에 동맹이 이루어질 수 있습니다. 슬프고 BJP는 이번 달 Punjab vidhansabha 선거 2027 의석 거래를 위해 동맹을 맺을 수 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.423Z",
+      "fetchedAt": "2026-11-15T22:58:57.492Z",
       "status": "ok"
     },
     {
@@ -1704,7 +1703,7 @@
           "titleKo": "긴급: 중국-아세안 정상회담을 위해 중국 최초로 마닐라에 상륙"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.455Z",
+      "fetchedAt": "2026-11-15T22:58:57.496Z",
       "status": "ok"
     },
     {
@@ -1799,7 +1798,7 @@
           "titleKo": "분석: 중국 보험사의 주식 베팅은 주식 리스크의 한계를 테스트합니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.366Z",
+      "fetchedAt": "2026-11-15T22:58:57.343Z",
       "status": "ok"
     },
     {
@@ -1897,7 +1896,7 @@
           "titleKo": "FAA 지상 정지 해제: 미국 항공편이 접지된 이유는 무엇이며 다음 단계는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.860Z",
+      "fetchedAt": "2026-11-15T22:58:57.820Z",
       "status": "ok"
     },
     {
@@ -1994,7 +1993,7 @@
           "titleKo": "12개 이상의 프랑스 인권단체, 정부에 이스라엘 정착촌 상품 금지 촉구"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.691Z",
+      "fetchedAt": "2026-11-15T22:58:57.622Z",
       "status": "ok"
     },
     {
@@ -2094,7 +2093,7 @@
           "titleKo": "의견 | 팔레스타인 경제 붕괴로 인해 이스라엘이 지불할 대가"
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.848Z",
+      "fetchedAt": "2026-11-15T22:58:57.831Z",
       "status": "ok"
     },
     {
@@ -2203,7 +2202,7 @@
           "titleKo": "유로존 경제의 성장으로 인해 유럽중앙은행은 금리를 인상할 여지를 갖게 되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T22:55:47.821Z",
+      "fetchedAt": "2026-11-15T22:58:57.813Z",
       "status": "ok"
     }
   ],
