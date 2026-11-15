@@ -21,7 +21,7 @@ function bad(ko,orig){
   const h=(ko.match(HAN)||[]).length, f=(ko.match(LET)||[]).length;
   if(/[\u0400-\u04FF]/.test(orig)&&(ko.match(/[\u0400-\u04FF]/g)||[]).length>=3)return true; // 러시아 글자 남음
   if(/[\u0600-\u06FF]/.test(orig)&&(ko.match(/[\u0600-\u06FF]/g)||[]).length>=3)return true; // 아랍 글자 남음
-  return f>h*1.5; // 라틴 글자가 한글보다 훨씬 많으면 덜 번역된 것
+  return f>h*1.5&&h<10; // 라틴 글자가 한글보다 훨씬 많으면 덜 번역된 것
 }
 const script=t=>/[\u0400-\u04FF]/.test(t)?'cyr':/[\u0600-\u06FF]/.test(t)?'ara':'lat';
 // 검색 결과 페이지 등 기사 아닌 항목 제거
