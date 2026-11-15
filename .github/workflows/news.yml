@@ -34,6 +34,12 @@ jobs:
       - name: Collect headlines and translate
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MONTHLY_USD: ${{ vars.CLAUDE_MONTHLY_USD }}
+          CLAUDE_MAX_TITLES_PER_RUN: ${{ vars.CLAUDE_MAX_TITLES_PER_RUN }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
+          CLAUDE_PRICE_IN: ${{ vars.CLAUDE_PRICE_IN }}
+          CLAUDE_PRICE_OUT: ${{ vars.CLAUDE_PRICE_OUT }}
           PREVIOUS_DATA_URL: ${{ steps.pages.outputs.base_url }}/data/news.json
         run: node scripts/collect.mjs
       - name: Check data
@@ -42,7 +48,7 @@ jobs:
         run: |
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
-          git add public/data/news.json public/data/news.js
+          git add public/data/news.json public/data/news.js data/translation-spend.json
           git diff --cached --quiet || git commit -m "data: $(date -u +%FT%TZ)"
           git pull --rebase -X ours origin main || true
           git push || true

@@ -20,9 +20,15 @@
 
 ## 번역
 
-번역 순서: ① DEEPL_API_KEY가 있으면 DeepL ② 없으면 Google 번역 무료 엔드포인트(키 불필요, 25개씩 묶어 요청) ③ 실패한 제목만 MyMemory(일일 4,000자 이내) ④ 그래도 안 되면 원문. 번역 결과는 캐시해 재사용하며 제목만 전달합니다. Google 무료 엔드포인트는 공식 API가 아니어서 예고 없이 제한될 수 있습니다.
+번역 순서: ① **Claude**(저장소 Secrets에 `ANTHROPIC_API_KEY`가 있을 때) ② Google 번역 무료 엔드포인트(키 불필요, 20개씩 묶어 요청) ③ 실패한 제목만 DeepL(키가 있을 때) 또는 MyMemory(일일 4,000자 이내) ④ 그래도 안 되면 원문. 번역 결과는 캐시해 재사용하며 제목만 전달합니다.
 
-더 넉넉한 번역은 Settings → Secrets and variables → Actions에 **DEEPL_API_KEY**를 등록해 사용할 수 있습니다. 키를 코드나 HTML에 적지 마세요. 이용료는 해당 제공사 정책에 따릅니다.
+Claude 번역은 매체·나라·언어 정보와 `scripts/glossary.json`의 용어집을 함께 보내 헤드라인 문체로 옮기고, 원문 숫자가 번역에 남아 있는지 검사해 통과한 것만 씁니다. 키를 넣은 뒤에는 새 제목부터, 이어서 기존 Google 번역을 실행마다 조금씩 Claude 번역으로 바꿉니다. 바뀐 제목의 이전 번역은 비교용으로 `titleKoAlt`에 남깁니다.
+
+**비용 한도**
+- 월 한도: 저장소 Settings → Secrets and variables → Actions → **Variables**의 `CLAUDE_MONTHLY_USD`(기본 2달러). 누적액은 `data/translation-spend.json`에 기록되고, 한도에 닿을 요청은 보내지 않으며 남은 제목은 Google 번역으로 넘어갑니다.
+- 실행당 상한: `CLAUDE_MAX_TITLES_PER_RUN`(기본 60개).
+- 최종 상한: Claude Console에서 이 사이트 전용 워크스페이스를 만들고 그 워크스페이스의 월 지출 한도를 걸어 두세요. 코드의 계산이 어긋나도 이 한도를 넘지 않습니다.
+- 단가 기본값은 Claude Haiku 5.5(100만 토큰당 입력 0.10달러, 출력 0.50달러)입니다. 모델을 바꾸면 Variables의 `CLAUDE_MODEL`, `CLAUDE_PRICE_IN`, `CLAUDE_PRICE_OUT`도 함께 바꾸세요.
 
 ## 범위
 

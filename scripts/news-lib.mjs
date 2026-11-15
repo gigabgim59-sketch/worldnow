@@ -76,4 +76,45 @@ async function googleBatch1(t){
     const r=await fetch(u,{headers:{'user-agent':'Mozilla/5.0'},signal:AbortSignal.timeout(15000)});if(!r.ok)return null;
     const j=await r.json();return (j[0]||[]).map(s=>s&&s[0]||'').join('').trim()||null;}catch{return null;}
 }
-export { getFeed, translate, googleBatch, screen, topicOf, norm, similar };
+
+// ── Claude 번역 ──
+// 제목 여러 개를 매체·나라·언어 정보와 함께 JSON으로 보내고 [{id,ko}] JSON으로 받는다.
+const CLAUDE_SYSTEM=`너는 해외 뉴스 제목을 한국어 신문 헤드라인으로 옮기는 번역가다.
+입력: JSON 배열. 각 항목은 id, title(원문 제목), outlet(매체), country(나라), lang(원문 언어).
+출력: JSON 배열만. 각 항목은 {"id": 입력 id, "ko": 번역}. 설명·머리말·코드블록 표시 금지. 입력의 모든 id를 한 번씩.
+규칙:
+1. 한국 신문 헤드라인 문체(개조식)로 쓴다. "~했다", "~발령", "~촉구", "~전망", "~ 논란"처럼 끝낸다. "~합니다/~습니다/~나요" 존댓말 금지.
+2. 원문에 없는 정보·해석·평가를 덧붙이지 않는다. 원문이 따옴표로 남의 주장임을 표시했으면 한국어에서도 따옴표를 유지한다.
+3. 숫자·날짜·단위를 정확히 옮긴다. milliard=10억, billion=10억, million=100만, lakh=10만, crore=1000만, млрд=10억, млн=100만. 퍼센트 소수점은 3.4%처럼 쓴다.
+4. 다의어는 매체·맥락에 맞게 고른다 (예: 해협의 mine=기뢰, cold alert=한파 경보, swipe at=비판, fallout=파장, stocks mixed=혼조).
+5. 관용구·비유는 뜻을 옮긴다 (예: se tirer une balle dans le pied=제 발등 찍기).
+6. 인명·지명·기관명은 국내 언론 표기로 쓴다. 생소한 이름은 한글 음역 뒤 괄호에 원어를 한 번 붙여도 된다. 아래 용어집 표기를 반드시 따른다.
+7. 코너명·머리표: Opinion=칼럼, Analysis=분석, Urgent=속보, Feature=기획, Explained=해설, Sources=소식통, Economic Watch=경제 워치. "| 필자 이름" 꼬리는 "| 필자 이름(한글)"로.
+8. 제목이 두 문장이면 자연스럽게 하나로 이어도 되지만 내용을 빼지 않는다.
+용어집(원문 → 표기):
+`;
+async function claudeBatch(list,env,glossary){
+  const sys=CLAUDE_SYSTEM+Object.entries(glossary||{}).filter(([k])=>!k.startsWith('_')).map(([k,v])=>'- '+k+' → '+v).join('\n');
+  const body={model:env.CLAUDE_MODEL||'claude-haiku-5-5',max_tokens:Math.min(8000,400+list.length*160),system:sys,
+    messages:[{role:'user',content:JSON.stringify(list)}]};
+  const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'x-api-key':env.ANTHROPIC_API_KEY,'anthropic-version':'2023-06-01','content-type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(90000)});
+  const j=await r.json().catch(()=>null);
+  if(!r.ok){const e=Error('Claude '+r.status+': '+(j?.error?.message||'응답 오류'));e.status=r.status;throw e;}
+  const text=(j.content||[]).map(c=>c.text||'').join('');
+  let out=[];try{out=JSON.parse(text.slice(text.indexOf('['),text.lastIndexOf(']')+1));}catch{out=[];}
+  return {out:Array.isArray(out)?out:[],usage:j.usage||{},maxTokens:body.max_tokens};
+}
+// 원문의 숫자가 번역에 남아 있는지 확인 (규모 단위가 붙은 숫자·서수 1~2는 환산되므로 제외)
+const SCALE=/^\s?(?:millions?|milliards?|billions?|trillions?|bn|mn|tn|lakh|crore|млн|млрд|трлн|тыс|ألف|مليون|مليار|k\b)/i;
+function numbersOk(src,ko){
+  const kn=new Set((ko.match(/\d[\d.,]*/g)||[]).map(n=>n.replace(/[.,]/g,'')));
+  for(const m of src.matchAll(/\d[\d.,]*\d|\d/g)){
+    const rest=src.slice(m.index+m[0].length);
+    if(SCALE.test(rest))continue;
+    if(/^(?:st|nd|rd|th)\b/i.test(rest)&&+m[0]<=2)continue;
+    const n=m[0].replace(/[.,]/g,'');
+    if(![...kn].some(k=>k===n||k.includes(n)))return false;
+  }
+  return true;
+}
+export { claudeBatch, numbersOk, getFeed, translate, googleBatch, screen, topicOf, norm, similar };
