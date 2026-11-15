@@ -207,6 +207,8 @@ const JOSA=['에서는','에게서','으로는','으로서','에서','에게','�
 const STOP=new Set('대한 위해 관련 이후 가운데 따라 통해 위한 대해 대해서 이번 지난 오늘 올해 내년 지금 최근 새로운 주요 계획 발표 말했다 밝혔다 있다 없다 한다 했다 것으로 것이 것은 것을 수도 위한 경우 이상 미만 가장 다시 더욱 현재 사람 사람들 문제 결정 상황 가능성 우려 기간 시간 동안 이전 이후에 하는 하고 했습니다 합니다 됩니다 있습니다 없습니다 있는 없는 같은 다른 모든 많은 한국어 단독 속보 긴급 분석 사설 인터뷰 칼럼 영상 사진 라이브 업데이트 뉴스 기사 보고서 보도 정부 국가 세계 국제 전세계 국내 해외 주간 경제 정치 사회 시장 대통령 총리 장관 의원 우리 그들 이것 미국 중국 영국 러시아 프랑스 인도 중동 지역 글로벌 강화 방법 관계 관리 기업 이유 작업 인해 밝혀 중단 촉구 시작 경고 위기 위협 지상 공격 지원 판매 요구 사태 정보 어떻게 아무 혼란 건강 가격 문제로 때문 이제 아직 계속 거의 매우 정말 모두 여러 일부 전체 처음 마지막 하루 이틀 사흘 주말 오전 오후 이날 당국 관계자 측은 측이 소식통 전문가 성명 회의 협상 논의 합의 전쟁 무역 유럽 아시아 최초 처음 인상 인하 금지 의회 국회'.split(' '));
 // 같은 대상의 다른 표기를 하나로 (번역기가 Nvidia/엔비디아처럼 섞어 쓴다)
 const ALIAS={Nvidia:'엔비디아',Microsoft:'마이크로소프트',Anthropic:'앤트로픽',Google:'구글',Openai:'오픈AI',Spacex:'스페이스X','가자지구':'가자','투르키예':'튀르키예'};
+// '이'·'가' 등으로 끝나는 명사는 조사로 잘못 떼지 않는다 (스파이→스파 방지)
+const NOJOSA=new Set('스파이 두바이 뭄바이 상하이 하노이 타이 말레이 모로코 멕시코 콩고 토고 칠레 이스라엘 바이든'.split(' '));
 const LATIN_JOSA=/^([A-Za-z][A-Za-z0-9]+)(?:에서는|에서|에게|으로|은|는|이|가|을|를|의|에|와|과|로|도|만)$/;
 function tokens(t){
   const out=new Set();const add=w=>out.add(ALIAS[w]||w);
@@ -214,7 +216,7 @@ function tokens(t){
     const lj=w.match(LATIN_JOSA);if(lj)w=lj[1]; // "Nvidia가" → "Nvidia"
     if(/^[A-Za-z][A-Za-z0-9]+$/.test(w)){if(w.length>=2&&(w===w.toUpperCase()||w.length>=4))add(w.toUpperCase()===w?w:w[0].toUpperCase()+w.slice(1).toLowerCase());return;}
     if(!/^[가-힣]+$/.test(w))return;
-    let x=w;for(let k=0;k<2;k++){const j=JOSA.find(j=>x.length>j.length+1&&x.endsWith(j));if(j)x=x.slice(0,-j.length);}
+    let x=w;for(let k=0;k<2&&!NOJOSA.has(x);k++){const j=JOSA.find(j=>x.length>j.length+1&&x.endsWith(j));if(j)x=x.slice(0,-j.length);}
     if(x.length>=2&&!STOP.has(x)&&!/(했|하는|되는|한다|된다|있|없|습니다|니다|다고|라고|다는|다며|하며|하고|해서|하여|됐다|겠다|어요|아요|으며|면서|지만)$/.test(x))add(x);
   });
   return out;
