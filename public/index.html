@@ -136,9 +136,9 @@ const LANES={
  me:[['haaretz','l','이스라엘'],['aljazeera','c','카타르'],['asharq','e','사우디·경제'],['presstv','s','이란 국영']]
 };
 const state={country:'all',eco:false,original:false,period:72,search:'',topic:null,feeds:[],updated:null,loading:true};
-try{const v=JSON.parse(localStorage.getItem('wd-ui-v2')||'{}');state.original=!!v.original;state.eco=!!v.eco;if(COUNTRIES[v.country]||v.country==='all')state.country=v.country;}catch{}
+try{const v=JSON.parse(localStorage.getItem('wd-ui-v3')||'{}');state.original=!!v.original;state.eco=!!v.eco;if(COUNTRIES[v.country]||v.country==='all')state.country=v.country;}catch{}
 if(COUNTRIES[location.hash.slice(1)])state.country=location.hash.slice(1);
-const save=()=>{try{localStorage.setItem('wd-ui-v2',JSON.stringify({original:state.original,eco:state.eco,country:state.country}))}catch{}};
+const save=()=>{try{localStorage.setItem('wd-ui-v3',JSON.stringify({original:state.original,eco:state.eco,country:state.country}))}catch{}};
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const rel=d=>{const m=Math.max(0,Math.floor((Date.now()-new Date(d))/60000));return m<60?m+'분 전':m<1440?Math.floor(m/60)+'시간 전':Math.floor(m/1440)+'일 전';};
@@ -162,9 +162,10 @@ function lane(c,[id,side,tag],limit){
   const s=f.source,list=items(f).slice(0,limit);
   const body=list.length?list.map(a=>{
     const ko=a.titleKo;
-    return '<a class="item" href="'+esc(a.url)+'" target="_blank" rel="noopener noreferrer"><div class="ko" dir="auto">'+hl(ko||a.title)+'</div>'
-      +(state.original&&ko?'<div class="orig" dir="auto">'+hl(a.title)+'</div>':'')
-      +'<div class="meta">'+rel(a.date)+(ko?'':'<em>원문</em>')+'</div></a>';
+    const main=state.original?a.title:(ko||a.title);
+    return '<a class="item" href="'+esc(a.url)+'" target="_blank" rel="noopener noreferrer"><div class="ko" dir="auto">'+hl(main)+'</div>'
+      +(!state.original&&ko?'<div class="orig" dir="auto">'+hl(a.title)+'</div>':'')
+      +'<div class="meta">'+rel(a.date)+(!state.original&&!ko?'<em>원문</em>':'')+'</div></a>';
   }).join(''):'<div class="none">'+(f.status==='error'?'지금은 기사를 가져오지 못했습니다':'조건에 맞는 제목이 없습니다')+'</div>';
   return '<section class="lane '+side+'"><div class="lh"><span class="tag">'+esc(tag)+'</span><span class="oname">'+esc(s.name)+'</span></div>'
     +(state.country!=='all'?'<div class="desc">'+esc(s.label)+(f.status==='stale'?' · 이전 수집분':'')+'</div>':'')+body+'</section>';
