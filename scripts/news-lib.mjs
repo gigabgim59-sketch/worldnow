@@ -9,4 +9,30 @@ async function cached(key,ttl,fn){const req=new Request('https://news-cache.inva
 async function getFeed(s){try{const local={uk:'(UK OR Britain OR British OR Starmer OR Labour)',fr:'(France OR français OR Macron OR gouvernement)',us:'(US OR America OR Trump OR Congress OR Federal)',ru:'(Russia OR Russian OR Россия OR Путин OR российский)',in:'(India OR Indian OR Modi OR BJP)',cn:'(China OR Chinese)',me:'(Iran OR Israel OR Palestine OR Gaza OR Saudi OR Qatar OR Middle East OR إيران OR السعودية OR اقتصاد)'};const query=(s.query||'site:'+s.domain)+' '+local[s.country]+' when:3d';const locale=s.lang==='fr'?['fr','FR','FR:fr']:s.lang==='ru'?['ru','RU','RU:ru']:s.lang==='ar'?['ar','SA','SA:ar']:['en-US','US','US:en'];const u=new URL('https://news.google.com/rss/search');u.search=new URLSearchParams({q:query,hl:locale[0],gl:locale[1],ceid:locale[2]});const r=await fetch(u,{signal:AbortSignal.timeout(14000),headers:{'user-agent':'WorldNewsDesk/1.0'}});if(!r.ok)throw Error('feed HTTP '+r.status);const xml=await r.text();if(!xml.includes('<rss'))throw Error('invalid feed');const seen=new Set();const items=[];for(const m of xml.matchAll(/<item>([\s\S]*?)<\/item>/g)){const x=m[1];const source=x.match(/<source\s+url="([^"]+)"[^>]*>([\s\S]*?)<\/source>/);if(source){try{const host=new URL(unescapeXML(source[1])).hostname;if(host!==s.domain&&!host.endsWith('.'+s.domain))continue;}catch{continue;}}let title=plain(field(x,'title'));const sourceName=source?plain(unescapeXML(source[2])):'';if(sourceName&&title.endsWith(' - '+sourceName))title=title.slice(0,-sourceName.length-3);const link=field(x,'link');const date=new Date(field(x,'pubDate'));if(title.length<20||/football|soccer|cricket|horoscope|rugby|tennis|mbappé|celebrity|paintings|cinéma|festival|recipe|fashion|royal family|prince william|kate middleton|stock price today|stock quote|share price today/i.test(title))continue;if(s.id==='republic'&&!/india|indian|modi|bjp|delhi|mumbai|rupee|\brbi\b/i.test(title))continue;if(s.id==='tass'&&!/russia|russian|putin|kremlin|moscow|lavrov/i.test(title))continue;const tags=topicOf(title);if(!tags.length)continue;if(s.economy&&!tags.some(t=>['금리·물가','예산·재정','AI·반도체','에너지·원유','경제·물가','산업·시장'].includes(t)))continue;if(!title||!/^https?:\/\//.test(link)||seen.has(title)||!Number.isFinite(+date)||+date<Date.now()-3*86400000||+date>Date.now()+3600000)continue;seen.add(title);items.push({id:s.id+'-'+items.length,title,url:link,date:date.toISOString(),topics:topicOf(title)});if(items.length>=8)break;}return {source:s,items,fetchedAt:new Date().toISOString(),status:items.length?'ok':'empty'};}catch(e){return{source:s,items:[],status:'error',error:'현재 기사를 가져오지 못했습니다.',fetchedAt:new Date().toISOString()};}}
 async function translate(text,lang,env){if(new TextEncoder().encode(text).length>500)throw Error('제목이 번역 길이 한도를 초과했습니다.');const digest=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(lang+':'+text));const key=Array.from(new Uint8Array(digest)).map(b=>b.toString(16).padStart(2,'0')).join('');return cached('translation-v1/'+key,604800,async()=>{let translated;if(env.DEEPL_API_KEY){const endpoint=env.DEEPL_API_KEY.endsWith(':fx')?'https://api-free.deepl.com/v2/translate':'https://api.deepl.com/v2/translate';const r=await fetch(endpoint,{method:'POST',headers:{Authorization:'DeepL-Auth-Key '+env.DEEPL_API_KEY,'content-type':'application/json'},body:JSON.stringify({text:[text],source_lang:lang.toUpperCase(),target_lang:'KO'}),signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('번역 서비스 응답 오류');translated=(await r.json()).translations?.[0]?.text;}else{const u=new URL('https://api.mymemory.translated.net/get');u.search=new URLSearchParams({q:text,langpair:lang+'|ko'});const r=await fetch(u,{signal:AbortSignal.timeout(18000)});if(!r.ok)throw Error('번역 서비스 응답 오류');const j=await r.json();if(j.responseStatus!==200||j.quotaFinished)throw Error('무료 번역 한도 또는 서비스 제한');translated=j.responseData?.translatedText;}if(!translated||!/[가-힣]/.test(translated))throw Error('한국어 번역을 확인하지 못했습니다.');return{translated:unescapeXML(translated),provider:env.DEEPL_API_KEY?'DeepL':'MyMemory'};});}
 
-export { getFeed, translate };
+
+// Google 번역 무료 엔드포인트로 여러 제목을 한 번에 번역 (키 불필요). 실패하면 null.
+async function googleBatch(texts){
+  if(!texts.length)return [];
+  const q=texts.map(t=>t.replace(/\n/g,' ')).join('\n');
+  for(let attempt=0;attempt<3;attempt++){
+    try{
+      const body=new URLSearchParams({q});
+      const r=await fetch('https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=ko&dt=t',{method:'POST',headers:{'content-type':'application/x-www-form-urlencoded;charset=UTF-8','user-agent':'Mozilla/5.0'},body,signal:AbortSignal.timeout(30000)});
+      if(!r.ok)throw Error('HTTP '+r.status);
+      const j=await r.json();
+      const parts=(j[0]||[]).map(s=>s&&s[0]||'').join('').split('\n').map(s=>s.trim());
+      if(parts.length===texts.length)return parts;
+      // 줄 수가 어긋나면 한 개씩
+      const out=[];
+      for(const t of texts){const one=await googleBatch1(t);out.push(one);}
+      return out;
+    }catch(e){console.warn('Google 번역 재시도 '+(attempt+1)+': '+e.message);await new Promise(r=>setTimeout(r,2000+attempt*4000));}
+  }
+  return null;
+}
+async function googleBatch1(t){
+  try{const u='https://translate.googleapis.com/translate_a/single?'+new URLSearchParams({client:'gtx',sl:'auto',tl:'ko',dt:'t',q:t});
+    const r=await fetch(u,{headers:{'user-agent':'Mozilla/5.0'},signal:AbortSignal.timeout(15000)});if(!r.ok)return null;
+    const j=await r.json();return (j[0]||[]).map(s=>s&&s[0]||'').join('').trim()||null;}catch{return null;}
+}
+export { getFeed, translate, googleBatch };
