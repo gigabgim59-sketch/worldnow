@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T23:57:16.113Z",
+  "generatedAt": "2026-11-15T23:59:23.390Z",
   "feeds": [
     {
       "source": {
@@ -46,8 +46,9 @@
             "에너지·원유",
             "정치·선거"
           ],
-          "titleKo": "로즈뱅크 유전에 대한 노동당 반란, 국회의원 100명 돌파 예상",
-          "tr": "google"
+          "titleKo": "로즈뱅크 유전 개발 놓고 노동당 반발 의원 100명 넘을 듯",
+          "tr": "claude",
+          "titleKoAlt": "로즈뱅크 유전에 대한 노동당 반란, 국회의원 100명 돌파 예상"
         },
         {
           "id": "guardian-3",
@@ -83,8 +84,9 @@
             "금리·물가",
             "경제·물가"
           ],
-          "titleKo": "금리 인상이 불가피해 보이며, 영국 가계가 그 부담을 떠안을 것으로 예상됩니다.",
-          "tr": "google"
+          "titleKo": "급격한 금리 인상 불가피… 영국 가계 부담 떠안을 전망",
+          "tr": "claude",
+          "titleKoAlt": "금리 인상이 불가피해 보이며, 영국 가계가 그 부담을 떠안을 것으로 예상됩니다."
         },
         {
           "id": "guardian-6",
@@ -94,8 +96,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "눈과 얼음이 예상됨에 따라 스코틀랜드와 잉글랜드 북부에 감기 및 건강 경보 발령",
-          "tr": "google"
+          "titleKo": "스코틀랜드·잉글랜드 북부에 한파·건강 경보 발령…눈·얼음",
+          "tr": "claude",
+          "titleKoAlt": "눈과 얼음이 예상됨에 따라 스코틀랜드와 잉글랜드 북부에 감기 및 건강 경보 발령"
         },
         {
           "id": "guardian-7",
@@ -110,7 +113,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:24.858Z",
+      "fetchedAt": "2026-11-15T23:58:30.410Z",
       "status": "ok"
     },
     {
@@ -156,8 +159,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "토니 블레어 총리 처제, 이란 '스파이 모집' 행사에서 연설",
-          "tr": "google"
+          "titleKo": "'간첩 포섭' 행사에 토니 블레어 처제 연사로 참석",
+          "tr": "claude",
+          "titleKoAlt": "토니 블레어 총리 처제, 이란 '스파이 모집' 행사에서 연설"
         },
         {
           "id": "telegraph-3",
@@ -192,8 +196,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "미국 항공편 혼란의 원인으로 지목된 구리선 교체 작업",
-          "tr": "google"
+          "titleKo": "미국 항공편 대란, 구리 배선 업그레이드가 원인으로 지목",
+          "tr": "claude",
+          "titleKoAlt": "미국 항공편 혼란의 원인으로 지목된 구리선 교체 작업"
         },
         {
           "id": "telegraph-6",
@@ -219,7 +224,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:24.856Z",
+      "fetchedAt": "2026-11-15T23:58:30.332Z",
       "status": "ok"
     },
     {
@@ -267,8 +272,9 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "미국과 동맹국, 중국으로부터 AI 공급망을 보호하기 위한 협정에 서명",
-          "tr": "google"
+          "titleKo": "미국·동맹국, 중국으로부터 AI 공급망 보호 협정 서명",
+          "tr": "claude",
+          "titleKoAlt": "미국과 동맹국, 중국으로부터 AI 공급망을 보호하기 위한 협정에 서명"
         },
         {
           "id": "ft-3",
@@ -303,8 +309,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들",
-          "tr": "google"
+          "titleKo": "1년간 일도 교육도 받지 않은 영국 청년에게 일자리 보장",
+          "tr": "claude",
+          "titleKoAlt": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들"
         },
         {
           "id": "ft-6",
@@ -330,7 +337,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:24.855Z",
+      "fetchedAt": "2026-11-15T23:58:30.254Z",
       "status": "ok"
     },
     {
@@ -378,8 +385,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "대통령 선거: '메이드 인 프랑스' 박람회에서 테디 리네르는 마크롱과의 관계를 끊었지만 여전히 공약은 발표하지 않았습니다.",
-          "tr": "google"
+          "titleKo": "대선: '메이드 인 프랑스' 박람회서 테디 리네, 마크롱과 선 그었지만 공약은 여전히 미공개",
+          "tr": "claude",
+          "titleKoAlt": "대통령 선거: '메이드 인 프랑스' 박람회에서 테디 리네르는 마크롱과의 관계를 끊었지만 여전히 공약은 발표하지 않았습니다."
         },
         {
           "id": "liberation-3",
@@ -413,8 +421,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "사회적 지원: 유사한 증상이 나타나는 동안 프랑스에서 상호 작용하는 400명 이상의 사람들",
-          "tr": "google"
+          "titleKo": "프랑스 사회운동 시위… 토요일 집회서 400명 넘게 연행",
+          "tr": "claude",
+          "titleKoAlt": "사회적 지원: 유사한 증상이 나타나는 동안 프랑스에서 상호 작용하는 400명 이상의 사람들"
         },
         {
           "id": "liberation-6",
@@ -439,7 +448,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:24.846Z",
+      "fetchedAt": "2026-11-15T23:58:30.249Z",
       "status": "ok"
     },
     {
@@ -467,19 +476,6 @@
         },
         {
           "id": "figaro-1",
-          "title": "« On se tire une balle dans le pied » : quand le gouvernement favorise les verriers européens au détriment des industriels français",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWdPeGpib3pHd091UTNWcjE0bW5jcHVQa2lsOWhMcXZaaWpDcDRWaXFRZk5PTzE0S0hmV2lPUy15dm0tWTNESm1MSHN2TEZKWGRzOTJ5OWxnYkZkUkYyRkJxaHh0OXc5V1otMXpCb0REaG9PQnR6T2laYmduQnRmUngwWDJtb3dJWGNIZVViTTRIQUN0YUpYVlJzNnp5TjhXRjNFNzhsdW5ndUJ0dmFQaTFaaXRIS0ZvSDZia0VDOERBdEF1Wi1vRC1ZdmZUNGhiX0xNOTBaMl9yMWdUS0xhdzdUVnFDdE9tV0FGVTZrY0xZWW9yWVJEY2lOOA?oc=5",
-          "date": "2026-11-15T17:45:00.000Z",
-          "topics": [
-            "정치·선거",
-            "산업·시장"
-          ],
-          "titleKo": "제 발등 찍기 논란… 정부, 프랑스 산업계 희생하고 유럽 유리업체 우대",
-          "tr": "claude",
-          "titleKoAlt": "\"우리는 총을 쏘고 있습니다\": 정부가 프랑스 제조업체에 해를 끼치면서 유럽 유리 제조업체를 선호하는 경우"
-        },
-        {
-          "id": "figaro-2",
           "title": "Guerre en Ukraine : Marine Le Pen «isolera» la France de l’Europe si elle est élue, selon l'entourage d’Emmanuel Macron",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeU1Jd2xmX3pYYWw1eEpHYjh2MEV3SjdYdmF2WURPZ05UZVBuUHc0RnRpY3dXeGF2MzlRSzVDcjFVazN1WTF0RjRTYTlZeTF6bXNmZ0t1dWRsTklCUm1ZdWNzRW14ZzlRTEhsNGIyeFFDemM1MUdCMjN1OERIb2FKLTV2ZE9jdnJ3Mm5PS25jMklnX2g4T1dDUUZvYWswTEZTNFZrbm5yTTBFUlIxZjQzcGVYamtBY1VvTFlYLVpxcUpQMXE3dEpqcDdMcmxtcFUtUUhFQlRnZF84eFlIYVF4V2ZOVjBnZmVxRlBETXFn?oc=5",
           "date": "2026-11-15T10:07:39.000Z",
@@ -491,6 +487,19 @@
           "titleKo": "우크라이나 전쟁: 르펜 당선되면 프랑스 유럽서 \"고립\"… 마크롱 측근 주장",
           "tr": "claude",
           "titleKoAlt": "우크라이나 전쟁: 마린 르펜이 당선되면 프랑스를 유럽에서 “격리”시킬 것이라고 에마뉘엘 마크롱 측근이 밝혔습니다."
+        },
+        {
+          "id": "figaro-2",
+          "title": "« On se tire une balle dans le pied » : quand le gouvernement favorise les verriers européens au détriment des industriels français",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWdPeGpib3pHd091UTNWcjE0bW5jcHVQa2lsOWhMcXZaaWpDcDRWaXFRZk5PTzE0S0hmV2lPUy15dm0tWTNESm1MSHN2TEZKWGRzOTJ5OWxnYkZkUkYyRkJxaHh0OXc5V1otMXpCb0REaG9PQnR6T2laYmduQnRmUngwWDJtb3dJWGNIZVViTTRIQUN0YUpYVlJzNnp5TjhXRjNFNzhsdW5ndUJ0dmFQaTFaaXRIS0ZvSDZia0VDOERBdEF1Wi1vRC1ZdmZUNGhiX0xNOTBaMl9yMWdUS0xhdzdUVnFDdE9tV0FGVTZrY0xZWW9yWVJEY2lOOA?oc=5",
+          "date": "2026-11-15T17:45:00.000Z",
+          "topics": [
+            "정치·선거",
+            "산업·시장"
+          ],
+          "titleKo": "제 발등 찍기 논란… 정부, 프랑스 산업계 희생하고 유럽 유리업체 우대",
+          "tr": "claude",
+          "titleKoAlt": "\"우리는 총을 쏘고 있습니다\": 정부가 프랑스 제조업체에 해를 끼치면서 유럽 유리 제조업체를 선호하는 경우"
         },
         {
           "id": "figaro-3",
@@ -506,26 +515,27 @@
         },
         {
           "id": "figaro-4",
-          "title": "«Un peu plus d’un milliard d’euros» : le coût de la hausse du Smic et des bas salaires des fonctionnaires dévoilé par le gouvernement",
-          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVTZDZTFyTmVPTXNrc3Q1R2h4MHlXVWlqbjNCckk1Q1V2RHBMM1pPSnV2WUZEazdiX2Jndk5nZE9nQUc1OVZySC1sTHNCQm5heFhpOUdfckJnc2xFWEtZVWYwd0Z0alc4aEVXU2dza3JMSkZRd3Fac09mb0txb2pmQkhjSV9ic0xGX01ZOG54LUZPWkVMWmdOTkNBZUFjbGRDdWwxam1XdmstZU5hSmVRSjZlNlFhbnpnYzNBZXBOWV8zS0V5a2tRTjJJdlN6T0FsaklLcjI5dTJwTjkzVFhDQUJ2RmJZdldfQThVN1FtaWZyMjBkS1JOVldLeXB3aG5HXzVISw?oc=5",
-          "date": "2026-11-15T09:08:52.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "정부 발표 \"10억 유로 조금 넘어\"…최저임금(Smic) 인상·저임금 공무원 급여 인상 비용",
-          "tr": "claude",
-          "titleKoAlt": "“10억유로 조금 넘는다”: 정부가 밝힌 공무원 최저임금 인상과 저임금 비용"
-        },
-        {
-          "id": "figaro-5",
           "title": "Le gouvernement interdit la vente de mortiers d'artifice jusqu'au 27 novembre",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdXRtT0NzUDFKQi1PekxsMW1iSVZqWlMyVC1SazZUS2w0X1piUTlaZURNQ1pXdkZ2OU1sWmVpSjNTSEZzWVNWWTlKekNFckNjdkhIWF9YZ3ZUM3N4dE81RkU4VDVERTl2WVpwdTNFdFN4MmtxeTBERXRWRHdHR1VsN29UcDhOQ3NoLTlnRk9WWElfaTAwcy1xNkZvbzNiamRfNXFWM2RieUZ2Y1JuYm5QbEppNUk4RGNYOE91UFZZYk5sVE9oUlE?oc=5",
           "date": "2026-11-15T01:33:40.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "정부는 11월 27일까지 폭죽 판매를 금지합니다.",
-          "tr": "google"
+          "titleKo": "정부, 11월 27일까지 폭죽 판매 금지",
+          "tr": "claude",
+          "titleKoAlt": "정부는 11월 27일까지 폭죽 판매를 금지합니다."
+        },
+        {
+          "id": "figaro-5",
+          "title": "Francophonie : Macron appelle à l'«unité» et au «consensus», avant l'élection du secrétaire général",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMDFoejlMMFo0LTRsVkpiWnhQa3JUNzFzMXRGNEEzV3NOY2cwRWVGenJtYl96UE1QUVl1OWJGT1lLNDVlS0tDZkEtUlBrQV9GVWJfVkRvRG14eGt3RkQxSk5qTm9qY1BpSFF3Q2ZxOGJqRkVOWkxfR25tLUZseDRxTWJuY2pCbnlIMXZFUjVyeExfbHJLOG1wbDJzRFpOSjB0QWFTV0UwYl83TXpDdlJBTWdKdURqSlZwQm55MGZaaXRvZGJXeUxKdW4tWmhjc3VPOVE?oc=5",
+          "date": "2026-11-15T03:46:44.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "마크롱, 프랑코포니 사무총장 선출 앞두고 '단결'과 '합의' 촉구",
+          "tr": "claude",
+          "titleKoAlt": "프랑코포니: 마크롱 대통령, 사무총장 선거를 앞두고 '단합'과 '합의'를 촉구"
         },
         {
           "id": "figaro-6",
@@ -540,17 +550,18 @@
         },
         {
           "id": "figaro-7",
-          "title": "Francophonie : Macron appelle à l'«unité» et au «consensus», avant l'élection du secrétaire général",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMDFoejlMMFo0LTRsVkpiWnhQa3JUNzFzMXRGNEEzV3NOY2cwRWVGenJtYl96UE1QUVl1OWJGT1lLNDVlS0tDZkEtUlBrQV9GVWJfVkRvRG14eGt3RkQxSk5qTm9qY1BpSFF3Q2ZxOGJqRkVOWkxfR25tLUZseDRxTWJuY2pCbnlIMXZFUjVyeExfbHJLOG1wbDJzRFpOSjB0QWFTV0UwYl83TXpDdlJBTWdKdURqSlZwQm55MGZaaXRvZGJXeUxKdW4tWmhjc3VPOVE?oc=5",
-          "date": "2026-11-15T03:46:44.000Z",
+          "title": "«Un peu plus d’un milliard d’euros» : le coût de la hausse du Smic et des bas salaires des fonctionnaires dévoilé par le gouvernement",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQVTZDZTFyTmVPTXNrc3Q1R2h4MHlXVWlqbjNCckk1Q1V2RHBMM1pPSnV2WUZEazdiX2Jndk5nZE9nQUc1OVZySC1sTHNCQm5heFhpOUdfckJnc2xFWEtZVWYwd0Z0alc4aEVXU2dza3JMSkZRd3Fac09mb0txb2pmQkhjSV9ic0xGX01ZOG54LUZPWkVMWmdOTkNBZUFjbGRDdWwxam1XdmstZU5hSmVRSjZlNlFhbnpnYzNBZXBOWV8zS0V5a2tRTjJJdlN6T0FsaklLcjI5dTJwTjkzVFhDQUJ2RmJZdldfQThVN1FtaWZyMjBkS1JOVldLeXB3aG5HXzVISw?oc=5",
+          "date": "2026-11-15T09:08:52.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "프랑코포니: 마크롱 대통령, 사무총장 선거를 앞두고 '단합'과 '합의'를 촉구",
-          "tr": "google"
+          "titleKo": "정부 발표 \"10억 유로 조금 넘어\"…최저임금(Smic) 인상·저임금 공무원 급여 인상 비용",
+          "tr": "claude",
+          "titleKoAlt": "“10억유로 조금 넘는다”: 정부가 밝힌 공무원 최저임금 인상과 저임금 비용"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.286Z",
+      "fetchedAt": "2026-11-15T23:58:30.657Z",
       "status": "ok"
     },
     {
@@ -637,8 +648,9 @@
             "정치·선거",
             "산업·시장"
           ],
-          "titleKo": "“우리는 침착하지 않습니다”: 산업가들은 대통령 선거에 영향을 미치기를 원합니다",
-          "tr": "google"
+          "titleKo": "\"마음 놓을 수 없다\"",
+          "tr": "claude",
+          "titleKoAlt": "“우리는 침착하지 않습니다”: 산업가들은 대통령 선거에 영향을 미치기를 원합니다"
         },
         {
           "id": "echos-6",
@@ -664,7 +676,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.240Z",
+      "fetchedAt": "2026-11-15T23:58:30.646Z",
       "status": "ok"
     },
     {
@@ -774,7 +786,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.300Z",
+      "fetchedAt": "2026-11-15T23:58:30.822Z",
       "status": "ok"
     },
     {
@@ -885,7 +897,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.261Z",
+      "fetchedAt": "2026-11-15T23:58:30.849Z",
       "status": "ok"
     },
     {
@@ -1002,7 +1014,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.668Z",
+      "fetchedAt": "2026-11-15T23:58:31.087Z",
       "status": "ok"
     },
     {
@@ -1038,8 +1050,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "젤렌스키의 명령에 따라 우크라이나군이 러시아 여객버스를 공격했다 - 전문가",
-          "tr": "google"
+          "titleKo": "전문가 \"젤렌스키 지시로 우크라이나군이 러시아 여객버스 공격\"",
+          "tr": "claude",
+          "titleKoAlt": "젤렌스키의 명령에 따라 우크라이나군이 러시아 여객버스를 공격했다 - 전문가"
         },
         {
           "id": "tass-2",
@@ -1114,7 +1127,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.555Z",
+      "fetchedAt": "2026-11-15T23:58:30.975Z",
       "status": "ok"
     },
     {
@@ -1150,8 +1163,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "우크라이나 드론 공격으로 인해 러시아 공항은 끝없는 지연, 과밀한 터미널, 정보 부재의 악몽으로 변했습니다. 한 여행자는 혼란스러운 밤에 대해 이야기합니다.",
-          "tr": "google"
+          "titleKo": "우크라이나 드론 공격에 러시아 공항 대혼란…끝없는 지연·만원 터미널·정보 부재",
+          "tr": "claude",
+          "titleKoAlt": "우크라이나 드론 공격으로 인해 러시아 공항은 끝없는 지연, 과밀한 터미널, 정보 부재의 악몽으로 변했습니다. 한 여행자는 혼란스러운 밤에 대해 이야기합니다."
         },
         {
           "id": "meduza-2",
@@ -1228,7 +1242,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.527Z",
+      "fetchedAt": "2026-11-15T23:58:31.085Z",
       "status": "ok"
     },
     {
@@ -1245,6 +1259,31 @@
       "items": [
         {
           "id": "kommersant-0",
+          "title": "МЭА: российский экспорт дизеля и газойля превысил 1 млн тонн в октябре",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQUVTZW85Zmw5NHVYbG8yZ003TndqV3NHNnVhb0NVMlAybmpBNGhSWG1MUC1rbU9qMDNCQkxTbmdNZ0g0YVZURFoyTzBQdw?oc=5",
+          "date": "2026-11-13T10:02:35.000Z",
+          "topics": [
+            "에너지·원유"
+          ],
+          "titleKo": "국제에너지기구(IEA): 10월 러시아 디젤·경유 수출 100만 톤 넘어",
+          "tr": "claude",
+          "titleKoAlt": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
+        },
+        {
+          "id": "kommersant-1",
+          "title": "В ЕС анонсировали санкции против связанных с Россией участников нефтеперевозок",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdFJwV3dMTGxHbnJ1YzJTbDlhd283cVp4TVRUdGc0MW54bGV3c0tYeV9BenhZamVRUXJwV3g5VldUYnItcG5PaUNjS2N5QQ?oc=5",
+          "date": "2026-11-15T12:50:28.000Z",
+          "topics": [
+            "에너지·원유",
+            "산업·시장"
+          ],
+          "titleKo": "EU, 러시아 관련 석유 운송 참여 업체 제재 예고",
+          "tr": "claude",
+          "titleKoAlt": "유럽연합(EU)이 러시아와 연관된 석유 운송 주체들에 대한 제재를 발표했습니다."
+        },
+        {
+          "id": "kommersant-2",
           "title": "«Эйлер»: цены на российскую сталь продолжат расти благодаря внутреннему спросу",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92NVNUSjliRU1vUXlvYi16cjI1VUZZYklVMC1PVUZLMnVDOWIwZlV2c1J3Yy1ZSW4xSUl3Tk5SNkp5STkyLTgwdmwwel9KQQ?oc=5",
           "date": "2026-11-15T21:08:21.000Z",
@@ -1256,30 +1295,20 @@
           "titleKoAlt": "오일러: 러시아 철강 가격은 국내 수요로 인해 계속 상승할 것"
         },
         {
-          "id": "kommersant-1",
-          "title": "В ЕС анонсировали санкции против связанных с Россией участников нефтеперевозок",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdFJwV3dMTGxHbnJ1YzJTbDlhd283cVp4TVRUdGc0MW54bGV3c0tYeV9BenhZamVRUXJwV3g5VldUYnItcG5PaUNjS2N5QQ?oc=5",
-          "date": "2026-11-15T12:50:28.000Z",
+          "id": "kommersant-3",
+          "title": "Дисконты на нефть Urals в российских портах стали рекордными с весны 2023 года",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVZlNPUW1Ka1FBNVpPV1A5Q29wVTNsT3RuUlVWZnhoLU9jZjdoRXc4QjlsRng5UzNjbFZ2WU9kWDdtcmtWMy1Kb1hUMzR5Zw?oc=5",
+          "date": "2026-11-13T04:01:22.000Z",
           "topics": [
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "유럽연합(EU)이 러시아와 연관된 석유 운송 주체들에 대한 제재를 발표했습니다.",
-          "tr": "google"
-        },
-        {
-          "id": "kommersant-2",
-          "title": "МЭА: российский экспорт дизеля и газойля превысил 1 млн тонн в октябре",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQUVTZW85Zmw5NHVYbG8yZ003TndqV3NHNnVhb0NVMlAybmpBNGhSWG1MUC1rbU9qMDNCQkxTbmdNZ0g0YVZURFoyTzBQdw?oc=5",
-          "date": "2026-11-13T10:02:35.000Z",
-          "topics": [
-            "에너지·원유"
-          ],
-          "titleKo": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함",
-          "tr": "google"
+          "titleKo": "러시아 항만서 우랄유 할인폭 2023년 봄 이후 최대",
+          "tr": "claude",
+          "titleKoAlt": "우랄 지역의 대부분의 사람들은 병원에 있습니다. 2023년 3월"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.720Z",
+      "fetchedAt": "2026-11-15T23:58:31.239Z",
       "status": "ok"
     },
     {
@@ -1314,8 +1343,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "저자 Spardha Chaturvedi가 Ram Nath Kovind 전 대통령에게 새로운 인도 교실을 선물했습니다.",
-          "tr": "google"
+          "titleKo": "작가 스파르다 차투르베디, 전 대통령 람 나트 코빈드에 신간 '뉴 인디안 클래스룸' 증정",
+          "tr": "claude",
+          "titleKoAlt": "저자 Spardha Chaturvedi가 Ram Nath Kovind 전 대통령에게 새로운 인도 교실을 선물했습니다."
         },
         {
           "id": "wire-2",
@@ -1354,8 +1384,8 @@
         {
           "id": "wire-7",
           "title": "Pakistan Will Send Environment Minister Musadik Malik to Delhi For SCO Event",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzFGd1p0VVNmVGdZRVhlbmFSQ3NrUTF1c1FsVktHZmtuSHNYaGREbFB2NHNUUEVrOVFMd1RmWlNQVDh1X21TZFdDUGMyYUNnMzIyLXlzaGNPNjFjdDNNQVNVN1VfbF91amtHMkNGVEtvSlFuOUdFTlRiTmk3RWNLWGswcUVraG5MQ2FFeW9vY2FMd2tJNmdkZXY1U21wdHVUeW54QV80RHo3anhGckFPQmVEQXRqZ9IBuwFBVV95cUxQNWdCZFVJQkVUdDFCaDlJYlFUbmI2b0Q5eDJicTZDX3FWcHNxeVZIWUxqWHVSUXZWRjFqNFVvbUQxMG1TM0ZBbXBJaV9aRVAxbVNoU2NSTW5lVkZDVTV2SVFvcVZOaW41Ynp2YjB5SUliMy13Y0lMckJWRnRCU1ROVkFNRlBHS0lzdmI4TC1GeHIyNkN0bnNNLXlkS0tCYUhwV0diTmxPUk16Z3Q5UGZaanJ5TVAzTDIzN3Vz?oc=5",
-          "date": "2026-11-14T17:41:51.000Z",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFvZzFhZUh0QnRwUUN0RzFyOEtGQm9zdnh1VDNrZzB1cERDWUhMT0cyMVR1dEk5Unc0WVZXYXJ1eWYwbS1qT05pb1lYLWFhVGQ4cWh2cHdOZjRPZ09DNDJtUHJER0pLTElTMDlLZXE0NlV3ZHVLcUVXZmo0UGZNSG5FSDBzemJqNUpXOEE3WEU3RlhtN2xhVUdlOHpBNWwwYm8wb210RGXSAbsBQVVfeXFMUDVnQmRVSUJFVHQxQmg5SWJRVG5iNm9EOXgyYnE2Q19xVnBzcXlWSFlMalh1UlF2VkYxajRVb21EMTBtUzNGQW1wSWlfWkVQMW1TaFNjUk1uZVZGQ1U1dklRb3FWTmluNWJ6dmIweUlJYjMtd2NJTHJCVkZ0QlNUTlZBTUZQR0tJc3ZiOEwtRnhyMjZDdG5zTS15ZEtLQmFIcFdHYk5sT1JNemd0OVBmWmpyeU1QM0wyMzd1cw?oc=5",
+          "date": "2026-11-14T17:26:13.000Z",
           "topics": [
             "정치·선거"
           ],
@@ -1363,7 +1393,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.848Z",
+      "fetchedAt": "2026-11-15T23:58:31.325Z",
       "status": "ok"
     },
     {
@@ -1397,8 +1427,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "인도와 말레이시아, 11월 18일부터 30일까지 하리마우 샤크티 2026 합동군사훈련 개최",
-          "tr": "google"
+          "titleKo": "인도·말레이시아, 11월 18~30일 합동 군사훈련 '하리마우 샤크티 2026' 실시",
+          "tr": "claude",
+          "titleKoAlt": "인도와 말레이시아, 11월 18일부터 30일까지 하리마우 샤크티 2026 합동군사훈련 개최"
         },
         {
           "id": "republic-2",
@@ -1458,7 +1489,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:25.968Z",
+      "fetchedAt": "2026-11-15T23:58:31.478Z",
       "status": "ok"
     },
     {
@@ -1493,8 +1524,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "BYD의 고급 브랜드 덴자, Z9 GT, D9와 함께 인도 시장 진출. 가격은 900만 루피부터 시작",
-          "tr": "google"
+          "titleKo": "BYD 고급 브랜드 덴자, 인도 진출…Z9 GT·D9 출시, 가격 900만 루피부터",
+          "tr": "claude",
+          "titleKoAlt": "BYD의 고급 브랜드 덴자, Z9 GT, D9와 함께 인도 시장 진출. 가격은 900만 루피부터 시작"
         },
         {
           "id": "et-2",
@@ -1567,7 +1599,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.038Z",
+      "fetchedAt": "2026-11-15T23:58:31.451Z",
       "status": "ok"
     },
     {
@@ -1601,8 +1633,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "미국은 인도의 방어권을 존중하고 테러에 대해 무관용을 유지해야 합니다: 블링켄",
-          "tr": "google"
+          "titleKo": "블링컨 \"미국, 인도의 자위권 존중하고 테러에 무관용 유지해야\"",
+          "tr": "claude",
+          "titleKoAlt": "미국은 인도의 방어권을 존중하고 테러에 대해 무관용을 유지해야 합니다: 블링켄"
         },
         {
           "id": "hindu-2",
@@ -1673,7 +1706,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.254Z",
+      "fetchedAt": "2026-11-15T23:58:31.682Z",
       "status": "ok"
     },
     {
@@ -1744,8 +1777,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "UP 승리의 '해트트릭'을 위한 BJP 회의: 내일 BJP 충실한 인사 40명이 마투라에 모일 예정이며, CM을 포함한 국가의 유명 인사들은 이틀 동안 머물 예정입니다.",
-          "tr": "google"
+          "titleKo": "UP 선거 '3연승' 굳히기… BJP, 내일 마투라서 거물 40명 집결, 2일간 주 총리 등 주요 인사 참석",
+          "tr": "claude",
+          "titleKoAlt": "UP 승리의 '해트트릭'을 위한 BJP 회의: 내일 BJP 충실한 인사 40명이 마투라에 모일 예정이며, CM을 포함한 국가의 유명 인사들은 이틀 동안 머물 예정입니다."
         },
         {
           "id": "jagran-5",
@@ -1783,7 +1817,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.329Z",
+      "fetchedAt": "2026-11-15T23:58:31.750Z",
       "status": "ok"
     },
     {
@@ -1817,8 +1851,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "중국의 10톤급 전기 상용 항공기, 첫 유인 비행 완료",
-          "tr": "google"
+          "titleKo": "중국 10톤급 전기 상업용 항공기, 첫 유인 비행 성공",
+          "tr": "claude",
+          "titleKoAlt": "중국의 10톤급 전기 상용 항공기, 첫 유인 비행 완료"
         },
         {
           "id": "xinhua-2",
@@ -1891,7 +1926,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.313Z",
+      "fetchedAt": "2026-11-15T23:58:31.834Z",
       "status": "ok"
     },
     {
@@ -1928,8 +1963,9 @@
             "경제·물가",
             "외교·안보"
           ],
-          "titleKo": "Caixin Summit: 외국 기업들은 중국을 글로벌 성장 엔진으로 보고 있다고 BASF 부사장이 밝혔습니다.",
-          "tr": "google"
+          "titleKo": "재신 서밋 \"중국은 세계 성장 엔진\"…외국 기업 시각, BASF 부사장 발언",
+          "tr": "claude",
+          "titleKoAlt": "Caixin Summit: 외국 기업들은 중국을 글로벌 성장 엔진으로 보고 있다고 BASF 부사장이 밝혔습니다."
         },
         {
           "id": "caixin-2",
@@ -1968,8 +2004,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "CATL, eVTOL 시장이 형성됨에 따라 항공 배터리 추진 확대",
-          "tr": "google"
+          "titleKo": "CATL, eVTOL 시장 형성 속 항공 배터리 사업 확대",
+          "tr": "claude",
+          "titleKoAlt": "CATL, eVTOL 시장이 형성됨에 따라 항공 배터리 추진 확대"
         },
         {
           "id": "caixin-5",
@@ -1996,7 +2033,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.311Z",
+      "fetchedAt": "2026-11-15T23:58:31.753Z",
       "status": "ok"
     },
     {
@@ -2031,8 +2068,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "유엔, 미국-이스라엘의 이란 전쟁 이후 호르무즈 인근에서 선원 25명 사망했다고 밝혀",
-          "tr": "google"
+          "titleKo": "유엔 \"미·이스라엘의 이란 전쟁 이후 호르무즈 해협 일대서 선원 25명 사망\"",
+          "tr": "claude",
+          "titleKoAlt": "유엔, 미국-이스라엘의 이란 전쟁 이후 호르무즈 인근에서 선원 25명 사망했다고 밝혀"
         },
         {
           "id": "aljazeera-2",
@@ -2067,8 +2105,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "FAA 지상 정지 해제: 미국 항공편이 접지된 이유는 무엇이며 다음 단계는 무엇입니까?",
-          "tr": "google"
+          "titleKo": "미 연방항공청(FAA), 이륙 금지 조치 해제… 미국 항공편 중단 이유와 향후 전망",
+          "tr": "claude",
+          "titleKoAlt": "FAA 지상 정지 해제: 미국 항공편이 접지된 이유는 무엇이며 다음 단계는 무엇입니까?"
         },
         {
           "id": "aljazeera-5",
@@ -2079,8 +2118,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "네타냐후 “통일정부만이 이스라엘 안보 보장할 수 있다”",
-          "tr": "google"
+          "titleKo": "네타냐후 \"거국내각만이 이스라엘 안보 보장 가능\" 주장",
+          "tr": "claude",
+          "titleKoAlt": "네타냐후 “통일정부만이 이스라엘 안보 보장할 수 있다”"
         },
         {
           "id": "aljazeera-6",
@@ -2107,7 +2147,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.725Z",
+      "fetchedAt": "2026-11-15T23:58:32.127Z",
       "status": "ok"
     },
     {
@@ -2142,8 +2182,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "LPG선이 호르무즈 해협 동쪽 기뢰에 부딪혀 대규모 폭발이 발생했다: IRGC",
-          "tr": "google"
+          "titleKo": "이란 혁명수비대 \"규정 위반 LPG 운반선, 호르무즈 해협 동쪽서 기뢰 피격해 대폭발\"",
+          "tr": "claude",
+          "titleKoAlt": "LPG선이 호르무즈 해협 동쪽 기뢰에 부딪혀 대규모 폭발이 발생했다: IRGC"
         },
         {
           "id": "presstv-2",
@@ -2179,8 +2220,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "예멘군 진격에 사우디 지원군, 바브 알만데브 주요 거점에서 철수",
-          "tr": "google"
+          "titleKo": "예멘군 진격 속 사우디 지원 병력, 바브엘만데브 해협 요충지서 철수",
+          "tr": "claude",
+          "titleKoAlt": "예멘군 진격에 사우디 지원군, 바브 알만데브 주요 거점에서 철수"
         },
         {
           "id": "presstv-5",
@@ -2190,8 +2232,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "유엔은 이스라엘군이 2023년 10월 이후 서안 지구에서 최소 245명의 팔레스타인 어린이를 살해했다고 밝혔습니다.",
-          "tr": "google"
+          "titleKo": "UN \"2023년 10월 이후 요르단강 서안서 이스라엘군에 팔레스타인 아동 최소 245명 사망\"",
+          "tr": "claude",
+          "titleKoAlt": "유엔은 이스라엘군이 2023년 10월 이후 서안 지구에서 최소 245명의 팔레스타인 어린이를 살해했다고 밝혔습니다."
         },
         {
           "id": "presstv-6",
@@ -2217,7 +2260,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.567Z",
+      "fetchedAt": "2026-11-15T23:58:32.005Z",
       "status": "ok"
     },
     {
@@ -2252,8 +2295,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "보고서: 이스라엘은 86년 이후 실종된 공군 병사를 찾기 위해 이란 장군들을 납치했습니다.",
-          "tr": "google"
+          "titleKo": "보도: 이스라엘, 86년 실종 조종사 찾으려 이란 장성 납치",
+          "tr": "claude",
+          "titleKoAlt": "보고서: 이스라엘은 86년 이후 실종된 공군 병사를 찾기 위해 이란 장군들을 납치했습니다."
         },
         {
           "id": "haaretz-2",
@@ -2291,8 +2335,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "모사드 국장은 네타냐후가 전쟁을 추진함에 따라 이란에 대해 논의하기 위해 미국 관리들을 만난다.",
-          "tr": "google"
+          "titleKo": "모사드 국장, 이란 문제 논의차 미 당국자 접촉… 네타냐후는 전쟁 추진",
+          "tr": "claude",
+          "titleKoAlt": "모사드 국장은 네타냐후가 전쟁을 추진함에 따라 이란에 대해 논의하기 위해 미국 관리들을 만난다."
         },
         {
           "id": "haaretz-5",
@@ -2303,8 +2348,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "이란 수석대표 \"미국, 푸틴에 전쟁 종식 위해 회담 중재 요청\"",
-          "tr": "google"
+          "titleKo": "이란 수석협상가 \"미국이 종전 협상 중재를 푸틴에 요청\"",
+          "tr": "claude",
+          "titleKoAlt": "이란 수석대표 \"미국, 푸틴에 전쟁 종식 위해 회담 중재 요청\""
         },
         {
           "id": "haaretz-6",
@@ -2331,7 +2377,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.678Z",
+      "fetchedAt": "2026-11-15T23:58:32.147Z",
       "status": "ok"
     },
     {
@@ -2369,8 +2415,9 @@
             "금리·물가",
             "경제·물가"
           ],
-          "titleKo": "골드만삭스는 2027년 1분기 말까지 이집트 금리를 600bp 인하할 것으로 예상하고 있다.",
-          "tr": "google"
+          "titleKo": "골드만삭스, 이집트 금리 2027년 1분기 말까지 600bp 인하 전망",
+          "tr": "claude",
+          "titleKoAlt": "골드만삭스는 2027년 1분기 말까지 이집트 금리를 600bp 인하할 것으로 예상하고 있다."
         },
         {
           "id": "asharq-2",
@@ -2409,8 +2456,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "하비에르 블라스: 석유는 이란과의 전쟁의 쇠퇴와 평화의 부재 사이에 갇혀 있습니다",
-          "tr": "google"
+          "titleKo": "칼럼 | 하비에르 블라스: 이란 전쟁 잦아들었으나 평화는 없어… 원유 시장 진퇴양난",
+          "tr": "claude",
+          "titleKoAlt": "하비에르 블라스: 석유는 이란과의 전쟁의 쇠퇴와 평화의 부재 사이에 갇혀 있습니다"
         },
         {
           "id": "asharq-5",
@@ -2423,8 +2471,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "인포그래픽: 사우디 석유 재고량은 전쟁 발발 이후 가장 빠른 속도로 상승하고 있습니다.",
-          "tr": "google"
+          "titleKo": "[인포그래픽] 사우디 원유 재고, 전쟁 발발 이후 가장 빠른 속도로 증가",
+          "tr": "claude",
+          "titleKoAlt": "인포그래픽: 사우디 석유 재고량은 전쟁 발발 이후 가장 빠른 속도로 상승하고 있습니다."
         },
         {
           "id": "asharq-6",
@@ -2451,24 +2500,24 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:56:26.711Z",
+      "fetchedAt": "2026-11-15T23:58:32.197Z",
       "status": "ok"
     }
   ],
   "collector": {
     "successful": 23,
     "total": 23,
-    "translated": 175,
-    "byClaude": 81,
+    "translated": 176,
+    "byClaude": 118,
     "claude": {
       "run": {
-        "titles": 34,
-        "usd": 0.006024299999999999,
-        "rejected": 26,
+        "titles": 37,
+        "usd": 0.0062244,
+        "rejected": 23,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0161,
+      "monthUsd": 0.0224,
       "limitUsd": 2
     }
   }
