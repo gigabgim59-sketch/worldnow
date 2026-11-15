@@ -1,0 +1,23 @@
+[
+{"id":"guardian","country":"uk","name":"The Guardian","label":"진보·중도좌파","domain":"theguardian.com","lang":"en","color":"#215eac"},
+{"id":"telegraph","country":"uk","name":"The Telegraph","label":"보수","domain":"telegraph.co.uk","lang":"en","color":"#404a52"},
+{"id":"ft","country":"uk","name":"Financial Times","label":"경제 전문","domain":"ft.com","lang":"en","economy":true,"color":"#b66a42"},
+{"id":"liberation","country":"fr","name":"Libération","label":"좌파","domain":"liberation.fr","lang":"fr","color":"#d84343"},
+{"id":"figaro","country":"fr","name":"Le Figaro","label":"보수·우파","domain":"lefigaro.fr","lang":"fr","color":"#23608b"},
+{"id":"echos","country":"fr","name":"Les Échos","label":"경제 전문","domain":"lesechos.fr","lang":"fr","economy":true,"color":"#bf343b"},
+{"id":"nyt","country":"us","name":"The New York Times","label":"자유주의 성향","domain":"nytimes.com","lang":"en","color":"#202b39"},
+{"id":"fox","country":"us","name":"Fox News","label":"보수","domain":"foxnews.com","lang":"en","color":"#17447c"},
+{"id":"wsj","country":"us","name":"The Wall Street Journal","label":"경제 전문 · 사설 보수","domain":"wsj.com","lang":"en","economy":true,"color":"#445347"},
+{"id":"tass","country":"ru","name":"TASS","label":"국영통신","domain":"tass.com","lang":"en","color":"#1c68b1"},
+{"id":"meduza","country":"ru","name":"Meduza","label":"해외 거점 독립언론","domain":"meduza.io","lang":"en","query":"site:meduza.io/en/","color":"#b7924b"},
+{"id":"kommersant","country":"ru","name":"Коммерсантъ","label":"경제·종합","domain":"kommersant.ru","lang":"ru","economy":true,"color":"#50555c"},
+{"id":"wire","country":"in","name":"The Wire","label":"정부 비판·독립언론","domain":"thewire.in","lang":"en","color":"#b63835"},
+{"id":"republic","country":"in","name":"Republic","label":"친BJP·민족주의 성향","domain":"republicworld.com","lang":"en","color":"#cc313c"},
+{"id":"et","country":"in","name":"The Economic Times","label":"경제 전문","domain":"economictimes.indiatimes.com","lang":"en","economy":true,"color":"#b9764a"},
+{"id":"xinhua","country":"cn","name":"신화사 · Xinhua","label":"국영통신 · 공식 입장","domain":"english.news.cn","lang":"en","color":"#b63835"},
+{"id":"caixin","country":"cn","name":"Caixin · 财新","label":"경제·금융 전문","domain":"caixinglobal.com","lang":"en","economy":true,"color":"#bf6733"},
+{"id":"aljazeera","country":"me","name":"Al Jazeera","label":"카타르 기반 · 정부 일부 재원","domain":"aljazeera.com","lang":"en","color":"#b08b30"},
+{"id":"presstv","country":"me","name":"Press TV","label":"이란 국영방송","domain":"presstv.ir","lang":"en","color":"#3477a3"},
+{"id":"haaretz","country":"me","name":"Haaretz","label":"이스라엘 · 자유주의","domain":"haaretz.com","lang":"en","color":"#276784"},
+{"id":"asharq","country":"me","name":"Asharq Business","label":"사우디 계열 · 경제 전문","domain":"asharqbusiness.com","lang":"ar","economy":true,"color":"#338b63"}
+]

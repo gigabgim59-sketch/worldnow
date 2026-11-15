@@ -1,0 +1,4 @@
+import assert from 'node:assert/strict';import fs from 'node:fs';import vm from 'node:vm';
+const data=JSON.parse(fs.readFileSync('public/data/news.json','utf8'));assert.equal(data.feeds.length,21);assert(Number.isFinite(Date.parse(data.generatedAt)));
+for(const f of data.feeds){assert(f.source.id);assert(Array.isArray(f.items));for(const a of f.items){assert(a.title);assert(/^https:\/\//.test(a.url));assert(Number.isFinite(Date.parse(a.date)));}}
+const html=fs.readFileSync('public/index.html','utf8');assert(!html.includes("fetch('/api/"));assert(html.includes('data/news.js'));new vm.Script(html.match(/<script>\n([\s\S]*?)<\/script>/)[1]);const sandbox={window:{}};vm.runInNewContext(fs.readFileSync('public/data/news.js','utf8'),sandbox);assert.equal(sandbox.window.WORLD_NEWS.feeds.length,21);console.log('21개 매체 · 기사 데이터 · HTML 스크립트 · 로컬용 데이터 확인 완료');

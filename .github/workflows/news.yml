@@ -1,0 +1,56 @@
+name: Collect news and publish Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: read
+concurrency:
+  group: world-news-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      pages: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Restore data and translation cache
+        uses: actions/cache@v4
+        with:
+          path: .cache
+          key: world-news-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: world-news-v1-
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Collect headlines and translate
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          PREVIOUS_DATA_URL: ${{ steps.pages.outputs.base_url }}/data/news.json
+        run: node scripts/collect.mjs
+      - name: Check data
+        run: node scripts/check.mjs
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
