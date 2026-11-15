@@ -104,7 +104,7 @@ async function claudeBatch(list,env,glossary){
   // "id: 번역" 줄 형식 (따옴표가 섞여도 깨지지 않음). 혹시 JSON으로 답하면 그것도 읽는다.
   let out=[...text.matchAll(/^\s*(\d+)\s*[:：|\t]\s*(.+?)\s*$/gm)].map(m=>({id:+m[1],ko:m[2]}));
   if(!out.length){try{out=JSON.parse(text.slice(text.indexOf('['),text.lastIndexOf(']')+1)).map(o=>({id:+o.id,ko:String(o.ko||'')}));}catch{out=[];}}
-  if(out.length<list.length)console.warn('Claude 응답 일부 누락 ('+out.length+'/'+list.length+'): '+text.slice(0,200).replace(/\n/g,' ⏎ '));
+  if(out.length<list.length)console.warn('Claude 응답 일부 누락 ('+out.length+'/'+list.length+', stop='+j.stop_reason+', out_tokens='+(j.usage?.output_tokens)+', blocks='+(j.content||[]).map(c=>c.type).join(',')+'): '+JSON.stringify(text.slice(-700)));
   return {out,usage:j.usage||{},maxTokens:body.max_tokens};
 }
 // 원문의 숫자가 번역에 남아 있는지 확인 (규모 단위가 붙은 숫자·서수 1~2는 환산되므로 제외)
