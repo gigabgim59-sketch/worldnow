@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T23:45:24.194Z",
+  "generatedAt": "2026-11-15T23:50:26.136Z",
   "feeds": [
     {
       "source": {
@@ -21,8 +21,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "영국 정부 고문은 법정에서 성폭행 피해자 치료에 '커튼을 걷어내라'고 말했습니다.",
-          "tr": "google"
+          "titleKo": "영국 정부 자문위원 \"법정 내 성폭행 피해자 처우 공개해야\" 촉구",
+          "tr": "claude",
+          "titleKoAlt": "영국 정부 고문은 법정에서 성폭행 피해자 치료에 '커튼을 걷어내라'고 말했습니다."
         },
         {
           "id": "guardian-1",
@@ -32,8 +33,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "대니 크루거는 영국 개혁이 '어려운 한 해' 이후 노동당에 대한 지지를 잃었다고 말했습니다.",
-          "tr": "google"
+          "titleKo": "'힘든 한 해' 이후 개혁당, 노동당에 지지율 뺏겨 — 대니 크루거",
+          "tr": "claude",
+          "titleKoAlt": "대니 크루거는 영국 개혁이 '어려운 한 해' 이후 노동당에 대한 지지를 잃었다고 말했습니다."
         },
         {
           "id": "guardian-2",
@@ -106,7 +108,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.062Z",
+      "fetchedAt": "2026-11-15T23:49:47.498Z",
       "status": "ok"
     },
     {
@@ -128,8 +130,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "존슨 “영국, 또 브렉시트 투표할 것”",
-          "tr": "google"
+          "titleKo": "존슨 \"영국, 브렉시트 재투표해도 찬성\"",
+          "tr": "claude",
+          "titleKoAlt": "존슨 “영국, 또 브렉시트 투표할 것”"
         },
         {
           "id": "telegraph-1",
@@ -139,8 +142,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "기후변화와의 전쟁은 실패했습니다. 자기혐오적인 영국만이 이를 눈치채지 못했다",
-          "tr": "google"
+          "titleKo": "기후변화와의 전쟁은 실패했다, 자기혐오에 빠진 영국만 모르고 있을 뿐",
+          "tr": "claude",
+          "titleKoAlt": "기후변화와의 전쟁은 실패했습니다. 자기혐오적인 영국만이 이를 눈치채지 못했다"
         },
         {
           "id": "telegraph-2",
@@ -211,7 +215,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.013Z",
+      "fetchedAt": "2026-11-15T23:49:47.430Z",
       "status": "ok"
     },
     {
@@ -234,8 +238,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "'해고율 낮고 고용률 낮은' 구인 시장이 미국과 영국의 생산성을 저해하고 있습니다.",
-          "tr": "google"
+          "titleKo": "'저고용·저채용' 노동시장, 미국·영국 생산성 저하 부추겨",
+          "tr": "claude",
+          "titleKoAlt": "'해고율 낮고 고용률 낮은' 구인 시장이 미국과 영국의 생산성을 저해하고 있습니다."
         },
         {
           "id": "ft-1",
@@ -250,18 +255,6 @@
         },
         {
           "id": "ft-2",
-          "title": "BoE chief economist says further rate rises needed to combat inflation",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
-          "date": "2026-11-14T05:02:24.000Z",
-          "topics": [
-            "금리·물가",
-            "경제·물가"
-          ],
-          "titleKo": "영국 중앙은행 수석 이코노미스트, 인플레이션 대응을 위해 추가 금리 인상 필요하다고 밝혀",
-          "tr": "google"
-        },
-        {
-          "id": "ft-3",
           "title": "US and allies sign accord to protect AI supply chains from China",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?oc=5",
           "date": "2026-11-15T17:47:43.000Z",
@@ -273,29 +266,19 @@
           "tr": "google"
         },
         {
+          "id": "ft-3",
+          "title": "BoE chief economist says further rate rises needed to combat inflation",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
+          "date": "2026-11-14T05:02:24.000Z",
+          "topics": [
+            "금리·물가",
+            "경제·물가"
+          ],
+          "titleKo": "영국 중앙은행 수석 이코노미스트, 인플레이션 대응을 위해 추가 금리 인상 필요하다고 밝혀",
+          "tr": "google"
+        },
+        {
           "id": "ft-4",
-          "title": "Value Nvidia, not Huang",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMzZQM0FNa3dfSTBSTWVDUGZpNVBad2ljdV9oWmZuUHh3c1JmWnhOQVA2TU9LVjV5cXRfNFdDOGUzUWNXeUQyREtUcFU3TjRGX21SS3NaS01vRUktTWZCejhjOFEzeTBkR01PQ1NOWmlaZnN1NFoyeUhWWjR6ZW9PcGR4dXQ?oc=5",
-          "date": "2026-11-13T06:31:14.000Z",
-          "topics": [
-            "AI·반도체"
-          ],
-          "titleKo": "Huang이 아니라 Nvidia를 가치 있게 생각하세요",
-          "tr": "google"
-        },
-        {
-          "id": "ft-5",
-          "title": "RedBird explores listing for new AC Milan holding company",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2tpdFdFT0p0NVR1WUNPNXlncmlUS0hOQUYtS3ZFNjBGRm1qY1doMDNSWnpPTHotMjAybm9CZW5MRWZPM1dwdXQ0cVFKcHlSSUM2NGVITWlJbEJKS293TmNZdUc4ZTJoajZrUDEtcTF3X2FnNzdaTExZN0hmMElTUnJOMFk?oc=5",
-          "date": "2026-11-13T11:10:00.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "RedBird, 새로운 AC Milan 지주회사 상장 모색",
-          "tr": "google"
-        },
-        {
-          "id": "ft-6",
           "title": "Arm boss Rene Haas approached in Nvidia CEO search",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5",
           "date": "2026-11-13T16:53:17.000Z",
@@ -303,6 +286,29 @@
             "AI·반도체"
           ],
           "titleKo": "Arm 사장 Rene Haas가 Nvidia CEO 검색에 접근했습니다.",
+          "tr": "google"
+        },
+        {
+          "id": "ft-5",
+          "title": "Young Britons out of work or training for a year to be guaranteed jobs",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaE5NUTh2a1lUS01feVlhQTBYMWJ5ZkhjaXg1V2l5MmJBaXVoTDRWbHpMcU1oM1Zzcl9neHVxeXBFaWZiQTNGNFFXVkc3YlVJalhWTllOd2RNYV9JZGZhbU9uUFZQMVRkUW8tZ1hHT05EVVUzVURLeGc2UDdXRGFjTTh0T3I?oc=5",
+          "date": "2026-11-15T14:03:29.000Z",
+          "topics": [
+            "경제·물가"
+          ],
+          "titleKo": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들",
+          "tr": "google"
+        },
+        {
+          "id": "ft-6",
+          "title": "Anthropic IPO to further fuel the AI news cycle",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDlQQXRRTW1SQk1YR1Rfd1ZZQkhfZVF2SEpfMUJLSEk3d21tWE5telBvb0VmOFpjTG1mdzd0cmFMZE1JeGRNRkU1ZmxxaUp5eGdUZXNXRTg1enlkU0tSS2RKeUhjbFBaeF9EVGhhTWd0ZHdrWE1jT0p2S0Fka2hVWExfZzA?oc=5",
+          "date": "2026-11-15T18:15:07.000Z",
+          "topics": [
+            "AI·반도체",
+            "산업·시장"
+          ],
+          "titleKo": "AI 뉴스 사이클을 더욱 촉진하는 인류적 IPO",
           "tr": "google"
         },
         {
@@ -317,7 +323,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.085Z",
+      "fetchedAt": "2026-11-15T23:49:47.435Z",
       "status": "ok"
     },
     {
@@ -341,8 +347,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "러시아에 맞서는 우크라이나 지원: 마크롱, 르펜에 대한 공세 강화",
-          "tr": "google"
+          "titleKo": "러시아 상대 우크라이나 지원 재원 논쟁…마크롱, 르펜 공세",
+          "tr": "claude",
+          "titleKoAlt": "러시아에 맞서는 우크라이나 지원: 마크롱, 르펜에 대한 공세 강화"
         },
         {
           "id": "liberation-1",
@@ -422,7 +429,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.006Z",
+      "fetchedAt": "2026-11-15T23:49:47.566Z",
       "status": "ok"
     },
     {
@@ -444,8 +451,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "사회적 분노: 프랑스에서 400명 이상 체포, 파리에서 100명가량 구금",
-          "tr": "google"
+          "titleKo": "사회적 분노 확산…프랑스 전역 400여 명 체포, 파리서 100여 명 구금",
+          "tr": "claude",
+          "titleKoAlt": "사회적 분노: 프랑스에서 400명 이상 체포, 파리에서 100명가량 구금"
         },
         {
           "id": "figaro-1",
@@ -528,7 +536,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.446Z",
+      "fetchedAt": "2026-11-15T23:49:47.806Z",
       "status": "ok"
     },
     {
@@ -551,8 +559,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "라포스트(La Poste) 자회사에 대한 사이버 공격: 2,200만 명의 개인정보 유출 피해",
-          "tr": "google"
+          "titleKo": "라포스트 자회사 사이버 공격…2200만 명 개인정보 유출",
+          "tr": "claude",
+          "titleKoAlt": "라포스트(La Poste) 자회사에 대한 사이버 공격: 2,200만 명의 개인정보 유출 피해"
         },
         {
           "id": "echos-1",
@@ -637,7 +646,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.394Z",
+      "fetchedAt": "2026-11-15T23:49:47.818Z",
       "status": "ok"
     },
     {
@@ -660,8 +669,9 @@
             "AI·반도체",
             "정치·선거"
           ],
-          "titleKo": "Nvidia Fallout은 Trump-Xi 회의를 통해 다가옵니다.",
-          "tr": "google"
+          "titleKo": "엔비디아 여파, 트럼프-시진핑 회담 그림자 드리워",
+          "tr": "claude",
+          "titleKoAlt": "Nvidia Fallout은 Trump-Xi 회의를 통해 다가옵니다."
         },
         {
           "id": "nyt-1",
@@ -742,7 +752,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.520Z",
+      "fetchedAt": "2026-11-15T23:49:47.920Z",
       "status": "ok"
     },
     {
@@ -765,11 +775,23 @@
             "정치·선거",
             "사회·생활"
           ],
-          "titleKo": "Buttigieg는 FAA 비행 혼란 속에서 트럼프 행정부를 강탈합니다",
-          "tr": "google"
+          "titleKo": "버티지지, 연방항공청(FAA) 항공 대란 속 트럼프 행정부 비판",
+          "tr": "claude",
+          "titleKoAlt": "Buttigieg는 FAA 비행 혼란 속에서 트럼프 행정부를 강탈합니다"
         },
         {
           "id": "fox-1",
+          "title": "Congress' incoming wealthiest member vows to crack down on politicians getting rich in office",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkRXR0phTktDcWxoN0FJZ285Z0hvZmVocEdIVHlmTE9lek5IdzBOc2FFOGhfMm1EZjdtWlZ0MkRtcnRXREM3eFVmMlNhdzdOVU5tN3czMDZ3SDlibGQ2dkN1cUQzbkNjSHZxSFRVZ1poWXdXWFJUbU1fWGpoUGVFSWpRSGNjeWRIVUNCdkpBZzFnUW1QY2xENVFHV0tXM1FUaUNyMVJYNnlkZTFuWHctN2laOXFPVFHSAbwBQVVfeXFMTkZZYUQ5UDBNbGFwc0prWEJLRTNlMDRtcGJ6Rmt6SjdXeW04aFNhZnZ5NE5Cc0ZDUWw5NUllem9XdlF6TUltdFVxUW5fS3JLSzNzV3MxNE5RZmVWRFh5c0FCOVo0eFliY00tOXZ5SENXOC1McU5peVFXRzZxdGdiSjc5bmcwdHhJbUlOX0JoRHRVLWVuNi1JX1ZlUlBHdVMxWmt4UEdxRkNyNXpQSmpKSFRPRGJlRVRCVTl0VVk?oc=5",
+          "date": "2026-11-15T15:00:17.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "의회의 가장 부유한 의원은 공직에서 부자가 되는 정치인을 단속하겠다고 맹세합니다.",
+          "tr": "google"
+        },
+        {
+          "id": "fox-2",
           "title": "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEtxTVNnWUVXRlAzQmltYXZWRl8ybFR6WmlKb05PQWxaaDBTS0hyMnp6X04wd3I2Xy1WUHpnRUYtUFgyNml2NTFVeDc1T1NfcDhaU0pWc1BoSGZFdU5MZE9PN3Boem90OW9udGpYOTRfTTltMGYtaDJQZ29xQWVQY2xZYjZydnY2SWc4M3JDY3U2X0o4RlAxaWxicXNIRklrX1FDYjhtaGZLSXPSAbABQVVfeXFMTjFLSGNkSm5LMVJtUlB2S1RmMzZTWHVpUVJNbDBmYmh1azE3NEpyY0lxWXlJMEF3UGJfOEtCUUU3bk9QUlZxeGZ4eWtfal9GaDRxVk5jV0ZsajFsRTR1RlV6Z0c3UEFjU1pObkR5VXZfRkhtZXJWRmN3R3plRmF5ZjMwN1UtYjdMZ3QtaDV2QmZYYmlBYmk4c2ZKancxUlVxZGpuUlNXdlRVakR6ZlJxd1k?oc=5",
           "date": "2026-11-15T20:58:36.000Z",
@@ -778,17 +800,6 @@
             "외교·안보"
           ],
           "titleKo": "이란, 중동에서 군함이 귀환하는 날 미 해군 장교 2명에게 '우리는 당신을 찾을 것' 맹세",
-          "tr": "google"
-        },
-        {
-          "id": "fox-2",
-          "title": "Congress' incoming wealthiest member vows to crack down on politicians getting rich in office",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkRXR0phTktDcWxoN0FJZ285Z0hvZmVocEdIVHlmTE9lek5IdzBOc2FFOGhfMm1EZjdtWlZ0MkRtcnRXREM3eFVmMlNhdzdOVU5tN3czMDZ3SDlibGQ2dkN1cUQzbkNjSHZxSFRVZ1poWXdXWFJUbU1fWGpoUGVFSWpRSGNjeWRIVUNCdkpBZzFnUW1QY2xENVFHV0tXM1FUaUNyMVJYNnlkZTFuWHctN2laOXFPVFHSAbwBQVVfeXFMTkZZYUQ5UDBNbGFwc0prWEJLRTNlMDRtcGJ6Rmt6SjdXeW04aFNhZnZ5NE5Cc0ZDUWw5NUllem9XdlF6TUltdFVxUW5fS3JLSzNzV3MxNE5RZmVWRFh5c0FCOVo0eFliY00tOXZ5SENXOC1McU5peVFXRzZxdGdiSjc5bmcwdHhJbUlOX0JoRHRVLWVuNi1JX1ZlUlBHdVMxWmt4UEdxRkNyNXpQSmpKSFRPRGJlRVRCVTl0VVk?oc=5",
-          "date": "2026-11-15T15:00:17.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "의회의 가장 부유한 의원은 공직에서 부자가 되는 정치인을 단속하겠다고 맹세합니다.",
           "tr": "google"
         },
         {
@@ -848,7 +859,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.538Z",
+      "fetchedAt": "2026-11-15T23:49:48.069Z",
       "status": "ok"
     },
     {
@@ -873,8 +884,9 @@
             "산업·시장"
           ],
           "opinion": true,
-          "titleKo": "의견 | 트럼프 대통령 관세정책의 성공",
-          "tr": "google"
+          "titleKo": "칼럼 | 트럼프 대통령 관세 정책의 성공",
+          "tr": "claude",
+          "titleKoAlt": "의견 | 트럼프 대통령 관세정책의 성공"
         },
         {
           "id": "wsj-1",
@@ -960,7 +972,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.791Z",
+      "fetchedAt": "2026-11-15T23:49:48.211Z",
       "status": "ok"
     },
     {
@@ -983,8 +995,9 @@
             "이민·국경",
             "외교·안보"
           ],
-          "titleKo": "러시아, 에스토니아의 국경 통과 폐쇄 계획에 대한 정보 확인 - 외교관",
-          "tr": "google"
+          "titleKo": "러시아, 에스토니아 국경 검문소 폐쇄 계획 관련 정보 확인 예정 — 외교관",
+          "tr": "claude",
+          "titleKoAlt": "러시아, 에스토니아의 국경 통과 폐쇄 계획에 대한 정보 확인 - 외교관"
         },
         {
           "id": "tass-1",
@@ -1069,7 +1082,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.698Z",
+      "fetchedAt": "2026-11-15T23:49:48.190Z",
       "status": "ok"
     },
     {
@@ -1092,8 +1105,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "러시아가 핀란드에 나토 탈퇴를 요구했다고 빌트지가 보도했습니다. 모스크바는 이를 부인하고 있으며, 헬싱키는 분노하고 있습니다.",
-          "tr": "google"
+          "titleKo": "러시아, 핀란드에 나토 탈퇴 요구 — 빌트 보도…모스크바 부인, 헬싱키 분노",
+          "tr": "claude",
+          "titleKoAlt": "러시아가 핀란드에 나토 탈퇴를 요구했다고 빌트지가 보도했습니다. 모스크바는 이를 부인하고 있으며, 헬싱키는 분노하고 있습니다."
         },
         {
           "id": "meduza-1",
@@ -1180,7 +1194,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.739Z",
+      "fetchedAt": "2026-11-15T23:49:48.174Z",
       "status": "ok"
     },
     {
@@ -1203,8 +1217,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "오일러: 러시아 철강 가격은 국내 수요로 인해 계속 상승할 것",
-          "tr": "google"
+          "titleKo": "\"아일러\": 내수 수요 덕에 러시아 철강 가격 계속 오를 전망",
+          "tr": "claude",
+          "titleKoAlt": "오일러: 러시아 철강 가격은 국내 수요로 인해 계속 상승할 것"
         },
         {
           "id": "kommersant-1",
@@ -1230,7 +1245,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.954Z",
+      "fetchedAt": "2026-11-15T23:49:48.443Z",
       "status": "ok"
     },
     {
@@ -1253,8 +1268,9 @@
             "정치·선거",
             "사회·생활"
           ],
-          "titleKo": "델리 시위에서 NSUI 지도자에 대한 '폭행'에 대한 FIR 없음, 라자스탄 의회 지도자들은 경찰 사무실 밖에서 잠을 잔다",
-          "tr": "google"
+          "titleKo": "델리 시위 중 NSUI 지도자 '폭행' 관련 피해 신고 접수 안 돼…라자스탄 국민회의 지도부, 경찰서 앞 노숙 농성",
+          "tr": "claude",
+          "titleKoAlt": "델리 시위에서 NSUI 지도자에 대한 '폭행'에 대한 FIR 없음, 라자스탄 의회 지도자들은 경찰 사무실 밖에서 잠을 잔다"
         },
         {
           "id": "wire-1",
@@ -1312,7 +1328,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:19.986Z",
+      "fetchedAt": "2026-11-15T23:49:48.495Z",
       "status": "ok"
     },
     {
@@ -1334,8 +1350,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "에어 인디아, 미국 항공 교통 두절 사태 속 항공편 운항 차질 가능성 경고",
-          "tr": "google"
+          "titleKo": "에어인디아, 미 항공 교통 장애 여파로 운항 차질 가능성 경고",
+          "tr": "claude",
+          "titleKoAlt": "에어 인디아, 미국 항공 교통 두절 사태 속 항공편 운항 차질 가능성 경고"
         },
         {
           "id": "republic-1",
@@ -1404,7 +1421,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.079Z",
+      "fetchedAt": "2026-11-15T23:49:48.608Z",
       "status": "ok"
     },
     {
@@ -1427,8 +1444,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "인도가 글로벌 Microsoft 365 서비스 중단 사태를 피한 이유와 지속적인 사이버 복원력을 강화하는 방법",
-          "tr": "google"
+          "titleKo": "인도가 마이크로소프트 365 글로벌 장애를 피한 이유와 지속 가능한 사이버 회복력 구축 방안",
+          "tr": "claude",
+          "titleKoAlt": "인도가 글로벌 Microsoft 365 서비스 중단 사태를 피한 이유와 지속적인 사이버 복원력을 강화하는 방법"
         },
         {
           "id": "et-1",
@@ -1510,7 +1528,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.174Z",
+      "fetchedAt": "2026-11-15T23:49:48.604Z",
       "status": "ok"
     },
     {
@@ -1532,8 +1550,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "Lalit Modi가 영국 시민권을 취득했다고 발표했습니다.",
-          "tr": "google"
+          "titleKo": "랄릿 모디, 영국 국적 취득 발표",
+          "tr": "claude",
+          "titleKoAlt": "Lalit Modi가 영국 시민권을 취득했다고 발표했습니다."
         },
         {
           "id": "hindu-1",
@@ -1613,7 +1632,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.473Z",
+      "fetchedAt": "2026-11-15T23:49:48.921Z",
       "status": "ok"
     },
     {
@@ -1635,8 +1654,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "Revanth Reddy는 Khelo India Youth Games에 초대된 Modi 총리를 만났습니다.",
-          "tr": "google"
+          "titleKo": "레반트 레디, 모디 총리와 면담…'켈로 인디아 유스 게임' 초청",
+          "tr": "claude",
+          "titleKoAlt": "Revanth Reddy는 Khelo India Youth Games에 초대된 Modi 총리를 만났습니다."
         },
         {
           "id": "jagran-1",
@@ -1698,6 +1718,18 @@
         },
         {
           "id": "jagran-6",
+          "title": "उत्तर प्रदेश में हाउस टैक्स बकायेदारों को बड़ी राहत, योगी सरकार ने एक महीने बढ़ाई OTS योजना की अंतिम तारीख",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXJKOXJ0UElGN254cm14cmtwVUJuNDNmZEF5NFNISHZrR25Vemw0eENUcmxrQUtEXzF4QWVPQ1JMQ2R2eFBJaDE1Q3gzdXRobUdhdDNQXzl4NEs2RzdGN1FrUndVUFlYWjgzeWdIVm1oaXM3ZUgzdVlyQ3J3TTVZbFU1YzJhWU5uZHBCRDV0enNiMzlUM09lY2VpN241cHNmUDhDLWRWamRzWW00MGJnX193WFJzQQ?oc=5",
+          "date": "2026-11-15T16:50:00.000Z",
+          "topics": [
+            "예산·재정",
+            "정치·선거"
+          ],
+          "titleKo": "우타르프라데시(Uttar Pradesh)의 주택 세금 체납자들에게 큰 안도감을 주기 위해 요기 정부는 OTS 계획의 마지막 날짜를 한 달 연장했습니다.",
+          "tr": "google"
+        },
+        {
+          "id": "jagran-7",
           "title": "पन्नू हत्या साजिश: अमेरिकी सरकार ने निखिल गुप्ता को 24 साल कैद की सजा देने की मांग की, 20 नवंबर को आएगा फैसला",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjd1R3VucElZV0szVXV4aDdKb3hydkRmUEpFMHQta1NNbGJLbkJINjNQUzd4QkxaYkcxQ0JCWGpzd1p0T3hkU09NMVMwRjdLVUxrdDBMNjd0bXFwWmVwbkFjc2N2Zk9DaTVnVlRhYmJqN3dtTTBNX1VYUFhEVGtWcm1oLXl5T2tnelFHQU5EcldISmtSQnYtajItNlNrTkcweEtKT1R5ZkVlT2Uz?oc=5",
           "date": "2026-11-15T18:07:00.000Z",
@@ -1706,21 +1738,9 @@
           ],
           "titleKo": "판누 살인 음모: 미국 정부는 니힐 굽타에게 24년의 징역형을 요구하고, 결정은 11월 20일에 나올 것입니다.",
           "tr": "google"
-        },
-        {
-          "id": "jagran-7",
-          "title": "क्या बारिश से घटेगा दिल्ली-NCR का प्रदूषण? केंद्र सरकार सख्त; कनॉट प्लेस और इंडिया गेट पर AQI 300 पार",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ1NsTUV2UFhrTEJJbkFJUnFpTFF6cW5mcFlLbVdMQ2pDQWZneUV5OFZFUC1HTDVubVBWMDB0RjExZFg0c3hPRFBxeThSNW52SFB2Tm55cnNFNzc3TEx1bFhVNms2dmJCRFpFb3EwaE90VUVmUWdub0xIaU1IUnprRG9FRHJMa0c2S0hsZFVXOUhaTjJYLVJiNlhFUENvLVpQRVBxNHhtOTNzcTJaTUpkbmNWNHlZd0lla056cF9EYmRFem1wUHQxNGhqekRxSnIwdWRjbGFrbjNEajUxdjBYRENETE1DM1p6cW1VNkJ3OV9Sam5mSWww?oc=5",
-          "date": "2026-11-15T00:00:00.000Z",
-          "topics": [
-            "정치·선거",
-            "사회·생활"
-          ],
-          "titleKo": "비가 델리-NCR의 오염을 줄일 것인가? 중앙정부는 엄격하다. AQI가 코노트 플레이스(Connaught Place)와 인디아 게이트(India Gate)에서 300을 넘었습니다.",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.379Z",
+      "fetchedAt": "2026-11-15T23:49:48.896Z",
       "status": "ok"
     },
     {
@@ -1742,8 +1762,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "중국이 독자 개발한 10톤급 전기 항공기가 첫 유인 비행을 완료했습니다.",
-          "tr": "google"
+          "titleKo": "중국 독자 개발 10톤급 전기 항공기, 첫 유인 비행 완료",
+          "tr": "claude",
+          "titleKoAlt": "중국이 독자 개발한 10톤급 전기 항공기가 첫 유인 비행을 완료했습니다."
         },
         {
           "id": "xinhua-1",
@@ -1824,7 +1845,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.404Z",
+      "fetchedAt": "2026-11-15T23:49:48.955Z",
       "status": "ok"
     },
     {
@@ -1847,8 +1868,9 @@
           "topics": [
             "AI·반도체"
           ],
-          "titleKo": "심층 분석: Alice Huang이 Megaspeed를 Nvidia의 주요 고객사로 성장시킨 방법",
-          "tr": "google"
+          "titleKo": "심층 보도: 앨리스 황은 어떻게 메가스피드를 엔비디아의 주요 고객으로 키웠나",
+          "tr": "claude",
+          "titleKoAlt": "심층 분석: Alice Huang이 Megaspeed를 Nvidia의 주요 고객사로 성장시킨 방법"
         },
         {
           "id": "caixin-1",
@@ -1926,7 +1948,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.373Z",
+      "fetchedAt": "2026-11-15T23:49:48.822Z",
       "status": "ok"
     },
     {
@@ -1948,8 +1970,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "사우디 주도 연합군, 후티 반군 미사일과 드론으로 의심되는 요격",
-          "tr": "google"
+          "titleKo": "사우디 주도 연합군, 의심 후티 반군 미사일·드론 요격",
+          "tr": "claude",
+          "titleKoAlt": "사우디 주도 연합군, 후티 반군 미사일과 드론으로 의심되는 요격"
         },
         {
           "id": "aljazeera-1",
@@ -2034,7 +2057,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.852Z",
+      "fetchedAt": "2026-11-15T23:49:49.271Z",
       "status": "ok"
     },
     {
@@ -2057,8 +2080,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "예멘, 사우디아라비아 군사 목표물 및 리야드 공항에 대규모 탄도미사일 및 드론 공격 개시",
-          "tr": "google"
+          "titleKo": "예멘, 사우디 군사 표적·리야드 공항 겨냥 탄도미사일·드론 대규모 공격 감행",
+          "tr": "claude",
+          "titleKoAlt": "예멘, 사우디아라비아 군사 목표물 및 리야드 공항에 대규모 탄도미사일 및 드론 공격 개시"
         },
         {
           "id": "presstv-1",
@@ -2141,7 +2165,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.605Z",
+      "fetchedAt": "2026-11-15T23:49:49.132Z",
       "status": "ok"
     },
     {
@@ -2164,8 +2188,9 @@
             "외교·안보"
           ],
           "opinion": true,
-          "titleKo": "분석 • 터키는 이스라엘의 아브라함 협정이 제공하지 못한 것을 걸프만에 제공하고 있습니다.",
-          "tr": "google"
+          "titleKo": "분석 • 튀르키예, 이스라엘의 아브라함 협정이 못 한 것을 걸프 국가에 제안 중",
+          "tr": "claude",
+          "titleKoAlt": "분석 • 터키는 이스라엘의 아브라함 협정이 제공하지 못한 것을 걸프만에 제공하고 있습니다."
         },
         {
           "id": "haaretz-1",
@@ -2252,7 +2277,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.712Z",
+      "fetchedAt": "2026-11-15T23:49:49.300Z",
       "status": "ok"
     },
     {
@@ -2277,8 +2302,9 @@
             "에너지·원유",
             "외교·안보"
           ],
-          "titleKo": "이란 전쟁이 유럽의 에너지 위기를 촉발시키다.. 따뜻한 겨울이 유럽을 구할 수 있을까?",
-          "tr": "google"
+          "titleKo": "이란 전쟁이 유럽 에너지 위기 촉발…따뜻한 겨울이 구원할까",
+          "tr": "claude",
+          "titleKoAlt": "이란 전쟁이 유럽의 에너지 위기를 촉발시키다.. 따뜻한 겨울이 유럽을 구할 수 있을까?"
         },
         {
           "id": "asharq-1",
@@ -2369,7 +2395,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:45:20.848Z",
+      "fetchedAt": "2026-11-15T23:49:49.253Z",
       "status": "ok"
     }
   ],
@@ -2377,16 +2403,16 @@
     "successful": 23,
     "total": 23,
     "translated": 175,
-    "byClaude": 0,
+    "byClaude": 25,
     "claude": {
       "run": {
-        "titles": 0,
-        "usd": 0,
-        "rejected": 0,
+        "titles": 25,
+        "usd": 0.0046517,
+        "rejected": 35,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0,
+      "monthUsd": 0.0047,
       "limitUsd": 2
     }
   }
