@@ -55,7 +55,10 @@ if(process.env.ANTHROPIC_API_KEY&&LIMIT>0&&PER_RUN>0){
     const estIn=2500+JSON.stringify(list).length,estOut=400+list.length*160; // 입력은 글자 수로 넉넉히 잡음
     if(spend.usd+estIn*PIN+estOut*POUT>LIMIT){claudeRun.stopped='월 한도 도달';break;}
     try{
-      const {out,usage}=await claudeBatch(list,process.env,glossary);
+      let {out,usage}=await claudeBatch(list,process.env,glossary);
+      const got=new Set(out.map(o=>+o.id)),miss=list.filter(x=>!got.has(x.id));
+      if(miss.length&&miss.length<list.length&&spend.usd+(usage.input_tokens||0)*PIN+(usage.output_tokens||0)*POUT+estIn*PIN+estOut*POUT<=LIMIT){ // 빠진 제목만 한 번 더
+        const r2=await claudeBatch(miss,process.env,glossary);out=out.concat(r2.out);usage={input_tokens:(usage.input_tokens||0)+(r2.usage.input_tokens||0),output_tokens:(usage.output_tokens||0)+(r2.usage.output_tokens||0)};}
       const cost=(usage.input_tokens||0)*PIN+(usage.output_tokens||0)*POUT;
       spend.usd=+(spend.usd+cost).toFixed(6);spend.calls++;spend.inputTokens+=usage.input_tokens||0;spend.outputTokens+=usage.output_tokens||0;claudeRun.usd+=cost;
       const byId=new Map(out.map(o=>[+o.id,o.ko]));

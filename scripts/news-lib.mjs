@@ -97,8 +97,12 @@ async function claudeBatch(list,env,glossary){
   const sys=CLAUDE_SYSTEM+Object.entries(glossary||{}).filter(([k])=>!k.startsWith('_')).map(([k,v])=>'- '+k+' → '+v).join('\n');
   const body={model:env.CLAUDE_MODEL||'claude-haiku-5-5',max_tokens:Math.min(8000,400+list.length*160),system:sys,
     messages:[{role:'user',content:JSON.stringify(list)}]};
-  const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'x-api-key':env.ANTHROPIC_API_KEY,'anthropic-version':'2023-06-01','content-type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(90000)});
-  const j=await r.json().catch(()=>null);
+  // 번역에는 사전 '생각' 단계가 필요 없다. 켜져 있으면 출력 한도를 생각에 다 써서 번역문이 잘린다.
+  body.thinking={type:'disabled'};
+  const call=async b=>{const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',headers:{'x-api-key':env.ANTHROPIC_API_KEY,'anthropic-version':'2023-06-01','content-type':'application/json'},body:JSON.stringify(b),signal:AbortSignal.timeout(90000)});return [r,await r.json().catch(()=>null)];};
+  let [r,j]=await call(body);
+  if(!r.ok&&r.status===400&&/thinking/i.test(j?.error?.message||'')){ // 모델이 생각 끄기를 지원하지 않으면 한도를 넉넉히 늘려 재시도
+    delete body.thinking;body.max_tokens=Math.min(32000,body.max_tokens+12000);[r,j]=await call(body);}
   if(!r.ok){const e=Error('Claude '+r.status+': '+(j?.error?.message||'응답 오류'));e.status=r.status;throw e;}
   const text=(j.content||[]).map(c=>c.text||'').join('');
   // "id: 번역" 줄 형식 (따옴표가 섞여도 깨지지 않음). 혹시 JSON으로 답하면 그것도 읽는다.
