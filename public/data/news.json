@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T23:50:26.136Z",
+  "generatedAt": "2026-11-15T23:54:04.674Z",
   "feeds": [
     {
       "source": {
@@ -86,6 +86,17 @@
         },
         {
           "id": "guardian-6",
+          "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG5RenFlUWx2enotWWRnYlJ4dVdVMmQwRjBCb3BjeVBKVGpjQ3R3d2FhQkVmSV9nSDE2a0tvRjBGTjVmUXE4MFNHak9YYnl4bF93Z0czWTd1U094SXg5MmRXQVNNSjRNcy1iNkRLM1hTQlEwb3BDbDNnYWxoX0pQODRpekMwaTdKcmZKZE5pVlJSZkZNQWl4Yk53OFVWUE1CUFpTQlFZSVFtZnM5ZEJWZkV3?oc=5",
+          "date": "2026-11-15T15:37:00.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "눈과 얼음이 예상됨에 따라 스코틀랜드와 잉글랜드 북부에 감기 및 건강 경보 발령",
+          "tr": "google"
+        },
+        {
+          "id": "guardian-7",
           "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXVJLW5XZGo4SldNMWE5ZVdUcllWVzRSRGdqSVQ0emp5SUtrWXl1VFdvbFhHa2lMaERaQ3hYU2V3bEdlTldQZE9KMkhKdWtxZnNaVEdHZFB4amFPa2FQeDNKcXJ1Z2ZUd3UzejZ3MXk1RjNKaGR3WW4yRndNRy1nZTJyRHlNSWVxUWlJ?oc=5",
           "date": "2026-11-15T11:52:00.000Z",
@@ -95,20 +106,9 @@
           "opinion": true,
           "titleKo": "나쁜 직업이나 복지? Milburn은 고용주가 젊은이를 돕도록 강요해야 합니다 | 리처드 파팅턴",
           "tr": "google"
-        },
-        {
-          "id": "guardian-7",
-          "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjVDZXhTai01bUw2ZTBFWGdLbG5YdHQtVERLQmFwRTRMeUxnNFpiTVNxTExlYUk0dW14TFlMZjJwZm5Pa2M1RUxnbXllRW5iMjdOY1J4MEFJMVhCdFhEM0ttQUpOeXZNTDJLREI3VUphZEwwQ1JMVWl0WENWM21VZWcxQk5KWldvR2VWbmlQUXQwYmdENXFtQW1jOA?oc=5",
-          "date": "2026-11-13T14:37:00.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "£5m 이상의 기부금 청구에도 불구하고 Reform UK가 Nigel Farage의 보증금을 지불했습니다.",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.498Z",
+      "fetchedAt": "2026-11-15T23:53:17.017Z",
       "status": "ok"
     },
     {
@@ -215,7 +215,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.430Z",
+      "fetchedAt": "2026-11-15T23:53:17.015Z",
       "status": "ok"
     },
     {
@@ -250,8 +250,9 @@
           "topics": [
             "예산·재정"
           ],
-          "titleKo": "영국의 소규모 런던 퀀트 펀드가 영국 최대 법인세 납세자 중 하나로 부상",
-          "tr": "google"
+          "titleKo": "런던 소형 퀀트 펀드, 영국 최대 법인세 납부 기업 중 하나로 부상",
+          "tr": "claude",
+          "titleKoAlt": "영국의 소규모 런던 퀀트 펀드가 영국 최대 법인세 납세자 중 하나로 부상"
         },
         {
           "id": "ft-2",
@@ -323,7 +324,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.435Z",
+      "fetchedAt": "2026-11-15T23:53:17.013Z",
       "status": "ok"
     },
     {
@@ -355,12 +356,13 @@
           "id": "liberation-1",
           "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral",
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVVlPSGJENHlJSnM3aEVWY0lrU3R0aFM2cWl2UHo3Ynp5dEFsclJ6aUNXeWNLRWRHOEtzWW0xZXl6OXAxVHFXOWZSTlIxSXFQa080cHo5UGxUS0VPNlY4Qm1tcTJOSkpuNzRETWJLcDBSUldTeWItV0ZwZ3ZIbGx2R3Z0Wm81UTBBVHJybl9SRm9VdnRpcVlKdXRUT1I5Wjk4UDFpLThLcjBDMFByTl9qSzAwUWJwTkppdFBaV1NJWHBVQ2V3eDJGNXlUWFQxSnlmZTh2WUhQSmJwWnJqSlFBYkRubVdPeGZoOGYwWmU4S2E3N2FxWElQMHJTeEh0cl8wMHV6TldiZ3I2b0dxaWU4VUJwdi1yaHM?oc=5",
-          "date": "2026-11-15T14:48:19.000Z",
+          "date": "2026-11-15T14:45:00.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "남부 텍사스에서 트럼프 장벽에 대한 반란: \"여기의 유일한 침략은 연방 정부의 침략입니다.",
-          "tr": "google"
+          "titleKo": "텍사스 남부, 트럼프 장벽에 반발 확산… \"여기서 유일한 침공은 연방정부의 침공\"",
+          "tr": "claude",
+          "titleKoAlt": "남부 텍사스에서 트럼프 장벽에 대한 반란: \"여기의 유일한 침략은 연방 정부의 침략입니다."
         },
         {
           "id": "liberation-2",
@@ -429,7 +431,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.566Z",
+      "fetchedAt": "2026-11-15T23:53:17.002Z",
       "status": "ok"
     },
     {
@@ -465,8 +467,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "우크라이나 전쟁: 마린 르펜이 당선되면 프랑스를 유럽에서 “격리”시킬 것이라고 에마뉘엘 마크롱 측근이 밝혔습니다.",
-          "tr": "google"
+          "titleKo": "우크라이나 전쟁: 르펜 당선되면 프랑스 유럽서 \"고립\"… 마크롱 측근 주장",
+          "tr": "claude",
+          "titleKoAlt": "우크라이나 전쟁: 마린 르펜이 당선되면 프랑스를 유럽에서 “격리”시킬 것이라고 에마뉘엘 마크롱 측근이 밝혔습니다."
         },
         {
           "id": "figaro-2",
@@ -477,8 +480,9 @@
             "정치·선거",
             "산업·시장"
           ],
-          "titleKo": "\"우리는 총을 쏘고 있습니다\": 정부가 프랑스 제조업체에 해를 끼치면서 유럽 유리 제조업체를 선호하는 경우",
-          "tr": "google"
+          "titleKo": "제 발등 찍기 논란… 정부, 프랑스 산업계 희생하고 유럽 유리업체 우대",
+          "tr": "claude",
+          "titleKoAlt": "\"우리는 총을 쏘고 있습니다\": 정부가 프랑스 제조업체에 해를 끼치면서 유럽 유리 제조업체를 선호하는 경우"
         },
         {
           "id": "figaro-3",
@@ -536,7 +540,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.806Z",
+      "fetchedAt": "2026-11-15T23:53:17.436Z",
       "status": "ok"
     },
     {
@@ -571,8 +575,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "“절약하려고 노력 중”: 물가 급등으로 국내 연료 소비가 역사적 급락",
-          "tr": "google"
+          "titleKo": "\"아끼려고 노력 중\"… 물가 급등에 난방유 소비 역대급 급감",
+          "tr": "claude",
+          "titleKoAlt": "“절약하려고 노력 중”: 물가 급등으로 국내 연료 소비가 역사적 급락"
         },
         {
           "id": "echos-2",
@@ -583,8 +588,9 @@
             "예산·재정",
             "경제·물가"
           ],
-          "titleKo": "고등학교: 수리 비용을 충당하기 위해 일드프랑스 지방자치단체가 '파손자는 배상한다'는 원칙을 채택하고 예산을 증액합니다.",
-          "tr": "google"
+          "titleKo": "고교 복구비 '파손자 부담' 원칙 도입… 일드프랑스 지역, 예산 증액",
+          "tr": "claude",
+          "titleKoAlt": "고등학교: 수리 비용을 충당하기 위해 일드프랑스 지방자치단체가 '파손자는 배상한다'는 원칙을 채택하고 예산을 증액합니다."
         },
         {
           "id": "echos-3",
@@ -646,7 +652,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.818Z",
+      "fetchedAt": "2026-11-15T23:53:17.396Z",
       "status": "ok"
     },
     {
@@ -681,8 +687,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "곤경에 처한 연방 공무원들이 민주당이 장악한 의회에 도움을 요청하다",
-          "tr": "google"
+          "titleKo": "곤경에 처한 연방 공무원들, 민주당 의회에 구원 기대",
+          "tr": "claude",
+          "titleKoAlt": "곤경에 처한 연방 공무원들이 민주당이 장악한 의회에 도움을 요청하다"
         },
         {
           "id": "nyt-2",
@@ -692,8 +699,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "판사, 트럼프 골프 프로젝트를 위한 이스트 포토맥 공원 즉시 폐쇄 중지 명령",
-          "tr": "google"
+          "titleKo": "법원, 트럼프 골프장 프로젝트 위한 이스트포토맥 공원 즉각 폐쇄 제동",
+          "tr": "claude",
+          "titleKoAlt": "판사, 트럼프 골프 프로젝트를 위한 이스트 포토맥 공원 즉시 폐쇄 중지 명령"
         },
         {
           "id": "nyt-3",
@@ -703,8 +711,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "다른 국가와 달리 미국 정부는 항공 인프라에 자금을 지원합니다.",
-          "tr": "google"
+          "titleKo": "미국만 항공 인프라를 정부 예산으로 지원…다른 나라와 달라",
+          "tr": "claude",
+          "titleKoAlt": "다른 국가와 달리 미국 정부는 항공 인프라에 자금을 지원합니다."
         },
         {
           "id": "nyt-4",
@@ -742,17 +751,18 @@
         },
         {
           "id": "nyt-7",
-          "title": "Upgrade Work Blamed for Nationwide Flight Shutdown, Duffy Says",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
-          "date": "2026-11-14T17:15:13.000Z",
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSnJMaFhaUUdRTmNXSll3UUlCX21rdHYxRGNpUmduVEo1Y29hcGVHazNjdE5mbDhtTlAtRnhfY3RzLWNXOTFiN254MmZOQ0pqMlFtczdwdG83QVdnbGc3alVSLWNpVXhJcTRVNEQ0RC1DUDY5c2lQbWhjM3o1TGx0UnBadk5FSXFNMlNoWE5EX2RpYnhETmx3?oc=5",
+          "date": "2026-11-15T10:02:05.000Z",
           "topics": [
-            "사회·생활"
+            "AI·반도체",
+            "산업·시장"
           ],
-          "titleKo": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다.",
+          "titleKo": "Lutnick은 가족 사업과 겹치는 칩 규칙을 약화시키려고 노력했습니다",
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:47.920Z",
+      "fetchedAt": "2026-11-15T23:53:17.433Z",
       "status": "ok"
     },
     {
@@ -787,8 +797,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "의회의 가장 부유한 의원은 공직에서 부자가 되는 정치인을 단속하겠다고 맹세합니다.",
-          "tr": "google"
+          "titleKo": "의회 최고 부자 신입 의원, 재임 중 치부하는 정치인 단속 다짐",
+          "tr": "claude",
+          "titleKoAlt": "의회의 가장 부유한 의원은 공직에서 부자가 되는 정치인을 단속하겠다고 맹세합니다."
         },
         {
           "id": "fox-2",
@@ -799,8 +810,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "이란, 중동에서 군함이 귀환하는 날 미 해군 장교 2명에게 '우리는 당신을 찾을 것' 맹세",
-          "tr": "google"
+          "titleKo": "이란 \"반드시 찾아내겠다\"… 중동 귀환 미 해군함 장교 2명 겨냥 엄포",
+          "tr": "claude",
+          "titleKoAlt": "이란, 중동에서 군함이 귀환하는 날 미 해군 장교 2명에게 '우리는 당신을 찾을 것' 맹세"
         },
         {
           "id": "fox-3",
@@ -811,8 +823,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "전직 FBI 부관이 위협을 촉발하는 요인을 지적하자 트럼프 고위 관리들은 군 관문 뒤로 후퇴했다.",
-          "tr": "google"
+          "titleKo": "트럼프 측근들 군 기지 뒤로 피신…전직 FBI 부국장 \"위협 키운 원인 지목\"",
+          "tr": "claude",
+          "titleKoAlt": "전직 FBI 부관이 위협을 촉발하는 요인을 지적하자 트럼프 고위 관리들은 군 관문 뒤로 후퇴했다."
         },
         {
           "id": "fox-4",
@@ -859,7 +872,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.069Z",
+      "fetchedAt": "2026-11-15T23:53:17.445Z",
       "status": "ok"
     },
     {
@@ -896,8 +909,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "노인들은 플로리다의 남서부 해안을 미국에서 가장 부유한 은퇴 시장으로 만들었습니다.",
-          "tr": "google"
+          "titleKo": "고령층이 만든 플로리다 남",
+          "tr": "claude",
+          "titleKoAlt": "노인들은 플로리다의 남서부 해안을 미국에서 가장 부유한 은퇴 시장으로 만들었습니다."
         },
         {
           "id": "wsj-2",
@@ -908,8 +922,9 @@
             "AI·반도체",
             "정치·선거"
           ],
-          "titleKo": "트럼프 보좌관들이 엔비디아 사태로 그를 비난하는 가운데, 러트닉이 자신의 직위를 지키기 위해 싸우다",
-          "tr": "google"
+          "titleKo": "러트닉, 엔비디아 파장 책임론에 자리 지키기 안간힘",
+          "tr": "claude",
+          "titleKoAlt": "트럼프 보좌관들이 엔비디아 사태로 그를 비난하는 가운데, 러트닉이 자신의 직위를 지키기 위해 싸우다"
         },
         {
           "id": "wsj-3",
@@ -921,8 +936,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "서방의 기술과 AI를 겨냥한 중국의 대규모 스파이 작전 | 11월 14일자 10가지 핵심 사항",
-          "tr": "google"
+          "titleKo": "중국의 서방 기술·AI 겨냥 대규모 간첩 작전 [WSJ 10포인트, 11월 14일]",
+          "tr": "claude",
+          "titleKoAlt": "서방의 기술과 AI를 겨냥한 중국의 대규모 스파이 작전 | 11월 14일자 10가지 핵심 사항"
         },
         {
           "id": "wsj-4",
@@ -972,7 +988,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.211Z",
+      "fetchedAt": "2026-11-15T23:53:18.037Z",
       "status": "ok"
     },
     {
@@ -1031,8 +1047,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "러시아 GDP 성장률, 연말까지 전망치를 상회할 수 있어 — 경제개발부",
-          "tr": "google"
+          "titleKo": "러시아 연말 GDP 성장률, 예측치 웃돌 수도 — 재무부",
+          "tr": "claude",
+          "titleKoAlt": "러시아 GDP 성장률, 연말까지 전망치를 상회할 수 있어 — 경제개발부"
         },
         {
           "id": "tass-4",
@@ -1082,7 +1099,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.190Z",
+      "fetchedAt": "2026-11-15T23:53:17.761Z",
       "status": "ok"
     },
     {
@@ -1144,8 +1161,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "모스크바에서 자동차가 폭발했습니다. 텔레그램 채널은 이 편지가 우크라이나 전 총리 미콜라 아자로프의 전 대변인 세르게이 자보로트니의 소유라고 밝혔습니다.",
-          "tr": "google"
+          "titleKo": "모스크바서 차량 폭발…텔레그램 채널 \"우크라이나 전 총리 아자로프 전 대변인 세르게이 자보로트니 차량\" 주장",
+          "tr": "claude",
+          "titleKoAlt": "모스크바에서 자동차가 폭발했습니다. 텔레그램 채널은 이 편지가 우크라이나 전 총리 미콜라 아자로프의 전 대변인 세르게이 자보로트니의 소유라고 밝혔습니다."
         },
         {
           "id": "meduza-4",
@@ -1194,7 +1212,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.174Z",
+      "fetchedAt": "2026-11-15T23:53:17.715Z",
       "status": "ok"
     },
     {
@@ -1245,7 +1263,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.443Z",
+      "fetchedAt": "2026-11-15T23:53:17.769Z",
       "status": "ok"
     },
     {
@@ -1302,8 +1320,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "키프로스는 대통령 궁에서 사상 최초의 디왈리를 축하합니다. Help2Live 창립자 Dipak Kumar, #DiwaliHug 출시",
-          "tr": "google"
+          "titleKo": "키프로스, 대통령궁서 첫 디왈리 행사…Help2Live 설립자 딥악 쿠마르 \"#DiwaliHug\" 캠페인 출범",
+          "tr": "claude",
+          "titleKoAlt": "키프로스는 대통령 궁에서 사상 최초의 디왈리를 축하합니다. Help2Live 창립자 Dipak Kumar, #DiwaliHug 출시"
         },
         {
           "id": "wire-6",
@@ -1328,7 +1347,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.495Z",
+      "fetchedAt": "2026-11-15T23:53:18.028Z",
       "status": "ok"
     },
     {
@@ -1384,8 +1403,9 @@
           "topics": [
             "AI·반도체"
           ],
-          "titleKo": "Nvidia가 재채기를 했을 때 인도에서는 누가 감기에 걸렸나요?",
-          "tr": "google"
+          "titleKo": "엔비디아가 재채기하자 인도에서는 누가 감기에 걸렸나?",
+          "tr": "claude",
+          "titleKoAlt": "Nvidia가 재채기를 했을 때 인도에서는 누가 감기에 걸렸나요?"
         },
         {
           "id": "republic-4",
@@ -1421,7 +1441,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.608Z",
+      "fetchedAt": "2026-11-15T23:53:18.152Z",
       "status": "ok"
     },
     {
@@ -1478,8 +1498,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "인도의 10월 상품 무역 적자는 398억 8천만 달러로 1년래 최고치를 기록했습니다.",
-          "tr": "google"
+          "titleKo": "인도 10월 상품 무역적자, 1년 만의 최고치인 398.8억 달러로 확대",
+          "tr": "claude",
+          "titleKoAlt": "인도의 10월 상품 무역 적자는 398억 8천만 달러로 1년래 최고치를 기록했습니다."
         },
         {
           "id": "et-4",
@@ -1528,7 +1549,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.604Z",
+      "fetchedAt": "2026-11-15T23:53:18.148Z",
       "status": "ok"
     },
     {
@@ -1584,8 +1605,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "미국은 인도가 경쟁업체에 비해 관세 비교 우위를 확보할 수 있도록 획기적인 돌파구를 마련했습니다.",
-          "tr": "google"
+          "titleKo": "미국, 인도에 경쟁국 대비 관세 우위 보장…\"중대 돌파구\"",
+          "tr": "claude",
+          "titleKoAlt": "미국은 인도가 경쟁업체에 비해 관세 비교 우위를 확보할 수 있도록 획기적인 돌파구를 마련했습니다."
         },
         {
           "id": "hindu-4",
@@ -1632,7 +1654,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.921Z",
+      "fetchedAt": "2026-11-15T23:53:18.492Z",
       "status": "ok"
     },
     {
@@ -1690,8 +1712,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "학생들은 정부의 노력에 감사했고, CM Yogi가 도착하자마자 행사장은 Bharat Mata의 환호로 가득 찼습니다.",
-          "tr": "google"
+          "titleKo": "학생들, 정부 노력 높이 평가…요기 총리 도착하자 행사장 \"바라트 마타\" 구호로 가득",
+          "tr": "claude",
+          "titleKoAlt": "학생들은 정부의 노력에 감사했고, CM Yogi가 도착하자마자 행사장은 Bharat Mata의 환호로 가득 찼습니다."
         },
         {
           "id": "jagran-4",
@@ -1740,7 +1763,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.896Z",
+      "fetchedAt": "2026-11-15T23:53:18.433Z",
       "status": "ok"
     },
     {
@@ -1845,7 +1868,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.955Z",
+      "fetchedAt": "2026-11-15T23:53:18.472Z",
       "status": "ok"
     },
     {
@@ -1948,7 +1971,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:48.822Z",
+      "fetchedAt": "2026-11-15T23:53:18.353Z",
       "status": "ok"
     },
     {
@@ -2057,7 +2080,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:49.271Z",
+      "fetchedAt": "2026-11-15T23:53:18.790Z",
       "status": "ok"
     },
     {
@@ -2165,7 +2188,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:49.132Z",
+      "fetchedAt": "2026-11-15T23:53:18.684Z",
       "status": "ok"
     },
     {
@@ -2277,7 +2300,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:49.300Z",
+      "fetchedAt": "2026-11-15T23:53:18.803Z",
       "status": "ok"
     },
     {
@@ -2395,7 +2418,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:49:49.253Z",
+      "fetchedAt": "2026-11-15T23:53:18.819Z",
       "status": "ok"
     }
   ],
@@ -2403,16 +2426,16 @@
     "successful": 23,
     "total": 23,
     "translated": 175,
-    "byClaude": 25,
+    "byClaude": 47,
     "claude": {
       "run": {
-        "titles": 25,
-        "usd": 0.0046517,
-        "rejected": 35,
+        "titles": 22,
+        "usd": 0.0054699,
+        "rejected": 38,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0047,
+      "monthUsd": 0.0101,
       "limitUsd": 2
     }
   }
