@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T12:54:04.357Z",
-  "count": 440,
+  "updated": "2026-11-16T12:57:48.387Z",
+  "count": 442,
   "items": [
     {
       "source": "reuters_ru",
@@ -250,6 +250,18 @@
       "date": "2026-11-16T11:00:05.000Z",
       "topics": [
         "에너지·원유",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "aljazeera",
+      "country": "me",
+      "title": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
+      "titleKo": "아흐마드 티비, 이스라엘 크네세트 부의장 선출",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWEhWcUtLazdMRUpPTTMzanBXLU9sQUVFOTdFZGJpRkZvYlU5OUoxS2dzei13V0RVNDVOTHhXcURYTlJBUkltS0NaUFlvVVFnRjk5Wlo0cXgxWWhKV2FLQi1rQnVRWUNiaklldEZhWHFmMjdDT1pfVzFMUEdURm1qT3JaSjR0aFh5YlNiR2o4YnE1V2lIRFZ3clR2YXBDcG9B?oc=5",
+      "date": "2026-11-16T10:58:40.000Z",
+      "topics": [
         "외교·안보"
       ]
     },
@@ -581,6 +593,18 @@
         "AI·반도체",
         "외교·안보",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Wind farms hand back millions as power prices jump",
+      "titleKo": "전력 가격 급등에 풍력발전소들 수백만 파운드 반환 논란",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONUVOOE03VEdqRGgwRHllUWpicFUxX09QNG52WlJOYWZodWVQME5vTXBJR3lBTkVBU2tjWlRLMEpYUldYc21WaDMwYldLak4zRVV2Q05PU3Exc2tFSmVFekhSQWJYZVBtc1BpZFJTX3JOM2JsQ2FXSlNSd0hmVHFncGNHSTAzQkM2VmRfdFpfVFBhWXFyNGxJUVltRGlBLUVuckE4TVpSU19GZ0V2?oc=5",
+      "date": "2026-11-16T09:00:00.000Z",
+      "topics": [
+        "경제·물가"
       ]
     },
     {
