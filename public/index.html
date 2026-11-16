@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#148653"><meta name="description" content="6개국과 중동, 25개 매체의 헤드라인으로 보는 정치·사회·경제."><meta property="og:type" content="website"><meta property="og:site_name" content="세계의 오늘 · World Desk"><meta property="og:title" content="세계의 오늘 · 진영별 헤드라인"><meta property="og:description" content="6개국과 중동, 25개 매체의 최신 제목을 한국어로 나란히 읽는 뉴스판. 매시간 갱신."><meta property="og:image" content="https://gigabgim59-sketch.github.io/worldnow/worldnow-thumb.png?v=2"><meta property="og:image:width" content="2400"><meta property="og:image:height" content="1260"><meta property="og:image:alt" content="5개국·중국·중동 23개 매체를 진보·비판에서 보수·정부까지 배치한 언론 지형"><meta property="og:url" content="https://gigabgim59-sketch.github.io/worldnow/"><meta property="og:locale" content="ko_KR"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="세계의 오늘 · 진영별 헤드라인"><meta name="twitter:description" content="6개국과 중동, 25개 매체의 최신 제목을 한국어로 나란히 읽는 뉴스판. 매시간 갱신."><meta name="twitter:image" content="https://gigabgim59-sketch.github.io/worldnow/worldnow-thumb.png?v=2"><title>세계의 오늘 · World Desk</title>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#148653" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#121715" media="(prefers-color-scheme: dark)"><meta name="color-scheme" content="light dark"><link rel="manifest" href="manifest.webmanifest"><link rel="apple-touch-icon" href="apple-touch-icon.png"><link rel="icon" type="image/png" sizes="192x192" href="icon-192.png"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="세계의 오늘"><meta name="description" content="6개국과 중동, 25개 매체의 헤드라인으로 보는 정치·사회·경제."><meta property="og:type" content="website"><meta property="og:site_name" content="세계의 오늘 · World Desk"><meta property="og:title" content="세계의 오늘 · 진영별 헤드라인"><meta property="og:description" content="6개국과 중동, 25개 매체의 최신 제목을 한국어로 나란히 읽는 뉴스판. 매시간 갱신."><meta property="og:image" content="https://gigabgim59-sketch.github.io/worldnow/worldnow-thumb.png?v=2"><meta property="og:image:width" content="2400"><meta property="og:image:height" content="1260"><meta property="og:image:alt" content="5개국·중국·중동 23개 매체를 진보·비판에서 보수·정부까지 배치한 언론 지형"><meta property="og:url" content="https://gigabgim59-sketch.github.io/worldnow/"><meta property="og:locale" content="ko_KR"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="세계의 오늘 · 진영별 헤드라인"><meta name="twitter:description" content="6개국과 중동, 25개 매체의 최신 제목을 한국어로 나란히 읽는 뉴스판. 매시간 갱신."><meta name="twitter:image" content="https://gigabgim59-sketch.github.io/worldnow/worldnow-thumb.png?v=2"><title>세계의 오늘 · World Desk</title>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 [hidden]{display:none!important}
-:root{--green:#128353;--ink:#1d2622;--sub:#5f6a65;--faint:#76827c;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
+:root{--soft:#e9eee9;--seg:#eef1ee;--body:#2f3a35;--three:#1d2622;--green:#128353;--ink:#1d2622;--sub:#5f6a65;--faint:#76827c;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
  --l:#2f6fd6;--e:#b7791f;--r:#d0453c;--s:#7a4fc4;--c:#5f6b66;--w:#1f8a8a}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -15,7 +15,7 @@ button{cursor:pointer;background:none;border:0;padding:0}
 .wrap{max-width:1240px;margin:0 auto;padding:0 16px}
 
 /* 머리 */
-.top{background:#fff}
+.top{background:var(--card)}
 .mast{display:flex;align-items:center;justify-content:space-between;padding:16px 0 10px}
 .brand{display:flex;align-items:center;gap:10px;color:inherit;text-decoration:none;cursor:pointer}
 .mark{width:34px;height:34px;border-radius:10px;background:var(--green);color:#fff;display:grid;place-items:center;font-weight:850;font-size:18px}
@@ -26,7 +26,7 @@ button{cursor:pointer;background:none;border:0;padding:0}
 .mast .acts{display:flex;gap:2px}
 
 /* 나라 탭: 한 줄에 모두 */
-.tabs{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line)}
+.tabs{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line)}
 .tabs .wrap{display:flex}
 .tabs .wrap{justify-content:space-between}.tabs button{flex:none;min-width:0;padding:11px 2px 10px;font-size:15px;font-weight:600;color:var(--faint);border-bottom:2.5px solid transparent;white-space:nowrap}
 .tabs button.on{color:var(--ink);font-weight:800;border-color:var(--ink)}
@@ -38,24 +38,24 @@ button{cursor:pointer;background:none;border:0;padding:0}
 .status{font-size:12.5px;color:var(--sub);white-space:nowrap;margin-right:auto;display:flex;align-items:center;gap:6px}
 .status i{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 0 3px #d6eee1}
 .status.old i{background:#d49a2a;box-shadow:0 0 0 3px #f6e8c9}
-.chip{flex:none;border:1px solid var(--line);background:#fff;border-radius:99px;padding:6px 12px;font-size:13px;font-weight:600;color:var(--sub);white-space:nowrap}
-.chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+.chip{flex:none;border:1px solid var(--line);background:var(--card);border-radius:99px;padding:6px 12px;font-size:13px;font-weight:600;color:var(--sub);white-space:nowrap}
+.chip.on{background:var(--ink);border-color:var(--ink);color:var(--bg)}
 select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .searchrow{padding:6px 0 0}
-.searchrow input{width:100%;border:1px solid var(--line);background:#fff;border-radius:12px;padding:10px 14px;font-size:15px;outline:none}
+.searchrow input{width:100%;border:1px solid var(--line);background:var(--card);border-radius:12px;padding:10px 14px;font-size:15px;outline:none}
 .notice{font-size:12.5px;color:#9a6a12;padding:6px 0 0}
-.issues{margin:12px 0 2px;background:#fff;border-radius:14px;padding:12px 14px}
+.issues{margin:12px 0 2px;background:var(--card);border-radius:14px;padding:12px 14px}
 .issues h3{margin:0 0 8px;font-size:13px;font-weight:800;color:var(--sub);display:flex;justify-content:space-between}
 .issues h3 small{font-weight:500;color:var(--faint)}
 .irow{display:flex;gap:6px;overflow-x:auto;scrollbar-width:none}.irow::-webkit-scrollbar{display:none}
-.ichip{flex:none;border:1.5px solid var(--line);border-radius:99px;padding:6px 12px;font-size:14px;font-weight:700;background:#fff;white-space:nowrap}
+.ichip{flex:none;border:1.5px solid var(--line);border-radius:99px;padding:6px 12px;font-size:14px;font-weight:700;background:var(--card);white-space:nowrap}
 .ichip span{font-size:11.5px;color:var(--green);margin-left:4px;font-weight:800}
 .ichip.on{background:var(--green);border-color:var(--green);color:#fff}.ichip.on span{color:#d6f0e2}
 .ihead{display:flex;align-items:baseline;justify-content:space-between;padding:18px 2px 4px}
 .ihead h2{margin:0;font-size:22px;font-weight:800;letter-spacing:-.03em}
 .ihead p{margin:4px 0 0;font-size:13px;color:var(--sub)}
 .ihead button{color:var(--green);font-weight:700;font-size:14px;white-space:nowrap}
-.ibox{background:#fff;border-radius:16px;padding:12px 16px 4px;margin:10px 0}
+.ibox{background:var(--card);border-radius:16px;padding:12px 16px 4px;margin:10px 0}
 .ibox h4{margin:0 0 2px;font-size:16px;font-weight:800;display:flex;gap:6px;align-items:baseline}
 .ibox h4 small{font-size:12px;color:var(--faint);font-weight:600}
 .iitem{display:block;padding:10px 0;border-top:1px solid var(--line)}
@@ -63,24 +63,24 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .iitem .lh{margin-bottom:3px}
 .silent{font-size:13px;color:var(--sub);padding:8px 2px 4px}
 .silent b{color:var(--ink)}
-.views{display:flex;gap:4px;background:#eef1ee;border-radius:12px;padding:3px;margin:2px 0 10px}
+.views{display:flex;gap:4px;background:var(--seg);border-radius:12px;padding:3px;margin:2px 0 10px}
 .views button{flex:1;padding:8px 0;border-radius:9px;font-size:14.5px;font-weight:700;color:var(--sub)}
-.views button.on{background:#fff;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.views button.on{background:var(--card);color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
 .bhead{padding:16px 2px 6px}
 .bhead .k{font-size:12px;font-weight:800;color:var(--green);letter-spacing:.06em}
 .bhead h2{margin:4px 0 4px;font-size:23px;font-weight:800;letter-spacing:-.035em}
 .bhead p{margin:0;font-size:13px;color:var(--sub)}
 .bhead select{margin-top:8px}
-.three{background:var(--ink);color:#fff;border-radius:16px;padding:16px 18px;margin:12px 0}
+.three{background:var(--three);color:#fff;border-radius:16px;padding:16px 18px;margin:12px 0}
 .three h3{margin:0 0 8px;font-size:13px;color:#b9d8c8;font-weight:800;letter-spacing:.04em}
 .three ol{margin:0;padding-left:20px}.three li{font-size:15.5px;line-height:1.55;margin:6px 0;font-weight:500}
 .bc{margin:20px 0 6px}
 .bc h2{margin:0 0 8px;font-size:20px;font-weight:800;display:flex;align-items:baseline;gap:8px}
 .bc h2 span{font-size:11px;color:var(--green);font-weight:800;letter-spacing:.08em}
-.bi{background:#fff;border-radius:16px;padding:16px 16px 12px;margin:0 0 10px}
+.bi{background:var(--card);border-radius:16px;padding:16px 16px 12px;margin:0 0 10px}
 .bi h3{margin:0 0 6px;font-size:17px;font-weight:800;letter-spacing:-.03em;line-height:1.4}
 .bi h3 b{color:var(--green);margin-right:6px}
-.what{font-size:15px;line-height:1.65;color:#2f3a35;margin:0 0 10px}
+.what{font-size:15px;line-height:1.65;color:var(--body);margin:0 0 10px}
 .st{display:flex;gap:9px;align-items:flex-start;padding:9px 0;border-top:1px solid var(--line)}
 .st .tag{margin-top:2px}
 .st div{font-size:14.5px;line-height:1.55}
@@ -93,10 +93,11 @@ details.src a b{color:var(--ink);font-weight:600}
 /* 브리핑 바로가기: 휴대폰은 위에 고정된 가로 칩, 넓은 화면은 왼쪽 고정 목차 */
 .bnav{position:sticky;top:var(--th,49px);z-index:4;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;background:var(--bg);margin:0 -16px;padding:8px 16px}
 .bnav::-webkit-scrollbar{display:none}
-.bnav a{flex:none;font-size:13.5px;font-weight:700;color:var(--sub);background:#fff;border:1px solid var(--line);border-radius:99px;padding:5px 12px;text-decoration:none}
+.bnav a{flex:none;font-size:13.5px;font-weight:700;color:var(--sub);background:var(--card);border:1px solid var(--line);border-radius:99px;padding:5px 12px;text-decoration:none}
 .bnav a small{color:var(--green);margin-left:4px;font-weight:800}
 .bnav ol{display:none}
-.bc{scroll-margin-top:calc(var(--th,49px) + 56px)}.bi{scroll-margin-top:calc(var(--th,49px) + 16px)}
+.bc{scroll-margin-top:calc(var(--th,49px) + 56px)}.bi{scroll-margin-top:calc(var(--th,49px) + 64px)} /* 휴대폰: 탭+나라 칩 아래로 */
+@media(min-width:1000px){.bc{scroll-margin-top:calc(var(--th,49px) + 12px)}.bi{scroll-margin-top:calc(var(--th,49px) + 16px)}}
 .bc>summary{list-style:none;cursor:pointer}.bc>summary::-webkit-details-marker{display:none}
 .bc>summary h2::after{content:'접기';margin-left:auto;font-size:12px;color:var(--faint);font-weight:600;letter-spacing:0}
 .bc:not([open])>summary h2::after{content:'펼치기'}
@@ -105,10 +106,15 @@ details.src a b{color:var(--ink);font-weight:600}
  .blayout{display:grid;grid-template-columns:200px minmax(0,760px);gap:36px;justify-content:start}
  .bnav{flex-direction:column;align-self:start;top:calc(var(--th,49px) + 16px);margin:0;padding:6px 0;max-height:calc(100vh - 120px);overflow:auto;background:none;gap:2px}
  .bnav a{border:0;background:none;padding:6px 8px;border-radius:8px;font-size:14px;color:var(--ink)}
- .bnav a:hover{background:#e9eee9}
+ .bnav a:hover{background:var(--soft)}
  .bnav ol{display:block;margin:0 0 8px;padding:0 0 0 8px;list-style:none}
  .bnav ol a{display:block;font-size:12.5px;font-weight:500;color:var(--sub);padding:3px 8px;line-height:1.4;white-space:normal}
 }
+.bi{position:relative}
+.bi.hit{box-shadow:0 0 0 2px var(--green)}
+.share{position:absolute;top:12px;right:12px;font-size:12px;font-weight:700;color:var(--green);border:1px solid var(--line);border-radius:99px;padding:3px 10px;background:var(--card)}
+.bi h3{padding-right:52px}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);font-size:13.5px;font-weight:600;padding:9px 16px;border-radius:99px;z-index:20;box-shadow:0 4px 16px rgba(0,0,0,.18)}
 .bnote{font-size:12.5px;color:var(--faint);line-height:1.6;padding:10px 2px}
 .topicnow{font-size:13px;padding:8px 0 0;color:var(--sub)}
 .topicnow b{color:var(--ink)}
@@ -121,7 +127,7 @@ details.src a b{color:var(--ink);font-weight:600}
 .rh .code{font-size:11px;font-weight:800;color:var(--green);letter-spacing:.08em}
 .rh .topics{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none;flex:1;min-width:0}
 .rh .topics::-webkit-scrollbar{display:none}
-.rh .topics button{flex:none;font-size:12px;color:var(--sub);background:#e9eee9;border-radius:6px;padding:2px 7px;font-weight:600}
+.rh .topics button{flex:none;font-size:12px;color:var(--sub);background:var(--soft);border-radius:6px;padding:2px 7px;font-weight:600}
 .rh .topics button.on{background:var(--green);color:#fff}
 .rh .more{font-size:13px;color:var(--green);font-weight:700;white-space:nowrap}
 
@@ -160,6 +166,17 @@ dialog h2{margin:0 0 8px;font-size:19px}
 dialog .close{float:right;font-weight:700;color:var(--sub)}
 dialog table{width:100%;border-collapse:collapse;font-size:13px;margin-top:8px}
 dialog td{padding:6px 4px;border-top:1px solid var(--line)}
+
+/* 다크 모드: 기기 설정을 따름 */
+@media(prefers-color-scheme:dark){
+ :root{--ink:#e6ece8;--sub:#aab6b0;--faint:#8e9a94;--line:#2b3531;--bg:#111614;--card:#1a211e;--soft:#26302c;--seg:#0c100e;--body:#d2dbd6;--three:#0a0e0c;--green:#3fb37f;
+  --l:#4d8ef0;--e:#c98d2e;--r:#e05a50;--s:#9470dc;--c:#7d8a84;--w:#2fa3a3}
+ .mark,.ichip.on,.rh .topics button.on{color:#06110b}
+ .lane{box-shadow:none}
+ .notice{color:#e0b25a}
+ .status i{box-shadow:0 0 0 3px #1f3a2c}
+ img{opacity:.92}
+}
 </style>
 </head>
 <body>
@@ -361,7 +378,7 @@ function renderBrief(){
     const C=(D.countries||[]).find(x=>x.id===c);if(!C)continue;
     h+='<details class="bc" open id="b-'+c+'"><summary><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2></summary>';
     C.issues.forEach((it,i)=>{
-      h+='<article class="bi" id="b-'+c+'-'+i+'"><h3><b>'+'①②③④⑤'[i]+'</b>'+esc(it.title)+'</h3><p class="what">'+esc(it.what)+'</p>'
+      h+='<article class="bi" id="b-'+c+'-'+i+'"><button class="share" data-share="b-'+c+'-'+i+'" data-title="'+esc(it.title)+'" aria-label="이 이슈 링크 공유">공유</button><h3><b>'+'①②③④⑤'[i]+'</b>'+esc(it.title)+'</h3><p class="what">'+esc(it.what)+'</p>'
        +(it.stances||[]).map(st=>{const [,side,tag]=SIDE_OF(st.source);return '<div class="st '+side+'"><span class="tag">'+esc(st.tag||tag)+'</span><div><small>'+esc(nm(st.source))+'</small>'+esc(st.text)+'</div></div>';}).join('')
        +((it.links||[]).length?'<details class="src"><summary>근거 기사 '+it.links.length+'건</summary>'+it.links.map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(nm(l.source))+'</b> · '+esc(l.title)+'</a>').join('')+'</details>':'')
        +'</article>';
@@ -369,7 +386,7 @@ function renderBrief(){
     h+='</details>';
   }
   h+='<p class="bnote">이 브리핑은 '+(state.feeds.length||25)+'개 매체가 최근 3일 동안 낸 기사 제목을 원문으로 읽고, 주요 사실은 웹 검색으로 확인해 Claude가 매일 아침 작성합니다. 기사 본문 전체를 읽은 것은 아니므로, 판단이 필요하면 근거 기사 원문을 확인하세요. 진영 꼬리표는 매체 성향의 대략적 구분입니다.</p></div></div>';
-  el.innerHTML=h;
+  el.innerHTML=h;if(typeof jumpIfPending==='function')jumpIfPending();
 }
 function render(){
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('on',b.dataset.view===state.view);b.setAttribute('aria-selected',b.dataset.view===state.view)});
@@ -415,6 +432,17 @@ document.addEventListener('click',e=>{const a=e.target.closest('.bnav a');if(!a)
   const t=document.getElementById(a.getAttribute('href').slice(1));if(!t)return;const d=t.closest('details');if(d)d.open=true;t.scrollIntoView({behavior:'smooth',block:'start'});});
 const setTH=()=>{const t=document.querySelector('.tabs');if(t)document.documentElement.style.setProperty('--th',t.offsetHeight+'px');};
 setTH();addEventListener('resize',setTH);try{new ResizeObserver(setTH).observe(document.querySelector('.tabs'))}catch{} // 탭 버튼이 그려진 뒤 높이 반영
+// 이슈 공유: 휴대폰은 공유 창, 그 밖에는 링크 복사
+const toast=t=>{const d=document.createElement('div');d.className='toast';d.textContent=t;document.body.appendChild(d);setTimeout(()=>d.remove(),1800);};
+document.addEventListener('click',async e=>{const b=e.target.closest('[data-share]');if(!b)return;e.preventDefault();
+  const url=location.origin+location.pathname+'#'+b.dataset.share,title=b.dataset.title+' · 세계의 오늘';
+  if(navigator.share&&matchMedia('(pointer:coarse)').matches){try{await navigator.share({title,url});}catch{}return;}
+  try{await navigator.clipboard.writeText(url);toast('링크를 복사했습니다');}catch{prompt('이 링크를 복사하세요',url);}});
+// 공유 링크(#b-나라-번호)로 들어오면 브리핑의 그 이슈로 이동
+let pendingJump=/^#b-[a-z]+(-\d+)?$/.test(location.hash)?location.hash.slice(1):null;
+if(pendingJump){state.view='brief';state.country='all';}
+const jumpIfPending=()=>{if(!pendingJump)return;const t=document.getElementById(pendingJump);if(!t)return;pendingJump=null;const d=t.closest('details');if(d)d.open=true;setTimeout(()=>t.scrollIntoView({block:'start'}),50);t.classList.add('hit');setTimeout(()=>t.classList.remove('hit'),2200);};
+addEventListener('hashchange',()=>{if(/^#b-/.test(location.hash)){pendingJump=location.hash.slice(1);state.view='brief';state.country='all';render();renderBrief();jumpIfPending();}});
 $('home').onclick=e=>{e.preventDefault();Object.assign(state,{view:'brief',country:'all',issue:null,topic:null,search:''});
   const sr=$('searchRow'),si=$('search');if(si)si.value='';if(sr)sr.hidden=true;
   try{history.replaceState(null,'',location.pathname)}catch{}window.scrollTo({top:0});save();render();
@@ -431,6 +459,7 @@ window.addEventListener('hashchange',()=>{const k=location.hash.slice(1);if(COUN
 // 날짜는 보는 날 기준, 매체 수는 받은 데이터 기준으로 자동 표시
 function setToday(){$('today').textContent=new Date().toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul',month:'long',day:'numeric',weekday:'long'})+' · 6개국과 중동, '+(state.feeds.length||25)+'개 매체';}
 setToday();setInterval(setToday,60*1000);
-render();load();loadBrief();
+render();load();
+if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('sw.js').catch(()=>{});loadBrief();
 setInterval(()=>{if(!document.hidden)load();},15*60*1000);
 </script></body></html>
