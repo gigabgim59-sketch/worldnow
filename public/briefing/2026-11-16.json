@@ -5,9 +5,9 @@
  "articles": 176,
  "author": "Claude",
  "headline": [
-  "엔비디아 젠슨 황 파문이 이번 주 트럼프·시진핑 회담을 앞둔 미·중 기술 경쟁의 변수로 떠올랐다. 미국에선 대중 반도체 통제 강화론이 커지지만, 중국 국영 매체는 이 사안을 다루지 않고 아세안 외교와 기술 자립 성과를 앞세운다.",
-  "이란 전쟁의 여파가 에너지·물가로 번지고 있다. 호르무즈 해협 유조선 피해, 유럽 에너지 위기, 영국의 금리 인상 압력, 프랑스 물가 3.4%가 한 줄기로 이어진다.",
-  "각국 국내 정치는 ‘정부 대 견제 세력’ 구도다. 미국은 민주당 의회 대 백악관, 영국은 로즈뱅크 유전을 둘러싼 노동당 내부 반란, 프랑스는 시위와 대선 경쟁, 인도는 야당 국제회의 비자 논란으로 맞선다."
+  "엔비디아 파문이 미·중 정상회담을 앞둔 기술 경쟁의 변수가 됐다.",
+  "이란 전쟁의 여파가 에너지·물가로 번지고 있다.",
+  "각국 국내 정치는 ‘정부 대 견제 세력’ 구도다."
  ],
  "countries": [
   {
@@ -780,6 +780,86 @@
        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQck5IOWg5dk9OUzhMMndjXzFSSkV4X180MVg1RFI4VWhMQmtHSG5LZmJINU04YkJNTXVzdGcxYmhQMU5PdHd0RDVhcEZsYlI2anUzcG5ZeG0yMHVCQjZuMlgxdW9uSGVhMDNGNlhkSUhBVm5uTmlmOVotUlBudjVwMmFxWl9LUS1URldGLTQ0QjlpNHBFYmVRcXVPTjJESTZBNVAybld0TzDSAa8BQVVfeXFMTXdKcUgxMWQ2ODNBUzFvMnlNOXJmcTJXQV82OTB5dVVId0Zoc2RGc2w1NGRoMHAybWwtSFYyX1h5dV81R2VVcFZrbWZ1aTF1SVhhcVVwWmJ1UVJvUXVPM1BmTWdjWDVxVGJHUGo1VDN4NVFVVGF5ZktINUpaLVRsbnNRZy10eUVuRlN5MDlsemlrXzZnZXdFdW1yWlB2bHBUcnBHSFB6Q2xzV0xmM3JzTQ?oc=5"
       }
      ]
+    }
+   ]
+  }
+ ],
+ "headlineDetail": [
+  {
+   "keys": [
+    "엔비디아",
+    "트럼프·시진핑 회담",
+    "반도체 통제"
+   ],
+   "desc": "젠슨 황 CEO가 스캔들·정보기관 접근 의혹 속에 물러나자, 미국에선 대중 반도체 통제 강화론이 커지고 중국 국영 매체는 이 사안을 다루지 않는다.",
+   "items": [
+    {
+     "c": "us",
+     "t": "엔비디아 파문, 트럼프·시진핑 회담에 그림자"
+    },
+    {
+     "c": "us",
+     "t": "대중 반도체 수출통제 강화 요구"
+    },
+    {
+     "c": "cn",
+     "t": "리창 총리의 아세안 외교 (엔비디아 언급 없음)"
+    },
+    {
+     "c": "cn",
+     "t": "기술 자립과 AI 인프라 경쟁"
+    }
+   ]
+  },
+  {
+   "keys": [
+    "이란 전쟁",
+    "호르무즈",
+    "에너지·물가"
+   ],
+   "desc": "호르무즈 해협 피해로 에너지 값이 오르자, 영국은 금리 인상 압력에, 프랑스는 물가·임금 문제에 부딪혔다.",
+   "items": [
+    {
+     "c": "me",
+     "t": "호르무즈 주변 선원 25명 사망, 미국은 추가 공습 자제 신호"
+    },
+    {
+     "c": "uk",
+     "t": "영란은행 “추가 금리 인상 필요”"
+    },
+    {
+     "c": "fr",
+     "t": "10월 물가 3.4%, 저임금 인상에 10억 유로"
+    },
+    {
+     "c": "ru",
+     "t": "EU, 러시아 원유 운송 추가 제재 예고"
+    }
+   ]
+  },
+  {
+   "keys": [
+    "정부 대 견제",
+    "당내 반발",
+    "시위·선거"
+   ],
+   "desc": "각국 정부가 의회·집권당 내부·거리·야당의 견제에 동시에 부딪히고 있다.",
+   "items": [
+    {
+     "c": "us",
+     "t": "민주당 의회 대 백악관"
+    },
+    {
+     "c": "uk",
+     "t": "로즈뱅크 유전 두고 노동당 내부 반발"
+    },
+    {
+     "c": "fr",
+     "t": "전국 시위 400여 명 체포, 대선 경쟁"
+    },
+    {
+     "c": "in",
+     "t": "야당 ‘바라트 서밋’ 비자 거부 논란"
     }
    ]
   }

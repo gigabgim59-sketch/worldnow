@@ -6,6 +6,12 @@ const ORDER=['us','cn','uk','ru','fr','me','in'];
 assert.match(B.date,/^\d{4}-\d{2}-\d{2}$/);assert(f.endsWith(B.date+'.json'),'파일명과 date 불일치');
 assert(Array.isArray(B.headline)&&B.headline.length===3,'headline 3줄');
 assert.deepEqual(B.countries.map(c=>c.id),ORDER,'나라 순서');
+for(const x of B.headline)assert(typeof x==='string'&&x.length<=60,'headline은 한 문장(60자 이내): '+x);
+if(B.headlineDetail){assert(Array.isArray(B.headlineDetail)&&B.headlineDetail.length===3,'headlineDetail은 headline과 같은 3개');
+ for(const d of B.headlineDetail){assert(Array.isArray(d.keys)&&d.keys.length>=2&&d.keys.length<=4,'keys 2~4개');
+  assert(d.desc&&d.desc.length<=110,'desc 한 문장(110자 이내)');
+  assert(Array.isArray(d.items)&&d.items.length>=2&&d.items.length<=4,'items 2~4줄');
+  for(const it of d.items){assert(ORDER.includes(it.c),'items.c는 나라 id: '+it.c);assert(it.t&&it.t.length<=40,'items.t 40자 이내: '+it.t);}}}
 for(const c of B.countries){assert(c.issues.length>=1&&c.issues.length<=3,c.id+' 이슈 1~3개');
  for(const it of c.issues){assert(it.title&&it.what,'title/what');
   for(const s of it.stances){assert(S.has(s.source),'모르는 매체 '+s.source);assert.equal(S.get(s.source).country,c.id,s.source+' 나라 불일치');assert(s.text);}

@@ -74,6 +74,29 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .bhead p{margin:0;font-size:13px;color:var(--sub)}
 .bhead select{margin-top:8px}
 .three{background:var(--threebg);color:var(--ink);border-radius:16px;padding:16px 18px;margin:12px 0;border-left:4px solid var(--green)}
+.t3{padding:14px 16px 4px}
+.t3 .thead{display:flex;justify-content:space-between;align-items:center;gap:8px;margin:0 0 4px}.t3 .thead h3{margin:0}
+.t3all{display:inline-flex;align-items:center;gap:7px;font:inherit;font-size:13.5px;font-weight:800;color:#fff;background:var(--green);border:0;border-radius:999px;padding:8px 14px 8px 13px;min-height:36px;cursor:pointer;-webkit-tap-highlight-color:transparent}
+.t3all:hover{filter:brightness(1.08)}
+.t3all[aria-expanded=true]{background:var(--card);color:var(--green);box-shadow:inset 0 0 0 2px var(--green)}
+.t3ic,.t3chev::after{width:8px;height:8px;border-right:2.5px solid currentColor;border-bottom:2.5px solid currentColor;transform:rotate(45deg) translate(-2px,-2px);transition:transform .15s}
+.t3all[aria-expanded=true] .t3ic{transform:rotate(-135deg) translate(-2px,-2px)}
+.t3it{border-top:1px solid var(--line)}.t3it:first-of-type{border-top:0}
+.t3it summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:22px 1fr 20px;column-gap:4px;padding:11px 0;-webkit-tap-highlight-color:transparent}
+.t3it summary::-webkit-details-marker{display:none}
+.t3n{color:var(--green);font-weight:800;font-size:16px;line-height:1.55}
+.t3lead{font-size:16px;line-height:1.55;font-weight:700;color:var(--ink)}
+.t3chev{position:relative;color:var(--green);height:24px}.t3chev::after{content:'';position:absolute;left:5px;top:6px}
+.t3it[open] .t3chev::after{transform:rotate(-135deg) translate(-2px,-2px);top:10px}
+.t3keys{grid-column:2/4;display:flex;flex-wrap:wrap;gap:5px;margin-top:6px}
+.t3keys span{font-size:12px;font-weight:700;color:var(--green);background:var(--card);border-radius:999px;padding:1px 9px}
+.t3desc{margin:0 0 8px 26px;font-size:14.5px;line-height:1.6;color:var(--sub)}
+.t3list{margin:0 0 12px 26px;padding:0;list-style:none;background:var(--card);border-radius:12px;overflow:hidden}
+.three .t3list li{display:grid;grid-template-columns:56px 1fr;gap:8px;align-items:baseline;padding:8px 12px;margin:0;font-size:14px;line-height:1.5;font-weight:400;border-top:1px solid var(--line)}
+.three .t3list li:first-child{border-top:0}
+.t3list em{font-style:normal;font-weight:800;font-size:13px;color:var(--ink)}
+@media(min-width:760px){.t3{padding:18px 22px 6px}.t3lead,.t3n{font-size:17px}
+ .t3list{display:grid;grid-template-columns:1fr 1fr}.three .t3list li:nth-child(2){border-top:0}.three .t3list li:nth-child(odd){border-right:1px solid var(--line)}}
 .three h3{margin:0 0 8px;font-size:13px;color:var(--green);font-weight:800;letter-spacing:.04em}
 .three ol{margin:0;padding-left:20px}.three li{font-size:15.5px;line-height:1.65;margin:8px 0;font-weight:500}.three li::marker{color:var(--green);font-weight:800}
 .bc{margin:20px 0 6px}
@@ -395,7 +418,13 @@ function renderBrief(){
   const shown=regions.map(c=>[c,(D.countries||[]).find(x=>x.id===c)]).filter(([,C])=>C);
   if(shown.length>1)h+='<div class="blayout"><nav class="bnav" aria-label="나라 바로가기">'+shown.map(([c,C])=>'<a href="#b-'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a><ol>'+C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'">'+esc(it.title)+'</a></li>').join('')+'</ol>').join('')+'</nav><div class="bbody">';
   else h+='<div><div>';
-  if(state.country==='all'&&D.headline?.length)h+='<div class="three"><h3>오늘의 세계 3줄</h3><ol>'+D.headline.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
+  if(state.country==='all'&&D.headline?.length){const X=Array.isArray(D.headlineDetail)&&D.headlineDetail.length===D.headline.length?D.headlineDetail:null;
+    if(!X)h+='<div class="three"><h3>오늘의 세계 3줄</h3><ol>'+D.headline.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>'; // 예전 브리핑
+    else h+='<section class="three t3"><div class="thead"><h3>오늘의 세계 3줄</h3><button type="button" class="t3all" aria-expanded="false"><span class="t3ic" aria-hidden="true"></span><span class="t3lb">모두 펼치기</span></button></div>'
+      +D.headline.map((x,i)=>{const d=X[i]||{};return '<details class="t3it"><summary><span class="t3n">'+(i+1)+'.</span><span class="t3lead">'+esc(x)+'</span><span class="t3chev" aria-hidden="true"></span>'
+        +'<span class="t3keys">'+(d.keys||[]).map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span></summary>'
+        +(d.desc?'<p class="t3desc">'+esc(d.desc)+'</p>':'')
+        +((d.items||[]).length?'<ul class="t3list">'+d.items.map(it=>'<li><em>'+esc(COUNTRIES[it.c]?.[0]||it.c)+'</em><span>'+esc(it.t)+'</span></li>').join('')+'</ul>':'')+'</details>';}).join('')+'</section>';}
   for(const c of regions){
     const C=(D.countries||[]).find(x=>x.id===c);if(!C)continue;
     h+='<details class="bc" open id="b-'+c+'"><summary><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2></summary>';
@@ -451,6 +480,9 @@ document.addEventListener('click',e=>{
   save();render();
 });
 // 로고·제목을 누르면 처음 화면(전체 · 이슈 브리핑 · 최신 브리핑 · 맨 위)으로
+document.addEventListener('click',e=>{const b=e.target.closest('.t3all');if(!b)return;const S=b.closest('.t3'),D=[...S.querySelectorAll('.t3it')],o=!D.every(d=>d.open);D.forEach(d=>d.open=o);t3sync(S);});
+document.addEventListener('toggle',e=>{const S=e.target.closest?.('.t3');if(S)t3sync(S);},true);
+function t3sync(S){const D=[...S.querySelectorAll('.t3it')],o=D.length&&D.every(d=>d.open),b=S.querySelector('.t3all');if(!b)return;b.setAttribute('aria-expanded',o);b.querySelector('.t3lb').textContent=o?'모두 접기':'모두 펼치기';}
 document.addEventListener('click',e=>{const a=e.target.closest('.bnav a');if(!a)return;e.preventDefault();
   const t=document.getElementById(a.getAttribute('href').slice(1));if(!t)return;const d=t.closest('details');if(d)d.open=true;t.scrollIntoView({behavior:'smooth',block:'start'});});
 const setTH=()=>{const t=document.querySelector('.tabs');if(t)document.documentElement.style.setProperty('--th',t.offsetHeight+'px');};
