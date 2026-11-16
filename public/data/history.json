@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T02:08:10.980Z",
-  "count": 258,
+  "updated": "2026-11-16T02:28:09.123Z",
+  "count": 260,
   "items": [
     {
       "source": "jagran",
@@ -150,6 +150,18 @@
       "date": "2026-11-15T22:32:35.000Z",
       "topics": [
         "외교·안보"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
+      "titleKo": "시스템 복구 중에도 항공편 지연·결항 지속… 이륙 금지 조치 여파",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2Fvd0hxVEFBWFpmVlVFU2RBRElReFpOdUd1c25uQ0ItRTFhbUJzVHNiWUdadGoxeDNCYjJ4cjZydzZEaHVFS1p1ekl3T3YyVHY5eS05ZjlGLThvd19ZdG1iS2F1WEdYTE95eHc1RzBTMXk3QzhEeTJOb3IwRXlSWVFQaFp3Qy1oamVfRXNueWlVQQ?oc=5",
+      "date": "2026-11-15T22:06:59.000Z",
+      "topics": [
+        "사회·생활"
       ]
     },
     {
@@ -511,6 +523,18 @@
       "tr": "claude"
     },
     {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Neo-Nazi poster girl arrested after threat to kill French protesters",
+      "titleKo": "네오나치 '얼굴마담' 여성, 프랑스 시위대 살해 위협 혐의로 체포",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWUtCLVFEOERVOUVHZFp0bkhCbS1FNjJPRVUzZkpHRHpFelgxNHNtcVczSzBRU2RZa1BNN2JYQmJOamljb2ItWU84NjR0NGNmY3ZnU05PeER3Q1VnWjdsZHRYZ09HeHJiYmZ6NkE3RWsyZzB0S2x5dWhYclF2XzdNQ1cyb1hTam8tcnJfOWdNZHBfVzhJZS1KS3JlMGRLRy1TdXEzRnFpZTdQR3RE?oc=5",
+      "date": "2026-11-15T16:40:00.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "echos",
       "country": "fr",
       "title": "« On n'est pas sereins » : les industriels veulent peser dans la campagne présidentielle",
@@ -748,7 +772,7 @@
       "source": "guardian",
       "country": "uk",
       "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-      "titleKo": "번햄, 청년 일자리 위기 해결 위해 조기 개입·'급여 안전망' 약속",
+      "titleKo": "번햄, 청년 실업 대응 위해 조기 개입과 '수당 안전망' 약속 | 청년 실업",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlZDZzBxUDZoVEVpOGxTNFFSYjZKdndOankwWkdsQTBoMkd0MmtEUlZwaktHdzNCRGZxTWtVbmhVdWtDRDdrS04yMUE2RmRkam41OHRVQk5reDdWTWhLcm81WXpYVzhzaGlaalh4dHNrSVhIT1pxZUtjR1FTbXA1WDlmWS01MHVFeWFJblE2TTFoYmFyNkJrRTgtcDZBRXFwejh0SGY1R1Vqb0U1cWRPU0hlX0hldkRIRVpmZDdsUlNqaE0?oc=5",
       "date": "2026-11-15T12:52:00.000Z",
       "topics": [
