@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T11:16:20.459Z",
-  "count": 401,
+  "updated": "2026-11-16T11:19:44.289Z",
+  "count": 405,
   "items": [
     {
       "source": "handelsblatt",
@@ -114,6 +114,30 @@
       "date": "2026-11-16T10:29:59.000Z",
       "topics": [
         "사회·생활"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "What to Know About Trump’s Trip to Asia",
+      "titleKo": "트럼프 아시아 순방 핵심 쟁점 정리",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVVDaXk0aEl6ZTJYNWFTMnJTQTBkWk1JN3laRkxoVXozZ3F6aHhVc1plRi1aQkt1SG56cnJkQzN1S2Q4djl5Tm9oeGE4c0FjSm5ET056UnBtRWNJUElwY1p2S0hpVmdXUzVsTVQ0LVA5Z0c5ZTlCYUpsSVg1M0pqbmJn?oc=5",
+      "date": "2026-11-16T10:26:49.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "meduza",
+      "country": "ru",
+      "title": "Leaders of China, U.S., and Russia to meet without pre-agreed agenda, FT reports",
+      "titleKo": "미·중·러 정상, 사전 합의된 의제 없이 회담 — FT 보도",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVZ5eXBDeEJMVi1TZ3NpbFBWb2VtTDFPa3RDNFZfX2tzVHIxYldSUlo0Nnd3YkNORzNNVnVvMFdTSmFENVgxTmVmU0VlNTN0MkgtZEczZ0lOWXE4WkY0emE1UG55UUMyRlRNMW9mRzRDT2NjdFlvUFAxY3JLakVxckF2eU1pcVM3TFIyOTZtRV9uOGJsSXhUcDlPR2REeFlrcHhmV2xoQVpfLUNhbGVhOTVjRdIBuAFBVV95cUxQRVJBWC1MdW1KZFk0NHhVSGtuUVNBTWpWS2Z4Z201Tm1ENUNseDFyNlJaeDNTSU41bnF5U3JPRzlJNXpkNmVEdGoyRFlMVjZKa21KVUVSZWFOc0tsaHJhV0NRSnBWVDNURnppUU9ISWNKUDVxYnhtOGU1LXZ0dnlQd3VqU2tWcm5mSnRVbnFvNWhJWE5CQlFSZkkyV1FoQ1hWQWh3UkJna1hjZHJsVXlvTjlWd0hvR2RI?oc=5",
+      "date": "2026-11-16T10:21:00.000Z",
+      "topics": [
+        "외교·안보"
       ]
     },
     {
@@ -1813,6 +1837,18 @@
         "사회·생활"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Regierungsbildung in Berlin - Ramelow wirft Emde Vertrauensbruch vor - Politik - SZ.de",
+      "titleKo": "베를린 연정 협상 진통 — 라메로, 엠데에 \"신뢰 파기\" 비난",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTXh5dWZEXzktTGkwNzJBbWhDMzRyVW1IYkloQ21iWmt3RmwyTjB0YkVxOFdIZklyTzhmMEF5Y3haTGxMRmk4RVdUZDNPSVowUnphel9PVW8wUDhaRGQxY2NjbHR2bWJQRFpCcW5SQmJMVy1RTnJRcmxQOGlTd2VSUFIxYnNWbUFPSi1TdTZSd3VFamthRE5rbGhHaHdYMWZ2QmJZSE1BZG9FUU9MNmVQTXhXS3B5bHBNSmViWnppelpWdU4zdnh0SEdFS2VYYTIyMkNFTlhNVGE3YWhxVkV1Q1Jjc1dNcWs?oc=5",
+      "date": "2026-11-15T16:17:22.000Z",
+      "topics": [
+        "정치·선거"
+      ]
     },
     {
       "source": "haaretz",
@@ -4235,6 +4271,18 @@
       "date": "2026-11-13T15:39:27.000Z",
       "topics": [
         "금리·물가"
+      ]
+    },
+    {
+      "source": "faz",
+      "country": "de",
+      "title": "Haushalt 2027: Reicht das?",
+      "titleKo": "2027년 예산안, 충분한가 — 재정 전망 논란",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlROUmtkQWJaVkVRQ0IyN1kxNDEtTGllNC1yOG14T2xPeFBpeW94RmlBZDFjWHN0REx0U25MbTRLOGdIY0VUZGNJMHZBeDRqN0Jxbmp0WGdPNnJBWV91VXZsLTJ1ZWdoTTc3STRtcGJxVUt4Z0xOd2ZiRHRmQVdMb1Q5c1UzblhaWWZmb0JGbk5BMkUxRklvaVZFbC1qdmpl?oc=5",
+      "date": "2026-11-13T15:37:34.000Z",
+      "topics": [
+        "예산·재정"
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T11:16:20.194Z",
+  "generatedAt": "2026-11-16T11:19:44.276Z",
   "feeds": [
     {
       "source": {
@@ -111,7 +111,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:16.688Z",
+      "fetchedAt": "2026-11-16T11:19:39.374Z",
       "status": "ok"
     },
     {
@@ -221,7 +221,7 @@
           "titleKoAlt": "인플레이션으로 인해 24년간의 주택 가격 상승분이 사라졌습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:16.684Z",
+      "fetchedAt": "2026-11-16T11:19:39.343Z",
       "status": "ok"
     },
     {
@@ -332,7 +332,7 @@
           "titleKoAlt": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:16.680Z",
+      "fetchedAt": "2026-11-16T11:19:39.352Z",
       "status": "ok"
     },
     {
@@ -415,17 +415,6 @@
         },
         {
           "id": "sz-6",
-          "title": "Eisiges Berlin und Brandenburg - Pop-up-Eisbahn bis Stadion: Wo man Schlittschuh laufen kann - Panorama - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNM3FlamhldjRqVXdYVmlWX1UySXpKc0Jtem15TFh3OHlrc1dUeWVRSXM3WjVuaGtoak93RzlEUUVBRVJpbTFRUjBhalpFMUdRcEJuT1FydlhlUDVjQU9JV0RvM0VIRGdPRDVMME83dmVrSzdJczdvd3pxaUJNNjhBaW53WlNTME1GNGpoQlBKMVRsVDVUYXg4V3AxYmxobnNXb1JiV05XczB2ZEdBSHlCSno1c25MZzY2blZsS3owdzNjc0pCanZ1S3BadUZKU3dRSmRZeUdXVUktdGlGZ3pRdFJMQjlHMk95ajVXREVrOE9sZXY1anFNcDBaWXBVXzJwWFA4?oc=5",
-          "date": "2026-11-16T05:00:07.000Z",
-          "topics": [
-            "사회·생활"
-          ],
-          "titleKo": "얼어붙은 베를린·브란덴부르크 — 팝업 스케이트장 위치 안내",
-          "tr": "claude"
-        },
-        {
-          "id": "sz-7",
           "title": "Brandanschlag in Berlin: Auto von \"Nius\"-Chef Julian Reichelt angezündet - Polizei prüft Bekennerschreiben",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlc2UTN3U1R2cS1yV3lmRDd4UWRjN2pqQjhYXzhtMG0xTjRmcUFoVkc2c3BNbWhUVEFwWUh1ZkxVRE1ORC1rS0RPcUpDaENkVUl1MjF2dXJSNWYwZm1KT2FyMWNiVzBIN0UyTDgxV00yUFJMWWRxLW5OSV9yN3lXa29qUTVHdjVDLTBScloxS01VWmhwQTBtcm9zY0tmQkJISXpZdg?oc=5",
           "date": "2026-11-15T14:44:14.000Z",
@@ -434,9 +423,20 @@
           ],
           "titleKo": "베를린 방화 공격, 뉴스 편집장 율리안 라이힐트의 차량 방화…경찰, 범행 성명문 검증 중",
           "tr": "claude"
+        },
+        {
+          "id": "sz-7",
+          "title": "Regierungsbildung in Berlin - Ramelow wirft Emde Vertrauensbruch vor - Politik - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTXh5dWZEXzktTGkwNzJBbWhDMzRyVW1IYkloQ21iWmt3RmwyTjB0YkVxOFdIZklyTzhmMEF5Y3haTGxMRmk4RVdUZDNPSVowUnphel9PVW8wUDhaRGQxY2NjbHR2bWJQRFpCcW5SQmJMVy1RTnJRcmxQOGlTd2VSUFIxYnNWbUFPSi1TdTZSd3VFamthRE5rbGhHaHdYMWZ2QmJZSE1BZG9FUU9MNmVQTXhXS3B5bHBNSmViWnppelpWdU4zdnh0SEdFS2VYYTIyMkNFTlhNVGE3YWhxVkV1Q1Jjc1dNcWs?oc=5",
+          "date": "2026-11-15T16:17:22.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "베를린 연정 협상 진통 — 라메로, 엠데에 \"신뢰 파기\" 비난",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:16.673Z",
+      "fetchedAt": "2026-11-16T11:19:39.359Z",
       "status": "ok"
     },
     {
@@ -492,7 +492,7 @@
           "id": "handelsblatt-3",
           "title": "Branchentreffen in Salzgitter: Stahlgipfel: Branche dringt auf Entlastung beim Strompreis",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbE1yVUFvQjhCUWpoUENzZkU3Y05wOENQTktrUHZSaExPdXFCd2dhZHlnQ0hwQVFqZHlNdUJfeVEtTlhQYUZLcjRVV2tncjZqV25DVFo2Z2dNWE50YWdOV2FVWjFKZklVTjRmS0JyaHE4VEJ3YUFpUHR6dlJLM2ZwblNTZTZsdzQyWTFIMjl6REQ3TU5HV0RJVW51V1d2eC1QdnZzSkk0VzdndHIxdk9LamhJd2JCSmlCY2ZkRXlPYTNlRl9jNTladEw2ZU1xeHNYWW0yZDBpbWVLUGNreDMwQmVMbTJHQQ?oc=5",
-          "date": "2026-11-16T11:00:05.000Z",
+          "date": "2026-11-16T11:00:00.000Z",
           "topics": [
             "에너지·원유",
             "외교·안보"
@@ -548,7 +548,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.082Z",
+      "fetchedAt": "2026-11-16T11:19:39.790Z",
       "status": "ok"
     },
     {
@@ -597,17 +597,6 @@
         },
         {
           "id": "faz-3",
-          "title": "Thomas Bach für Russlands Teilnahme an Eishockey-WM 2027 in Deutschland",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUHZUeURrMjF4Zl91ZERaS1RyZVFaNVkzY0pOS0EzSUFoRXBuOGJWbS0wUk5xZUJjMkVxa0pUaExzMXdRM2EtNFVod3hfdHk2OFhTbWVVMUFUZ0d3bnZ4UGxzTG1GRl95aFBBQU5mdTFMOEJxaU9mTHFxU0pRcXZPTXo5YWlucU9KSjZ5MnlQQkhZZFR5bDFocmlhZ05UekhXdGlzdW16TVR2VlA4MXNYcVRLeC1GMWhXajBXMGdCTmlHd2xuMHRaVWVzRXlXY0dNNXVremV3?oc=5",
-          "date": "2026-11-14T11:14:52.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "바흐 IOC 전 위원장 \"2027 독일 아이스하키 세계선수권에 러시아 참가해야\"",
-          "tr": "claude"
-        },
-        {
-          "id": "faz-4",
           "title": "CSD-Attentäter erhielt Bürgergeld im Gefängnis im Libanon",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjhSLTVzb0J1cTZaY2VPbHl0QWRRVW96WGFiTThjYTRzTzVNdER3aGc5WnBWbXlod2FFZml4VDVQcGdXUTZBcENKVy1WcWtYcDFtaXJOQ05pbkkwUGFUU19jQ3RYSFVibVRIdnhueS04MnFYczE5b0pESkNiWE5VUGNVaWRvRElvNHRBaDBvRFBzNTYzMDRsVlZWdEJZRi1lYkZaZDlaRC0xRG1sNGZZbDNUODdqWFE?oc=5",
           "date": "2026-11-16T10:29:59.000Z",
@@ -618,7 +607,7 @@
           "tr": "claude"
         },
         {
-          "id": "faz-5",
+          "id": "faz-4",
           "title": "Microsoft-Ausfall: Warum Bundesbehörden ungestört weiterarbeiteten",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXhvbG9aUnhrTmtFaDI0NUNVVFRwcXJZRFNTTnZIZ3EtMEJ0ZHJzWGVVQk85YzQ3VUxBcnpvRDhMUU1wc0hDb09NVXJIT2V0SGJsVFNGek53SGtlX1dKdWFVUlpER1lLdjFrenBmTDBFZ2NFSlgyMzhpYU1jbWJYRXV1cnRwVU5sbXlyd3JreEo3YzQ3cmg0Q2FxcURxREJaN0Vvb3lGRGJiZkFOYWZKejJIR2VTaDhYbWhPTl9hVW9EaVFSaHBzSmR0dXBUMGJoVVJR?oc=5",
           "date": "2026-11-13T14:10:04.000Z",
@@ -629,7 +618,7 @@
           "tr": "claude"
         },
         {
-          "id": "faz-6",
+          "id": "faz-5",
           "title": "Protest von Fridays for Future: So sorgte Greta Thunberg für Aufsehen",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaERHdmstZXhhRmUzd3B2OXF6T1VXel9PeGhyNG5ObjZVZ2VNc3Z1eGRHSEtOa0dIcGdHZnBlRXJ2UXBLZnJnYnFJZ0tTa1JlYnZ1R0JnVzZ4NU5JOXhJZTl2cVZ0M0RZdTZoYjVid1l4SzczZkt5NTdGWGFWOGJzSV9MOVpSbDRoc1JUVWx1Rjk1Q1pKcnh2a0lwOTZtNGd6Q3JQT0dPc0JQUWxCQndVUE1uYkpwb2hLRmR3eGt2Z1E1QnZySWc?oc=5",
           "date": "2026-11-13T14:49:39.000Z",
@@ -640,7 +629,7 @@
           "tr": "claude"
         },
         {
-          "id": "faz-7",
+          "id": "faz-6",
           "title": "EZB-Personalpoker: Deutschland will den Chefvolkswirt",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQREJILXJKWThST2t0Y1c4UE92NTZqbEhBRVR1WlJEdmlUZmF5Z2U0Q2V6STlmMVBSTUZBX2FNdkRUQkRQcWs1bWdPbDYzMHpSYXJaYi0zME91MkdSQldpbkdwUUdUMWI4dDdibkFFRTdNRWpwWVEyNFpFcXRRVkRHMUQ5enRPMHphU1ctSmgyM2FPaUM5bjFDX1dUdTF5bFo4RlVxQ1ltQTJPb0hGWk85dUhEN2Nlb0Q4SjUzbWRhYw?oc=5",
           "date": "2026-11-13T15:39:27.000Z",
@@ -649,9 +638,20 @@
           ],
           "titleKo": "ECB 인사 경쟁, 독일 수석 이코노미스트 자리 확보 나서",
           "tr": "claude"
+        },
+        {
+          "id": "faz-7",
+          "title": "Haushalt 2027: Reicht das?",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlROUmtkQWJaVkVRQ0IyN1kxNDEtTGllNC1yOG14T2xPeFBpeW94RmlBZDFjWHN0REx0U25MbTRLOGdIY0VUZGNJMHZBeDRqN0Jxbmp0WGdPNnJBWV91VXZsLTJ1ZWdoTTc3STRtcGJxVUt4Z0xOd2ZiRHRmQVdMb1Q5c1UzblhaWWZmb0JGbk5BMkUxRklvaVZFbC1qdmpl?oc=5",
+          "date": "2026-11-13T15:37:34.000Z",
+          "topics": [
+            "예산·재정"
+          ],
+          "titleKo": "2027년 예산안, 충분한가 — 재정 전망 논란",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.091Z",
+      "fetchedAt": "2026-11-16T11:19:39.799Z",
       "status": "ok"
     },
     {
@@ -763,7 +763,7 @@
           "titleKoAlt": "정부, 11월말까지 폭죽 판매 금지"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.065Z",
+      "fetchedAt": "2026-11-16T11:19:39.699Z",
       "status": "ok"
     },
     {
@@ -842,17 +842,6 @@
         },
         {
           "id": "figaro-5",
-          "title": "Yémen : les Houthis à 60 km d'Aden, siège du gouvernement, qui masse des renforts pour protéger la ville",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWXRHSzAzbS1MTE9jYnpVclZLWjNna0FPdEVia2pSQV9QSUhnUHM3WDNXU2pabkttbVdYQmtubWJrRXdnaUlsd05iaEVRMGZPN2swREczQWZ5M2gweTdvTkdNV1dnTHJJWUQ1VGtxNy03LVFIRGFWSmJaS0EzMHYybmFlWmwyRjI5bnh5bzFmMkx5Vjdlb1dtd1dTWlRmYlEteG1GRDZ4OUVtcHJwZEFwVmlhekpUa2xBQllCc1ZGMUh4SEZ6UWFweE53MzBocFIzWUlLVnl0aUI3am9o?oc=5",
-          "date": "2026-11-15T21:16:02.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "예멘 후티 반군, 정부 소재지 아덴 60km까지 진격…정부군 증원 배치로 도시 방어",
-          "tr": "claude"
-        },
-        {
-          "id": "figaro-6",
           "title": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer» la menace d’extrême droite",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGV1V2otRWllcWJ3Wk1CSEk4ZzVXX3lna1JWb092RlpOM29Oc2VYVEl4Rnk4d2NESnBNcFI4RGJvbEpsaTBCYUZSa2FuWEc2U1hRUThpRGJWU1cyNEY2anpIMUlRX0VlNmc4TXVfZXB3Y0N0Y3lhaEJDQmxOSXZfRTVBU0hDS0paeWttUFpFcThNZHNVU2cyYkgySnJBZ21vRkE3VFhhTUVVYTVzUU5wekZwWWdEUFJYRE9YZ1hJVVgwYlV0UXo5RGplY1VzUWN6M3h2SC02Qk1jSGJkMjBB?oc=5",
           "date": "2026-11-15T17:49:47.000Z",
@@ -862,6 +851,17 @@
           "titleKo": "트라프 테러 사건…루소 \"정부, 극우 위협 과소평가\" 질타",
           "tr": "claude",
           "titleKoAlt": "Trappes 공격: Sandrine Rousseau는 정부가 극우 위협을 \"과소평가\"했다고 비난합니다."
+        },
+        {
+          "id": "figaro-6",
+          "title": "Yémen : les Houthis à 60 km d'Aden, siège du gouvernement, qui masse des renforts pour protéger la ville",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWXRHSzAzbS1MTE9jYnpVclZLWjNna0FPdEVia2pSQV9QSUhnUHM3WDNXU2pabkttbVdYQmtubWJrRXdnaUlsd05iaEVRMGZPN2swREczQWZ5M2gweTdvTkdNV1dnTHJJWUQ1VGtxNy03LVFIRGFWSmJaS0EzMHYybmFlWmwyRjI5bnh5bzFmMkx5Vjdlb1dtd1dTWlRmYlEteG1GRDZ4OUVtcHJwZEFwVmlhekpUa2xBQllCc1ZGMUh4SEZ6UWFweE53MzBocFIzWUlLVnl0aUI3am9o?oc=5",
+          "date": "2026-11-15T21:16:02.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "예멘 후티 반군, 정부 소재지 아덴 60km까지 진격…정부군 증원 배치로 도시 방어",
+          "tr": "claude"
         },
         {
           "id": "figaro-7",
@@ -875,7 +875,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.102Z",
+      "fetchedAt": "2026-11-16T11:19:39.779Z",
       "status": "ok"
     },
     {
@@ -991,7 +991,7 @@
           "titleKoAlt": "2027년 예산: 일드프랑스는 해당 국가의 재무 포지션에 계속 투자합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.386Z",
+      "fetchedAt": "2026-11-16T11:19:40.068Z",
       "status": "ok"
     },
     {
@@ -1058,6 +1058,17 @@
         },
         {
           "id": "nyt-4",
+          "title": "What to Know About Trump’s Trip to Asia",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVVDaXk0aEl6ZTJYNWFTMnJTQTBkWk1JN3laRkxoVXozZ3F6aHhVc1plRi1aQkt1SG56cnJkQzN1S2Q4djl5Tm9oeGE4c0FjSm5ET056UnBtRWNJUElwY1p2S0hpVmdXUzVsTVQ0LVA5Z0c5ZTlCYUpsSVg1M0pqbmJn?oc=5",
+          "date": "2026-11-16T10:26:49.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "트럼프 아시아 순방 핵심 쟁점 정리",
+          "tr": "claude"
+        },
+        {
+          "id": "nyt-5",
           "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2Fvd0hxVEFBWFpmVlVFU2RBRElReFpOdUd1c25uQ0ItRTFhbUJzVHNiWUdadGoxeDNCYjJ4cjZydzZEaHVFS1p1ekl3T3YyVHY5eS05ZjlGLThvd19ZdG1iS2F1WEdYTE95eHc1RzBTMXk3QzhEeTJOb3IwRXlSWVFQaFp3Qy1oamVfRXNueWlVQQ?oc=5",
           "date": "2026-11-15T17:41:30.000Z",
@@ -1068,7 +1079,7 @@
           "tr": "claude"
         },
         {
-          "id": "nyt-5",
+          "id": "nyt-6",
           "title": "Unlike Other Countries, America’s Government Funds Its Air Infrastructure",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEJFbHVZVmFGcW1qUlEtd0JsQmZPaHIwZm1mOGZ6MklVT0QzVGprZ1doeW1EaHJiN2hDeEF0bFVrcE1uSE9JZEtGR2tWTmFrN1ZkRXltaEROLU5pMnllNGdCTEg5TjlDMDZ5ZUF6Rm1vSnRHSnhfeHBqMEl3OFBKS0FuVFFLQTlTMnhpX1lhdFVDRE54aTRsd0JHV001b3ctSEJId2VNM3c1dEZfNTYxMm9FZ2c?oc=5",
           "date": "2026-11-15T00:41:29.000Z",
@@ -1080,7 +1091,7 @@
           "titleKoAlt": "다른 국가와 달리 미국 정부는 항공 인프라에 자금을 지원합니다."
         },
         {
-          "id": "nyt-6",
+          "id": "nyt-7",
           "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
           "date": "2026-11-14T22:10:43.000Z",
@@ -1091,22 +1102,9 @@
           "titleKo": "트럼프 모습 감춘 채 미 연방항공청(FAA), 이륙 금지 조치 발령",
           "tr": "claude",
           "titleKoAlt": "트럼프는 F.A.A.로 눈에 띄지 않았습니다. 발행된 비행 지상 정지"
-        },
-        {
-          "id": "nyt-7",
-          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG5Ua0Eya2ctVDEweEN2X3Z4VmxHU0EtZU5ERk5HRUNLZ3lLdWx3VFkzYjBjMzZKS0FPRE9CaHp2MUJNTWJaenk0UV9OQldvdGVrdndRakI2UmxwSllMQVVUZUM3Wi1aaEd3WllvNVRpNWdhaE9aRWJ2Z204WE5nRmtiNFgwMFJfMGlpMmIwdUdIN3gtVk52dXZscHFYRUFF?oc=5",
-          "date": "2026-11-15T10:02:05.000Z",
-          "topics": [
-            "AI·반도체",
-            "산업·시장"
-          ],
-          "titleKo": "러트닉, 가족 사업과 겹치는 반도체 규제 완화 압박 받아",
-          "tr": "claude",
-          "titleKoAlt": "Lutnick은 가족 사업과 겹치는 칩 규칙을 약화시키려고 노력했습니다"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.595Z",
+      "fetchedAt": "2026-11-16T11:19:40.275Z",
       "status": "ok"
     },
     {
@@ -1217,7 +1215,7 @@
           "titleKoAlt": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.521Z",
+      "fetchedAt": "2026-11-16T11:19:40.270Z",
       "status": "ok"
     },
     {
@@ -1334,7 +1332,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.445Z",
+      "fetchedAt": "2026-11-16T11:19:40.227Z",
       "status": "ok"
     },
     {
@@ -1446,7 +1444,7 @@
           "titleKoAlt": "다르치예프 러시아 대사의 죽음은 외교계에 큰 손실이다 — 고위 외교관"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.676Z",
+      "fetchedAt": "2026-11-16T11:19:40.422Z",
       "status": "ok"
     },
     {
@@ -1547,20 +1545,17 @@
         },
         {
           "id": "meduza-7",
-          "title": "Russia’s healthcare and education sectors have lost out on more than a trillion rubles in funding since start of full-scale war, investigation finds",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSGlOWUVDTlVIdXJGdmVCTl9FVG5iWkthYkQxdG1BZmNNNDg5UDZnM3d2OWQwenZKOHpWZHBFdzV3ZmJYczUxVEJMRk05ZElpdTNEQzRjRmhEMG5fOVd3RWpMOGFvZXQzNURsMlptTElGM0dHQkJRWk8xU2lvOEIxeGp3TW1keVVvMHJYeWQ4c0FXR1JwT1ViLU83UGo3TTZONzhEa3JnRXdVWlI3RWpRYVBoQ0g1NnVrTERDWG9fa3pBdHZ3WVg4ODBDZ2VlRVc4ZzNRVXl6QVdWeUtQNlVzWkFhTzJTeGltR1RWTmFrWDRRU2ZHbXZYb0doVF9tbG1aWnFIU2pkWWZvRkQ1Tm9UTFd30gGXAkFVX3lxTFB1N0txUDFKZ0Joblh0bDNlSTlNbk9lZC1kWDlZYklMMEZWRm8xUUgwUGVOVVI0eGNpeWFrc0dXR2tCUTJDYTFEYmpPc0hMcnd3bEU5SDAzMmtEX3RyVGFUWHNaOG5QdEpVaFRGR25IS2hzTC1LMlFCeS1ySWZWM3ZLeVY3ckpzTGgxY1BiSHNCUTg1MmhvOUQwVUxEMGdfRHNtUHhiYzhaekpMZHRRRkoyaUZUSzBXTlE3SlVIM0JBZ3ZQNXdSSF93TVRKYVU2cE42QkZiSGVCaGppTGJhaE9LSDlqeFJKMWxTcWV3UkEzRm9waFJ0eU50S1FnV0dFQWJRNWZZeHVyNDFla0dDT0pJSWNMMmpGZw?oc=5",
-          "date": "2026-11-13T15:30:00.000Z",
+          "title": "Leaders of China, U.S., and Russia to meet without pre-agreed agenda, FT reports",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVZ5eXBDeEJMVi1TZ3NpbFBWb2VtTDFPa3RDNFZfX2tzVHIxYldSUlo0Nnd3YkNORzNNVnVvMFdTSmFENVgxTmVmU0VlNTN0MkgtZEczZ0lOWXE4WkY0emE1UG55UUMyRlRNMW9mRzRDT2NjdFlvUFAxY3JLakVxckF2eU1pcVM3TFIyOTZtRV9uOGJsSXhUcDlPR2REeFlrcHhmV2xoQVpfLUNhbGVhOTVjRdIBuAFBVV95cUxQRVJBWC1MdW1KZFk0NHhVSGtuUVNBTWpWS2Z4Z201Tm1ENUNseDFyNlJaeDNTSU41bnF5U3JPRzlJNXpkNmVEdGoyRFlMVjZKa21KVUVSZWFOc0tsaHJhV0NRSnBWVDNURnppUU9ISWNKUDVxYnhtOGU1LXZ0dnlQd3VqU2tWcm5mSnRVbnFvNWhJWE5CQlFSZkkyV1FoQ1hWQWh3UkJna1hjZHJsVXlvTjlWd0hvR2RI?oc=5",
+          "date": "2026-11-16T10:21:00.000Z",
           "topics": [
-            "전쟁·휴전",
-            "외교·안보",
-            "사회·생활"
+            "외교·안보"
           ],
-          "titleKo": "전면전 이후 러시아 보건·교육 예산 1조 루블 넘게 삭감, 조사 결과",
-          "tr": "claude",
-          "titleKoAlt": "러시아의 의료 및 교육 부문은 전면전이 시작된 이후 1조 루블 이상의 자금을 잃었다는 조사 결과가 나왔습니다."
+          "titleKo": "미·중·러 정상, 사전 합의된 의제 없이 회담 — FT 보도",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.703Z",
+      "fetchedAt": "2026-11-16T11:19:40.477Z",
       "status": "ok"
     },
     {
@@ -1601,7 +1596,7 @@
           "titleKoAlt": "유럽연합(EU)이 러시아와 연관된 석유 운송 주체들에 대한 제재를 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:17.924Z",
+      "fetchedAt": "2026-11-16T11:19:40.686Z",
       "status": "ok"
     },
     {
@@ -1710,7 +1705,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.016Z",
+      "fetchedAt": "2026-11-16T11:19:40.711Z",
       "status": "ok"
     },
     {
@@ -1786,7 +1781,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.044Z",
+      "fetchedAt": "2026-11-16T11:19:40.810Z",
       "status": "ok"
     },
     {
@@ -1897,7 +1892,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.042Z",
+      "fetchedAt": "2026-11-16T11:19:40.819Z",
       "status": "ok"
     },
     {
@@ -1962,18 +1957,6 @@
         },
         {
           "id": "republic-4",
-          "title": "'Naxal Violence Harmed Tribal Community Most': PM Modi Hails Nation Free of Left-Wing Extremism on Janjatiya Gaurav Diwas",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3RlVnBJYjE3LThpRGZ5SkYzZzVUSkZlcU02dVdqT3B2STR2Ynhhb3ljeGF6MjNPVV9VN09rR2N2RWxIbnQ5OTJJdzl2bk5pclZwRF9GNnduLWFpVHlERUQyR0swbE5tMzBZQ1BSeVhXQW95ZTE3VzRkc0pXaDZwVnRRdUhvdnU2RldnYnRGVklEb2VCY2tDT3ZHRTFnNHF4eWdTR0p3TTFQRjBkSE9ibFVweGNYLW9zM3pTRk1SUTdaRWlkUk5DWE5nTGRUVkducFkxTndfbjZaVGJCam1sQjR5SkVYT3JrNW1haTdDT2hDRmtMNDN3a1owbEZVUW9iZ1HSAYcCQVVfeXFMT0dGTC1jWGZDMGV3LUFaTGRrZXRSOVRuSmRZVXFCTHA4WVpZOVVxYjlrdlZuaWxZaHJZRndkMEkxRUY4NmF2YjB1enBiS2l5dUtYWWZXV0lrNWJ1SWNidHhMYng2RFBDYm1sWmZaZFNPaVJxekJuUmppQ19XVW1uMXp2Z2l0VTg2ZnRfYlRTRUNiWXFKS0hfUVVHbERSdXJkWk9OaS1SenVDRnB2Um1lSm40ZGc0Z2VDeUV6a1dOekRiNXBvQXZhbWVnNUtNVDlUN2ZZZzV6RG41RTFYS1JCQTl0RmJBeFE3LUtLZ2hLQVI1VUF0WEFzS2RqOEE5MklzYklJNExrdXc?oc=5",
-          "date": "2026-11-15T07:58:08.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "모디 총리 \"나큘 폭력은 부족 공동체에 가장 큰 피해\"…좌익 극단주의 근절 선언, 잔자티야 가우라브 디와스에 발표",
-          "tr": "claude",
-          "titleKoAlt": "'Naxal 폭력은 부족 공동체에 가장 많은 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌파 극단주의가 사라진 국가를 환영합니다"
-        },
-        {
-          "id": "republic-5",
           "title": "CDS Gen Raja Subramani Flags Starlink Satellite Disruption in Ukraine, Stresses Need for India's Self-Reliant Space Capabilities",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGV4Z2tPSnMyVGdMcV9qQnAzRmVjOW4wNmU2c2tuZV9UdTR4M1phd0tRWW9ZU2UyajA3Q2dZYWpEV19QMjdOdU12U0J3YjNQcmdCRmxnTUtnNzNlOFI0aHdFNzRSZTdPWWg3LTBMQklhUElhYVlfakZib28tc1lRbzJWOGdJTC1Sdl9jWHpoTTdsMTYtMXBJdlgwMGVTWEJBR1gtZDZpZ3NaZ2lYTHJFakdtZ0ZqZ3FZMU1SMnU2RElvbkxIdHVDSjVFMUZXZ3NpbXlJNF9ZQUY3WDZuVmFjOHpfVTU2Rko1R0xyaWpTT2NzNnJ0elFWWXd3bk4tTmpsRTZCU3h2X09MalVX0gGTAkFVX3lxTE53S0V6Rlo2TnVJTjZ4Y1RyT0FaY2ljZEFqZEhRR3F0bnNxUmVyd3E4TFdpNHJEQWFia0ZjeEg4SmpYWmZDb0ZCQzVqNmZ3cnkzTjFnbWlRZUR4aC1RRUhKSUZVZldJWXBwTmtMZ1hNa3l2QjBseDBVZWdVLUwyNmttWVpwRkN0MlVfLXM2NmNDb2RtNm1UWXFJYnpFMWpHaUZLbDBkUWpVZ2pONXB6NGlzTkRUU0w5d19LOC1iWm9IQUhpdkk2NFI0NHk4TTM0eHgzU0lmMHpUdVg5MDNPenVUVl9OZEdNY3M3blRwVlFXYTRkTmE4VFROYlJwNVc5WXBXTVAwaUpJN2dQbnRucjlIN00w?oc=5",
           "date": "2026-11-16T05:50:20.000Z",
@@ -1983,6 +1966,18 @@
           ],
           "titleKo": "라자 수브라마니 참모총장 \"우크라이나서 스타링크 위성 교란 확인\" - 인도 우주 자체 역량 강화 필요 강조",
           "tr": "claude"
+        },
+        {
+          "id": "republic-5",
+          "title": "'Naxal Violence Harmed Tribal Community Most': PM Modi Hails Nation Free of Left-Wing Extremism on Janjatiya Gaurav Diwas",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3RlVnBJYjE3LThpRGZ5SkYzZzVUSkZlcU02dVdqT3B2STR2Ynhhb3ljeGF6MjNPVV9VN09rR2N2RWxIbnQ5OTJJdzl2bk5pclZwRF9GNnduLWFpVHlERUQyR0swbE5tMzBZQ1BSeVhXQW95ZTE3VzRkc0pXaDZwVnRRdUhvdnU2RldnYnRGVklEb2VCY2tDT3ZHRTFnNHF4eWdTR0p3TTFQRjBkSE9ibFVweGNYLW9zM3pTRk1SUTdaRWlkUk5DWE5nTGRUVkducFkxTndfbjZaVGJCam1sQjR5SkVYT3JrNW1haTdDT2hDRmtMNDN3a1owbEZVUW9iZ1HSAYcCQVVfeXFMT0dGTC1jWGZDMGV3LUFaTGRrZXRSOVRuSmRZVXFCTHA4WVpZOVVxYjlrdlZuaWxZaHJZRndkMEkxRUY4NmF2YjB1enBiS2l5dUtYWWZXV0lrNWJ1SWNidHhMYng2RFBDYm1sWmZaZFNPaVJxekJuUmppQ19XVW1uMXp2Z2l0VTg2ZnRfYlRTRUNiWXFKS0hfUVVHbERSdXJkWk9OaS1SenVDRnB2Um1lSm40ZGc0Z2VDeUV6a1dOekRiNXBvQXZhbWVnNUtNVDlUN2ZZZzV6RG41RTFYS1JCQTl0RmJBeFE3LUtLZ2hLQVI1VUF0WEFzS2RqOEE5MklzYklJNExrdXc?oc=5",
+          "date": "2026-11-15T07:58:08.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "모디 총리 \"나큘 폭력은 부족 공동체에 가장 큰 피해\"…좌익 극단주의 근절 선언, 잔자티야 가우라브 디와스에 발표",
+          "tr": "claude",
+          "titleKoAlt": "'Naxal 폭력은 부족 공동체에 가장 많은 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌파 극단주의가 사라진 국가를 환영합니다"
         },
         {
           "id": "republic-6",
@@ -1998,7 +1993,7 @@
           "titleKoAlt": "'인도는 원주민 국방 생태계를 강화했습니다': Rajnath Singh은 방위 제조 분야의 품질 보증을 요구합니다"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.295Z",
+      "fetchedAt": "2026-11-16T11:19:41.106Z",
       "status": "ok"
     },
     {
@@ -2112,7 +2107,7 @@
           "titleKoAlt": "Jitendra Singh, 인도와 이탈리아에 AI, 생명공학 분야 공동 연구 강화 촉구"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.374Z",
+      "fetchedAt": "2026-11-16T11:19:41.133Z",
       "status": "ok"
     },
     {
@@ -2221,7 +2216,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.489Z",
+      "fetchedAt": "2026-11-16T11:19:41.217Z",
       "status": "ok"
     },
     {
@@ -2331,7 +2326,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.449Z",
+      "fetchedAt": "2026-11-16T11:19:41.202Z",
       "status": "ok"
     },
     {
@@ -2440,7 +2435,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.609Z",
+      "fetchedAt": "2026-11-16T11:19:41.452Z",
       "status": "ok"
     },
     {
@@ -2557,7 +2552,7 @@
           "titleKoAlt": "CATL, eVTOL 시장이 형성됨에 따라 항공 배터리 추진 확대"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.584Z",
+      "fetchedAt": "2026-11-16T11:19:41.340Z",
       "status": "ok"
     },
     {
@@ -2671,7 +2666,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.838Z",
+      "fetchedAt": "2026-11-16T11:19:41.656Z",
       "status": "ok"
     },
     {
@@ -2711,7 +2706,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.819Z",
+      "fetchedAt": "2026-11-16T11:19:41.623Z",
       "status": "ok"
     },
     {
@@ -2820,7 +2815,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.975Z",
+      "fetchedAt": "2026-11-16T11:19:41.827Z",
       "status": "ok"
     },
     {
@@ -2935,7 +2930,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:18.881Z",
+      "fetchedAt": "2026-11-16T11:19:41.696Z",
       "status": "ok"
     },
     {
@@ -3052,7 +3047,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:19.157Z",
+      "fetchedAt": "2026-11-16T11:19:42.037Z",
       "status": "ok"
     },
     {
@@ -3170,7 +3165,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:16:19.232Z",
+      "fetchedAt": "2026-11-16T11:19:42.054Z",
       "status": "ok"
     }
   ],
@@ -3181,13 +3176,13 @@
     "byClaude": 224,
     "claude": {
       "run": {
-        "titles": 1,
-        "usd": 0.0001893,
+        "titles": 4,
+        "usd": 0.0002597,
         "rejected": 0,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0341,
+      "monthUsd": 0.0343,
       "limitUsd": 2
     }
   }
