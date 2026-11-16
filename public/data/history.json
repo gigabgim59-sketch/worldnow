@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T00:08:51.804Z",
-  "count": 208,
+  "updated": "2026-11-16T00:16:40.836Z",
+  "count": 235,
   "items": [
     {
       "source": "jagran",
@@ -439,6 +439,18 @@
       "tr": "claude"
     },
     {
+      "source": "nyt",
+      "country": "us",
+      "title": "Iran Attacks Bahrain for the Second Time in Days",
+      "titleKo": "이란, 며칠 만에 바레인 재공격",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmV0c0pwNVZmTU04SXFiQktmeFVOX2FhVkxlTkRrb3dRY0xYZEhaM3BKZmZ6V1FOUUJWOTJva3psREkzR2Q5ems3VVZYWFkyNEJ2V185V196bnZqVndfYXZCT2hZTVhzTjZEb2RyVnpCQ21QT0NpNTR5SThLbG0wWUFB?oc=5",
+      "date": "2026-11-15T15:55:09.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "aljazeera",
       "country": "me",
       "title": "70 bodies recovered from Gaza rubble, thousands still missing",
@@ -487,6 +499,19 @@
       "tr": "claude"
     },
     {
+      "source": "bbc_cn",
+      "country": "cn",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "titleKo": "엔비디아 전 CEO 연루 중국 간첩 의혹, 2025년 퇴사한 것으로 메가스피드 밝혀",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?oc=5",
+      "date": "2026-11-15T14:56:21.000Z",
+      "topics": [
+        "AI·반도체",
+        "외교·안보"
+      ]
+    },
+    {
       "source": "liberation",
       "country": "fr",
       "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral",
@@ -521,6 +546,19 @@
         "사회·생활"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "Chinese courts strengthen judicial protection for security, development, people's livelihoods",
+      "titleKo": "중국 법원, 안보·발전·민생 사법 보호 강화",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5sTXpGR2kzazNjcUhnanRxNjVqVFZrc0tla0tQSWpZMV9hRHdUZ1ZzWF90cVpzekViM3BSSS1mTzhVU3NQZUEtU21pN0RtZm4zTXVZQ3YxVWFaTzhFQUgtR3VRdk0zcXRVaUEtdGh3X2l1XzFYS1BlazR1SG4?oc=5",
+      "date": "2026-11-15T14:23:30.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
     },
     {
       "source": "ft",
@@ -676,6 +714,19 @@
       ]
     },
     {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks",
+      "titleKo": "트럼프의 광물 공급망 드라이브, 시진핑과 회담 앞두고도 중국의 장악력 흔들지 못해",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQmgzajlTc2t4SmdLb1g1X3o1VWhhMlFTWnJ3Sk5sOW9JcDBUU0ZYU0tkX0s4M28za1ZVRGw0S1FlZEJVNXhVRGhwTjI5Um9HRzJxb0lRWk8yeE9pb3ZuQXk3a3F4WU1wNDRHcTQ5SV9jRnpHOHlOOGZBWUliVU16bThPM0R5OElKQk5hXzNGR2pZc3BFYTcxa2IxcVVoLWhNaTJobDR1RHhZa3B1dHotX0hId1NPajBKSjBRa3BZSHUtN2RrV084?oc=5",
+      "date": "2026-11-15T11:55:31.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
       "source": "guardian",
       "country": "uk",
       "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
@@ -815,6 +866,18 @@
       "tr": "claude"
     },
     {
+      "source": "tass",
+      "country": "ru",
+      "title": "Russian envoy outlines Moscow’s concerns over Switzerland’s OSCE chairmanship",
+      "titleKo": "러 특사, 스위스의 OSCE 의장국 수임에 대한 모스크바의 우려 제기",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE95SlFCNU9Pa0diVWgxMWR6dzd6ME1ZeDFlVUk1eHNnVnNsdXNBdVJfMUR6TXNUZFhubGF5OEp4akFiQ1VPOE55OdIBTkFVX3lxTE9RRDVUVFRsVjJJckZBN21kX0ZTZktiQmh5M2pEZEFESmg3SG5HYnB0S0tHckg0RmVTOFk0dFNNRFlKclpDMlU5TWFNb0tudw?oc=5",
+      "date": "2026-11-15T08:11:17.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "figaro",
       "country": "fr",
       "title": "Présidentielle 2027 : «57% sont opposés à voir les sportifs se présenter à une élection», les Français donnent leur avis sur la candidature de Teddy Riner",
@@ -878,6 +941,18 @@
     {
       "source": "telegraph",
       "country": "uk",
+      "title": "Amnesty International honours envoy who called Oct 7 a ‘response to oppression’",
+      "titleKo": "국제앰네스티, \"10월 7일은 억압에 대한 대응\" 발언한 특사 표창",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmZMWEZFR3F0TnctMU41YW05d2hsOGxja3ZTQ2NHLWZZYVhHVDl5cTJsRHNxaURHVm5vOW5jM1plX1N2TUJnOHY1TlMxWnpJWkFiQUlTZld5V054enQ1VEYxeHh4VmVBeE1nM29LZDhDNkxBWGRwMTJJRDFaSWFpUEtDSFJZdkliTkRzdTlLbEwwU2lQTzQyQWV0NEw3RTdaV2c?oc=5",
+      "date": "2026-11-15T07:00:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
       "title": "Nobody wants to talk about the Muslim slave trade",
       "titleKo": "아무도 무슬림 노예 무역에 대해 이야기하고 싶어하지 않습니다.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQldyREFsMjJKRVdqT1hOWWpiU1dSajFXT3E5T0duc2ktYXlrd2ZZNkZ0bW45VmcxSXZkdmtIczVKVTJZYk5qSmlGeWUwaHp4dUxGR2ZtWkpIVE5rTWphV25IbW9YX3FMd2s4Z294d2hyMUNhZGZjODFKdFl3SzRCRnV1RTJjQkd5dkJ0clRYMkRWdXRF?oc=5",
@@ -909,6 +984,31 @@
         "정치·선거"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "et",
+      "country": "in",
+      "title": "Goyal visits Egypt; both sides to discuss cooperation in infrastructure, manufacturing and logistics",
+      "titleKo": "고얄 장관 이집트 방문, 인프라·제조·물류 협력 논의",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTXZUZ3plSUNhRXFfQkxYU09tUm5MOFpxVEowQkJPSC00NG5JZElLZUQxSDVFaDh1ZkI5d0RTOFpLNkNtdFduWGF4WDlNZGxHVi1QZzM1N1NIZkdwU0IwRHdWb09nLUNydi02dTZERFJESDAyVXdTVDJidE9KSmIxbFZ2bXZ6bmw4eUxvY3k1RmlUaTVTTk44SjdZYV9qSUhXYlhwbEYtaFhnY0h1UEs0MGwtV3QyMlJOMGJnZHY0WFgtVktZQ0lBX2V6RFRtQkNyYmRYS1pTVzliMndjdG5WMTVCdWpJRzctT2ttZ29RTzRWalluaTNPT2xIV2jSAYICQVVfeXFMT3FQMGdCV0x0ZHRHVWJLZ0NHU3M5T2JCeFFhcUVXWVFiTHJtYTFaOEV0VmotQmkzYll2VXVhZnhfQ1JIdjUzNWFIM1RXSlI5OWZidDVtZ29Cb2oyZmQyaVBPY19nVXV6TDM2UFlzTG1HSkZEWV80SDVwaTFKWTZTLWhvWUhhNV9qYnM4dngzS2lNYkNWYnlWQUY2T1FxalVPbVJpdUYzaF9hck8yYkNpRjNEaS0xTV92NHdRZDZvZXBlMGZYSnNydlhwSGc3V3c5cXR2ZEk5VHpDajdDVU1nLVRCelZDdUJoY1paMUZOakhUNW9UTmZoQVJIeHdENUdNZW1B?oc=5",
+      "date": "2026-11-15T05:26:15.000Z",
+      "topics": [
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "Philippines, Australia sign defence pact with eye on China",
+      "titleKo": "필리핀·호주, 중국 견제 겨냥 국방 협정 체결",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQVp4NnMwSDJUWVYzTmJ2NDFUMkdvVlZqUm5PUU1pLVRHMEtVd1k1NDVTakFYUURCZGR3Y3ZHMGRyVktDQmZ4UC1lN0NIREp0bHpzYTQ1RHlvZjl2dmFZNkFINmJVS3luVmVvMlNFVmhQQVJjVXJiWUc0S0dwTDRVNzRMYzNlbGpZSFU3MFFmY2dKNzVodTdqNmZGd3BGWFlfTmhnSg?oc=5",
+      "date": "2026-11-15T04:48:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
     },
     {
       "source": "asharq",
@@ -1026,6 +1126,18 @@
       "tr": "claude"
     },
     {
+      "source": "et",
+      "country": "in",
+      "title": "Afton Chemical starts India manufacturing push",
+      "titleKo": "아프톤 케미컬, 인도 생산 확대 추진",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZjNjVUVQalh2ZThFaGQ0dXpMZ2RFd3Q2eGN3bUFDVXNjWDNmbHhiM2hFTUZoZkctMVQ4QTB2Q0gtb0N3Sm43WFZRTHI2clZyUGhjVGlNS2VDSE12eXZITEJDNTYxU3NKbHJNLVJVa01oSS1mQ2lhdnJCVW8wNlRhSGhBbndhaGtlWlo1bW5ubVFFN3QwM1NmSnVXWWs0S1VmMUZzdU1WeWxxVVUtZkZ0N295LUNrdGgxaDk2ZTNqamQ2OFI1YW9B0gHLAUFVX3lxTE16OVpYQ3dzSjRTMGFqSmxVUTlGX2RnYTFFdlpBY1VFSUhZVTdRd0hHTmJtbnVEYk1SSGpqVlR1Tm1MVks4eTlQZzRxYl9CeHFFOVRvY3ZIUUM0NGJzaG5lb0V0ZllUY280SkNRYktXeWRzQXktS1R6MWhNb2NDd0x0SHFUeTIxdGI5S3ZkY0xmWDI4SkFrcURlUXg4Vk9LdUNtYlhIZ0JsaFlJX1RxbDFZZEVxa256bkpoeDBYeVh2M04tejJURXFNby1Z?oc=5",
+      "date": "2026-11-15T01:40:27.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
       "source": "hindu",
       "country": "in",
       "title": "U.S. must respect India’s right to defend itself, maintain zero tolerance towards terrorism: Blinken",
@@ -1059,6 +1171,18 @@
       "date": "2026-11-15T01:25:00.000Z",
       "topics": [
         "경제·물가"
+      ]
+    },
+    {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "China's COMAC electric plane completes first crewed flight: state media",
+      "titleKo": "중국 COMAC 전기 비행기, 첫 유인 비행 완료 — 국영매체",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjV01laUhKXzgtMENlMVB6QVo2cE1nQzdmR3lGQklKaV9YZDVrSkJ2b05PMU9vV2Z4MS1JQkJMZGRGcWdBSGdad0g2ZlBsNTc1STM5ZU5pQjUwRDZORW0tYjF0SEgzMEk?oc=5",
+      "date": "2026-11-15T00:41:50.000Z",
+      "topics": [
+        "사회·생활"
       ]
     },
     {
@@ -1130,6 +1254,19 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yOXU5b1dHZVlma295S1pOVWtPY0NQWG1ZYmxsUnhMWnpzaV9TamVoeGxUM0YxOEw1TGNuRFZEb0JfRFBTN1VxRVBxM2ZZQzc0RHl1Nl9IWDR0Uy1VUGtheUpkMHRKZWNRUzY5UWhpWXI?oc=5",
       "date": "2026-11-14T22:08:07.000Z",
       "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
+      "titleKo": "새로운 '알타'? 트럼프·푸틴, 시진핑이 꺼리는 회담 추진",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
+      "date": "2026-11-14T20:23:56.000Z",
+      "topics": [
+        "정치·선거",
         "외교·안보"
       ]
     },
@@ -1231,6 +1368,18 @@
       "tr": "claude"
     },
     {
+      "source": "wire",
+      "country": "in",
+      "title": "Pakistan Will Send Environment Minister Musadik Malik to Delhi For SCO Event",
+      "titleKo": "파키스탄, SCO 행사 참석차 무사디크 말리크 환경장관 델리 파견",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFvZzFhZUh0QnRwUUN0RzFyOEtGQm9zdnh1VDNrZzB1cERDWUhMT0cyMVR1dEk5Unc0WVZXYXJ1eWYwbS1qT05pb1lYLWFhVGQ4cWh2cHdOZjRPZ09DNDJtUHJER0pLTElTMDlLZXE0NlV3ZHVLcUVXZmo0UGZNSG5FSDBzemJqNUpXOEE3WEU3RlhtN2xhVUdlOHpBNWwwYm8wb210RGXSAbsBQVVfeXFMUDVnQmRVSUJFVHQxQmg5SWJRVG5iNm9EOXgyYnE2Q19xVnBzcXlWSFlMalh1UlF2VkYxajRVb21EMTBtUzNGQW1wSWlfWkVQMW1TaFNjUk1uZVZGQ1U1dklRb3FWTmluNWJ6dmIweUlJYjMtd2NJTHJCVkZ0QlNUTlZBTUZQR0tJc3ZiOEwtRnhyMjZDdG5zTS15ZEtLQmFIcFdHYk5sT1JNemd0OVBmWmpyeU1QM0wyMzd1cw?oc=5",
+      "date": "2026-11-14T17:26:13.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "liberation",
       "country": "fr",
       "title": "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
@@ -1318,6 +1467,43 @@
       ]
     },
     {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "Swedish newspaper highlights China's growing contribution to global climate action",
+      "titleKo": "스웨덴 신문, 글로벌 기후행동에 대한 중국의 기여 확대 조명",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbUJfX3B6ZDdRaWpJV2tTeEk3bnRzdzNQa2RWOG5ISERVNHRlamVFcDFFNzJ2NncxRFFPWFBsMnAxTXZ2RnlyN3dUWXhTSzlUa0x5RXVDQ2R6OTA5TGxJSlJTX011Q3lDUGtORHpEcVpqZGtHU2FjQ2tDS19rbHllbkRsY0h5UQ?oc=5",
+      "date": "2026-11-14T16:09:00.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "bbc_cn",
+      "country": "cn",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "titleKo": "트럼프·푸틴·시진핑, 다음 주 중국에서 역사적 공동 회담 추진 — 백악관",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42UEI2dkxFV01OSy1NQkZLQmhkc01KaWFqcEwySVJNYUZOeDNSdko2T0JodkN1RU9LdFBMeGJ2SWhhZXdxMHVxNy1idnhqZ3FIODhKMlFlYUVCYWs?oc=5",
+      "date": "2026-11-14T15:53:55.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Putin demands Britain stop defending Europe with nuclear weapons",
+      "titleKo": "푸틴 \"영국, 핵무기로 유럽 방어하는 것 중단하라\" 요구",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTUyWmxfQk11UnRQOFZYZE5wQTF3Z2ltbU40RGlBVUNYNWVUVnhYbkk5YVNNc3lvU3lqbjJueEs2VU04TUt2Qm9BSE1lSnVQOWl4YTVrTmRMdVB1LTVzN1F4UzBFd2ptV01ieXg3NzA4ZVZDOUdvZi1WUU1SUG9wQkcxcEZMdEVTWXoyZUY5MElkN1J4dU1ad0tIZU9JNnBZSVgtVGpuUGtoa0ZmcWhn?oc=5",
+      "date": "2026-11-14T15:03:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "presstv",
       "country": "me",
       "title": "Israel advances plan to build nearly 900 new settler units in occupied West Bank",
@@ -1326,6 +1512,20 @@
       "date": "2026-11-14T14:41:47.000Z",
       "topics": [
         "산업·시장"
+      ]
+    },
+    {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "China Focus: China, Austria sign social security agreement to avoid dual contributions, boost cross-border business",
+      "titleKo": "중국·오스트리아, 이중 사회보험료 방지·국경 간 사업 활성화 위한 사회보장 협정 체결",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYeXhhUmRvbG4tZGFQWGFRbXhmZnl4Q3FFQ0MyTzYwZFdHajEzX01XQjRldHF3MGV2REdMTkl4b1VfRlE5MnQ4VVptdHFIcDR0OWhYU3Z2Y2g1dnpGdWxkTEduSGE2eFBFbVhxX0oyT0FIREtqMDJnc2VCTQ?oc=5",
+      "date": "2026-11-14T14:41:00.000Z",
+      "topics": [
+        "이민·국경",
+        "외교·안보",
+        "사회·생활"
       ]
     },
     {
@@ -1339,6 +1539,18 @@
         "정치·선거"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "\"Laowai\" in China | Vietnamese volunteer's special connection to APEC meeting",
+      "titleKo": "\"라오와이\"의 중국 생활 | APEC 회의와 얽힌 베트남 자원봉사자의 특별한 인연",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9KLUY5SFZQUEh2YUE1Q1BzSmRRSE5ROG5BV3hqOXN5R3A5V2ZVd04zanN0WThJTTIzYWozcEMwR3kzSFRFakhTMld1dEJGRVBtcGJYdWRwa2wwbTBzQVdMcWlvcXl1OGMwSENqdDZUS2lWWHVYdlp6a3ZxcDk?oc=5",
+      "date": "2026-11-14T14:26:16.000Z",
+      "topics": [
+        "외교·안보"
+      ]
     },
     {
       "source": "nyt",
@@ -1386,6 +1598,18 @@
         "사회·생활"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "titleKo": "단독: 엔비디아 전 CEO, 중국 여성 사업가와의 관계 놓고 최고 변호사에 거짓 진술 — 소식통",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+      "date": "2026-11-14T13:11:58.000Z",
+      "topics": [
+        "AI·반도체"
+      ]
     },
     {
       "source": "haaretz",
@@ -1459,6 +1683,18 @@
         "산업·시장"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "Feature: Chinese technology empowers Kenya's electric motorcycle push",
+      "titleKo": "[기획] 중국 기술, 케냐 전기 오토바이 보급 확산 견인",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMTVBaXNKYXh2YmxZbWVQbE9KaEctVWFzbXpKUTA3VmpHNnZFNmZVa0ZCQklTWTFUVmQ0ZHJaTG9lN1pONWgwZ2RuWm1PTHNoWlEwQTQ4TkZvY3hoTzFzMWY3SmNRTnJvTVRKYjVQdkJ5THR5R1VoQ1ZaSFM4WXVxV1lObHU2QQ?oc=5",
+      "date": "2026-11-14T11:26:16.000Z",
+      "topics": [
+        "산업·시장"
+      ]
     },
     {
       "source": "presstv",
@@ -1546,6 +1782,18 @@
       "tr": "claude"
     },
     {
+      "source": "tass",
+      "country": "ru",
+      "title": "OSCE may fail to agree on 2027 chairmanship — Russian envoy",
+      "titleKo": "러 특사 \"OSCE, 2027년 의장국 합의 실패 가능성\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RbFpoSGxfVXNldnZ2T1Bacy1rLVZOU3hNcFQ5STJROWdaemxqVzN4eEpDTWdPX1Q0ZlV0U1pjSVAxYjZNZGFZMtIBTkFVX3lxTFBLbU5WNmpuem1NcHE0aW1yTmItTGlRX2dwdDdNNDI1Z2FPcE9vTUZhYl9QemxlQUoxRkl3MUhra2staVZJRTBhTF9OdmIyZw?oc=5",
+      "date": "2026-11-14T08:56:50.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "republic",
       "country": "in",
       "title": "When Nvidia Sneezed, Who in India Caught a Cold?",
@@ -1595,6 +1843,18 @@
       "tr": "claude"
     },
     {
+      "source": "tass",
+      "country": "ru",
+      "title": "Armenian PM says plans three visits to Russia in December",
+      "titleKo": "아르메니아 총리, 12월 러시아 방문 3차례 계획 발표",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBRNFpPWlY3UFdGV2U0TmxrSHpocE5yTWdDWEU2bmdIMnJCWV9vSF92cDRXV0FwM3MtM0J6ZkpObU1QUnBm0gFKQVVfeXFMTWNNdl9yVTRscnhET25TNkJrWE1hQklLVmhRbDlrTkxHcjBCZkkwQXNVcV9jSlV4b0tvWGlNdlBobzdDR1NXQkJIcVE?oc=5",
+      "date": "2026-11-14T07:18:46.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "xinhua",
       "country": "cn",
       "title": "Urgent: China ready to deepen trade, economic exchanges with Thailand, says Chinese premier",
@@ -1634,6 +1894,18 @@
       "tr": "claude"
     },
     {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "South Korea should not fear China's rise, foreign minister says",
+      "titleKo": "조현 외교장관 \"한국, 중국의 부상을 두려워할 필요 없어\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
+      "date": "2026-11-14T04:49:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "republic",
       "country": "in",
       "title": "Delhi Police Draft Proposes 50,000 Cap, Fixed Timings for Ramlila Ground Gatherings",
@@ -1643,6 +1915,18 @@
       "date": "2026-11-14T04:40:26.000Z",
       "topics": [
         "사회·생활"
+      ]
+    },
+    {
+      "source": "republic",
+      "country": "in",
+      "title": "Indian Envoy Vinay Mohan Kwatra Slams USCIRF Over Sharjeel Imam Remarks, Says Panel Has 'No Locus Standi'",
+      "titleKo": "인도 대사 비나이 모한 크와트라, USCIRF 비판 \"위원회에 발언 자격 없어\"… 샤르질 이맘 발언 반발",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNU2lVRGVWUUVZOXBEcjlacW81b3l2b0s5d3oxWU40TFo4VE12STJlRmJtR1ZncnVTLTM4MFZNS0ZqNnJaaVoxNVdzLUljV0lqWEgxVjFYZmc5bXFGMWNrNlc5YjI0QVl0eXFOUWYyajFHOW5mZFBHWTh6Yjg4aFMwMkZEOTJvX2dncTFrZjQ4WDRPQ0NCV3RoaVdqeENzc2V6dzRENmJLWW9uXzdhRnVmQWxIYXBwVGtuZV92SmRXTUwxaGpJeFpzcDE2RW1wOGNpaW5PRmhEUnZReW9OMnlsNXgxbnZ6YTl1OHdiZHM0UG85UWvSAfgBQVVfeXFMUDZCcFdJb2hWVGZoa29wX1NnNF9hMmRhaUh6WEhCaXp4ZzBOaGVJRTNGVmUyS0Y3RnBVQ0JGem43YVFtR3BOaFNJSnVDZm9SS0xOU1VZWHNIZGZxXzgzX3hlQ2c2VkpWNWJhS2lONFNNYWF3X3RkeUNXcXFXc29KZjRvd1h4RWU5MnJMNlQwNjJYTElQZ1VHSktOdDBNSXlGNVBuclZJSzV6ZUtMSlFhbDdfOXp4bGU2TXdUM3o3NWxueTdiMm5hcGdTMmdtWjVtTkREb1hiaVhpV2NaVEc5cVpEeG04THBFd3EwajY3d296aTB4TEp5aW8?oc=5",
+      "date": "2026-11-14T04:17:40.000Z",
+      "topics": [
+        "외교·안보"
       ]
     },
     {
@@ -1888,6 +2172,19 @@
         "산업·시장"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+      "titleKo": "단독: 황 퇴진과 미국 조사, 엔비디아 의존 중국 AI 프로젝트 30억 달러 위기",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
+      "date": "2026-11-13T17:19:01.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
     },
     {
       "source": "asharq",
@@ -2343,6 +2640,19 @@
       "tr": "claude"
     },
     {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "Economic Watch: Austrian businesses eye fresh opportunities in China after chancellor's visit",
+      "titleKo": "경제 워치: 오스트리아 총리 방중 이후 중국 시장 신규 기회 모색하는 오스트리아 기업들",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NNUJDRWRRQzdrTkJnSmVRQUd3TDJuRmE2eUgzekpkRTZtVXZGRUJJSHNaQmtZYzBBZ3ZPQzNYa2hKemRWeVZZSTBaWGJIYW1IbFhKaEM0VlcwVWRLQWJpbGNjVXZJRnY1V0pvRHl5WnNoYWZlYWtVeVhLMnc?oc=5",
+      "date": "2026-11-13T09:29:15.000Z",
+      "topics": [
+        "경제·물가",
+        "외교·안보"
+      ]
+    },
+    {
       "source": "caixin",
       "country": "cn",
       "title": "Caixin Summit: Foreign Firms See China as Global Growth Engine, BASF Vice President Says",
@@ -2417,6 +2727,20 @@
         "외교·안보"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "reuters_cn",
+      "country": "cn",
+      "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+      "titleKo": "단독: 간첩 스캔들에 미국 규제 우려 확산, 중국 AI 기업들 엔비디아 칩 생산능력 확보 경쟁",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
+      "date": "2026-11-13T08:05:37.000Z",
+      "topics": [
+        "AI·반도체",
+        "외교·안보",
+        "산업·시장"
+      ]
     },
     {
       "source": "echos",
@@ -2495,6 +2819,20 @@
         "산업·시장"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "bbc_cn",
+      "country": "cn",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "titleKo": "젠슨 황 전 엔비디아 CEO, 중국 간첩 의혹 여성과의 관계 놓고 의회 증언 소환",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5",
+      "date": "2026-11-13T03:57:01.000Z",
+      "topics": [
+        "AI·반도체",
+        "정치·선거",
+        "외교·안보"
+      ]
     },
     {
       "source": "et",
