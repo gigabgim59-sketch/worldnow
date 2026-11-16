@@ -4,7 +4,7 @@ const root=new URL('../',import.meta.url);
 const read=async p=>{try{return JSON.parse(await fs.readFile(new URL(p,root),'utf8'));}catch{return null;}};
 const write=async(p,j)=>fs.writeFile(new URL(p,root),JSON.stringify(j,null,2));
 await fs.mkdir(new URL('public/data/',root),{recursive:true});await fs.mkdir(new URL('.cache/',root),{recursive:true});
-const sources=await read('sources.json');
+const sources=(await read('sources.json')).filter(s=>!s.retired); // retired: 수집 중단(지난 브리핑 표시용으로만 남김)
 let previous=await read('.cache/news-last-good.json')||await read('public/data/news.json');
 if(process.env.PREVIOUS_DATA_URL){try{const r=await fetch(process.env.PREVIOUS_DATA_URL,{signal:AbortSignal.timeout(8000)});if(r.ok){const p=await r.json();if(p.feeds?.length&&(!previous||new Date(p.generatedAt)>new Date(previous.generatedAt)))previous=p;}}catch{}}
 const oldFeeds=new Map((previous?.feeds||[]).map(f=>[f.source.id,f]));const feeds=[];let cursor=0;let successful=0;

@@ -100,7 +100,8 @@
     "domain": "meduza.io",
     "lang": "en",
     "query": "site:meduza.io/en/",
-    "color": "#b7924b"
+    "color": "#b7924b",
+    "retired": true
   },
   {
     "id": "kommersant",
@@ -111,6 +112,26 @@
     "lang": "ru",
     "economy": true,
     "color": "#50555c"
+  },
+  {
+    "id": "reuters_ru",
+    "country": "ru",
+    "name": "Reuters · 러시아",
+    "label": "서방 통신사(영국)가 본 러시아 · 제목에 러시아 관련어가 있는 기사만",
+    "domain": "reuters.com",
+    "lang": "en",
+    "titleMust": "russia|russian|putin|kremlin|moscow|lavrov|peskov|shoigu|gazprom|rosneft|ruble|rouble|wagner|crimea|donbas",
+    "color": "#e3701a"
+  },
+  {
+    "id": "bbc_ru",
+    "country": "ru",
+    "name": "BBC · 러시아",
+    "label": "서방 공영방송(영국)이 본 러시아 · 제목에 러시아 관련어가 있는 기사만",
+    "domain": "bbc.com",
+    "lang": "en",
+    "titleMust": "russia|russian|putin|kremlin|moscow|lavrov|peskov|shoigu|gazprom|rosneft|ruble|rouble|wagner|crimea|donbas",
+    "color": "#3a3a3a"
   },
   {
     "id": "wire",

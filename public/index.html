@@ -150,6 +150,7 @@ details.src a b{color:var(--ink);font-weight:600}
 .item:hover .ko{text-decoration:underline;text-underline-offset:3px}
 .orig{font-size:12.5px;color:var(--sub);margin-top:3px;line-height:1.35}
 @media(max-width:759px){.lane,.item{min-width:0}.item .orig{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}} /* 휴대폰: 원문은 한 줄만, 전체는 '원문으로 보기' */
+.outlet{color:var(--w);font-weight:700}
 .meta{font-size:12px;color:var(--faint);margin-top:4px}
 .meta em{font-style:normal;color:#b08a3a;margin-left:6px}
 .none{font-size:13px;color:var(--faint);padding:14px 0 16px}
@@ -229,9 +230,9 @@ const LANES={
  uk:[['guardian','l','진보'],['ft','e','경제'],['telegraph','r','보수']],
  fr:[['liberation','l','좌파'],['echos','e','경제'],['figaro','r','우파']],
  us:[['nyt','l','진보'],['wsj','e','경제'],['fox','r','보수']],
- ru:[['tass','s','국영'],['kommersant','e','경제'],['meduza','l','독립']],
+ ru:[['tass','s','국영'],['kommersant','e','경제'],[['reuters_ru','bbc_ru'],'w','서방']],
  in:[['jagran','r','북인도·힌디'],['hindu','l','남인도'],['republic','r','친정부'],['wire','l','비판'],['et','e','경제']],
- cn:[['xinhua','s','국영'],['caixin','e','경제'],['reuters_cn','w','서방 통신'],['bbc_cn','w','서방 방송']],
+ cn:[['xinhua','s','국영'],['caixin','e','경제'],[['reuters_cn','bbc_cn'],'w','서방']],
  me:[['haaretz','l','이스라엘'],['aljazeera','c','카타르'],['asharq','e','사우디·경제'],['presstv','s','이란 국영']]
 };
 const state={view:'brief',issue:null,country:'all',eco:false,original:false,period:72,search:'',topic:null,feeds:[],updated:null,loading:true};
@@ -242,7 +243,18 @@ const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const rel=d=>{const m=Math.max(0,Math.floor((Date.now()-new Date(d))/60000));return m<60?m+'분 전':m<1440?Math.floor(m/60)+'시간 전':Math.floor(m/1440)+'일 전';};
 function hl(text){const s=esc(text);const q=state.search.trim();if(!q)return s;return s.replace(new RegExp('('+q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','gi'),'<mark>$1</mark>');}
-const feedById=id=>state.feeds.find(f=>f.source.id===id);
+const feedOne=id=>state.feeds.find(f=>f.source.id===id);
+// 칸 id가 배열이면 여러 매체를 한 칸(예: 서방 = Reuters + BBC)으로 묶는다. 기사마다 매체 이름을 붙인다.
+const MERGED=new Map();
+const feedById=id=>{if(!Array.isArray(id))return feedOne(id);const key=id.join('+');const fs=id.map(feedOne).filter(Boolean);if(!fs.length)return null;
+  const m=MERGED.get(key);if(m&&m.src===state.feeds)return m.f;
+  const short=x=>x.source.name.split(' · ')[0];
+  const f={source:{id:key,country:fs[0].source.country,name:fs.map(short).join(' · '),label:'서방 매체('+fs.map(short).join('·')+')가 본 '+(COUNTRIES[fs[0].source.country]?.[0]||'')+' · 제목에 관련어가 있는 기사만'},
+    status:fs.every(x=>x.status==='error')?'error':fs.some(x=>x.status==='stale')?'stale':'ok',
+    items:fs.flatMap(x=>x.items.map(a=>(a._outlet=short(x),a)))};
+  MERGED.set(key,{src:state.feeds,f});return f;};
+// 수집을 멈춘 매체(지난 브리핑 표시용)
+const RETIRED={meduza:['l','독립','Meduza']};
 function items(f){
   const q=state.search.trim().toLowerCase();
   return f.items.filter(a=>(new Date(a.date)>Date.now()-state.period*3600000||(f.status==='stale'&&state.period===72))
@@ -252,7 +264,7 @@ function items(f){
 }
 function topicsOf(c){
   const map=new Map();
-  LANES[c].forEach(([id])=>{const f=feedById(id);if(!f)return;const seen=new Set();f.items.forEach(a=>(a.topics||[]).forEach(t=>seen.add(t)));seen.forEach(t=>map.set(t,(map.get(t)||0)+1));});
+  LANES[c].flatMap(([id])=>Array.isArray(id)?id:[id]).forEach(id=>{const f=feedById(id);if(!f)return;const seen=new Set();f.items.forEach(a=>(a.topics||[]).forEach(t=>seen.add(t)));seen.forEach(t=>map.set(t,(map.get(t)||0)+1));});
   if(map.has('금리·물가')||map.has('예산·재정'))map.delete('경제·물가');if(map.has('전쟁·휴전'))map.delete('외교·안보');
   return [...map].sort((a,b)=>b[1]-a[1]).slice(0,3).map(x=>x[0]);
 }
@@ -264,7 +276,7 @@ function lane(c,[id,side,tag],limit){
     const main=state.original?a.title:(ko||a.title);
     return '<a class="item" href="'+esc(a.url)+'" target="_blank" rel="noopener noreferrer"><div class="ko" dir="auto">'+hl(main)+'</div>'
       +(!state.original&&ko?'<div class="orig" dir="auto">'+hl(a.title)+'</div>':'')
-      +'<div class="meta">'+rel(a.date)+(!state.original&&!ko?'<em>원문</em>':'')+'</div></a>';
+      +'<div class="meta">'+(a._outlet?'<b class="outlet">'+esc(a._outlet)+'</b> · ':'')+rel(a.date)+(!state.original&&!ko?'<em>원문</em>':'')+'</div></a>';
   }).join(''):'<div class="none">'+(f.status==='error'?'지금은 기사를 가져오지 못했습니다':'조건에 맞는 제목이 없습니다')+'</div>';
   return '<section class="lane '+side+'"><div class="lh"><span class="tag">'+esc(tag)+'</span><span class="oname">'+esc(s.name)+'</span></div>'
     +(state.country!=='all'?'<div class="desc">'+esc(s.label)+(f.status==='stale'?' · 이전 수집분':'')+'</div>':'')+body+'</section>';
@@ -332,7 +344,7 @@ function computeIssues(){
   return keep;
 }
 function overlap(a,b){const A=new Set(),B=new Set();state.feeds.forEach(f=>items(f).forEach(x=>{const t=tokens(x.titleKo||'');if(t.has(a))A.add(x.url);if(t.has(b))B.add(x.url);}));const i=[...B].filter(u=>A.has(u)).length;return i>=B.size*0.8;}
-function laneOf(id){for(const c in LANES){const l=LANES[c].find(x=>x[0]===id);if(l)return l;}return [id,'c',''];}
+function laneOf(id){for(const c in LANES){const l=LANES[c].find(x=>Array.isArray(x[0])?x[0].includes(id):x[0]===id);if(l)return [id,l[1],l[2]];}if(RETIRED[id])return [id,RETIRED[id][0],RETIRED[id][1]];return [id,'c',''];}
 function issueStrip(){
   const el=$('issues');
   if(state.country!=='all'||!state.feeds.length){el.hidden=true;return;}
@@ -375,7 +387,7 @@ function renderBrief(){
   if(state.view!=='brief'){el.hidden=true;return;}el.hidden=false;
   const D=B.doc;
   if(!D){el.innerHTML='<div class="none">'+(B.err?'브리핑을 불러오지 못했습니다.':'아직 발행된 브리핑이 없습니다.')+'</div>';return;}
-  const nm=id=>{const f=feedById(id);return f?f.source.name:id;};
+  const nm=id=>{const f=feedOne(id);return f?f.source.name:(RETIRED[id]?.[2]||id);};
   const dates=(B.index?.dates||[]);
   const regions=(state.country==='all'?Object.keys(COUNTRIES):[state.country]);
   let h='<div class="bhead"><div class="k">ISSUE BRIEFING</div><h2>'+esc(D.title||'오늘의 이슈 브리핑')+'</h2><p>'+esc(D.window||'')+' · 기사 '+(D.articles||'')+'건 분석 · '+esc(D.author||'Claude')+' 작성</p>'
@@ -433,7 +445,8 @@ document.addEventListener('click',e=>{
   if(b.id==='clearTopic'){state.topic=null;}
   else if(b.id==='closeIssue'){state.issue=null;}
   else if(b.dataset.issue){state.issue=state.issue===b.dataset.issue?null:b.dataset.issue;state.topic=null;window.scrollTo({top:0});}
-  else if(b.dataset.country){state.country=b.dataset.country;state.topic=null;state.issue=null;try{history.replaceState(null,'',b.dataset.country==='all'?location.pathname:'#'+b.dataset.country)}catch{}window.scrollTo({top:0});}
+  else if(b.dataset.country){state.country=b.dataset.country;state.topic=null;state.issue=null;if(b.closest('.tabs'))state.view='brief'; // 위쪽 나라 탭은 항상 그 나라 브리핑으로
+   try{history.replaceState(null,'',b.dataset.country==='all'?location.pathname:'#'+b.dataset.country)}catch{}window.scrollTo({top:0});}
   else if(b.dataset.topic){state.topic=state.topic===b.dataset.topic?null:b.dataset.topic;const c=b.closest('.region')?.querySelector('[data-country]')?.dataset.country;if(c)state.country=c;}
   save();render();
 });
