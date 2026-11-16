@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T00:28:04.563Z",
+  "generatedAt": "2026-11-16T00:32:14.954Z",
   "feeds": [
     {
       "source": {
@@ -114,7 +114,7 @@
           "titleKoAlt": "나쁜 직업이나 복지? Milburn은 고용주가 젊은이를 돕도록 강요해야 합니다 | 리처드 파팅턴"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.520Z",
+      "fetchedAt": "2026-11-16T00:32:12.991Z",
       "status": "ok"
     },
     {
@@ -224,7 +224,7 @@
           "titleKoAlt": "미국 항공편 혼란의 원인으로 지목된 구리선 교체 작업"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.518Z",
+      "fetchedAt": "2026-11-16T00:32:12.926Z",
       "status": "ok"
     },
     {
@@ -339,7 +339,7 @@
           "titleKoAlt": "마이크로소프트는 글로벌 중단 이후 서비스가 '광범위한 복구'를 경험하고 있다고 밝혔습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.516Z",
+      "fetchedAt": "2026-11-16T00:32:12.924Z",
       "status": "ok"
     },
     {
@@ -443,7 +443,7 @@
           "id": "liberation-7",
           "title": "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEtyWlI1NE1pRkFWeDlZZkMybXFWbmNDZmM5LXZjUTM3NlB0U1FvSUhTbFFxcEt6LXItMDhBeWJxTU5mVEhZbGJyUnBrajgwelI3LXRMc3Y0UTJEbU5YZEJNZTNGV2oxYzB6UTdJYVRGM19aeFpHYUJITVFoeXE3WWVkam1vWnZvX2xGZTBaNkg3X0JlQk94djE0bC03bS1xMzBvNVc2enhldXgzZE53X3FpNmRCVGVaYnN6Vkc0TDh2dFZ3UjVhZGZTUHY?oc=5",
-          "date": "2026-11-14T17:21:00.000Z",
+          "date": "2026-11-14T12:29:00.000Z",
           "topics": [
             "사회·생활"
           ],
@@ -452,7 +452,7 @@
           "titleKoAlt": "높은 생활비에 반대하는 Act V 시위: 프랑스에서는 106,000~200,000명이 행진했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.509Z",
+      "fetchedAt": "2026-11-16T00:32:12.916Z",
       "status": "ok"
     },
     {
@@ -481,18 +481,6 @@
         },
         {
           "id": "figaro-1",
-          "title": "Colère sociale : plus de 400 interpellations en France, une centaine de gardes à vue à Paris",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTN5ZjZtTlBDYWZibjZoTERlbXJhUU80VFVKaUhfa20tVFJyMkRzaExTVVBwb1ptempzSGNIVkk1WGUxb21lQThra1NoVHZEOUtUTHMxYWJnay1DeTBkS19WR0lrNUQ3YUhYTEUtRlcxemxHMUVuY18tSmJXTjhEOGpoRlVKTWhqeTJZSUNtTElUb0U1MGJ6ZUJ3aHdydnZTd1V0dHdWSW1paFFWelpydF91RE5qM2VsMkZMSGZnZHhXTTNyckVKaWF5TlB0aDNsdDN3?oc=5",
-          "date": "2026-11-15T11:16:03.000Z",
-          "topics": [
-            "사회·생활"
-          ],
-          "titleKo": "사회적 분노 확산…프랑스 전역 400여 명 체포, 파리서 100여 명 구금",
-          "tr": "claude",
-          "titleKoAlt": "사회적 분노: 프랑스에서 400명 이상 체포, 파리에서 100명가량 구금"
-        },
-        {
-          "id": "figaro-2",
           "title": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer» la menace d’extrême droite",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGV1V2otRWllcWJ3Wk1CSEk4ZzVXX3lna1JWb092RlpOM29Oc2VYVEl4Rnk4d2NESnBNcFI4RGJvbEpsaTBCYUZSa2FuWEc2U1hRUThpRGJWU1cyNEY2anpIMUlRX0VlNmc4TXVfZXB3Y0N0Y3lhaEJDQmxOSXZfRTVBU0hDS0paeWttUFpFcThNZHNVU2cyYkgySnJBZ21vRkE3VFhhTUVVYTVzUU5wekZwWWdEUFJYRE9YZ1hJVVgwYlV0UXo5RGplY1VzUWN6M3h2SC02Qk1jSGJkMjBB?oc=5",
           "date": "2026-11-15T17:49:47.000Z",
@@ -502,6 +490,18 @@
           "titleKo": "트라프 테러 사건…루소 \"정부, 극우 위협 과소평가\" 질타",
           "tr": "claude",
           "titleKoAlt": "Trappes 공격: Sandrine Rousseau는 정부가 극우 위협을 \"과소평가\"했다고 비난합니다."
+        },
+        {
+          "id": "figaro-2",
+          "title": "Colère sociale : plus de 400 interpellations en France, une centaine de gardes à vue à Paris",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTN5ZjZtTlBDYWZibjZoTERlbXJhUU80VFVKaUhfa20tVFJyMkRzaExTVVBwb1ptempzSGNIVkk1WGUxb21lQThra1NoVHZEOUtUTHMxYWJnay1DeTBkS19WR0lrNUQ3YUhYTEUtRlcxemxHMUVuY18tSmJXTjhEOGpoRlVKTWhqeTJZSUNtTElUb0U1MGJ6ZUJ3aHdydnZTd1V0dHdWSW1paFFWelpydF91RE5qM2VsMkZMSGZnZHhXTTNyckVKaWF5TlB0aDNsdDN3?oc=5",
+          "date": "2026-11-15T11:16:03.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "사회적 분노 확산…프랑스 전역 400여 명 체포, 파리서 100여 명 구금",
+          "tr": "claude",
+          "titleKoAlt": "사회적 분노: 프랑스에서 400명 이상 체포, 파리에서 100명가량 구금"
         },
         {
           "id": "figaro-3",
@@ -566,7 +566,7 @@
           "titleKoAlt": "“10억유로 조금 넘는다”: 정부가 밝힌 공무원 최저임금 인상과 저임금 비용"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.929Z",
+      "fetchedAt": "2026-11-16T00:32:13.296Z",
       "status": "ok"
     },
     {
@@ -683,7 +683,7 @@
           "titleKoAlt": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.908Z",
+      "fetchedAt": "2026-11-16T00:32:13.262Z",
       "status": "ok"
     },
     {
@@ -796,7 +796,7 @@
           "titleKoAlt": "의회가 조사를 계획함에 따라 백악관은 맹렬한 대응을 준비합니다"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.997Z",
+      "fetchedAt": "2026-11-16T00:32:13.355Z",
       "status": "ok"
     },
     {
@@ -910,7 +910,7 @@
           "titleKoAlt": "이란 전문가는 정권이 미국 장교를 지명함에 따라 테헤란의 온라인 위협이 '중요하다'고 경고했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:00.927Z",
+      "fetchedAt": "2026-11-16T00:32:13.410Z",
       "status": "ok"
     },
     {
@@ -1030,7 +1030,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.329Z",
+      "fetchedAt": "2026-11-16T00:32:13.675Z",
       "status": "ok"
     },
     {
@@ -1142,7 +1142,7 @@
           "titleKoAlt": "EU, 2025년 시작 이후 러시아 파이프라인 가스에 대해 가장 높은 금액 지불"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.245Z",
+      "fetchedAt": "2026-11-16T00:32:13.596Z",
       "status": "ok"
     },
     {
@@ -1261,7 +1261,7 @@
           "titleKoAlt": "러시아, 23억 루블의 비용으로 AI 기반 인터넷 트래픽 필터링 시스템 출시"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.182Z",
+      "fetchedAt": "2026-11-16T00:32:13.580Z",
       "status": "ok"
     },
     {
@@ -1314,7 +1314,7 @@
           "titleKoAlt": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.373Z",
+      "fetchedAt": "2026-11-16T00:32:13.738Z",
       "status": "ok"
     },
     {
@@ -1402,7 +1402,7 @@
           "titleKoAlt": "파키스탄, SCO 행사를 위해 무사딕 말릭 환경부 장관을 델리로 보낼 예정"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.508Z",
+      "fetchedAt": "2026-11-16T00:32:13.859Z",
       "status": "ok"
     },
     {
@@ -1513,7 +1513,7 @@
           "titleKoAlt": "Diljit Dosanjh의 뭄바이 콘서트에 참석하시나요? 전화 규칙 및 높은 보안 속에서 기대할 수 있는 것"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.617Z",
+      "fetchedAt": "2026-11-16T00:32:13.973Z",
       "status": "ok"
     },
     {
@@ -1626,7 +1626,7 @@
           "titleKoAlt": "설명: AI 기반 해커가 인도의 금융 배관을 악용하여 돈을 훔치는 방법"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.717Z",
+      "fetchedAt": "2026-11-16T00:32:14.043Z",
       "status": "ok"
     },
     {
@@ -1738,7 +1738,7 @@
           "titleKoAlt": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.854Z",
+      "fetchedAt": "2026-11-16T00:32:14.414Z",
       "status": "ok"
     },
     {
@@ -1754,18 +1754,6 @@
       "items": [
         {
           "id": "jagran-0",
-          "title": "रेवंत रेड्डी ने पीएम मोदी से की मुलाकात, खेलो इंडिया यूथ गेम्स का न्योता दिया",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcEwtclRUMzFFbk1XVkdWcXR6bXFPV3BoWXFtYTYyUlVERUJ2X2ZUQkRGTzlqU1EtZlh4cDZ5ZC16SDhCOUFzeEQwWldsRXVlb2dfRExGVDZ3Vnc2UVowaF8zejdKdXpPSDBXYXhVWlVhbnY5ZzNyVXMtSTZ1QVluXzhQSDBZN2lNRWkxbUR1Rk0xWlN3RFN5eUNjZE54Z3ZXSjRIcnRNOGdhUlNBRE1veDlYbHczVWg5M3VFR1poUFhhclRfcE1NSHJhanRXeVN1SFpNaHBmX3JGQQ?oc=5",
-          "date": "2026-11-15T23:30:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "레반트 레디, 모디 총리와 면담…'켈로 인디아 유스 게임' 초청",
-          "tr": "claude",
-          "titleKoAlt": "Revanth Reddy는 Khelo India Youth Games에 초대된 Modi 총리를 만났습니다."
-        },
-        {
-          "id": "jagran-1",
           "title": "50 करोड़ से ज्यादा का होगा योगी सरकार का दूसरा अनुपूरक बजट, महिलाओं और किसानों को मिल सकती है बड़ी सौगात",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcDZibXVfRFM5VkxQYUxxdi11bFg5Z3J4Qkx3QWJ3V25lbllUQXJmZVZ3ZDVmSEpiM1BkT0RjMXh4WmlQWkRRSFNjZ3BrNDBGUkVwNEdraFp4OVhZUnBhSjZlcEl1OWlZWXhtald0eUxUd2JVbHVWbFFYRldFNjVEVXdVeHNKOTZLbmNjQWhTcnV6SXBqVEhNMW0ySDVmanFQSlRiSUVyQlM2WTYxSDkySUdBd012ZXJSRm9j?oc=5",
           "date": "2026-11-15T23:30:00.000Z",
@@ -1777,6 +1765,18 @@
           "titleKo": "요기 정부 2차 추가경정예산 500억 루피 넘을 전망…여성·농민에 큰 혜택 기대",
           "tr": "claude",
           "titleKoAlt": "요기정부의 2차 추가경정예산은 5억 루피 이상이 될 것이며, 여성과 농민은 큰 선물을 받을 수 있습니다."
+        },
+        {
+          "id": "jagran-1",
+          "title": "रेवंत रेड्डी ने पीएम मोदी से की मुलाकात, खेलो इंडिया यूथ गेम्स का न्योता दिया",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcEwtclRUMzFFbk1XVkdWcXR6bXFPV3BoWXFtYTYyUlVERUJ2X2ZUQkRGTzlqU1EtZlh4cDZ5ZC16SDhCOUFzeEQwWldsRXVlb2dfRExGVDZ3Vnc2UVowaF8zejdKdXpPSDBXYXhVWlVhbnY5ZzNyVXMtSTZ1QVluXzhQSDBZN2lNRWkxbUR1Rk0xWlN3RFN5eUNjZE54Z3ZXSjRIcnRNOGdhUlNBRE1veDlYbHczVWg5M3VFR1poUFhhclRfcE1NSHJhanRXeVN1SFpNaHBmX3JGQQ?oc=5",
+          "date": "2026-11-15T23:30:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "레반트 레디, 모디 총리와 면담…'켈로 인디아 유스 게임' 초청",
+          "tr": "claude",
+          "titleKoAlt": "Revanth Reddy는 Khelo India Youth Games에 초대된 Modi 총리를 만났습니다."
         },
         {
           "id": "jagran-2",
@@ -1852,7 +1852,7 @@
           "titleKoAlt": "Modi 총리는 'Chhathi Maiya ki Jai' 저녁 Arghya에 최고의 소원을 전했습니다. 새로운 에너지와 인식을 기원합니다"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.981Z",
+      "fetchedAt": "2026-11-16T00:32:14.270Z",
       "status": "ok"
     },
     {
@@ -1964,7 +1964,7 @@
           "titleKoAlt": "SpaceX, 15번째 우주선 비행 테스트 완료, 우주선이 발사대에 처음으로 포착"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.019Z",
+      "fetchedAt": "2026-11-16T00:32:14.286Z",
       "status": "ok"
     },
     {
@@ -2073,7 +2073,7 @@
           "titleKoAlt": "분석: 중국 보험사의 주식 베팅은 주식 리스크의 한계를 테스트합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:01.915Z",
+      "fetchedAt": "2026-11-16T00:32:14.239Z",
       "status": "ok"
     },
     {
@@ -2182,7 +2182,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.300Z",
+      "fetchedAt": "2026-11-16T00:32:14.618Z",
       "status": "ok"
     },
     {
@@ -2235,7 +2235,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.287Z",
+      "fetchedAt": "2026-11-16T00:32:14.607Z",
       "status": "ok"
     },
     {
@@ -2351,7 +2351,7 @@
           "titleKoAlt": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.436Z",
+      "fetchedAt": "2026-11-16T00:32:14.694Z",
       "status": "ok"
     },
     {
@@ -2466,7 +2466,7 @@
           "titleKoAlt": "영국 학교의 반유대주의 검토, '조잡한' 증거 때문에 비난"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.298Z",
+      "fetchedAt": "2026-11-16T00:32:14.634Z",
       "status": "ok"
     },
     {
@@ -2587,7 +2587,7 @@
           "titleKoAlt": "EU, 겨울철 상황이 악화됨에 따라 가자지구 위기가 빠르게 악화될 것이라고 경고"
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.714Z",
+      "fetchedAt": "2026-11-16T00:32:14.948Z",
       "status": "ok"
     },
     {
@@ -2712,7 +2712,7 @@
           "titleKoAlt": "유로존 경제의 성장으로 인해 유럽중앙은행은 금리를 인상할 여지를 갖게 되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:28:02.629Z",
+      "fetchedAt": "2026-11-16T00:32:14.949Z",
       "status": "ok"
     }
   ],
@@ -2723,8 +2723,8 @@
     "byClaude": 187,
     "claude": {
       "run": {
-        "titles": 4,
-        "usd": 0.00026179999999999997,
+        "titles": 0,
+        "usd": 0,
         "rejected": 0,
         "stopped": null
       },
