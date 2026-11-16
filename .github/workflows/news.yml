@@ -44,6 +44,9 @@ jobs:
         run: node scripts/collect.mjs
       - name: Check data
         run: node scripts/check.mjs
+      - name: KakaoTalk / SMS text (always)
+        if: always()
+        run: node scripts/sms.mjs
       - name: Save data to repo (keeps scheduled runs active)
         run: |
           git config user.name "news-bot"
