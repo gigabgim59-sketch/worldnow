@@ -496,7 +496,8 @@ document.addEventListener('click',async e=>{const b=e.target.closest('[data-shar
 // 공유 링크(#b-나라-번호)로 들어오면 브리핑의 그 이슈로 이동
 let pendingJump=/^#b-[a-z]+(-\d+)?$/.test(location.hash)?location.hash.slice(1):null;
 if(pendingJump){state.view='brief';state.country='all';}
-const jumpIfPending=()=>{if(!pendingJump)return;const t=document.getElementById(pendingJump);if(!t)return;pendingJump=null;const d=t.closest('details');if(d)d.open=true;setTimeout(()=>t.scrollIntoView({block:'start'}),50);t.classList.add('hit');setTimeout(()=>t.classList.remove('hit'),2200);};
+// 화면을 다시 그려도 대상이 바뀌므로, 스크롤 직전에 id로 다시 찾는다
+const jumpIfPending=()=>{if(!pendingJump)return;const id=pendingJump;if(!document.getElementById(id))return;pendingJump=null;setTimeout(()=>{const t=document.getElementById(id);if(!t)return;const d=t.closest('details');if(d)d.open=true;t.scrollIntoView({block:'start'});t.classList.add('hit');setTimeout(()=>t.classList.remove('hit'),2200);},80);};
 addEventListener('hashchange',()=>{if(/^#b-/.test(location.hash)){pendingJump=location.hash.slice(1);state.view='brief';state.country='all';render();renderBrief();jumpIfPending();}});
 // 화면 모드 버튼: 자동 → 밝게 → 어둡게 순서로 바뀜
 const THEMES=[['auto','자동 (기기 설정)','<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="8"/><path d="M12 4a8 8 0 0 1 0 16z" fill="currentColor"/></svg>'],
