@@ -499,7 +499,7 @@ async function load(){
   state.loading=true;render();let j;
   try{const r=await fetch('data/news.json?t='+Date.now(),{cache:'no-store'});if(!r.ok)throw 0;j=await r.json();}
   catch{j=window.WORLD_NEWS;if(!j){try{j=JSON.parse(localStorage.getItem('world-desk-feeds-v1')||'null')}catch{}}}
-  if(j?.feeds?.length){state.feeds=j.feeds;TOK=null;setToday();state.updated=j.generatedAt;try{localStorage.setItem('world-desk-feeds-v1',JSON.stringify(j))}catch{}
+  if(j?.feeds?.length){state.feeds=j.feeds;TOK=null;state.updated=j.generatedAt;setToday();try{localStorage.setItem('world-desk-feeds-v1',JSON.stringify(j))}catch{}
     const old=Date.now()-new Date(j.generatedAt)>2*3600000;const miss=j.feeds.flatMap(f=>f.items).filter(a=>!a.titleKo).length;
     $('notice').textContent=old?'마지막 갱신이 2시간 이상 지났습니다. 이전 수집 결과를 보여줍니다.':(miss>10?'일부 제목은 번역되지 않아 원문으로 표시합니다.':'');}
   state.loading=false;render();
@@ -566,7 +566,12 @@ $('refresh').onclick=load;
 $('how').onclick=$('sourcesBtn').onclick=()=>$('info').showModal();$('closeInfo').onclick=()=>$('info').close();
 window.addEventListener('hashchange',()=>{const k=location.hash.slice(1);if(COUNTRIES[k]){state.country=k;render();}});
 // 날짜는 보는 날 기준, 매체 수는 받은 데이터 기준으로 자동 표시
-function setToday(){try{if(state.feeds.length)$('footN').textContent=state.feeds.length}catch{}$('today').textContent=new Date().toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul',month:'long',day:'numeric',weekday:'long'})+' · 6개국과 중동, '+(state.feeds.length||25)+'개 매체';}
+// 머리글: 가장 최근 기사 업데이트 일시(한국 시간). 업데이트 정보가 아직 없으면 오늘 날짜
+function setToday(){try{if(state.feeds.length)$('footN').textContent=state.feeds.length}catch{}
+  const n=(state.feeds.length||27)+'개 매체',u=state.updated?new Date(state.updated):null;
+  if(!u||isNaN(u)){$('today').textContent=new Date().toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul',month:'long',day:'numeric',weekday:'long'})+' · 6개국과 중동, '+n;return;}
+  const k=new Date(u.getTime()+9*3600000),p2=x=>String(x).padStart(2,'0');
+  $('today').textContent='업데이트 '+(k.getUTCMonth()+1)+'.'+k.getUTCDate()+'('+'일월화수목금토'[k.getUTCDay()]+') '+p2(k.getUTCHours())+':'+p2(k.getUTCMinutes())+' · '+n;$('today').title='기사 목록을 마지막으로 모은 시각(한국 시간)';}
 setToday();setInterval(setToday,60*1000);
 render();load();
 if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('sw.js').catch(()=>{});loadBrief();
