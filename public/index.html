@@ -230,7 +230,7 @@ const LANES={
  uk:[['guardian','l','진보'],['ft','e','경제'],['telegraph','r','보수']],
  fr:[['liberation','l','좌파'],['echos','e','경제'],['figaro','r','우파']],
  us:[['nyt','l','진보'],['wsj','e','경제'],['fox','r','보수']],
- ru:[['tass','s','국영'],['kommersant','e','경제'],[['reuters_ru','bbc_ru'],'w','서방']],
+ ru:[['tass','s','국영'],['kommersant','e','경제'],[['reuters_ru','bbc_ru'],'w','서방'],['meduza','l','독립']],
  in:[['jagran','r','북인도·힌디'],['hindu','l','남인도'],['republic','r','친정부'],['wire','l','비판'],['et','e','경제']],
  cn:[['xinhua','s','국영'],['caixin','e','경제'],[['reuters_cn','bbc_cn'],'w','서방']],
  me:[['haaretz','l','이스라엘'],['aljazeera','c','카타르'],['asharq','e','사우디·경제'],['presstv','s','이란 국영']]
@@ -254,7 +254,7 @@ const feedById=id=>{if(!Array.isArray(id))return feedOne(id);const key=id.join('
     items:fs.flatMap(x=>x.items.map(a=>(a._outlet=short(x),a)))};
   MERGED.set(key,{src:state.feeds,f});return f;};
 // 수집을 멈춘 매체(지난 브리핑 표시용)
-const RETIRED={meduza:['l','독립','Meduza']};
+const RETIRED={}; // 예: {id:['l','독립','이름']}
 function items(f){
   const q=state.search.trim().toLowerCase();
   return f.items.filter(a=>(new Date(a.date)>Date.now()-state.period*3600000||(f.status==='stale'&&state.period===72))
