@@ -17,7 +17,7 @@ button{cursor:pointer;background:none;border:0;padding:0}
 /* 머리 */
 .top{background:#fff}
 .mast{display:flex;align-items:center;justify-content:space-between;padding:16px 0 10px}
-.brand{display:flex;align-items:center;gap:10px}
+.brand{display:flex;align-items:center;gap:10px;color:inherit;text-decoration:none;cursor:pointer}
 .mark{width:34px;height:34px;border-radius:10px;background:var(--green);color:#fff;display:grid;place-items:center;font-weight:850;font-size:18px}
 .brand h1{margin:0;font-size:21px;font-weight:800;letter-spacing:-.04em;line-height:1.1}
 .brand small{display:block;font-size:11.5px;color:var(--faint);font-weight:500;letter-spacing:0;margin-top:2px}
@@ -144,7 +144,7 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
 </head>
 <body>
 <header class="top"><div class="wrap mast">
-  <div class="brand"><div class="mark">W</div><div><h1>세계의 오늘</h1><small id="today"></small></div></div>
+  <a class="brand" id="home" href="./" aria-label="처음 화면으로"><div class="mark">W</div><div><h1>세계의 오늘</h1><small id="today"></small></div></a>
   <div class="acts">
     <button class="iconbtn" id="searchBtn" aria-label="제목 검색"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
     <button class="iconbtn" id="refresh" aria-label="새로고침"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 11a8 8 0 1 0-2.3 5.7"/><path d="M20 4v7h-7"/></svg></button>
@@ -387,6 +387,11 @@ document.addEventListener('click',e=>{
   else if(b.dataset.topic){state.topic=state.topic===b.dataset.topic?null:b.dataset.topic;const c=b.closest('.region')?.querySelector('[data-country]')?.dataset.country;if(c)state.country=c;}
   save();render();
 });
+// 로고·제목을 누르면 처음 화면(전체 · 이슈 브리핑 · 최신 브리핑 · 맨 위)으로
+$('home').onclick=e=>{e.preventDefault();Object.assign(state,{view:'brief',country:'all',issue:null,topic:null,search:''});
+  const sr=$('searchRow'),si=$('search');if(si)si.value='';if(sr)sr.hidden=true;
+  try{history.replaceState(null,'',location.pathname)}catch{}window.scrollTo({top:0});save();render();
+  if(typeof B!=='undefined'&&B.index&&B.date!==B.index.dates?.[0])loadBrief();};
 $('ecoBtn').onclick=()=>{state.eco=!state.eco;save();render();};
 $('origBtn').onclick=()=>{state.original=!state.original;save();render();};
 document.addEventListener('change',e=>{if(e.target.id==='bdate')loadBrief(e.target.value);});
