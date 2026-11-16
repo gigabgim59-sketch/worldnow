@@ -92,7 +92,18 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .ikeys{display:flex;flex-wrap:wrap;gap:5px;margin:4px 0 6px}
 .ikeys span{font-size:12px;font-weight:700;color:var(--green);background:var(--soft);border-radius:999px;padding:1px 9px}
 .bglance .ikeys span{background:var(--card)}
-@media(min-width:760px){.bidx-grid{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}}
+.bidx .no{display:none}
+@media(min-width:760px){ /* PC: 나라 = 한 줄, 이슈 ①②③을 세로 칸에 맞춰 표처럼 */
+ .bidx-grid{display:block;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:4px 20px}
+ .bidx-c{display:grid;grid-template-columns:96px 1fr;align-items:start;background:none;border:0;border-top:1px solid var(--line);border-radius:0;padding:12px 0}
+ .bidx-c:first-child{border-top:0}
+ .bidx-c h4{margin:0;font-size:15.5px;line-height:1.5;padding-top:1px}
+ .bidx-c ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));column-gap:22px}
+ .bidx-c li a,.bidx-c li:first-child a{border:0;padding:0;min-height:0;align-items:baseline;gap:6px;font-size:14.5px;line-height:1.5}
+ .bidx .no{display:inline;color:var(--green);font-size:14px;font-weight:800}
+ .bidx-c li a i{display:none}
+ .bidx-c li a:hover{color:var(--green)}
+}
 .t3{padding:14px 16px 4px}
 .t3 .thead{display:flex;justify-content:space-between;align-items:center;gap:8px;margin:0 0 4px}.t3 .thead h3{margin:0}
 .t3all{display:inline-flex;align-items:center;gap:7px;font:inherit;font-size:13.5px;font-weight:800;color:#fff;background:var(--green);border:0;border-radius:999px;padding:8px 14px 8px 13px;min-height:36px;cursor:pointer;-webkit-tap-highlight-color:transparent}
@@ -446,7 +457,7 @@ function renderBrief(){
   const kk=ks=>(ks||[]).length?'<span class="ikeys">'+ks.map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>':'';
   if(state.country==='all'){ // 전체: 나라별 이슈 제목만, 누르면 그 나라 탭의 해당 이슈로
     h+='<section class="bidx"><h3 class="bidx-h">나라별 주요 이슈</h3><div class="bidx-grid">'+shown.map(([c,C])=>'<div class="bidx-c"><h4><a href="#'+c+'" class="bjump" data-jc="'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a></h4><ol>'
-      +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><span>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
+      +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b><span>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
   }
   for(const c of regions){
     if(state.country==='all')break;
