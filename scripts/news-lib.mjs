@@ -111,16 +111,33 @@ async function claudeBatch(list,env,glossary){
   if(out.length<list.length)console.warn('Claude 응답 일부 누락 ('+out.length+'/'+list.length+', stop='+j.stop_reason+', out_tokens='+(j.usage?.output_tokens)+', blocks='+(j.content||[]).map(c=>c.type).join(',')+'): '+JSON.stringify(text.slice(-700)));
   return {out,usage:j.usage||{},maxTokens:body.max_tokens};
 }
-// 원문의 숫자가 번역에 남아 있는지 확인 (규모 단위가 붙은 숫자·서수 1~2는 환산되므로 제외)
-const SCALE=/^\s?(?:millions?|milliards?|billions?|trillions?|bn|mn|tn|lakh|crore|млн|млрд|трлн|тыс|ألف|مليون|مليار|k\b)/i;
+// 원문의 숫자가 번역에 남아 있는지 확인. 한국어 단위 표기(5만, 10만6천, 398억8천만)도 값으로 비교한다.
+// 규모 단위가 붙은 숫자(million, milliard, lakh…)와 서수 1~2는 환산되므로 검사하지 않는다.
+const SCALE=/^\s?(?:millions?|milliards?|billions?|trillions?|bn|mn|tn|lakh|crore|млн|млрд|трлн|тыс|ألف|مليون|مليار|करोड़|लाख|हज़ार|हजार|m\b|k\b)/i;
+function koValues(ko){
+  const vals=new Set();
+  for(const m of ko.matchAll(/(?:\d[\d,.]*\s*(?:조|억|만|천)\s*)+\d*|(?:조|억|만|천)?\d[\d,.]*/g)){
+    let total=0,small=0;
+    for(const g of m[0].matchAll(/(\d[\d,.]*)?\s*(조|억|만|천)?/g)){if(!g[1]&&!g[2])continue;
+      const n=g[1]?parseFloat(g[1].replace(/,/g,'')):0;const u=g[2];
+      if(u==='천')small+=(n||1)*1e3;else if(u){total+=(small+n||1)*({만:1e4,억:1e8,조:1e12}[u]);small=0;}else small+=n;}
+    vals.add(Math.round((total+small)*1000)/1000);
+  }
+  return vals;
+}
 function numbersOk(src,ko){
+  src=src.replace(/(\d)[\s  ](?=\d{3}(?!\d))/g,'$1'); // 106 000 → 106000
   const kn=new Set((ko.match(/\d[\d.,]*/g)||[]).map(n=>n.replace(/[.,]/g,'')));
+  const kv=koValues(ko);
   for(const m of src.matchAll(/\d[\d.,]*\d|\d/g)){
     const rest=src.slice(m.index+m[0].length);
     if(SCALE.test(rest))continue;
     if(/^(?:st|nd|rd|th)\b/i.test(rest)&&+m[0]<=2)continue;
-    const n=m[0].replace(/[.,]/g,'');
-    if(![...kn].some(k=>k===n||k.includes(n)))return false;
+    const digits=m[0].replace(/[.,]/g,'');
+    if(kn.has(digits))continue;
+    const v=parseFloat(/,\d{3}(?!\d)/.test(m[0])?m[0].replace(/,/g,''):m[0].replace(',','.'));
+    if(kv.has(Math.round(v*1000)/1000))continue;
+    return false;
   }
   return true;
 }
