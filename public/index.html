@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 [hidden]{display:none!important}
-:root{--soft:#e9eee9;--seg:#eef1ee;--body:#2f3a35;--three:#1d2622;--green:#128353;--ink:#1d2622;--sub:#5f6a65;--faint:#76827c;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
+:root{--threebg:#e6f2eb;--soft:#e9eee9;--seg:#eef1ee;--body:#2f3a35;--three:#1d2622;--green:#128353;--ink:#1d2622;--sub:#5f6a65;--faint:#76827c;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
  --l:#2f6fd6;--e:#b7791f;--r:#d0453c;--s:#7a4fc4;--c:#5f6b66;--w:#1f8a8a}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -73,9 +73,9 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .bhead h2{margin:4px 0 4px;font-size:23px;font-weight:800;letter-spacing:-.035em}
 .bhead p{margin:0;font-size:13px;color:var(--sub)}
 .bhead select{margin-top:8px}
-.three{background:var(--three);color:#fff;border-radius:16px;padding:16px 18px;margin:12px 0}
-.three h3{margin:0 0 8px;font-size:13px;color:#b9d8c8;font-weight:800;letter-spacing:.04em}
-.three ol{margin:0;padding-left:20px}.three li{font-size:15.5px;line-height:1.55;margin:6px 0;font-weight:500}
+.three{background:var(--threebg);color:var(--ink);border-radius:16px;padding:16px 18px;margin:12px 0;border-left:4px solid var(--green)}
+.three h3{margin:0 0 8px;font-size:13px;color:var(--green);font-weight:800;letter-spacing:.04em}
+.three ol{margin:0;padding-left:20px}.three li{font-size:15.5px;line-height:1.65;margin:8px 0;font-weight:500}.three li::marker{color:var(--green);font-weight:800}
 .bc{margin:20px 0 6px}
 .bc h2{margin:0 0 8px;font-size:20px;font-weight:800;display:flex;align-items:baseline;gap:8px}
 .bc h2 span{font-size:11px;color:var(--green);font-weight:800;letter-spacing:.08em}
@@ -171,7 +171,7 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
 
 /* 다크 모드: 설정 버튼(자동·밝게·어둡게). 자동이면 기기 설정을 따름 */
 :root[data-theme=dark]{color-scheme:dark}:root[data-theme=light]{color-scheme:light}
- :root[data-theme=dark]{--ink:#e6ece8;--sub:#aab6b0;--faint:#8e9a94;--line:#2b3531;--bg:#111614;--card:#1a211e;--soft:#26302c;--seg:#0c100e;--body:#d2dbd6;--three:#0a0e0c;--green:#3fb37f;
+ :root[data-theme=dark]{--ink:#e6ece8;--sub:#aab6b0;--faint:#8e9a94;--line:#2b3531;--bg:#111614;--card:#1a211e;--soft:#26302c;--seg:#0c100e;--body:#d2dbd6;--three:#0a0e0c;--threebg:#18281f;--green:#3fb37f;
   --l:#4d8ef0;--e:#c98d2e;--r:#e05a50;--s:#9470dc;--c:#7d8a84;--w:#2fa3a3}
  :root[data-theme=dark] .mark,:root[data-theme=dark] .ichip.on,:root[data-theme=dark] .rh .topics button.on{color:#06110b}
  :root[data-theme=dark] .lane{box-shadow:none}
@@ -179,7 +179,7 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
  :root[data-theme=dark] .status i{box-shadow:0 0 0 3px #1f3a2c}
  :root[data-theme=dark] img{opacity:.92}
 @media(prefers-color-scheme:dark){
- :root:not([data-theme=light]){--ink:#e6ece8;--sub:#aab6b0;--faint:#8e9a94;--line:#2b3531;--bg:#111614;--card:#1a211e;--soft:#26302c;--seg:#0c100e;--body:#d2dbd6;--three:#0a0e0c;--green:#3fb37f;
+ :root:not([data-theme=light]){--ink:#e6ece8;--sub:#aab6b0;--faint:#8e9a94;--line:#2b3531;--bg:#111614;--card:#1a211e;--soft:#26302c;--seg:#0c100e;--body:#d2dbd6;--three:#0a0e0c;--threebg:#18281f;--green:#3fb37f;
   --l:#4d8ef0;--e:#c98d2e;--r:#e05a50;--s:#9470dc;--c:#7d8a84;--w:#2fa3a3}
  :root:not([data-theme=light]) .mark,:root:not([data-theme=light]) .ichip.on,:root:not([data-theme=light]) .rh .topics button.on{color:#06110b}
  :root:not([data-theme=light]) .lane{box-shadow:none}
