@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-16T13:09:26.267Z",
-  "count": 445,
+  "updated": "2026-11-16T13:32:27.646Z",
+  "count": 455,
   "items": [
+    {
+      "source": "kommersant",
+      "country": "ru",
+      "title": "Под санкции ЕС попали три кубанские компании",
+      "titleKo": "쿠반 지역 기업 3곳, EU 제재 대상 포함",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pbG5QVDNHVmEtS3htRVRxTHF0MFk0QjVIWFBRWlpCa0haaDF0R1IxS2Q2dXlpTFBtTHV4emJzamJ2dks2MDd0XzNTUFZZdw?oc=5",
+      "date": "2026-11-16T13:22:30.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "jagran",
+      "country": "in",
+      "title": "SAFF Championship: इतिहास में पहली बार फाइनल में भारत-पाकिस्तान की टक्कर, खिताबी हैट्रिक लगाने के इरादे से उतरेगी टीम इंडिया",
+      "titleKo": "SAFF 챔피언십 사상 처음 인도-파키스탄 결승 맞대결…인도, 3연패 도전",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTGFZWmszY3oxa280aF93bnZGUUQ4dDFSQVJ5X3lkU1VNQ3hGOHNJMWtxQ3Jpak9PMEs4V3daMTU2LXpjVlhpdWVOQTVWLVFYZE5PMTFnVXExdWJWOU11OXZmcmJvN181VnRHUkstOEJEaVIwS0dOemJMOG5rQ3JWTk40X3JFbi16cnhWYy1ZSHpCcW1ncmpFNmM5eTd2QWxEUl9KNXNwRUNQa1RiRlUyQlBaUFFiMVRTaEgyUk00ODhnNXNOeVlLdldvSEpiY0twYldOTzFrZkJWdnZNdGh0bTBqV000cTg?oc=5",
+      "date": "2026-11-16T13:18:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Merz: Koalition wird am Dienstag Absenkung der Stromsteuer beschließen - Panorama - SZ.de",
+      "titleKo": "메르츠 \"화요일 연정, 전기세 인하 결정할 것\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMHZUT1Z2ckxCT1g2Tk1xaVpNRlMyM2lXeFdURzI3WGFWWDRENHFtUV9Bc2tVNFIyTDFRWTJNWmRUbE0xLV95MmFLWDhiVTZ1aDFNdkNJU2VLMTZzZGlQUlM2NGotTDNoQV9FajFMNWdjWERyZDFOOERhZktFelVUQnpUb0lXcGtmclZ3MWd5OENRSVNKenAzdDdLVTBTcW5QbTY2Y0c0aXdUV1FYaEd3dS1MSjZ4a01LWEE?oc=5",
+      "date": "2026-11-16T13:14:51.000Z",
+      "topics": [
+        "예산·재정",
+        "정치·선거"
+      ]
+    },
     {
       "source": "sz",
       "country": "de",
@@ -15,6 +52,19 @@
       ]
     },
     {
+      "source": "figaro",
+      "country": "fr",
+      "title": "Des soldats français présents sur le sol ukrainien dans le cadre de l’opération Volia",
+      "titleKo": "프랑스 군인들, 우크라이나 내 '볼랴' 작전 참여",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNURmdjRlMDFsRUR4c0pmNVlFVHBmV3lTcnZOcUdzb3N2VDZIelJWRUpRTU9EN0FVQnRKN05vNHdMcThRelUxcFB1WG5naDJDOHRvOXlybmdhSmxJREFkRk0wbkZOa0JrNk84MGlqcXpJRXlFM1BGYURWbUcxQUpCY2hjeElTRFBRUVV5bFFSQU1mUDBCT1lVeTJwZkZheHdMckhHcy15ZzRraERsbVEwcXdBWEJRSGpjTUhIa0J4VWIyOGVUT2lZRVA0TXo?oc=5",
+      "date": "2026-11-16T13:02:12.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
+      ]
+    },
+    {
       "source": "faz",
       "country": "de",
       "title": "Kapitalrente: Wie die Bundesregierung Deutschlands Altersvorsorge umkrempelt",
@@ -25,6 +75,31 @@
       "topics": [
         "정치·선거",
         "경제·물가"
+      ]
+    },
+    {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Ifo: Deutsche Stromkonzerne setzen in Krisen höhere Preise durch",
+      "titleKo": "ifo \"독일 전력사, 위기 때 가격 인상 관철\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOay15MFE2VmJ0S0ExeV9hMnRYTHN3d1RkRFRzNkRibmhEcjJucV9kXzlFclYyR0tGX0JmWjFzd3FLajlWZ2IxNDZKNUF2NnZkR3dHWXQ2bEROaXhERV8yTjFGSnR6cXN2Z2l1RXpQOE0wZm1MeFk5dnhIS2FrLXJRUlpUaFZsSnFZTzNydlJ1dHdIcjB0YmMxU2pPelo4OWtJTnNVVVUzbXVCdTIzQXVoLVpKcnVJMURFUHlyNFhvRk9WVWJwckE4?oc=5",
+      "date": "2026-11-16T12:58:52.000Z",
+      "topics": [
+        "경제·물가",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "wire",
+      "country": "in",
+      "title": "Union Minister Chirag Paswan to Inaugurate IBAs National Beverage Conclave on 20th November",
+      "titleKo": "치라그 파스완 장관, 11월 20일 IBA 전국 음료 컨클라베 개막",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSEJiV1ZtQ2YwZE1SNmFDRElBRDhCODZSNGMxNlZQaFdvZzVQcXl2VlBZeVNSRVVRbFFpTy1WSDBjSG5lSkEyZnRQaUNXUmdzYUJlWHZVVG4wSXF4ODlodlNJSVMyeld6Q0piVEI1WlpYMVdmMllGQk8yVkZrb0dlNW5iOGNRR0M5am0wSEplVFpod0x1cFhhb3FmeW42bkx6U2JoM0JLclFsckdPejJZd0s3RXlQb0tCQ2lEUk1FVC1Pa0laNDVvN0h30gHPAUFVX3lxTE9hb3ZYSkNtVWE5NVpUY0htcVJLRXNER3dBbTl2c1l6aXk2dDljMG81VkNldGlGd2Q1NTBLSkYxdTFlWkF3SHFnLW5Wei1EbWFZc0RwUFhUd0lmcmF0OEJjdmVaREk3NEp5N24wUWFoQ1ZlQkd6d1UwLWpWV1ZDUHh3TVN2LUZqNUpkM0t5T3hka2F2ZWtrUGt0dmcwRVFxR2E5STV3dU5YRVdyb1ZNb2pRTGpqNGxURkNmWW82Z2xfT080RHloa2tncUtnLUV1MA?oc=5",
+      "date": "2026-11-16T12:51:28.000Z",
+      "topics": [
+        "정치·선거"
       ]
     },
     {
@@ -166,6 +241,20 @@
       ]
     },
     {
+      "source": "wsj",
+      "country": "us",
+      "title": "Oil Prices Slip as Market Weighs Supply Surplus Forecasts Against Fresh Mideast Attacks",
+      "titleKo": "공급 과잉 전망 vs 중동 신규 공격…국제유가 소폭 하락",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFRTOG40c09ReVZDUGcyOVFJZUFUMG9GMHRJYmNCUUFhV1cxeXR5YWpjV0FCM0NDSEFpcloyTDZlNFJwQzUxeWQ4elFTRV9rbVZwUTJSc3NhVkhTLVQtRlBkTWZwdnpCQnVfU0szZVpyTkRudjhKZ2w0cVpac0JrZ094a1NQZlAyZEQyU1p0RXFiUHZ2ems3Mk5JaE8zcVFKc29SYy1iOWpNZEVyVDB0czl2c0k3MmVRS0ZCcHBxWlBGUQ?oc=5",
+      "date": "2026-11-16T11:53:00.000Z",
+      "topics": [
+        "에너지·원유",
+        "경제·물가",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "handelsblatt",
       "country": "de",
       "title": "Energie: Griechenland will grünen Strom nach Deutschland exportieren",
@@ -183,7 +272,7 @@
       "source": "jagran",
       "country": "in",
       "title": "चीन को टक्कर देने के लिए भारत-अमेरिका का IA वाला प्लान, 10 देशों का बड़ा करार",
-      "titleKo": "중국 견제 나선 인도-미국 'IA' 계획, 10개국 대규모 협정 체결",
+      "titleKo": "中 견제 위해 인도·미국 AI 협력안…10개국 대형 협정",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmdkeFVfSWpDMmh5RHlDdEdMVGVZYjZucXQwdHZhdVF5cC1aaGdYNm1KX0hRaGIzeV9RajZ5eFpjZWNBX3FOM2FZR1pEd1hMU0hKbmYwMzFuMXhxSC1FekZfYm5OUFhIZ2tLdWU3MWVURjBXYTJDVjEyWGxfRUhpWmVVTlgxRDFJWFBqQ2YtemdFOVVnR0dZRzdDV3p0bDRWRVNsMnNxMDZObms?oc=5",
       "date": "2026-11-16T11:50:00.000Z",
@@ -211,6 +300,19 @@
       "titleKo": "메르츠 \"전기세(Stromsteuer) 전액 인하\" 요구",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaXZFWUl3b3V5T3ZydGxyc0F5WmdlQjh1cm5ySHVCX1UtQnlLX1JvNVVocXhwcS1NSmFHZlhPOFNpdUM3WEg3ZTdUZmg4TjJFdF9mV1R1cktBN0xOMmJ4b0dLaXVpZHMzNkJfQ2w5X095bjk0SFpmb3FRR01YUndQOHJIZWZUOFhJZVY1QW9MOUxGYzJqRmFJbXBTOFhYSzJkXzRWTUR6T3lXdw?oc=5",
+      "date": "2026-11-16T11:37:25.000Z",
+      "topics": [
+        "예산·재정",
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "faz",
+      "country": "de",
+      "title": "Merz stellt vollständige Senkung der Stromsteuer in Aussicht",
+      "titleKo": "메르츠 \"전기세 전액 인하 가능성 시사\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY25MY3QxcEFiVXhjNy1wTFB0NHRXbGdGQ1pvVE1XbS1jNTZGWjZ3d2lpV1hGX3BZOTl2SWl5OU1rRUlpV2p5RVVQYlE0Yi1GY09XOXREWlU2MHExSjdNSllyU1BsajM4TzEyYlhXdkRGSmFxVnVFWXBUa01Gek4tTlJONG5oRGMtZzZqWXo4S2dOMGNZS0h1N2lNQXVVbV8zUmVVWk1pVWxtMDUycXZfalJJcXMzelBW?oc=5",
       "date": "2026-11-16T11:37:25.000Z",
       "topics": [
         "예산·재정",
@@ -670,6 +772,18 @@
       ]
     },
     {
+      "source": "figaro",
+      "country": "fr",
+      "title": "Francophonie : l’élection du secrétaire général reportée d’un an, Louise Mushikiwabo reste en poste",
+      "titleKo": "프랑코포니 사무총장 선거 1년 연기…루이즈 무시키위와 유임",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSG4tcGhlTk1YZks2dnhROFVHQXREdmx4UE5WQUJ5U1Z4M3VfckVqYkZyQU85QmpVQXpTR29ISjg5c0ludmkwUVJKYng2U0ZpR05MdTk0emNTRE5hSC1IQkhFZjNpRDdCSHpHZ2h2MmR0bkFUelh6ZlA3c3Vmd3YtRERkMUp3VVZ1ZmpQQjN0WkI4emk4c2tQRGVmSjl3RVBIX2J2QjVKNVgzb3JXZjUyVGZrTWlJejhuTzJZc0R0cVM4VUJBbVg0ckZsRGFhd2pOMmliTlBlT255NHBZZlpN?oc=5",
+      "date": "2026-11-16T08:36:27.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "sz",
       "country": "de",
       "title": "Nach Aigner-Kür: Merz nimmt an CSU-Vorstandssitzung teil - Panorama - SZ.de",
@@ -931,6 +1045,19 @@
       "date": "2026-11-16T07:04:00.000Z",
       "topics": [
         "예산·재정"
+      ]
+    },
+    {
+      "source": "et",
+      "country": "in",
+      "title": "India, US, eight other nations sign declaration to safeguard AI supply chains",
+      "titleKo": "인도·미국 등 10개국, AI 공급망 보호 선언문 서명",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMjNGa2FSWlB6QVVPOWVibldiSnBQeHZQUUFTZnZOYmtJaVVzRk9ja1NlY2lsM2JBSHZzUHhwUm9vMWY0djZ0MTFJTjJiQ09OWlJXR0FRSlRzd1dMc2N2VnRVcm9pamVDcDlHOXBSZHdmZ3FaUUZfTUVHUXRMcVlrY3dqOElIbVFKM2RVSnBuRFV0eHZEeHBCR2kwNEdkdUxkN3RvN3pGalJ0ZVpLNDNmQlBwYzV4YVRHdWlKMjQ5OWNDQndDOENCUVU4QWNjVXZDYnpYdkczcDlBLUI3UEcwNDR4WdIB5wFBVV95cUxNWk0xNElLSENkQk5Lbm5JZm9Vd3dDUEFJSEw5dklhdUVxYjhPQ21Cd1V2YmZyUXpTdFhfUUNsVGlGUnk0VkVHaEU1cVltci0xdmVwUUVOZVh3UXRhUk1RdTVlM1Q1WDd2TGVJUTA4bnU2QWlaLTR5RWNiZzNQYnAtOElLVjN3RlRsUWtZbmZHU0hTVFAtb0M5VHg2Q1JaZXRqcHl4ODM2aVV6WmJZVDhpcHEtWGhGX0VBY2RZWVBwRHIxTk1zbU55dW5uc190TGp6Rm5ONHJPeEx4Tmw1Sl9VSi16bnJWREU?oc=5",
+      "date": "2026-11-16T07:03:37.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
       ]
     },
     {
@@ -2390,12 +2517,13 @@
       "source": "et",
       "country": "in",
       "title": "India eyes bigger trade, investment ties with Egypt, says Piyush Goyal",
-      "titleKo": "인도는 더 큰 무역과 이집트와의 투자 관계를 모색하고 있다고 Piyush Goyal이 말했습니다.",
+      "titleKo": "인도, 이집트와 교역·투자 확대 추진…피유시 고얄 장관 밝혀",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOczQ2TlZKYUhlY3dienZ5cDkzeTdybUZZTkNpZDZhbVNoRV9OLTJMbm1oVlloNFluMUNGdTBSOU5lQjFDTkh3MzlUWnczNU9KRVktaW9NMTJVZ2JsTVU3MmN1Vkt2ZEp2UVIyNU42NEJBTi1nZXhnVWpoY1FwTGJ2d0VoQ3hOZDRnZjBzaGg0dXBEQ1dMVTE0amJfNERZSTgxWHo3bTA5dUJLT2lTV0MtS2Jadk1fbGRMcGo5N2R3Rk1LYXotN052YmhqMVMzZTkxUkh4VlJB?oc=5",
       "date": "2026-11-15T15:35:03.000Z",
       "topics": [
         "산업·시장"
-      ]
+      ],
+      "tr": "claude"
     },
     {
       "source": "nyt",
