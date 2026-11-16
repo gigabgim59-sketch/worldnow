@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T07:01:25.146Z",
+  "generatedAt": "2026-11-16T07:07:17.320Z",
   "feeds": [
     {
       "source": {
@@ -27,6 +27,17 @@
         },
         {
           "id": "guardian-1",
+          "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQTRQdXQyNzN3cU12RHgtOWYtNEZQejFEWDZPVGN3STdtOUYzQ2Z1X2hrZ1VYb0d0bFRvMFRVVjZNNmdfQnNlZkxVYVlxOENjdUdiaWMwcFdsMjBpQ2hrck9GSjh1OG1JV093eHpLdDg3Sl8tMS1FSzd4TFd4OU02eWRLM1VOQmV6MGZWS0k2OU9JVlhrMWF6R3BPaS10aHhKQ25ZeUFUa1hST2dDeG1YNA?oc=5",
+          "date": "2026-11-16T06:30:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "영국, 정부의 '안일함' 속 복합 위기에 노출",
+          "tr": "claude"
+        },
+        {
+          "id": "guardian-2",
           "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTFlN3dmbk1zOU9OWTY1S2NkZjBNS3dnTl9Cb3RtR3BNQjdoOXA0REZUSm5DaUM2eGtNSGlqemV0NjRhQXQ1UjM3U1dyMGoxbXQ0dGxmR29DZFpnUVlBcm5hUFRQVUVldmlFNXQ0Ykp0bDZoemZ0RldnbVVSdVZSQ1FDZkUyMFNHN1I3YzNpRVVrX1duUW5leUhhelhSd2xrN0pfb3poSnoyeW1jdElFNkUyc0xrQQ?oc=5",
           "date": "2026-11-15T19:40:00.000Z",
@@ -38,7 +49,7 @@
           "titleKoAlt": "영국 정부 고문은 법정에서 성폭행 피해자 치료에 '커튼을 걷어내라'고 말했습니다."
         },
         {
-          "id": "guardian-2",
+          "id": "guardian-3",
           "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3hIR3ZaUHRsUFBmN1p1cENXcjhSakZWQmVJUFA2bUZ3eU9MR0VySTdUSjNNbjNfMnZsalkySFpYVW5pSF82Zl9tcm1NaEpCS09PYVBTUzI5cS1laldmM0YyZlRwSHZGdEo5dXNmQjJmWVVESFpLQ1RsY1c3OTI0ampmRUUtc0IzV1VEdjNvNG1WV2lacGViaEpraTZwSWUwV2IyaXBqYXBPS2NBZFNoTDE4SXNHeklrclA0MFJWN0VMZw?oc=5",
           "date": "2026-11-15T21:57:00.000Z",
@@ -51,7 +62,7 @@
           "titleKoAlt": "호주, 영국, 캐나다, 이탈리아는 이스라엘에게 겨울이 오기 전에 가자 지구에 대한 중요한 지원을 허용할 것을 촉구합니다."
         },
         {
-          "id": "guardian-3",
+          "id": "guardian-4",
           "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTndHNHJOZ09IS000RnpDNTNMaXlJTFhNTDlSbm5oNUF5ckhOTUtmSDd0NGdhRThQbW42SHNfNjlLWWQ1RjYwbzNvaG1YRF8zYUR1RXVrTF9Oek11WFA1eXQ1RzM5c1V4QXZVQWUwd29iMUc1X05YWjloR2M1U29HUGVBOEVpakpKT1IwWEdja3FleGxKMzB6cnVQcXRkRk1wSUhLRk5hbG9VOU0zdC16SVJLazh6ajNBOWNaT282Zw?oc=5",
           "date": "2026-11-16T02:30:00.000Z",
@@ -63,7 +74,7 @@
           "titleKoAlt": "대니 크루거는 영국 개혁이 '어려운 한 해' 이후 노동당에 대한 지지를 잃었다고 말했습니다."
         },
         {
-          "id": "guardian-4",
+          "id": "guardian-5",
           "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnpvNXJzaHE4UjFSUFIyNm5qRnlPY1cwaDF6Rkt0Q2RpWklVblc0ajRNd3FTX294b1B0bUhoQmtzc1czM1dDcFVUYmdvTjBla3d3d1VXOXlCQVBOOU9nUFRwWndKZWE5aXNLVGVJX0NtRFNfMFo0em5hZERKemFGQ2VOblVpTUk?oc=5",
           "date": "2026-11-16T02:30:00.000Z",
@@ -76,7 +87,7 @@
           "titleKoAlt": "로즈뱅크 유전에 대한 노동당 반란, 국회의원 100명 돌파 예상"
         },
         {
-          "id": "guardian-5",
+          "id": "guardian-6",
           "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis | Youth unemployment",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlZDZzBxUDZoVEVpOGxTNFFSYjZKdndOankwWkdsQTBoMkd0MmtEUlZwaktHdzNCRGZxTWtVbmhVdWtDRDdrS04yMUE2RmRkam41OHRVQk5reDdWTWhLcm81WXpYVzhzaGlaalh4dHNrSVhIT1pxZUtjR1FTbXA1WDlmWS01MHVFeWFJblE2TTFoYmFyNkJrRTgtcDZBRXFwejh0SGY1R1Vqb0U1cWRPU0hlX0hldkRIRVpmZDdsUlNqaE0?oc=5",
           "date": "2026-11-15T12:52:00.000Z",
@@ -87,7 +98,7 @@
           "tr": "claude"
         },
         {
-          "id": "guardian-6",
+          "id": "guardian-7",
           "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG5RenFlUWx2enotWWRnYlJ4dVdVMmQwRjBCb3BjeVBKVGpjQ3R3d2FhQkVmSV9nSDE2a0tvRjBGTjVmUXE4MFNHak9YYnl4bF93Z0czWTd1U094SXg5MmRXQVNNSjRNcy1iNkRLM1hTQlEwb3BDbDNnYWxoX0pQODRpekMwaTdKcmZKZE5pVlJSZkZNQWl4Yk53OFVWUE1CUFpTQlFZSVFtZnM5ZEJWZkV3?oc=5",
           "date": "2026-11-15T15:37:00.000Z",
@@ -97,22 +108,9 @@
           "titleKo": "스코틀랜드·잉글랜드 북부에 한파·건강 경보 발령…눈·얼음",
           "tr": "claude",
           "titleKoAlt": "눈과 얼음이 예상됨에 따라 스코틀랜드와 잉글랜드 북부에 감기 및 건강 경보 발령"
-        },
-        {
-          "id": "guardian-7",
-          "title": "A rapid interest rate rise seems inevitable – and UK households are expected to pick up the tab",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWg2eXA2U2I2QTRzRWFjcVV2X1hQaURhamh1aGJId3lGUWRRUkZySEdHWm5TOUdxOW5lZ3VISVZGTmxBTERqNjlxLTVqVXlaRkdxNzJSYTBoNlJWeFNzeFI4Sld4d2R5NkZuWmhHdUR2MWF1RGN6UG1sbkR6VC11NFViWUxpbHg0X1R0aHp3eVJ4WnpRdVlKUG5NMEVERmNL?oc=5",
-          "date": "2026-11-14T16:55:00.000Z",
-          "topics": [
-            "금리·물가",
-            "경제·물가"
-          ],
-          "titleKo": "급격한 금리 인상 불가피… 영국 가계 부담 떠안을 전망",
-          "tr": "claude",
-          "titleKoAlt": "금리 인상이 불가피해 보이며, 영국 가계가 그 부담을 떠안을 것으로 예상됩니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:19.757Z",
+      "fetchedAt": "2026-11-16T07:07:13.203Z",
       "status": "ok"
     },
     {
@@ -199,17 +197,6 @@
         },
         {
           "id": "telegraph-6",
-          "title": "Labour’s Rosebank rebels ‘holding Britain to ransom’",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNekt3d1hoRTkzSFB5WFV0a1RvQXFzYzA4Y29SV1l3UzdBOTVPa0VKaTBqVHNBSTBXYWp1dGNzUHM4RDBUbzl6aHRYYmRwTERBelhKajBhWUgtV2hBY1VLQ3FCZ09LSmpUeUg1NFptZzVTazdhR1dycDQwdEVFYnJabFBZT0ZlV3hxU2F1bEZpdUxZaldI?oc=5",
-          "date": "2026-11-15T19:00:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "노동당 로즈뱅크 반대파, 영국을 \"인질로 잡고 있다\" 비판",
-          "tr": "claude"
-        },
-        {
-          "id": "telegraph-7",
           "title": "Amnesty International honours envoy who called Oct 7 a ‘response to oppression’",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmZMWEZFR3F0TnctMU41YW05d2hsOGxja3ZTQ2NHLWZZYVhHVDl5cTJsRHNxaURHVm5vOW5jM1plX1N2TUJnOHY1TlMxWnpJWkFiQUlTZld5V054enQ1VEYxeHh4VmVBeE1nM29LZDhDNkxBWGRwMTJJRDFaSWFpUEtDSFJZdkliTkRzdTlLbEwwU2lQTzQyQWV0NEw3RTdaV2c?oc=5",
           "date": "2026-11-15T07:00:00.000Z",
@@ -218,9 +205,22 @@
           ],
           "titleKo": "국제앰네스티, \"10월 7일은 억압에 대한 대응\" 발언한 특사 표창",
           "tr": "claude"
+        },
+        {
+          "id": "telegraph-7",
+          "title": "Labour’s ‘bonkers’ red tape threatens to end Saturday jobs",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTdmWGtuUDctVlNxVF95bnRtYnVjV3BKRmY1ZjRBT3M0SGYwOTV0QkZvQVoxQm9qajZaLUg3Y3VjUGF1V1paWVViVlo3dEhWTlV5V0p3RVFmRElUalUwNVNocDFaeXM3OEJjUVpsZVZoNHpiTVA0V2lwdjE2cm4tOF9PZDRsV2hfaEpxRnNEOTN1TnRHRm05bjJvZzM3Q2lMVHd6ekdDdVl5MWc?oc=5",
+          "date": "2026-11-14T17:13:00.000Z",
+          "topics": [
+            "정치·선거",
+            "경제·물가"
+          ],
+          "titleKo": "노동당의 '터무니없는' 규제 탓에 토요 일자리 사라질 위기",
+          "tr": "claude",
+          "titleKoAlt": "노동당의 '괴짜' 관료주의로 토요일 일자리 종료 위협"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:19.718Z",
+      "fetchedAt": "2026-11-16T07:07:13.192Z",
       "status": "ok"
     },
     {
@@ -249,6 +249,17 @@
         },
         {
           "id": "ft-1",
+          "title": "National Grid CEO on keeping Britain’s lights on amid sabotage and cyber attacks",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYl9LOVAyamg0bTBaTlZweE94M05RYldOMnp1UDR5WnFGejVJVlU1dDB1NkxFQ1hrTGxUa0FtbnFIYVhiR3hSRmpueklxQkE4OThiRE5VeTI0Q3FFdjdjY3o5MUw4TGhpMkRlMFNmclo3aktfS3dVSGNEUEZyTTVhN2N1Wl8?oc=5",
+          "date": "2026-11-16T04:00:01.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "영국 국가송전망 CEO \"破壞 공격·사이버 공격 속에서도 전력 공급 지킨다\"",
+          "tr": "claude"
+        },
+        {
+          "id": "ft-2",
           "title": "Tiny London quant fund emerges as one of the UK’s biggest corporate taxpayers",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeDExWkJqUEc1cFdSUFZpT3Z5MnNvZjdBOE5yUDVyYnhLLWR6TEFOdmJwQ2J5RmRKcTJGUTdkdEVZQ3dBSUpGMmp0cU5yRjVmZ09FMUhMQlJIZy1xanJUUnlEWUp5WnRLY0dmT3BMTnlWRHhxWUFhNzJrSFFHUi1SSWtsT1I?oc=5",
           "date": "2026-11-13T18:00:04.000Z",
@@ -258,17 +269,6 @@
           "titleKo": "런던 소형 퀀트 펀드, 영국 최대 법인세 납부 기업 중 하나로 부상",
           "tr": "claude",
           "titleKoAlt": "영국의 소규모 런던 퀀트 펀드가 영국 최대 법인세 납세자 중 하나로 부상"
-        },
-        {
-          "id": "ft-2",
-          "title": "National Grid CEO on keeping Britain’s lights on amid sabotage and cyber attacks",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYl9LOVAyamg0bTBaTlZweE94M05RYldOMnp1UDR5WnFGejVJVlU1dDB1NkxFQ1hrTGxUa0FtbnFIYVhiR3hSRmpueklxQkE4OThiRE5VeTI0Q3FFdjdjY3o5MUw4TGhpMkRlMFNmclo3aktfS3dVSGNEUEZyTTVhN2N1Wl8?oc=5",
-          "date": "2026-11-16T04:00:01.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "영국 국가송전망 CEO \"破壞 공격·사이버 공격 속에서도 전력 공급 지킨다\"",
-          "tr": "claude"
         },
         {
           "id": "ft-3",
@@ -334,7 +334,7 @@
           "titleKoAlt": "AI 뉴스 사이클을 더욱 촉진하는 인류적 IPO"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:19.716Z",
+      "fetchedAt": "2026-11-16T07:07:13.234Z",
       "status": "ok"
     },
     {
@@ -447,7 +447,7 @@
           "titleKoAlt": "높은 생활비에 반대하는 Act V 시위: 프랑스에서는 106,000~200,000명이 행진했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:19.707Z",
+      "fetchedAt": "2026-11-16T07:07:13.187Z",
       "status": "ok"
     },
     {
@@ -562,7 +562,7 @@
           "titleKoAlt": "주택을 심각한 위기에 빠뜨린 마크롱의 두 가지 큰 실수"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:23.068Z",
+      "fetchedAt": "2026-11-16T07:07:13.570Z",
       "status": "ok"
     },
     {
@@ -579,6 +579,17 @@
       "items": [
         {
           "id": "echos-0",
+          "title": "« Dans une France fracturée, l'entreprise doit préserver sa légitimité »",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDYxUHVMUHRiWms5RExQQUs1NWxURUdZaG52TkZzbUhoa1BpUmZUSUZzTlg4TVd5REVLMXNWTXdkSW9YYlFXcEYtVVBPSGJpcFBsVTRWX3dQTEhkNGQ1dHN1SjVfMzMtLXc3azFxeEpXdUZjX0pwZXlGOFpTa1BDZ1NVTDE2NXRrSWFSeGIwUDNVSHV3MUR3ekVsVTI4eVZtb2hLc3FWLXpIOXpQY0ZaTmRtWGpYNjB4QXc?oc=5",
+          "date": "2026-11-16T07:05:08.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "분열된 프랑스에서 기업은 정당성을 지켜야 한다 — 칼럼",
+          "tr": "claude"
+        },
+        {
+          "id": "echos-1",
           "title": "Cyberattaque sur une filiale de La Poste : 22 millions de personnes touchées par un vol de données",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT215cUZWM3pQOV9jelA1V2ZYdmlLb0JHZlJwaHFlSWNHUHR5V0xXVGVYUVprNGdOZzJXVUdzbDNHclVNTkhobm9teU1KeVdTdnViSmg3aXdjUHA5cWJyYy1PQXhhYURrTENmNDlYOFpmVkxzNzhVOWpKUVdFRk5KM09aUHZ5MFExTzZySlc5V2txM2ZYQjJMaDJuU2VQQkxabExSRHRWa3hKaFZMQllIejdNMUdsbTVnclgxY2tLQnc4OE1QX0dpRkJJRzlmRnd4bm53bXpvNFowX1dQUkwxNWZRNA?oc=5",
           "date": "2026-11-14T20:06:28.000Z",
@@ -590,7 +601,7 @@
           "titleKoAlt": "라포스트(La Poste) 자회사에 대한 사이버 공격: 2,200만 명의 개인정보 유출 피해"
         },
         {
-          "id": "echos-1",
+          "id": "echos-2",
           "title": "« J'essaie d'économiser » : la flambée des prix fait subir un plongeon historique à la consommation de fioul domestique",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY?oc=5",
           "date": "2026-11-13T16:39:48.000Z",
@@ -602,7 +613,7 @@
           "titleKoAlt": "“절약하려고 노력 중”: 물가 급등으로 국내 연료 소비가 역사적 급락"
         },
         {
-          "id": "echos-2",
+          "id": "echos-3",
           "title": "Lycées : pour réparer, la région Ile-de-France adopte le principe du « casseur payeur » et abonde son budget",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdGprY01RU2xUZl9SbTl3ckQzVEQzcHhXWVZOaTYwTXJHNS1LMlFYMG5nX08zZXdJaFhxTUpLalg4Y0JoeUYzeVlqYmZ3aDlfaDFCcDZ2QUhxTjV0LWF1RmtYbDcwOTkzeEFmZkZQa1RtUzM5WFNTc3lmNG1EVGpveVpDNm5uQXNmeDBKWWJhcmVoclV4U0Fhd0xjbm1LaUtXRW9xNTlhOXhra0J5aVRPMTZ4Um1GTkgwWi03ZzZ4QVE2VkdCamRSaXkzdGxoenFRWTdHVFpCNE01bTd2MUVPY2N3WDJfWUM1RVFmZG1BRDg?oc=5",
           "date": "2026-11-13T11:54:42.000Z",
@@ -615,7 +626,7 @@
           "titleKoAlt": "고등학교: 수리 비용을 충당하기 위해 일드프랑스 지방자치단체가 '파손자는 배상한다'는 원칙을 채택하고 예산을 증액합니다."
         },
         {
-          "id": "echos-3",
+          "id": "echos-4",
           "title": "« Il ne faut pas confondre amour, générosité et capacité financière » : Black Friday, Noël… comment gérer son budget de fin d'année sans déraper",
           "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPLXJOOWFqbkhKQUtnbW5KN1BZY01oQUcyUklSUGN6b0ZTMDBXalVlVlJSbnlYVlFRbWdPaGRNald0SGtXa2JBaW1QN2lnWXNKa0RBZnZRMGdQbUVtMDNrN3hKdFp0cVNaRFV0UkZ5bGdBY1ZBOS1kaHZlS3ZueVdiQ0E0bThQdmZaVTJYZ2wydGhLX2tDOXNPSXEtREFlcXJjbTBuMEtCdUhXeENQV00yS3VqLXNzWnl4a0l1ZVRvcldNWkxONUhYVWRoX0xNaXk3dklTQmNJXzBRWjdfc1BjMzhlOXoyV3laRm9HNW9zZG1NdkpyZmUzNHh2X1lfOXJmWWMzNGROQkstNnQ2VlM4Rk12a0pwb0U?oc=5",
           "date": "2026-11-15T07:00:08.000Z",
@@ -628,7 +639,7 @@
           "titleKoAlt": "“사랑, 관대함, 재정적 능력을 혼동해서는 안 된다”: 블랙 프라이데이, 크리스마스… 연말 예산을 놓치지 않고 관리하는 방법"
         },
         {
-          "id": "echos-4",
+          "id": "echos-5",
           "title": "« On n'est pas sereins » : les industriels veulent peser dans la campagne présidentielle",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1NmSmhneHIxLUJyZTROUHl5YktQSy12RkN6UmsyaUNvcG5WVzRoS3Q4aDlIaDhQcVFRUWpnTjJUck5WRGU1UVIyT08yNzJ2aGQ4eXctcEZ6TFNfR1Q2cjdWR0VIdDFrYWRLamNIc3lGOTNvcENzWjhVRDc2ay1hcFFscTU4LUg2TUFPZWtNUDJpWFRTQUpzX1NHZnUtUU5vVHU3bnJEcUpBU05RMEpCTWJ6Q3RhUmJDT3NLckhFNEFoZ3N4WFREX2xhTVpyWmcyZXc?oc=5",
           "date": "2026-11-15T16:39:36.000Z",
@@ -641,7 +652,7 @@
           "titleKoAlt": "“우리는 침착하지 않습니다”: 산업가들은 대통령 선거에 영향을 미치기를 원합니다"
         },
         {
-          "id": "echos-5",
+          "id": "echos-6",
           "title": "Budget 2027 : l'Ile-de-France veut maintenir ses investissements malgré les ponctions financières de l'Etat",
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPektpUkVGVWF3SUxKOGxsNU5Ca2xya3V6VWRMVi1RQjg0OU56eW9tdGh4N3dTY2V0LS1TTWFjMjBoSGVVTm1XQ2lBNkpmZng5UmYydzdINTN0VnU0aHFtcFMtd1lFNW5UWmRST0JRNFBkYnR5aTlKUVQxS2pFejhIdnhiVlcwN0VMcmhBTlBiS0NGcVBPNURDS2szekxCdy01WU9LVjNCaTBDWDVfMU13SUtwUjNFRFdYSXZpdmZURENacVZ5eEZfT3o0TUo2LVNfS05UZ2IwZVZGLV9vcmxaQl9mcmxVaWs5WHZqbDFHRUpWSm8?oc=5",
           "date": "2026-11-13T16:28:39.000Z",
@@ -654,7 +665,7 @@
           "titleKoAlt": "2027년 예산: 일드프랑스는 해당 국가의 재무 포지션에 계속 투자합니다."
         },
         {
-          "id": "echos-6",
+          "id": "echos-7",
           "title": "Les ressorts du succès de l'Ile-de-France, leader économique des régions françaises et européennes",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVDd6SU9hNmxHR3k5SUpKWU05MFYzV1lWbnBuU2VRbzhRNlFnaGk4Nl9kV25YYmNselI4YU91Q09YMTVia0k0MGpQRkRVblhMUEg4eTlicWJuUXB0SkxqU1lUdFpEQjkyaUV6UjJSODFpM1J4QW0yVWhvNU4wN3R2R1JSU2gyb0Z1NjZzeGFSSzRObmVFeXBrX0gyTTBuQl9xeHFDY3JqU0xNYm5OQU5qeWhDM3pxZmNIWnVaN1NkNFpma0hsOEJDeUtqT2xPZGZNajBzTDZVU2hTOXdCV2h6RlZHcnZyakhnSXc?oc=5",
           "date": "2026-11-13T09:46:39.000Z",
@@ -664,22 +675,9 @@
           "titleKo": "프랑스·유럽 지역 경제 선두주자 일드프랑스의 성공 요인",
           "tr": "claude",
           "titleKoAlt": "프랑스와 유럽 지역의 경제 리더인 일드프랑스의 성공 원동력"
-        },
-        {
-          "id": "echos-7",
-          "title": "France : l'inflation est confirmée à 3,4% sur un an en octobre",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEtrcUlrWkd4YUJqNWNETHVHaHFfb2dScEpyRVQ5Zks5OVY4cnVld1VabENkZFZxTk9ZbEJoNXRnZGlxZTN6aHZiYTNDTWJOWFRXdWVVUnpaNm5EWlg3VnBmd002NS1WeFNiY19ma0tYREQ3MU9ia2ljN0RSSEFjQ1EwQlZBRkp3eFZudjVma1JvVHhjc1VFRHo3MG5qSUZQN3pIRE5NVEVlZElWOXJjWkl3eFZtd2FFeVNiV2NKTjN3UDh2QlFLWmNB?oc=5",
-          "date": "2026-11-13T08:03:00.000Z",
-          "topics": [
-            "금리·물가",
-            "경제·물가"
-          ],
-          "titleKo": "프랑스 10월 물가상승률 전년 대비 3.4%로 확정",
-          "tr": "claude",
-          "titleKoAlt": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.074Z",
+      "fetchedAt": "2026-11-16T07:07:13.553Z",
       "status": "ok"
     },
     {
@@ -791,7 +789,7 @@
           "titleKoAlt": "트럼프는 F.A.A.로 눈에 띄지 않았습니다. 발행된 비행 지상 정지"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.104Z",
+      "fetchedAt": "2026-11-16T07:07:13.664Z",
       "status": "ok"
     },
     {
@@ -904,7 +902,7 @@
           "titleKoAlt": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.184Z",
+      "fetchedAt": "2026-11-16T07:07:13.614Z",
       "status": "ok"
     },
     {
@@ -1022,7 +1020,7 @@
           "titleKoAlt": "Nvidia 낙진에 대한 우려로 인해 미국 주식이 혼합되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.484Z",
+      "fetchedAt": "2026-11-16T07:07:13.918Z",
       "status": "ok"
     },
     {
@@ -1134,7 +1132,7 @@
           "titleKoAlt": "다르치예프 러시아 대사의 죽음은 외교계에 큰 손실이다 — 고위 외교관"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.373Z",
+      "fetchedAt": "2026-11-16T07:07:13.828Z",
       "status": "ok"
     },
     {
@@ -1252,7 +1250,7 @@
           "titleKoAlt": "러시아 정부가 자율주행차, 택시, 트램을 규제하는 법안을 승인했다고 Kommersant가 보도했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.400Z",
+      "fetchedAt": "2026-11-16T07:07:13.839Z",
       "status": "ok"
     },
     {
@@ -1318,7 +1316,7 @@
           "titleKoAlt": "IEA는 10월 러시아 석유 수출량을 하루 약 700만 배럴로 추산했다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.732Z",
+      "fetchedAt": "2026-11-16T07:07:14.007Z",
       "status": "ok"
     },
     {
@@ -1426,7 +1424,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.768Z",
+      "fetchedAt": "2026-11-16T07:07:14.182Z",
       "status": "ok"
     },
     {
@@ -1502,7 +1500,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:20.817Z",
+      "fetchedAt": "2026-11-16T07:07:14.252Z",
       "status": "ok"
     },
     {
@@ -1588,7 +1586,7 @@
           "titleKoAlt": "Wires Shruti Sharma는 Noida 노동자 시위에 대한 보도로 HRRF 저널리즘 상을 수상했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.039Z",
+      "fetchedAt": "2026-11-16T07:07:14.187Z",
       "status": "ok"
     },
     {
@@ -1700,7 +1698,7 @@
           "titleKoAlt": "'인도는 원주민 국방 생태계를 강화했습니다': Rajnath Singh은 방위 제조 분야의 품질 보증을 요구합니다"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.143Z",
+      "fetchedAt": "2026-11-16T07:07:14.362Z",
       "status": "ok"
     },
     {
@@ -1813,7 +1811,7 @@
           "titleKoAlt": "설명: AI 기반 해커가 인도의 금융 배관을 악용하여 돈을 훔치는 방법"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.171Z",
+      "fetchedAt": "2026-11-16T07:07:14.555Z",
       "status": "ok"
     },
     {
@@ -1921,7 +1919,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.464Z",
+      "fetchedAt": "2026-11-16T07:07:14.622Z",
       "status": "ok"
     },
     {
@@ -1948,6 +1946,18 @@
         },
         {
           "id": "jagran-1",
+          "title": "'AI नहीं, यह यमुना है' बनाम 'रेड कार्पेट' के दावे... दिल्ली में छठ पूजा के बीच यमुना के हालात पर AAP-BJP में टकराव",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUJVVUJZS09kUGlZY3hEVXVLV3B3ZVlFSnNBTkdOYUtvU01GY0IxejFfRm05amh5OTRTSUxhWDBwekRfeHcxUWZoMTFjYzZlYlZxUTVaVVFqR1BsMElsNFJNM24weGRHb3ZFXzNUdVpPRWtsZHFLMWRneFVncllDWElyeThRVk4xa3NNMktHbEpJdGdDQ1FBTFRJV3pJSUhiTGwteHdBOXlnTDR1d09XQ2FPOGw?oc=5",
+          "date": "2026-11-16T06:50:00.000Z",
+          "topics": [
+            "AI·반도체",
+            "산업·시장"
+          ],
+          "titleKo": "\"AI가 아니라 진짜 야무나다\" vs \"레드카펫이다\"… 델리 차트 축제 와중 야무나강 상황 두고 AAP·BJP 충돌",
+          "tr": "claude"
+        },
+        {
+          "id": "jagran-2",
           "title": "हैदराबाद भारत समिट में इटली के नेता ने लगाया वोट चोरी का नारा, हंसते दिखे राहुल तो बीजेपी ने साधा निशाना",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFlKOC1HQXdDRXVJV1VLeGtVdXg3b2pQOVlDTjZjNC1UdjRmTk1oRHk3MzYxY1Q4ajloVkFWeFZ0VFVORWFZaC01cUtDZWpMX0JGRFhBWEJDVUxvZmxUc3d0NFpsblRuSVFWdTRmeTJCYXN5ZGIycXQ2THRCUlc0eS1YR3dhaDJfRWQxdkpTNG5Ud2pYU0hxREEteU50SGtVRER3MnZObG9aZlFlSGJBbFZmakFaRzhlU2g3Q0pBRQ?oc=5",
           "date": "2026-11-15T13:29:00.000Z",
@@ -1959,7 +1969,7 @@
           "titleKoAlt": "이탈리아 지도자는 인도 하이데라바드 정상회담에서 투표 도용 슬로건을 제기했고, 라훌이 웃는 모습이 보이자 BJP가 표적으로 삼았습니다."
         },
         {
-          "id": "jagran-2",
+          "id": "jagran-3",
           "title": "58 साल के हुए बिहार के 'सम्राट', RJD से BJP तक ऐसे तय किया सियासी सफर; PM मोदी ने दी बधाई",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlpuVjZ4VmQwTkd1YXpFQUFlT2FNRW5RSEk2bFdPNFQzSGJxTlN5d19McXQySzdscE1YbjJ5Mmc3cWxObDdseGRtYjlTYUhCanRtMTh0NnY0S2tyWGNyM05qUl9LMFVDanR6b0Q1VFg4QjhnbFFHZ0VXbi1DYlJwY20wMkdoTXhTUkRjUDc1Q1V3RXBWdnJvZlNmMUpCNkdmNG5uMVZ4dkZKdw?oc=5",
           "date": "2026-11-16T05:29:00.000Z",
@@ -1970,19 +1980,18 @@
           "tr": "claude"
         },
         {
-          "id": "jagran-3",
-          "title": "'AI नहीं, यह यमुना है' बनाम 'रेड कार्पेट' के दावे... दिल्ली में छठ पूजा के बीच यमुना के हालात पर AAP-BJP में टकराव",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUJVVUJZS09kUGlZY3hEVXVLV3B3ZVlFSnNBTkdOYUtvU01GY0IxejFfRm05amh5OTRTSUxhWDBwekRfeHcxUWZoMTFjYzZlYlZxUTVaVVFqR1BsMElsNFJNM24weGRHb3ZFXzNUdVpPRWtsZHFLMWRneFVncllDWElyeThRVk4xa3NNMktHbEpJdGdDQ1FBTFRJV3pJSUhiTGwteHdBOXlnTDR1d09XQ2FPOGw?oc=5",
-          "date": "2026-11-16T05:30:00.000Z",
+          "id": "jagran-4",
+          "title": "भारत में जल्द आ रही हैं ये तीन धांसू हैचबैक कारें, Maruti WagonR Facelift से लेकर नई Hyundai i10 तक लिस्ट में",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMk82R242VWU4YjgzbGRlQ095MjJ5SUVnT1dVY0w5UTlrSVRtY19TSWtYNEVWM2F5czROZDMwanJmRHNIcVl3SlNIM1V1aXU0VnBPMzB2aU5WMWhxY0xBbmo1d1hfUWFHU0c3ekFLV1U3aHRMaFRIU29odzJfVGh2YTRKNWM4bThFanJWVmNqV0ZuNlNNaUdPaG5UYjZ5N21JNjlsR0poOVRtZnhld0J0NXMyMy1Tdmk3cnM4?oc=5",
+          "date": "2026-11-16T02:30:00.000Z",
           "topics": [
-            "AI·반도체",
-            "산업·시장"
+            "예산·재정"
           ],
-          "titleKo": "\"AI가 아니라 진짜 야무나다\" vs \"레드카펫이다\"… 델리 차트 축제 와중 야무나강 상황 두고 AAP·BJP 충돌",
+          "titleKo": "인도 출시 임박 해치백 3종, 마루티 와곤R 페이스리프트부터 신형 현대 i10까지",
           "tr": "claude"
         },
         {
-          "id": "jagran-4",
+          "id": "jagran-5",
           "title": "50 करोड़ से ज्यादा का होगा योगी सरकार का दूसरा अनुपूरक बजट, महिलाओं और किसानों को मिल सकती है बड़ी सौगात",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcDZibXVfRFM5VkxQYUxxdi11bFg5Z3J4Qkx3QWJ3V25lbllUQXJmZVZ3ZDVmSEpiM1BkT0RjMXh4WmlQWkRRSFNjZ3BrNDBGUkVwNEdraFp4OVhZUnBhSjZlcEl1OWlZWXhtald0eUxUd2JVbHVWbFFYRldFNjVEVXdVeHNKOTZLbmNjQWhTcnV6SXBqVEhNMW0ySDVmanFQSlRiSUVyQlM2WTYxSDkySUdBd012ZXJSRm9j?oc=5",
           "date": "2026-11-15T23:30:00.000Z",
@@ -1994,17 +2003,6 @@
           "titleKo": "요기 정부 2차 추가경정예산 500억 루피 넘을 전망…여성·농민에 큰 혜택 기대",
           "tr": "claude",
           "titleKoAlt": "요기정부의 2차 추가경정예산은 5억 루피 이상이 될 것이며, 여성과 농민은 큰 선물을 받을 수 있습니다."
-        },
-        {
-          "id": "jagran-5",
-          "title": "भारत में जल्द आ रही हैं ये तीन धांसू हैचबैक कारें, Maruti WagonR Facelift से लेकर नई Hyundai i10 तक लिस्ट में",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMk82R242VWU4YjgzbGRlQ095MjJ5SUVnT1dVY0w5UTlrSVRtY19TSWtYNEVWM2F5czROZDMwanJmRHNIcVl3SlNIM1V1aXU0VnBPMzB2aU5WMWhxY0xBbmo1d1hfUWFHU0c3ekFLV1U3aHRMaFRIU29odzJfVGh2YTRKNWM4bThFanJWVmNqV0ZuNlNNaUdPaG5UYjZ5N21JNjlsR0poOVRtZnhld0J0NXMyMy1Tdmk3cnM4?oc=5",
-          "date": "2026-11-16T02:30:00.000Z",
-          "topics": [
-            "예산·재정"
-          ],
-          "titleKo": "인도 출시 임박 해치백 3종, 마루티 와곤R 페이스리프트부터 신형 현대 i10까지",
-          "tr": "claude"
         },
         {
           "id": "jagran-6",
@@ -2020,18 +2018,17 @@
         },
         {
           "id": "jagran-7",
-          "title": "UP में जीत की 'हैट्रिक' को BJP की बैठक: कल मथुरा में जुटेंगे भाजपा के 40 दिग्गज, 2 दिन रहेंगे CM सहित देश के बड़े चेहरे",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQjZNN0JEX2swNnRpaDJWWU8ydzBycDF6UWkzRWV2S0xTaDVWcDAwTkVjUUUwbmZrQnBGOFlWUEMyTVBhVVl5ekRNMUNQZU1kT2hQWWhxVm5zeEJESU9FN2JTQklhcmUyOUg3TmNoOEliRmZZcjBBRkp5YTJzRFBJS0U3X2FDX0xBWERYakVoOFhJSUpiZDVKWkJMZmFMeFN5RzhFRnRvb3VaTkU1Q2tEMTh5dlFpb1NkeU15dnUwMnJRVEl2Z0Z4T0x5R3VDVG05N1NGTHBfU0xhUVpaMGszdXRNUU5HMDBiVEJPRXFRTXRUdjdQcERXZVJSeHBTeDN0LXc?oc=5",
-          "date": "2026-11-15T05:50:00.000Z",
+          "title": "अब घर या बिल्डिंग बनाने से पहले जान लें बिहार सरकार के नए नियम, बुजुर्गों को मिलेंगी खास सुविधाएं",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDFlMHBWamtLN1FRT1RWYVk2d0R6R2NLMEdzYmRBWjlGRXJDajJ5U0RidE5qemI1QjBvaHJhX0dkRkNJZlBuQzZrb1YtbEI0UGEzYnJ6NWF6S3B6czk0eWhkUkJVYWVqSlhpemFUMUttbEJOMWUyUTFpNnFGSHN6Z3lVczgwOHhKV1BzVUprSk9DLUpoNVdPSFBaczg5aWxlNExGek1TQ3Jnczl4TWdYazlR?oc=5",
+          "date": "2026-11-16T06:47:00.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "UP 선거 '3연승' 굳히기… BJP, 내일 마투라서 거물 40명 집결, 2일간 주 총리 등 주요 인사 참석",
-          "tr": "claude",
-          "titleKoAlt": "UP 승리의 '해트트릭'을 위한 BJP 회의: 내일 BJP 충실한 인사 40명이 마투라에 모일 예정이며, CM을 포함한 국가의 유명 인사들은 이틀 동안 머물 예정입니다."
+          "titleKo": "이제 집이나 건물 짓기 전에 알아둘 비하르 주정부 새 규정… 노인에게 특별 혜택",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.506Z",
+      "fetchedAt": "2026-11-16T07:07:14.619Z",
       "status": "ok"
     },
     {
@@ -2143,7 +2140,7 @@
           "titleKoAlt": "긴급: 중국은 태국과의 무역 및 경제 교류를 심화할 준비가 되어 있다고 중국 총리가 밝혔습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.486Z",
+      "fetchedAt": "2026-11-16T07:07:14.679Z",
       "status": "ok"
     },
     {
@@ -2258,7 +2255,7 @@
           "titleKoAlt": "표지 기사: 중국 AI 인프라 러시의 전망과 위험"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.657Z",
+      "fetchedAt": "2026-11-16T07:07:14.749Z",
       "status": "ok"
     },
     {
@@ -2367,7 +2364,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.884Z",
+      "fetchedAt": "2026-11-16T07:07:14.941Z",
       "status": "ok"
     },
     {
@@ -2407,7 +2404,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:21.830Z",
+      "fetchedAt": "2026-11-16T07:07:14.966Z",
       "status": "ok"
     },
     {
@@ -2522,7 +2519,7 @@
           "titleKoAlt": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:22.045Z",
+      "fetchedAt": "2026-11-16T07:07:15.117Z",
       "status": "ok"
     },
     {
@@ -2637,7 +2634,7 @@
           "titleKoAlt": "태스크 포스 아이언 게이트: 미국이 이란의 육로 무역로를 봉쇄할 수 없는 이유"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:22.057Z",
+      "fetchedAt": "2026-11-16T07:07:14.989Z",
       "status": "ok"
     },
     {
@@ -2757,7 +2754,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:22.209Z",
+      "fetchedAt": "2026-11-16T07:07:15.259Z",
       "status": "ok"
     },
     {
@@ -2876,7 +2873,7 @@
           "titleKoAlt": "인포그래픽: 사우디 석유 재고량은 전쟁 발발 이후 가장 빠른 속도로 상승하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T07:01:22.345Z",
+      "fetchedAt": "2026-11-16T07:07:15.291Z",
       "status": "ok"
     }
   ],
@@ -2887,13 +2884,13 @@
     "byClaude": 201,
     "claude": {
       "run": {
-        "titles": 6,
-        "usd": 0.00031,
+        "titles": 4,
+        "usd": 0.00023820000000000002,
         "rejected": 0,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.03,
+      "monthUsd": 0.0303,
       "limitUsd": 2
     }
   }

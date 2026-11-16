@@ -1,7 +1,31 @@
 {
-  "updated": "2026-11-16T07:01:25.163Z",
-  "count": 313,
+  "updated": "2026-11-16T07:07:17.412Z",
+  "count": 316,
   "items": [
+    {
+      "source": "echos",
+      "country": "fr",
+      "title": "« Dans une France fracturée, l'entreprise doit préserver sa légitimité »",
+      "titleKo": "분열된 프랑스에서 기업은 정당성을 지켜야 한다 — 칼럼",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDYxUHVMUHRiWms5RExQQUs1NWxURUdZaG52TkZzbUhoa1BpUmZUSUZzTlg4TVd5REVLMXNWTXdkSW9YYlFXcEYtVVBPSGJpcFBsVTRWX3dQTEhkNGQ1dHN1SjVfMzMtLXc3azFxeEpXdUZjX0pwZXlGOFpTa1BDZ1NVTDE2NXRrSWFSeGIwUDNVSHV3MUR3ekVsVTI4eVZtb2hLc3FWLXpIOXpQY0ZaTmRtWGpYNjB4QXc?oc=5",
+      "date": "2026-11-16T07:05:08.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "jagran",
+      "country": "in",
+      "title": "अब घर या बिल्डिंग बनाने से पहले जान लें बिहार सरकार के नए नियम, बुजुर्गों को मिलेंगी खास सुविधाएं",
+      "titleKo": "이제 집이나 건물 짓기 전에 알아둘 비하르 주정부 새 규정… 노인에게 특별 혜택",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDFlMHBWamtLN1FRT1RWYVk2d0R6R2NLMEdzYmRBWjlGRXJDajJ5U0RidE5qemI1QjBvaHJhX0dkRkNJZlBuQzZrb1YtbEI0UGEzYnJ6NWF6S3B6czk0eWhkUkJVYWVqSlhpemFUMUttbEJOMWUyUTFpNnFGSHN6Z3lVczgwOHhKV1BzVUprSk9DLUpoNVdPSFBaczg5aWxlNExGek1TQ3Jnczl4TWdYazlR?oc=5",
+      "date": "2026-11-16T06:47:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
     {
       "source": "wire",
       "country": "in",
@@ -13,6 +37,18 @@
       "topics": [
         "이민·국경",
         "외교·안보"
+      ]
+    },
+    {
+      "source": "guardian",
+      "country": "uk",
+      "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
+      "titleKo": "영국, 정부의 '안일함' 속 복합 위기에 노출",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQTRQdXQyNzN3cU12RHgtOWYtNEZQejFEWDZPVGN3STdtOUYzQ2Z1X2hrZ1VYb0d0bFRvMFRVVjZNNmdfQnNlZkxVYVlxOENjdUdiaWMwcFdsMjBpQ2hrck9GSjh1OG1JV093eHpLdDg3Sl8tMS1FSzd4TFd4OU02eWRLM1VOQmV6MGZWS0k2OU9JVlhrMWF6R3BPaS10aHhKQ25ZeUFUa1hST2dDeG1YNA?oc=5",
+      "date": "2026-11-16T06:30:00.000Z",
+      "topics": [
+        "정치·선거"
       ]
     },
     {
@@ -2109,12 +2145,13 @@
       "source": "telegraph",
       "country": "uk",
       "title": "Labour’s ‘bonkers’ red tape threatens to end Saturday jobs",
-      "titleKo": "노동당의 '괴짜' 관료주의로 토요일 일자리 종료 위협",
+      "titleKo": "노동당의 '터무니없는' 규제 탓에 토요 일자리 사라질 위기",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTdmWGtuUDctVlNxVF95bnRtYnVjV3BKRmY1ZjRBT3M0SGYwOTV0QkZvQVoxQm9qajZaLUg3Y3VjUGF1V1paWVViVlo3dEhWTlV5V0p3RVFmRElUalUwNVNocDFaeXM3OEJjUVpsZVZoNHpiTVA0V2lwdjE2cm4tOF9PZDRsV2hfaEpxRnNEOTN1TnRHRm05bjJvZzM3Q2lMVHd6ekdDdVl5MWc?oc=5",
       "date": "2026-11-14T17:13:00.000Z",
       "topics": [
         "경제·물가"
-      ]
+      ],
+      "tr": "claude"
     },
     {
       "source": "telegraph",
