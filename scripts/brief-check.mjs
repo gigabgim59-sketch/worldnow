@@ -14,6 +14,7 @@ if(B.headlineDetail){assert(Array.isArray(B.headlineDetail)&&B.headlineDetail.le
   for(const it of d.items){assert(ORDER.includes(it.c),'items.c는 나라 id: '+it.c);assert(it.t&&it.t.length<=40,'items.t 40자 이내: '+it.t);}}}
 for(const c of B.countries){assert(c.issues.length>=1&&c.issues.length<=3,c.id+' 이슈 1~3개');
  for(const it of c.issues){assert(it.title&&it.what,'title/what');
+  if(it.keys)assert(Array.isArray(it.keys)&&it.keys.length>=2&&it.keys.length<=4&&it.keys.every(k=>typeof k==='string'&&k.length<=12),'이슈 keys 2~4개(각 12자 이내): '+it.title);
   for(const s of it.stances){assert(S.has(s.source),'모르는 매체 '+s.source);assert.equal(S.get(s.source).country,c.id,s.source+' 나라 불일치');assert(s.text);}
   for(const l of it.links||[]){assert(S.has(l.source));assert(/^https:\/\//.test(l.url));assert(l.title);}}}
 const idx=JSON.parse(fs.readFileSync('public/briefing/index.json','utf8'));assert(idx.dates.includes(B.date),'index.json에 날짜 없음');
