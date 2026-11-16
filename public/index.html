@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
 [hidden]{display:none!important}
-:root{--green:#128353;--ink:#1d2622;--sub:#6b7771;--faint:#9aa59f;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
+:root{--green:#128353;--ink:#1d2622;--sub:#5f6a65;--faint:#76827c;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
  --l:#2f6fd6;--e:#b7791f;--r:#d0453c;--s:#7a4fc4;--c:#5f6b66;--w:#1f8a8a}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
@@ -69,14 +69,14 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .bhead{padding:16px 2px 6px}
 .bhead .k{font-size:12px;font-weight:800;color:var(--green);letter-spacing:.06em}
 .bhead h2{margin:4px 0 4px;font-size:23px;font-weight:800;letter-spacing:-.035em}
-.bhead p{margin:0;font-size:12.5px;color:var(--faint)}
+.bhead p{margin:0;font-size:13px;color:var(--sub)}
 .bhead select{margin-top:8px}
 .three{background:var(--ink);color:#fff;border-radius:16px;padding:16px 18px;margin:12px 0}
 .three h3{margin:0 0 8px;font-size:13px;color:#b9d8c8;font-weight:800;letter-spacing:.04em}
 .three ol{margin:0;padding-left:20px}.three li{font-size:15.5px;line-height:1.55;margin:6px 0;font-weight:500}
 .bc{margin:20px 0 6px}
-.bc>h2{margin:0 0 8px;font-size:20px;font-weight:800;display:flex;align-items:baseline;gap:8px}
-.bc>h2 span{font-size:11px;color:var(--green);font-weight:800;letter-spacing:.08em}
+.bc h2{margin:0 0 8px;font-size:20px;font-weight:800;display:flex;align-items:baseline;gap:8px}
+.bc h2 span{font-size:11px;color:var(--green);font-weight:800;letter-spacing:.08em}
 .bi{background:#fff;border-radius:16px;padding:16px 16px 12px;margin:0 0 10px}
 .bi h3{margin:0 0 6px;font-size:17px;font-weight:800;letter-spacing:-.03em;line-height:1.4}
 .bi h3 b{color:var(--green);margin-right:6px}
@@ -85,12 +85,31 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .st .tag{margin-top:2px}
 .st div{font-size:14.5px;line-height:1.55}
 .st small{display:block;font-size:12px;color:var(--faint);font-weight:600}
-.st.l .tag{background:var(--l)}.st.e .tag{background:var(--e)}.st.r .tag{background:var(--r)}.st.s .tag{background:var(--s)}
+.st.l .tag{background:var(--l)}.st.e .tag{background:var(--e)}.st.r .tag{background:var(--r)}.st.s .tag{background:var(--s)}.st.w .tag{background:var(--w)}
 details.src{margin-top:6px;font-size:13px}
 details.src summary{cursor:pointer;color:var(--green);font-weight:700;padding:4px 0}
 details.src a{display:block;padding:6px 0;border-top:1px dashed var(--line);color:var(--sub);line-height:1.45}
 details.src a b{color:var(--ink);font-weight:600}
-.bnote{font-size:12px;color:var(--faint);line-height:1.6;padding:10px 2px}
+/* 브리핑 바로가기: 휴대폰은 위에 고정된 가로 칩, 넓은 화면은 왼쪽 고정 목차 */
+.bnav{position:sticky;top:var(--th,49px);z-index:4;display:flex;gap:6px;overflow-x:auto;scrollbar-width:none;background:var(--bg);margin:0 -16px;padding:8px 16px}
+.bnav::-webkit-scrollbar{display:none}
+.bnav a{flex:none;font-size:13.5px;font-weight:700;color:var(--sub);background:#fff;border:1px solid var(--line);border-radius:99px;padding:5px 12px;text-decoration:none}
+.bnav a small{color:var(--green);margin-left:4px;font-weight:800}
+.bnav ol{display:none}
+.bc{scroll-margin-top:calc(var(--th,49px) + 56px)}.bi{scroll-margin-top:calc(var(--th,49px) + 16px)}
+.bc>summary{list-style:none;cursor:pointer}.bc>summary::-webkit-details-marker{display:none}
+.bc>summary h2::after{content:'접기';margin-left:auto;font-size:12px;color:var(--faint);font-weight:600;letter-spacing:0}
+.bc:not([open])>summary h2::after{content:'펼치기'}
+.bc:not([open]){margin-bottom:0}
+@media(min-width:1000px){
+ .blayout{display:grid;grid-template-columns:200px minmax(0,760px);gap:36px;justify-content:start}
+ .bnav{flex-direction:column;align-self:start;top:calc(var(--th,49px) + 16px);margin:0;padding:6px 0;max-height:calc(100vh - 120px);overflow:auto;background:none;gap:2px}
+ .bnav a{border:0;background:none;padding:6px 8px;border-radius:8px;font-size:14px;color:var(--ink)}
+ .bnav a:hover{background:#e9eee9}
+ .bnav ol{display:block;margin:0 0 8px;padding:0 0 0 8px;list-style:none}
+ .bnav ol a{display:block;font-size:12.5px;font-weight:500;color:var(--sub);padding:3px 8px;line-height:1.4;white-space:normal}
+}
+.bnote{font-size:12.5px;color:var(--faint);line-height:1.6;padding:10px 2px}
 .topicnow{font-size:13px;padding:8px 0 0;color:var(--sub)}
 .topicnow b{color:var(--ink)}
 .topicnow button{margin-left:6px;color:var(--green);font-weight:700}
@@ -113,16 +132,17 @@ details.src a b{color:var(--ink);font-weight:600}
 @media(min-width:760px){.lanes{display:grid;grid-template-columns:repeat(var(--n),1fr);overflow:visible;margin:0;padding:0}.lane{flex:none}}
 .lane.l{--k:var(--l)}.lane.e{--k:var(--e)}.lane.r{--k:var(--r)}.lane.s{--k:var(--s)}.lane.w{--k:var(--w)}.iitem.w{--k:var(--w)}
 .lh{display:flex;align-items:center;gap:7px;margin-bottom:4px;min-width:0}
-.tag{flex:none;font-size:11.5px;font-weight:800;padding:2px 7px;border-radius:6px;color:#fff;background:var(--c)}
-.l .tag{background:var(--l)}.e .tag{background:var(--e)}.r .tag{background:var(--r)}.s .tag{background:var(--s)}
+.tag{flex:none;font-size:12px;font-weight:800;padding:2px 7px;border-radius:6px;color:#fff;background:var(--c)}
+.l .tag{background:var(--l)}.e .tag{background:var(--e)}.r .tag{background:var(--r)}.s .tag{background:var(--s)}.w .tag{background:var(--w)}
 .oname{font-size:13.5px;font-weight:700;color:var(--sub);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.desc{font-size:11.5px;color:var(--faint);margin-bottom:4px}
+.desc{font-size:12px;color:var(--faint);margin-bottom:4px}
 .item{display:block;padding:10px 0;border-top:1px solid var(--line)}
 .item:first-of-type{border-top:0}
 .ko{font-size:15.5px;line-height:1.45;font-weight:600;letter-spacing:-.025em;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .item:hover .ko{text-decoration:underline;text-underline-offset:3px}
 .orig{font-size:12.5px;color:var(--sub);margin-top:3px;line-height:1.35}
-.meta{font-size:11.5px;color:var(--faint);margin-top:4px}
+@media(max-width:759px){.lane,.item{min-width:0}.item .orig{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}} /* 휴대폰: 원문은 한 줄만, 전체는 '원문으로 보기' */
+.meta{font-size:12px;color:var(--faint);margin-top:4px}
 .meta em{font-style:normal;color:#b08a3a;margin-left:6px}
 .none{font-size:13px;color:var(--faint);padding:14px 0 16px}
 .dots{display:flex;justify-content:center;gap:5px;padding:8px 0 0}
@@ -159,9 +179,9 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
   <div class="searchrow" id="searchRow" hidden><input id="search" type="search" placeholder="제목 검색 (예: 금리, 우크라이나)" aria-label="제목 검색"></div>
   <div class="bar">
     <span class="status" id="status"><i></i>불러오는 중</span>
-    <button class="chip" id="ecoBtn" aria-pressed="false">경제지만</button>
-    <button class="chip" id="origBtn" aria-pressed="false">원문 제목</button>
-    <select class="chip" id="period" aria-label="기간"><option value="72">3일</option><option value="24">24시간</option></select>
+    <button class="chip" id="ecoBtn" aria-pressed="false">경제 매체만</button>
+    <button class="chip" id="origBtn" aria-pressed="false">원문으로 보기</button>
+    <select class="chip" id="period" aria-label="기간"><option value="72">최근 3일</option><option value="24">최근 24시간</option></select>
   </div>
   <div class="notice" id="notice" role="status"></div>
   <div class="issues" id="issues" hidden></div>
@@ -333,19 +353,22 @@ function renderBrief(){
   const regions=(state.country==='all'?Object.keys(COUNTRIES):[state.country]);
   let h='<div class="bhead"><div class="k">ISSUE BRIEFING</div><h2>'+esc(D.title||'오늘의 이슈 브리핑')+'</h2><p>'+esc(D.window||'')+' · 기사 '+(D.articles||'')+'건 분석 · '+esc(D.author||'Claude')+' 작성</p>'
    +(dates.length>1?'<select class="chip" id="bdate" aria-label="지난 브리핑">'+dates.map(d=>'<option'+(d===B.date?' selected':'')+' value="'+d+'">'+d+'</option>').join('')+'</select>':'')+'</div>';
+  const shown=regions.map(c=>[c,(D.countries||[]).find(x=>x.id===c)]).filter(([,C])=>C);
+  if(shown.length>1)h+='<div class="blayout"><nav class="bnav" aria-label="나라 바로가기">'+shown.map(([c,C])=>'<a href="#b-'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a><ol>'+C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'">'+esc(it.title)+'</a></li>').join('')+'</ol>').join('')+'</nav><div class="bbody">';
+  else h+='<div><div>';
   if(state.country==='all'&&D.headline?.length)h+='<div class="three"><h3>오늘의 세계 3줄</h3><ol>'+D.headline.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
   for(const c of regions){
     const C=(D.countries||[]).find(x=>x.id===c);if(!C)continue;
-    h+='<section class="bc"><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2>';
+    h+='<details class="bc" open id="b-'+c+'"><summary><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2></summary>';
     C.issues.forEach((it,i)=>{
-      h+='<article class="bi"><h3><b>'+'①②③④⑤'[i]+'</b>'+esc(it.title)+'</h3><p class="what">'+esc(it.what)+'</p>'
+      h+='<article class="bi" id="b-'+c+'-'+i+'"><h3><b>'+'①②③④⑤'[i]+'</b>'+esc(it.title)+'</h3><p class="what">'+esc(it.what)+'</p>'
        +(it.stances||[]).map(st=>{const [,side,tag]=SIDE_OF(st.source);return '<div class="st '+side+'"><span class="tag">'+esc(st.tag||tag)+'</span><div><small>'+esc(nm(st.source))+'</small>'+esc(st.text)+'</div></div>';}).join('')
        +((it.links||[]).length?'<details class="src"><summary>근거 기사 '+it.links.length+'건</summary>'+it.links.map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(nm(l.source))+'</b> · '+esc(l.title)+'</a>').join('')+'</details>':'')
        +'</article>';
     });
-    h+='</section>';
+    h+='</details>';
   }
-  h+='<p class="bnote">이 브리핑은 23개 매체가 최근 3일 동안 낸 기사 제목을 원문으로 읽고, 주요 사실은 웹 검색으로 확인해 Claude가 매일 아침 작성합니다. 기사 본문 전체를 읽은 것은 아니므로, 판단이 필요하면 근거 기사 원문을 확인하세요. 진영 꼬리표는 매체 성향의 대략적 구분입니다.</p>';
+  h+='<p class="bnote">이 브리핑은 '+(state.feeds.length||25)+'개 매체가 최근 3일 동안 낸 기사 제목을 원문으로 읽고, 주요 사실은 웹 검색으로 확인해 Claude가 매일 아침 작성합니다. 기사 본문 전체를 읽은 것은 아니므로, 판단이 필요하면 근거 기사 원문을 확인하세요. 진영 꼬리표는 매체 성향의 대략적 구분입니다.</p></div></div>';
   el.innerHTML=h;
 }
 function render(){
@@ -388,6 +411,10 @@ document.addEventListener('click',e=>{
   save();render();
 });
 // 로고·제목을 누르면 처음 화면(전체 · 이슈 브리핑 · 최신 브리핑 · 맨 위)으로
+document.addEventListener('click',e=>{const a=e.target.closest('.bnav a');if(!a)return;e.preventDefault();
+  const t=document.getElementById(a.getAttribute('href').slice(1));if(!t)return;const d=t.closest('details');if(d)d.open=true;t.scrollIntoView({behavior:'smooth',block:'start'});});
+const setTH=()=>{const t=document.querySelector('.tabs');if(t)document.documentElement.style.setProperty('--th',t.offsetHeight+'px');};
+setTH();addEventListener('resize',setTH);try{new ResizeObserver(setTH).observe(document.querySelector('.tabs'))}catch{} // 탭 버튼이 그려진 뒤 높이 반영
 $('home').onclick=e=>{e.preventDefault();Object.assign(state,{view:'brief',country:'all',issue:null,topic:null,search:''});
   const sr=$('searchRow'),si=$('search');if(si)si.value='';if(sr)sr.hidden=true;
   try{history.replaceState(null,'',location.pathname)}catch{}window.scrollTo({top:0});save();render();
