@@ -100,5 +100,12 @@ const result={schemaVersion:1,generatedAt:new Date().toISOString(),feeds,collect
 for(const f of feeds)for(const a of f.items){const o=seen.get(a.url);if(o){if(a.titleKo){o.titleKo=a.titleKo;o.tr=a.tr||o.tr||null;}continue;}seen.set(a.url,{source:f.source.id,country:f.source.country,title:a.title,titleKo:a.titleKo||null,tr:a.tr||null,url:a.url,date:a.date,topics:a.topics||[],...(a.opinion?{opinion:true}:{})});}
 const cut=Date.now()-4*86400000;const items=[...seen.values()].filter(x=>+new Date(x.date)>cut).sort((a,b)=>b.date.localeCompare(a.date));
 await write('public/data/history.json',{updated:new Date().toISOString(),count:items.length,items});console.log('누적 기록: '+items.length+'건');}
+// 문자 원고: 오늘(한국 시간) 브리핑이 있으면 바로 보낼 수 있는 문자, 없으면 빈 파일 (휴대폰 단축어가 비어 있으면 보내지 않음)
+{const SITE='https://gigabgim59-sketch.github.io/worldnow/';const today=new Date(Date.now()+9*3600000).toISOString().slice(0,10);
+ let msg='';try{const idx=await read('public/briefing/index.json');const d=idx?.dates?.[0];const B=d&&await read('public/briefing/'+d+'.json');
+  if(B?.headline?.length)msg='[세계의 오늘] '+(B.title||d)+'\n\n'+B.headline.map((x,i)=>(i+1)+'. '+x).join('\n\n')+'\n\n전체 보기: '+SITE;
+  await fs.writeFile(new URL('public/briefing/latest.txt',root),msg?msg+'\n':'');
+  await fs.writeFile(new URL('public/briefing/sms.txt',root),d===today&&msg?msg+'\n':'');
+  console.log('문자 원고: '+(d===today&&msg?d+' ('+msg.length+'자)':'오늘 브리핑 없음 → 빈 파일'));}catch(e){console.warn('문자 원고 생성 실패: '+e.message);}}
 await write('public/data/news.json',result);await fs.writeFile(new URL('public/data/news.js',root),'window.WORLD_NEWS='+JSON.stringify(result).replace(/</g,'\\u003c')+';\n');await write('.cache/news-last-good.json',result);
 const keys=Object.keys(cached);for(const k of keys.slice(0,Math.max(0,keys.length-2000)))delete cached[k];await write('.cache/translations.json',cached);await write('.cache/translation-usage.json',usage);await fs.mkdir(new URL('data/',root),{recursive:true});await write('data/translation-spend.json',spend);{const ck=Object.keys(ccache);for(const k of ck.slice(0,Math.max(0,ck.length-3000)))delete ccache[k];await write('.cache/translations-claude.json',ccache);}console.log(JSON.stringify(result.collector));
