@@ -178,6 +178,26 @@
     "color": "#bf6733"
   },
   {
+    "id": "reuters_cn",
+    "country": "cn",
+    "name": "Reuters · 중국",
+    "label": "서방 통신사(영국)가 본 중국 · 제목에 중국 관련어가 있는 기사만",
+    "domain": "reuters.com",
+    "lang": "en",
+    "titleMust": "china|chinese|beijing|xi jinping|\\bxi\\b|taiwan|hong kong|shanghai|shenzhen|tibet|xinjiang|uyghur|huawei|byd|alibaba|tencent|yuan|pla\\b|south china sea",
+    "color": "#e3701a"
+  },
+  {
+    "id": "bbc_cn",
+    "country": "cn",
+    "name": "BBC · 중국",
+    "label": "서방 공영방송(영국)이 본 중국 · 제목에 중국 관련어가 있는 기사만",
+    "domain": "bbc.com",
+    "lang": "en",
+    "titleMust": "china|chinese|beijing|xi jinping|\\bxi\\b|taiwan|hong kong|shanghai|shenzhen|tibet|xinjiang|uyghur|huawei|byd|alibaba|tencent|yuan|pla\\b|south china sea",
+    "color": "#3a3a3a"
+  },
+  {
     "id": "aljazeera",
     "country": "me",
     "name": "Al Jazeera",

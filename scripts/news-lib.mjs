@@ -13,10 +13,10 @@ const KW={
 '전쟁·휴전':['ceasefire*','ukrain*','gaza','war','wars','wartime','warship*','troops','airstrike*','drone strike*','guerre*','войн','перемири','حرب','وقف إطلاق'],
 '에너지·원유':['oil*','gas','energy','opec','pétrole','énergie*','нефт','газ','نفط','طاقة'],
 '이민·국경':['immigra*','migrant*','asylum','border*','immigr*','границ','мигран','هجرة','لاجئ'],
-'정치·선거':['election*','parliament*','congress*','senat*','MP','MPs','labour','tory','tories','justice','supreme court','minister*','president*','government*','democra*','republican*','party','parties','corruption','court','courts','vote','votes','voters','trump*','modi','macron','starmer','élection*','président*','gouvernement*','выбор','правитель','انتخاب','حكومة'],
+'정치·선거':['election*','parliament*','congress*','senat*','MP','MPs','labour','tory','tories','justice','supreme court','minister*','president*','government*','democra*','republican*','party','parties','corruption','court','courts','vote','votes','voters','trump*','modi','macron','starmer','xi','putin','netanyahu','élection*','président*','gouvernement*','выбор','правитель','انتخاب','حكومة'],
 '경제·물가':['inflation*','econom*','price','prices','interest rate*','central bank*','budget*','growth','jobs','employment','gdp','économ*','croissance','(?:^|\\s)цен[аыуе]','эконом','бюджет','اقتصاد','تضخم','فائدة'],
-'외교·안보':['war','wars','military','navy','naval','warship*','troops','army','spy','spies','espionage','terror*','security','iran*','israel*','palestin*','settler*','settlement*','occupied','défense','missile*','ukrain*','gaza','diploma*','nato','sanctions','defence','defense','peace','summit*','guerre*','armée*','войн','ракет','حرب','إيران','غزة'],
-'산업·시장':['stock','stocks','market*','industr*','bank','banks','banking','trade','trading','tariff*','energy','oil','gas','chip','chips','tech','technology','cyber*','microsoft','compan*','AI','bourse','entreprise*','marché*','рын','нефт','компан','أسهم','نفط','شركات'],
+'외교·안보':['war','wars','military','talks','meet','meets','meeting','visit*','envoy*','tension*','coast guard','navy','naval','warship*','troops','army','spy','spies','espionage','terror*','security','iran*','israel*','palestin*','settler*','settlement*','occupied','défense','missile*','ukrain*','gaza','diploma*','nato','sanctions','defence','defense','peace','summit*','guerre*','armée*','войн','ракет','حرب','إيران','غزة'],
+'산업·시장':['stock','stocks','market*','industr*','export*','import*','rare earth*','supply chain*','manufactur*','bank','banks','banking','trade','trading','tariff*','energy','oil','gas','chip','chips','tech','technology','cyber*','microsoft','compan*','AI','bourse','entreprise*','marché*','рын','нефт','компан','أسهم','نفط','شركات'],
 '사회·생활':['housing','manifestation*','grève*','interpellation*','sociale*','health*','school*','transport*','flight*','poverty','inequal*','crime*','rights','education','immigra*','protest*','worker*','police','climate','social','logement*','santé','école*','социал','образован','مناخ','تعليم']};
 const HI={"금리·물가": "महंगाई|ब्याज दर|रिजर्व बैंक", "예산·재정": "बजट|टैक्स|कर ", "AI·반도체": "", "전쟁·휴전": "युद्ध|संघर्ष विराम", "에너지·원유": "तेल|ऊर्जा", "이민·국경": "सीमा|घुसपैठ", "정치·선거": "चुनाव|सरकार|मोदी|भाजपा|कांग्रेस|संसद|मंत्री|राहुल|विधानसभा|अदालत", "경제·물가": "अर्थव्यवस्था|महंगाई|जीडीपी|रोजगार", "외교·안보": "सेना|रक्षा|पाकिस्तान|चीन|विदेश|आतंक", "산업·시장": "बाजार|शेयर|व्यापार|कंपनी|टैरिफ", "사회·생활": "किसान|शिक्षा|स्वास्थ्य|पुलिस|अपराध|प्रदूषण"};
 const kwRe=k=>/^[A-Za-zÀ-ÿ ]+\*?$/.test(k)?'(?<![\\p{L}\\p{N}])'+(k.endsWith('*')?k.slice(0,-1):k+'(?![\\p{L}\\p{N}])'):k;
@@ -42,6 +42,7 @@ function screen(raw,s){
   if(title.length<20||/(?:\.\.|…)$/.test(title)||SKIP.test(title))return null;
   if(s.id==='republic'&&!/india|indian|modi|bjp|delhi|mumbai|rupee|\brbi\b/i.test(title))return null;
   if(s.id==='tass'&&!/russia|russian|putin|kremlin|moscow|lavrov/i.test(title))return null;
+  if(s.titleMust&&!new RegExp(s.titleMust,'i').test(title))return null; // 다른 나라 매체가 본 이 나라: 제목에 관련어가 있어야 함
   const tags=topicOf(title);if(!tags.length)return null;
   if(s.economy&&!tags.some(t=>['금리·물가','예산·재정','AI·반도체','에너지·원유','경제·물가','산업·시장'].includes(t)))return null;
   return {title,topics:tags,opinion:OPINION.test(title)||(s.id==='guardian'&&BYLINE.test(title))};

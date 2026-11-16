@@ -11,7 +11,7 @@
 | 지역 | 매체(id) |
 |---|---|
 | 미국 us | nyt 진보 · wsj 경제 · fox 보수 |
-| 중국 cn | xinhua 국영 · caixin 경제 |
+| 중국 cn | xinhua 국영 · caixin 경제 · reuters_cn 서방 통신 · bbc_cn 서방 방송 |
 | 영국 uk | guardian 진보 · ft 경제 · telegraph 보수 |
 | 러시아 ru | tass 국영 · kommersant 경제 · meduza 독립 |
 | 프랑스 fr | liberation 좌파 · echos 경제 · figaro 우파 |

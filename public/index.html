@@ -4,7 +4,7 @@
 <style>
 [hidden]{display:none!important}
 :root{--green:#128353;--ink:#1d2622;--sub:#6b7771;--faint:#9aa59f;--line:#e6ebe7;--bg:#f4f6f3;--card:#fff;
- --l:#2f6fd6;--e:#b7791f;--r:#d0453c;--s:#7a4fc4;--c:#5f6b66}
+ --l:#2f6fd6;--e:#b7791f;--r:#d0453c;--s:#7a4fc4;--c:#5f6b66;--w:#1f8a8a}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:"Pretendard Variable",Pretendard,-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;letter-spacing:-.015em;-webkit-font-smoothing:antialiased}
@@ -111,7 +111,7 @@ details.src a b{color:var(--ink);font-weight:600}
 .lanes::-webkit-scrollbar{display:none}
 .lane{flex:0 0 82%;scroll-snap-align:start;background:var(--card);border-radius:16px;padding:14px 16px 6px;--k:var(--c);background:linear-gradient(var(--k),var(--k)) top/100% 3px no-repeat,var(--card);box-shadow:0 1px 2px rgba(0,0,0,.03)}
 @media(min-width:760px){.lanes{display:grid;grid-template-columns:repeat(var(--n),1fr);overflow:visible;margin:0;padding:0}.lane{flex:none}}
-.lane.l{--k:var(--l)}.lane.e{--k:var(--e)}.lane.r{--k:var(--r)}.lane.s{--k:var(--s)}
+.lane.l{--k:var(--l)}.lane.e{--k:var(--e)}.lane.r{--k:var(--r)}.lane.s{--k:var(--s)}.lane.w{--k:var(--w)}.iitem.w{--k:var(--w)}
 .lh{display:flex;align-items:center;gap:7px;margin-bottom:4px;min-width:0}
 .tag{flex:none;font-size:11.5px;font-weight:800;padding:2px 7px;border-radius:6px;color:#fff;background:var(--c)}
 .l .tag{background:var(--l)}.e .tag{background:var(--e)}.r .tag{background:var(--r)}.s .tag{background:var(--s)}
@@ -177,14 +177,14 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
 <script>
 // 탭·전체 화면 순서: 미국·중국·영국·러시아·프랑스·중동·인도 (고정)
 const COUNTRIES={us:['미국','US'],cn:['중국','CN'],uk:['영국','UK'],ru:['러시아','RU'],fr:['프랑스','FR'],me:['중동','ME'],in:['인도','IN']};
-// 나라별 진영 칸 순서와 꼬리표 (l 진보·비판 / e 경제 / r 보수·친정부 / s 국영 / c 기타)
+// 나라별 진영 칸 순서와 꼬리표 (l 진보·비판 / e 경제 / r 보수·친정부 / s 국영 / c 기타 / w 서방 매체가 본 이 나라)
 const LANES={
  uk:[['guardian','l','진보'],['ft','e','경제'],['telegraph','r','보수']],
  fr:[['liberation','l','좌파'],['echos','e','경제'],['figaro','r','우파']],
  us:[['nyt','l','진보'],['wsj','e','경제'],['fox','r','보수']],
  ru:[['tass','s','국영'],['kommersant','e','경제'],['meduza','l','독립']],
  in:[['jagran','r','북인도·힌디'],['hindu','l','남인도'],['republic','r','친정부'],['wire','l','비판'],['et','e','경제']],
- cn:[['xinhua','s','국영'],['caixin','e','경제']],
+ cn:[['xinhua','s','국영'],['caixin','e','경제'],['reuters_cn','w','서방 통신'],['bbc_cn','w','서방 방송']],
  me:[['haaretz','l','이스라엘'],['aljazeera','c','카타르'],['asharq','e','사우디·경제'],['presstv','s','이란 국영']]
 };
 const state={view:'brief',issue:null,country:'all',eco:false,original:false,period:72,search:'',topic:null,feeds:[],updated:null,loading:true};
