@@ -10,7 +10,8 @@ if(process.env.PREVIOUS_DATA_URL){try{const r=await fetch(process.env.PREVIOUS_D
 const oldFeeds=new Map((previous?.feeds||[]).map(f=>[f.source.id,f]));const feeds=[];let cursor=0;let successful=0;
 async function collector(){while(cursor<sources.length){const i=cursor++;const s=sources[i];const fresh=await getFeed(s);const old=oldFeeds.get(s.id);if(fresh.status==='ok'&&fresh.items.length){successful++;feeds[i]=fresh;}else if(old?.items?.length){feeds[i]={...old,source:s,status:'stale',lastAttemptAt:fresh.fetchedAt,error:'이번 수집에 실패해 마지막 성공본을 표시합니다.'};}else{feeds[i]=fresh;}console.log(s.id+': '+feeds[i].status+' ('+feeds[i].items.length+')');}}
 await Promise.all([collector(),collector(),collector(),collector()]);
-if(!successful){console.error('모든 수집이 실패했습니다. 기존 게시본을 유지하고 배포하지 않습니다.');process.exit(1);}
+// 전부 실패하면 데이터 파일은 건드리지 않고 정상 종료한다. 저장소의 마지막 성공본이 그대로 배포되므로, 화면 코드 변경은 이때도 반영된다.
+if(!successful){console.warn('::warning::모든 수집이 실패했습니다. 데이터는 마지막 성공본을 유지하고 화면만 배포합니다.');process.exit(0);}
 const cached=await read('.cache/translations.json')||{};const day=new Date().toISOString().slice(0,10);let usage=await read('.cache/translation-usage.json');if(usage?.day!==day)usage={day,characters:0};
 const budget=Math.max(0,Number(process.env.TRANSLATION_BUDGET??4000));let stopped=false;const jobs=[];
 for(let n=0;n<8;n++)for(const f of feeds){const a=f.items[n];if(a)jobs.push([f,a]);}
