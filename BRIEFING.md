@@ -14,6 +14,7 @@
 | 중국 cn | xinhua 국영 · caixin 경제 · reuters_cn·bbc_cn 서방 |
 | 영국 uk | guardian 진보 · ft 경제 · telegraph 보수 |
 | 러시아 ru | tass 국영 · kommersant 경제 · reuters_ru·bbc_ru 서방 · meduza 독립(망명 언론) |
+| 독일 de | sz 진보 · handelsblatt 경제 · faz 보수 |
 | 프랑스 fr | liberation 좌파 · echos 경제 · figaro 우파 |
 | 중동 me | aljazeera 카타르 · haaretz 이스라엘 · presstv 이란 국영 · asharq 사우디·경제 |
 | 인도 in | jagran 북인도·힌디 · hindu 남인도 · republic 친정부 · wire 비판 · et 경제 |

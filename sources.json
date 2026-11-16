@@ -28,6 +28,34 @@
     "color": "#b66a42"
   },
   {
+    "id": "sz",
+    "country": "de",
+    "name": "Süddeutsche Zeitung",
+    "label": "뮌헨의 중도좌파 일간지 · 독일 진보 성향 대표지",
+    "domain": "sueddeutsche.de",
+    "lang": "de",
+    "color": "#29293a"
+  },
+  {
+    "id": "handelsblatt",
+    "country": "de",
+    "name": "Handelsblatt",
+    "label": "뒤셀도르프의 경제 일간지 · 독일 최대 경제지",
+    "domain": "handelsblatt.com",
+    "lang": "de",
+    "economy": true,
+    "color": "#e45b1f"
+  },
+  {
+    "id": "faz",
+    "country": "de",
+    "name": "Frankfurter Allgemeine",
+    "label": "프랑크푸르트의 중도보수 일간지(FAZ)",
+    "domain": "faz.net",
+    "lang": "de",
+    "color": "#1c1c1c"
+  },
+  {
     "id": "liberation",
     "country": "fr",
     "name": "Libération",
