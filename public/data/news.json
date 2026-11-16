@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T00:04:09.482Z",
+  "generatedAt": "2026-11-16T00:08:51.613Z",
   "feeds": [
     {
       "source": {
@@ -114,7 +114,7 @@
           "titleKoAlt": "£5m 이상의 기부금 청구에도 불구하고 Reform UK가 Nigel Farage의 보증금을 지불했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.483Z",
+      "fetchedAt": "2026-11-16T00:08:47.239Z",
       "status": "ok"
     },
     {
@@ -166,18 +166,6 @@
         },
         {
           "id": "telegraph-3",
-          "title": "Brand quietly moved to low-security prison with yoga classes",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDItaFJUOWpqcmZ0MDFhODdPVmJXa0QzZV9GRWJ0WEFWRnhrbHhMOVZsUXdfMnJwQzdBYzdxNmNrby01NXRCZkZwZy1RdmhzeHhFTVEzOGMzMmtaWnV0cmhXVGpFaDUzZzlWdGhaVGVaNHR6OXJMNzdaSVhKb05ENXdkTWFsMFp5bTFzaF95Sm5SdUhyVFVRQVFtNXlwR3QxWllDWg?oc=5",
-          "date": "2026-11-15T14:46:00.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "브랜드, 요가 수업 있는 저보안 교도소로 조용히 이송",
-          "tr": "claude",
-          "titleKoAlt": "브랜드는 요가 수업을 듣고 보안 수준이 낮은 교도소로 조용히 이동했습니다."
-        },
-        {
-          "id": "telegraph-4",
           "title": "Inflation wipes out 24 years of house price growth",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGZQVFhFc0FNMzZXWTcwcXdaWEFGZ0dqRTlwdGVzc2dNTkxYbzdZT054QVdKRHh5RzR4Q21mWXV0S2xDWVpxVDdLVERUZmVUa0ZtX1hrRWx5dzRITmJvbDcwUVFXYlVpYjVMd3VaVUJacTZNb1ZsUG9SWldJY2tlWEF2WkNxRTFPOTlPT1BTcFk5b0VtZWtsNWlSS0g1ZndJ?oc=5",
           "date": "2026-11-14T17:00:00.000Z",
@@ -188,6 +176,18 @@
           "titleKo": "물가 상승에 집값 24년치 상승분 증발",
           "tr": "claude",
           "titleKoAlt": "인플레이션으로 인해 24년간의 주택 가격 상승분이 사라졌습니다."
+        },
+        {
+          "id": "telegraph-4",
+          "title": "Brand quietly moved to low-security prison with yoga classes",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDItaFJUOWpqcmZ0MDFhODdPVmJXa0QzZV9GRWJ0WEFWRnhrbHhMOVZsUXdfMnJwQzdBYzdxNmNrby01NXRCZkZwZy1RdmhzeHhFTVEzOGMzMmtaWnV0cmhXVGpFaDUzZzlWdGhaVGVaNHR6OXJMNzdaSVhKb05ENXdkTWFsMFp5bTFzaF95Sm5SdUhyVFVRQVFtNXlwR3QxWllDWg?oc=5",
+          "date": "2026-11-15T14:46:00.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "브랜드, 요가 수업 있는 저보안 교도소로 조용히 이송",
+          "tr": "claude",
+          "titleKoAlt": "브랜드는 요가 수업을 듣고 보안 수준이 낮은 교도소로 조용히 이동했습니다."
         },
         {
           "id": "telegraph-5",
@@ -227,7 +227,7 @@
           "titleKoAlt": "호르무즈해협에서 초대형 유조선이 광산에 부딪혀 침몰했다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.481Z",
+      "fetchedAt": "2026-11-16T00:08:47.237Z",
       "status": "ok"
     },
     {
@@ -342,7 +342,7 @@
           "titleKoAlt": "마이크로소프트는 글로벌 중단 이후 서비스가 '광범위한 복구'를 경험하고 있다고 밝혔습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.479Z",
+      "fetchedAt": "2026-11-16T00:08:47.235Z",
       "status": "ok"
     },
     {
@@ -372,42 +372,18 @@
         },
         {
           "id": "liberation-1",
-          "title": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer la menace venant de l’extrême droite",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd3EySWVYOEdIUXVldl9SVWdZeEdUdHF4eEJwdzhmdDY3d21pVklpS0plYkk5QUE5VWpZQUJBdDZoZWU5V3JvV3JhREFFZ25oZ3gzY3F2U3BKbkFUSWY3SG1raE9Fc2xLbU9DcERNazhlNW5uR1BobEJ0eDd6OFd3UXZWTnpFa2NZejBUWUxuOEhlcndCWUJJOEdPLTR5dWd3LTJtX3cyb3lhek1ld2Vyc3VnS0p6bVRoWW1jUjZMUFp6QjNZcGk3RWdKOEh0QU1CVG9LSDNEckcxb2ExREdDdklfQWd6QU81Uzl4TjlsMF9yOW9kNWd2c2RaTndMVF9jQmxNeURfRzNQX1ZNVzhmN3ZWSQ?oc=5",
-          "date": "2026-11-15T13:53:39.000Z",
+          "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVVlPSGJENHlJSnM3aEVWY0lrU3R0aFM2cWl2UHo3Ynp5dEFsclJ6aUNXeWNLRWRHOEtzWW0xZXl6OXAxVHFXOWZSTlIxSXFQa080cHo5UGxUS0VPNlY4Qm1tcTJOSkpuNzRETWJLcDBSUldTeWItV0ZwZ3ZIbGx2R3Z0Wm81UTBBVHJybl9SRm9VdnRpcVlKdXRUT1I5Wjk4UDFpLThLcjBDMFByTl9qSzAwUWJwTkppdFBaV1NJWHBVQ2V3eDJGNXlUWFQxSnlmZTh2WUhQSmJwWnJqSlFBYkRubVdPeGZoOGYwWmU4S2E3N2FxWElQMHJTeEh0cl8wMHV6TldiZ3I2b0dxaWU4VUJwdi1yaHM?oc=5",
+          "date": "2026-11-15T14:45:00.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "트라프 테러…산드린 루소 \"정부, 극우 위협 과소평가\" 비판",
+          "titleKo": "텍사스 남부, 트럼프 장벽에 반발 확산… \"여기서 유일한 침공은 연방정부의 침공\"",
           "tr": "claude",
-          "titleKoAlt": "Trappes 공격: Sandrine Rousseau는 정부가 \"극우파의 위협을 과소평가하고 있다\"고 비난했습니다."
+          "titleKoAlt": "남부 텍사스에서 트럼프 장벽에 대한 반란: \"여기의 유일한 침략은 연방 정부의 침략입니다."
         },
         {
           "id": "liberation-2",
-          "title": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’à fin novembre",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTVtY2owaWYwM2k3Y1ZEd3FlSUU5d0NJcVdhckZVd1g1WGVESzFfTGIyVTZNQkptT0c3ZGMydFF3ZGJxYWhSakYzakZEbmJyaW1NRDNaY1VtU2ItNWFOZXlGa0R3R3NzVjNYYmxCTDU5RlhWVE85TFVod0h0NWM2NW5qZzc3Rm1CMXI5VEhjTHNxcjh4WjlueW92aFRfNmgzS09qSzZ2MVBtYy1JU2hJVFlVcGt4OXFvcS1SWmpVZ2gweUp4UFRhZTN1RDBidFJFQlM4aDk2MWdhLUY2R0tB?oc=5",
-          "date": "2026-11-15T07:54:12.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "정부, 11월 말까지 폭죽 판매 금지",
-          "tr": "claude",
-          "titleKoAlt": "정부, 11월말까지 폭죽 판매 금지"
-        },
-        {
-          "id": "liberation-3",
-          "title": "Mouvement social : plus de 400 personnes interpellées en France lors des manifestations de samedi",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOGJJRm5VQVlqVU1TY2YtT1pGSHd0S1YwbXpzMFhYUUptSVZXMTZPeTNHekRMdFJJQXZGbGJpU3JOdDRDQ1lSRVpmdnhDeGJlcmtlRDBwdllDUU9aN2p2WGY5LS1ocE9rYmpRNTNTcjl0dmVCTk9rTWZxWXZkeUREbmU0ZmR1UXJucDZ1QmRtQUdtV1htTFUwTVEwOWU1UldPX1RmMGkxcnlhNEY1TmpnaDJ2VTByOTdPOFVINll3NFZiY0ZQVC1fNm5JSFNGc0JyTUlHcjRSWUZwUUtWd3lCU0U2Y05lN1JGTUFUU180QS12TlJqQTlHN1dTVC10S3ZSbEkzU3FaSkQwNncyVXc?oc=5",
-          "date": "2026-11-15T14:26:25.000Z",
-          "topics": [
-            "사회·생활"
-          ],
-          "titleKo": "프랑스 사회운동 시위… 토요일 집회서 400명 넘게 연행",
-          "tr": "claude",
-          "titleKoAlt": "사회적 지원: 유사한 증상이 나타나는 동안 프랑스에서 상호 작용하는 400명 이상의 사람들"
-        },
-        {
-          "id": "liberation-4",
           "title": "Présidentielle : au salon du Made in France, Teddy Riner coupe le cordon avec Macron, mais ne donne toujours pas de programme",
           "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMjVrQzNodDZRT0ViakZtQUdLUGRmV211V183MDlDVHppUGc0dGtGQ2JNRnBtOEpPek5YVzZDNDdkbjc1NnVkQTVGTlNSRWJvQjE3LTU5eDZsc1ZRbGtHLXczMGljbGNuMkM0aDk3RXFZQ0pNM0FyZTdfaTJxUTZmd3Q1b3F4WGVLczdOUEZIdzhmUXJoeEF6X0lCcHkzZDNoLVNJMi1NTEtNX1F4a2tGUXdxTjdreG1qOERVUGVUVExDdjNrYVdYdXR0cjdEWl9jSnFhd2R4RG9hdzBCWkNXc0tFTDdEVjBZdGhPV1RQTU1TUmxmcGpmempBTWk0Z3BZTWlJVlMxZjFvOHNacWZQcnAyZHhUQlVjdG9HVWlJbw?oc=5",
           "date": "2026-11-14T19:05:00.000Z",
@@ -419,7 +395,43 @@
           "titleKoAlt": "대통령 선거: '메이드 인 프랑스' 박람회에서 테디 리네르는 마크롱과의 관계를 끊었지만 여전히 공약은 발표하지 않았습니다."
         },
         {
+          "id": "liberation-3",
+          "title": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer la menace venant de l’extrême droite",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd3EySWVYOEdIUXVldl9SVWdZeEdUdHF4eEJwdzhmdDY3d21pVklpS0plYkk5QUE5VWpZQUJBdDZoZWU5V3JvV3JhREFFZ25oZ3gzY3F2U3BKbkFUSWY3SG1raE9Fc2xLbU9DcERNazhlNW5uR1BobEJ0eDd6OFd3UXZWTnpFa2NZejBUWUxuOEhlcndCWUJJOEdPLTR5dWd3LTJtX3cyb3lhek1ld2Vyc3VnS0p6bVRoWW1jUjZMUFp6QjNZcGk3RWdKOEh0QU1CVG9LSDNEckcxb2ExREdDdklfQWd6QU81Uzl4TjlsMF9yOW9kNWd2c2RaTndMVF9jQmxNeURfRzNQX1ZNVzhmN3ZWSQ?oc=5",
+          "date": "2026-11-15T13:53:39.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "트라프 테러…산드린 루소 \"정부, 극우 위협 과소평가\" 비판",
+          "tr": "claude",
+          "titleKoAlt": "Trappes 공격: Sandrine Rousseau는 정부가 \"극우파의 위협을 과소평가하고 있다\"고 비난했습니다."
+        },
+        {
+          "id": "liberation-4",
+          "title": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’à fin novembre",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTVtY2owaWYwM2k3Y1ZEd3FlSUU5d0NJcVdhckZVd1g1WGVESzFfTGIyVTZNQkptT0c3ZGMydFF3ZGJxYWhSakYzakZEbmJyaW1NRDNaY1VtU2ItNWFOZXlGa0R3R3NzVjNYYmxCTDU5RlhWVE85TFVod0h0NWM2NW5qZzc3Rm1CMXI5VEhjTHNxcjh4WjlueW92aFRfNmgzS09qSzZ2MVBtYy1JU2hJVFlVcGt4OXFvcS1SWmpVZ2gweUp4UFRhZTN1RDBidFJFQlM4aDk2MWdhLUY2R0tB?oc=5",
+          "date": "2026-11-15T07:54:12.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "정부, 11월 말까지 폭죽 판매 금지",
+          "tr": "claude",
+          "titleKoAlt": "정부, 11월말까지 폭죽 판매 금지"
+        },
+        {
           "id": "liberation-5",
+          "title": "Mouvement social : plus de 400 personnes interpellées en France lors des manifestations de samedi",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOGJJRm5VQVlqVU1TY2YtT1pGSHd0S1YwbXpzMFhYUUptSVZXMTZPeTNHekRMdFJJQXZGbGJpU3JOdDRDQ1lSRVpmdnhDeGJlcmtlRDBwdllDUU9aN2p2WGY5LS1ocE9rYmpRNTNTcjl0dmVCTk9rTWZxWXZkeUREbmU0ZmR1UXJucDZ1QmRtQUdtV1htTFUwTVEwOWU1UldPX1RmMGkxcnlhNEY1TmpnaDJ2VTByOTdPOFVINll3NFZiY0ZQVC1fNm5JSFNGc0JyTUlHcjRSWUZwUUtWd3lCU0U2Y05lN1JGTUFUU180QS12TlJqQTlHN1dTVC10S3ZSbEkzU3FaSkQwNncyVXc?oc=5",
+          "date": "2026-11-15T14:26:25.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "프랑스 사회운동 시위… 토요일 집회서 400명 넘게 연행",
+          "tr": "claude",
+          "titleKoAlt": "사회적 지원: 유사한 증상이 나타나는 동안 프랑스에서 상호 작용하는 400명 이상의 사람들"
+        },
+        {
+          "id": "liberation-6",
           "title": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZnMzQ3RXUXZPeEw4aHdCWkkyUjF2Sk13eWU3Rk5sSTNNTHFKQmRYeTQ5cVNZcTIzcFlkNkFfc2piY29KTGtGaUl3aTRQX3JRZEtUenRMZ09uZGJqSmphX201VXdDRTI0VW1uU1p5Mk9UbV85dENWZ3U0SnRUYTVMVU5FRld1N2pnaXdfZGVGdmxwWDQtSEdfbjBZUFBhZi1SeGR2MVJfZW9nNXc4WkJ4YmQ4SkxWb2EyRk5ab3ZjeHRNdVpSNmx6d0Q3Y1JpSjNLUEN3SG1EY0NWQThQWFE4MWkzYTZsWGZVaS1Jd0FjeEROeDNOZ2c?oc=5",
           "date": "2026-11-15T10:53:33.000Z",
@@ -431,7 +443,7 @@
           "titleKoAlt": "기본 급여 금액으로 100만 유로 환경에서 소득 수령"
         },
         {
-          "id": "liberation-6",
+          "id": "liberation-7",
           "title": "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEtyWlI1NE1pRkFWeDlZZkMybXFWbmNDZmM5LXZjUTM3NlB0U1FvSUhTbFFxcEt6LXItMDhBeWJxTU5mVEhZbGJyUnBrajgwelI3LXRMc3Y0UTJEbU5YZEJNZTNGV2oxYzB6UTdJYVRGM19aeFpHYUJITVFoeXE3WWVkam1vWnZvX2xGZTBaNkg3X0JlQk94djE0bC03bS1xMzBvNVc2enhldXgzZE53X3FpNmRCVGVaYnN6Vkc0TDh2dFZ3UjVhZGZTUHY?oc=5",
           "date": "2026-11-14T17:21:00.000Z",
@@ -441,21 +453,9 @@
           "titleKo": "물가 고통에 반대하는 제5차 시위, 프랑스 전역서 10만 6천~20만 명 행진",
           "tr": "claude",
           "titleKoAlt": "높은 생활비에 반대하는 Act V 시위: 프랑스에서는 106,000~200,000명이 행진했습니다."
-        },
-        {
-          "id": "liberation-7",
-          "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVVlPSGJENHlJSnM3aEVWY0lrU3R0aFM2cWl2UHo3Ynp5dEFsclJ6aUNXeWNLRWRHOEtzWW0xZXl6OXAxVHFXOWZSTlIxSXFQa080cHo5UGxUS0VPNlY4Qm1tcTJOSkpuNzRETWJLcDBSUldTeWItV0ZwZ3ZIbGx2R3Z0Wm81UTBBVHJybl9SRm9VdnRpcVlKdXRUT1I5Wjk4UDFpLThLcjBDMFByTl9qSzAwUWJwTkppdFBaV1NJWHBVQ2V3eDJGNXlUWFQxSnlmZTh2WUhQSmJwWnJqSlFBYkRubVdPeGZoOGYwWmU4S2E3N2FxWElQMHJTeEh0cl8wMHV6TldiZ3I2b0dxaWU4VUJwdi1yaHM?oc=5",
-          "date": "2026-11-15T14:45:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "텍사스 남부, 트럼프 장벽에 반발 확산… \"여기서 유일한 침공은 연방정부의 침공\"",
-          "tr": "claude",
-          "titleKoAlt": "남부 텍사스에서 트럼프 장벽에 대한 반란: \"여기의 유일한 침략은 연방 정부의 침략입니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.472Z",
+      "fetchedAt": "2026-11-16T00:08:47.227Z",
       "status": "ok"
     },
     {
@@ -569,7 +569,7 @@
           "titleKoAlt": "“10억유로 조금 넘는다”: 정부가 밝힌 공무원 최저임금 인상과 저임금 비용"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.859Z",
+      "fetchedAt": "2026-11-16T00:08:47.616Z",
       "status": "ok"
     },
     {
@@ -686,7 +686,7 @@
           "titleKoAlt": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.866Z",
+      "fetchedAt": "2026-11-16T00:08:47.560Z",
       "status": "ok"
     },
     {
@@ -799,7 +799,7 @@
           "titleKoAlt": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.864Z",
+      "fetchedAt": "2026-11-16T00:08:47.637Z",
       "status": "ok"
     },
     {
@@ -913,7 +913,7 @@
           "titleKoAlt": "이란 전문가는 정권이 미국 장교를 지명함에 따라 테헤란의 온라인 위협이 '중요하다'고 경고했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:05.893Z",
+      "fetchedAt": "2026-11-16T00:08:47.681Z",
       "status": "ok"
     },
     {
@@ -1034,7 +1034,7 @@
           "titleKoAlt": "아침 위험 보고서: 황의 엔비디아 퇴임으로 의회가 완화될 가능성은 낮음, 원고 측 변호사"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.232Z",
+      "fetchedAt": "2026-11-16T00:08:47.998Z",
       "status": "ok"
     },
     {
@@ -1151,7 +1151,7 @@
           "titleKoAlt": "유럽은 러시아 가스에 대한 자체 금지로 타격을 입었습니다 — 러시아 MFA"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.170Z",
+      "fetchedAt": "2026-11-16T00:08:47.899Z",
       "status": "ok"
     },
     {
@@ -1270,7 +1270,7 @@
           "titleKoAlt": "러시아, 23억 루블의 비용으로 AI 기반 인터넷 트래픽 필터링 시스템 출시"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.092Z",
+      "fetchedAt": "2026-11-16T00:08:47.872Z",
       "status": "ok"
     },
     {
@@ -1323,7 +1323,7 @@
           "titleKoAlt": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.257Z",
+      "fetchedAt": "2026-11-16T00:08:48.126Z",
       "status": "ok"
     },
     {
@@ -1411,7 +1411,7 @@
           "titleKoAlt": "파키스탄, SCO 행사를 위해 무사딕 말릭 환경부 장관을 델리로 보낼 예정"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.379Z",
+      "fetchedAt": "2026-11-16T00:08:48.180Z",
       "status": "ok"
     },
     {
@@ -1510,7 +1510,7 @@
           "titleKoAlt": "Diljit Dosanjh의 뭄바이 콘서트에 참석하시나요? 전화 규칙 및 높은 보안 속에서 기대할 수 있는 것"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.535Z",
+      "fetchedAt": "2026-11-16T00:08:48.237Z",
       "status": "ok"
     },
     {
@@ -1624,7 +1624,7 @@
           "titleKoAlt": "인도, 결핵 사망률 38% 감소, 치료 성공률 94% 증가: 센터"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.584Z",
+      "fetchedAt": "2026-11-16T00:08:48.346Z",
       "status": "ok"
     },
     {
@@ -1735,7 +1735,7 @@
           "titleKoAlt": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.729Z",
+      "fetchedAt": "2026-11-16T00:08:48.619Z",
       "status": "ok"
     },
     {
@@ -1771,8 +1771,9 @@
             "정치·선거",
             "사회·생활"
           ],
-          "titleKo": "요기정부의 2차 추가경정예산은 5억 루피 이상이 될 것이며, 여성과 농민은 큰 선물을 받을 수 있습니다.",
-          "tr": "google"
+          "titleKo": "요기 정부 2차 추가경정예산 500억 루피 넘을 전망…여성·농민에 큰 혜택 기대",
+          "tr": "claude",
+          "titleKoAlt": "요기정부의 2차 추가경정예산은 5억 루피 이상이 될 것이며, 여성과 농민은 큰 선물을 받을 수 있습니다."
         },
         {
           "id": "jagran-2",
@@ -1825,6 +1826,18 @@
         },
         {
           "id": "jagran-6",
+          "title": "'छठी मैया की जय', संध्या अर्घ्य पर पीएम मोदी ने दीं शुभकामनाएं; नई ऊर्जा और जागरूकता की कामना की",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0t1cFlVTkJubDVNeVpRdDExYW91clZDaEZwanNzUUVmbkxrb1ZGSHBjSVU0czZWNjdpdVAzUjVzaWhma0NwcGxEN3BlcGJfQXJqWVk5UHNuRVZjQkV3Ylk0VEhNRmFUdHY5eFp0QkRzSFhDVG92dnJvdmxneFM1dDFVeGVnWGM1dXpRTV9WOUZMLVJIYXN4ME1RVU80QlNib3pnWi1CcTR6Q3VrbXc0cQ?oc=5",
+          "date": "2026-11-15T12:03:00.000Z",
+          "topics": [
+            "에너지·원유",
+            "정치·선거"
+          ],
+          "titleKo": "Modi 총리는 'Chhathi Maiya ki Jai' 저녁 Arghya에 최고의 소원을 전했습니다. 새로운 에너지와 인식을 기원합니다",
+          "tr": "google"
+        },
+        {
+          "id": "jagran-7",
           "title": "उत्तर प्रदेश में हाउस टैक्स बकायेदारों को बड़ी राहत, योगी सरकार ने एक महीने बढ़ाई OTS योजना की अंतिम तारीख",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLXJKOXJ0UElGN254cm14cmtwVUJuNDNmZEF5NFNISHZrR25Vemw0eENUcmxrQUtEXzF4QWVPQ1JMQ2R2eFBJaDE1Q3gzdXRobUdhdDNQXzl4NEs2RzdGN1FrUndVUFlYWjgzeWdIVm1oaXM3ZUgzdVlyQ3J3TTVZbFU1YzJhWU5uZHBCRDV0enNiMzlUM09lY2VpN241cHNmUDhDLWRWamRzWW00MGJnX193WFJzQQ?oc=5",
           "date": "2026-11-15T16:50:00.000Z",
@@ -1835,21 +1848,9 @@
           "titleKo": "우타르프라데시 주민세 체납자에 큰 숨통…요기 정부, OTS 제도 신청 마감 한 달 연장",
           "tr": "claude",
           "titleKoAlt": "우타르프라데시(Uttar Pradesh)의 주택 세금 체납자들에게 큰 안도감을 주기 위해 요기 정부는 OTS 계획의 마지막 날짜를 한 달 연장했습니다."
-        },
-        {
-          "id": "jagran-7",
-          "title": "पन्नू हत्या साजिश: अमेरिकी सरकार ने निखिल गुप्ता को 24 साल कैद की सजा देने की मांग की, 20 नवंबर को आएगा फैसला",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNjd1R3VucElZV0szVXV4aDdKb3hydkRmUEpFMHQta1NNbGJLbkJINjNQUzd4QkxaYkcxQ0JCWGpzd1p0T3hkU09NMVMwRjdLVUxrdDBMNjd0bXFwWmVwbkFjc2N2Zk9DaTVnVlRhYmJqN3dtTTBNX1VYUFhEVGtWcm1oLXl5T2tnelFHQU5EcldISmtSQnYtajItNlNrTkcweEtKT1R5ZkVlT2Uz?oc=5",
-          "date": "2026-11-15T18:07:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "판누 암살 음모 사건…미 정부, 니킬 굽타에 징역 24년 구형, 11월 20일 선고",
-          "tr": "claude",
-          "titleKoAlt": "판누 살인 음모: 미국 정부는 니힐 굽타에게 24년의 징역형을 요구하고, 결정은 11월 20일에 나올 것입니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.789Z",
+      "fetchedAt": "2026-11-16T00:08:48.626Z",
       "status": "ok"
     },
     {
@@ -1961,7 +1962,7 @@
           "titleKoAlt": "긴급: 중국-아세안 정상회담을 위해 중국 최초로 마닐라에 상륙"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.862Z",
+      "fetchedAt": "2026-11-16T00:08:48.552Z",
       "status": "ok"
     },
     {
@@ -2070,7 +2071,7 @@
           "titleKoAlt": "분석: 중국 보험사의 주식 베팅은 주식 리스크의 한계를 테스트합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.749Z",
+      "fetchedAt": "2026-11-16T00:08:48.562Z",
       "status": "ok"
     },
     {
@@ -2186,7 +2187,7 @@
           "titleKoAlt": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:07.159Z",
+      "fetchedAt": "2026-11-16T00:08:49.007Z",
       "status": "ok"
     },
     {
@@ -2301,7 +2302,7 @@
           "titleKoAlt": "영국 학교의 반유대주의 검토, '조잡한' 증거 때문에 비난"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:06.958Z",
+      "fetchedAt": "2026-11-16T00:08:48.785Z",
       "status": "ok"
     },
     {
@@ -2420,7 +2421,7 @@
           "titleKoAlt": "EU, 겨울철 상황이 악화됨에 따라 가자지구 위기가 빠르게 악화될 것이라고 경고"
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:07.141Z",
+      "fetchedAt": "2026-11-16T00:08:48.981Z",
       "status": "ok"
     },
     {
@@ -2545,7 +2546,7 @@
           "titleKoAlt": "유로존 경제의 성장으로 인해 유럽중앙은행은 금리를 인상할 여지를 갖게 되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:04:07.161Z",
+      "fetchedAt": "2026-11-16T00:08:48.934Z",
       "status": "ok"
     }
   ],
@@ -2556,13 +2557,13 @@
     "byClaude": 174,
     "claude": {
       "run": {
-        "titles": 4,
-        "usd": 0.0003125,
+        "titles": 1,
+        "usd": 0.0002089,
         "rejected": 1,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0248,
+      "monthUsd": 0.025,
       "limitUsd": 2
     }
   }
