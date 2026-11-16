@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T06:32:33.581Z",
+  "generatedAt": "2026-11-16T07:01:25.146Z",
   "feeds": [
     {
       "source": {
@@ -112,7 +112,7 @@
           "titleKoAlt": "금리 인상이 불가피해 보이며, 영국 가계가 그 부담을 떠안을 것으로 예상됩니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.346Z",
+      "fetchedAt": "2026-11-16T07:01:19.757Z",
       "status": "ok"
     },
     {
@@ -220,7 +220,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.344Z",
+      "fetchedAt": "2026-11-16T07:01:19.718Z",
       "status": "ok"
     },
     {
@@ -285,6 +285,18 @@
         },
         {
           "id": "ft-4",
+          "title": "Young Britons out of work or training for a year to be guaranteed jobs",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaE5NUTh2a1lUS01feVlhQTBYMWJ5ZkhjaXg1V2l5MmJBaXVoTDRWbHpMcU1oM1Zzcl9neHVxeXBFaWZiQTNGNFFXVkc3YlVJalhWTllOd2RNYV9JZGZhbU9uUFZQMVRkUW8tZ1hHT05EVVUzVURLeGc2UDdXRGFjTTh0T3I?oc=5",
+          "date": "2026-11-15T14:03:29.000Z",
+          "topics": [
+            "경제·물가"
+          ],
+          "titleKo": "1년간 일도 교육도 받지 않은 영국 청년에게 일자리 보장",
+          "tr": "claude",
+          "titleKoAlt": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들"
+        },
+        {
+          "id": "ft-5",
           "title": "Arm boss Rene Haas approached in Nvidia CEO search",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQV2dGZ3JjRGJZdHNqSWRVak9nOFhBSnZCc1U3R1NVUVB5MmNyWFdvUlduZ1o5VFpzYkxMNmZXYnVFWXFJazQteUNZNGYzN2xXMGtXYU1ELVgwQjc4TUdEbDVfWTJJRVZqajllWS1RUkt6WkR1RDZ4WUlPWjBXTHc4cXZMaVo?oc=5",
           "date": "2026-11-13T16:53:17.000Z",
@@ -296,7 +308,7 @@
           "titleKoAlt": "Arm 사장 Rene Haas가 Nvidia CEO 검색에 접근했습니다."
         },
         {
-          "id": "ft-5",
+          "id": "ft-6",
           "title": "BoE chief economist says further rate rises needed to combat inflation",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
           "date": "2026-11-14T05:02:24.000Z",
@@ -309,7 +321,7 @@
           "titleKoAlt": "영국 중앙은행 수석 이코노미스트, 인플레이션 대응을 위해 추가 금리 인상 필요하다고 밝혀"
         },
         {
-          "id": "ft-6",
+          "id": "ft-7",
           "title": "Anthropic IPO to further fuel the AI news cycle",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDlQQXRRTW1SQk1YR1Rfd1ZZQkhfZVF2SEpfMUJLSEk3d21tWE5telBvb0VmOFpjTG1mdzd0cmFMZE1JeGRNRkU1ZmxxaUp5eGdUZXNXRTg1enlkU0tSS2RKeUhjbFBaeF9EVGhhTWd0ZHdrWE1jT0p2S0Fka2hVWExfZzA?oc=5",
           "date": "2026-11-15T18:15:07.000Z",
@@ -320,21 +332,9 @@
           "titleKo": "앤트로픽 기업공개(IPO), AI 뉴스 사이클에 기름 부을 전망",
           "tr": "claude",
           "titleKoAlt": "AI 뉴스 사이클을 더욱 촉진하는 인류적 IPO"
-        },
-        {
-          "id": "ft-7",
-          "title": "Young Britons out of work or training for a year to be guaranteed jobs",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaE5NUTh2a1lUS01feVlhQTBYMWJ5ZkhjaXg1V2l5MmJBaXVoTDRWbHpMcU1oM1Zzcl9neHVxeXBFaWZiQTNGNFFXVkc3YlVJalhWTllOd2RNYV9JZGZhbU9uUFZQMVRkUW8tZ1hHT05EVVUzVURLeGc2UDdXRGFjTTh0T3I?oc=5",
-          "date": "2026-11-15T14:03:29.000Z",
-          "topics": [
-            "경제·물가"
-          ],
-          "titleKo": "1년간 일도 교육도 받지 않은 영국 청년에게 일자리 보장",
-          "tr": "claude",
-          "titleKoAlt": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.341Z",
+      "fetchedAt": "2026-11-16T07:01:19.716Z",
       "status": "ok"
     },
     {
@@ -447,7 +447,7 @@
           "titleKoAlt": "높은 생활비에 반대하는 Act V 시위: 프랑스에서는 106,000~200,000명이 행진했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.329Z",
+      "fetchedAt": "2026-11-16T07:01:19.707Z",
       "status": "ok"
     },
     {
@@ -562,7 +562,7 @@
           "titleKoAlt": "주택을 심각한 위기에 빠뜨린 마크롱의 두 가지 큰 실수"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.741Z",
+      "fetchedAt": "2026-11-16T07:01:23.068Z",
       "status": "ok"
     },
     {
@@ -679,7 +679,7 @@
           "titleKoAlt": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.732Z",
+      "fetchedAt": "2026-11-16T07:01:20.074Z",
       "status": "ok"
     },
     {
@@ -695,9 +695,21 @@
       "items": [
         {
           "id": "nyt-0",
+          "title": "Opinion | The New Congress Must Rein in Trump’s Dangerous China Policy",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3MxNFlBbVVGR3ZtcWN2U3JGYUpzWTVBSG4wa2UyTkQ3RVdHa2FwbGZhckF1dGhJc1ZSZncwb1ZKeGdUWjBBY1JBTXJkTkxMeGZ5Ny1JRE9CUlh4NUE4VmwwTGlIQ0FTNlFyRlFCd3BoQTdRcENQU0J6VVBMLWFoaTRR?oc=5",
+          "date": "2026-11-16T06:00:05.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "opinion": true,
+          "titleKo": "트럼프의 위험한 중국 정책 고삐 죄어야 - 새 의회의 과제 | 칼럼",
+          "tr": "claude"
+        },
+        {
+          "id": "nyt-1",
           "title": "Nvidia Fallout Looms Over Trump-Xi Meeting",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5",
-          "date": "2026-11-15T22:54:41.000Z",
+          "date": "2026-11-15T21:44:40.000Z",
           "topics": [
             "AI·반도체",
             "정치·선거",
@@ -708,7 +720,7 @@
           "titleKoAlt": "Nvidia Fallout은 Trump-Xi 회의를 통해 다가옵니다."
         },
         {
-          "id": "nyt-1",
+          "id": "nyt-2",
           "title": "Embattled Federal Employees Look to a Democratic Congress for a Lifeline",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2xkYzJvbzJ4WTRvNnJsY2tQNHIwOTVjYmZENlJnQ1JXT0ZyMzFtUXowdTRPanYxa19rV3pZRkJ1dmxkUUk0WGR3RFk2RlJpdlBlQkhQU3NsSzJEWEUxYW1qZ044SEhXQ2JLSlB6Y08wZS1NZ0tGSjZZMC1fYktldy10Vk00YTRvWlRsTWxQVGJvaEJqeGYyVjZKWnFHSTg?oc=5",
           "date": "2026-11-15T10:01:00.000Z",
@@ -720,7 +732,7 @@
           "titleKoAlt": "곤경에 처한 연방 공무원들이 민주당이 장악한 의회에 도움을 요청하다"
         },
         {
-          "id": "nyt-2",
+          "id": "nyt-3",
           "title": "Judge Blocks Immediate Closure of East Potomac Park for Trump Golf Project",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcE5fV1dwV0RpamEwcEI1YWlJcFZKcEZKZVdmNW9FM0tsZGhMWlBMNGlZcU8tZHlhdC1FUWpwdGxaVzRSNU5IdnNkSHFkQk1HQVpNQlBXZmt2Sm9oSkl1TV9FdkRralZPNVZ3bmRub2hsallVWVNJY045ZnZYQktlSE5iekYyTmRhb2c?oc=5",
           "date": "2026-11-15T15:04:00.000Z",
@@ -732,7 +744,7 @@
           "titleKoAlt": "판사, 트럼프 골프 프로젝트를 위한 이스트 포토맥 공원 즉시 폐쇄 중지 명령"
         },
         {
-          "id": "nyt-3",
+          "id": "nyt-4",
           "title": "Iran Attacks Bahrain for the Second Time in Days",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObmV0c0pwNVZmTU04SXFiQktmeFVOX2FhVkxlTkRrb3dRY0xYZEhaM3BKZmZ6V1FOUUJWOTJva3psREkzR2Q5ems3VVZYWFkyNEJ2V185V196bnZqVndfYXZCT2hZTVhzTjZEb2RyVnpCQ21QT0NpNTR5SThLbG0wWUFB?oc=5",
           "date": "2026-11-15T12:07:05.000Z",
@@ -743,7 +755,7 @@
           "tr": "claude"
         },
         {
-          "id": "nyt-4",
+          "id": "nyt-5",
           "title": "Flight Delays and Cancellations Persist as System Recovers From Ground Stop",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2Fvd0hxVEFBWFpmVlVFU2RBRElReFpOdUd1c25uQ0ItRTFhbUJzVHNiWUdadGoxeDNCYjJ4cjZydzZEaHVFS1p1ekl3T3YyVHY5eS05ZjlGLThvd19ZdG1iS2F1WEdYTE95eHc1RzBTMXk3QzhEeTJOb3IwRXlSWVFQaFp3Qy1oamVfRXNueWlVQQ?oc=5",
           "date": "2026-11-15T17:41:30.000Z",
@@ -754,7 +766,7 @@
           "tr": "claude"
         },
         {
-          "id": "nyt-5",
+          "id": "nyt-6",
           "title": "Unlike Other Countries, America’s Government Funds Its Air Infrastructure",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEJFbHVZVmFGcW1qUlEtd0JsQmZPaHIwZm1mOGZ6MklVT0QzVGprZ1doeW1EaHJiN2hDeEF0bFVrcE1uSE9JZEtGR2tWTmFrN1ZkRXltaEROLU5pMnllNGdCTEg5TjlDMDZ5ZUF6Rm1vSnRHSnhfeHBqMEl3OFBKS0FuVFFLQTlTMnhpX1lhdFVDRE54aTRsd0JHV001b3ctSEJId2VNM3c1dEZfNTYxMm9FZ2c?oc=5",
           "date": "2026-11-15T00:41:29.000Z",
@@ -766,7 +778,7 @@
           "titleKoAlt": "다른 국가와 달리 미국 정부는 항공 인프라에 자금을 지원합니다."
         },
         {
-          "id": "nyt-6",
+          "id": "nyt-7",
           "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
           "date": "2026-11-14T22:10:43.000Z",
@@ -777,20 +789,9 @@
           "titleKo": "트럼프 모습 감춘 채 미 연방항공청(FAA), 이륙 금지 조치 발령",
           "tr": "claude",
           "titleKoAlt": "트럼프는 F.A.A.로 눈에 띄지 않았습니다. 발행된 비행 지상 정지"
-        },
-        {
-          "id": "nyt-7",
-          "title": "Canada, U.S. will meet in IIHF Women’s World Championship gold medal showdown - The Athletic",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYy01WjNlOTN1TGlWUVZJd092RDZ5ZUZodjk2c1d4S1RwVE1mNm8xVUVyNnFnb1VHZGdMTnkwSGhfcGptTkNQV1c1dTNTRHgwQmN4a0lReExpRDgxYk1NVl95WDREeGpwZmMtQ0liVS1VM0hPT05IcDhxVEV3VHN2UFRjYnI1NjFNamdLYlpwNERIM1F5R3FseVNQOHY3SkU?oc=5",
-          "date": "2026-11-15T22:32:35.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "캐나다·미국, IIHF 여자 세계선수권 금메달 결정전에서 격돌",
-          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.785Z",
+      "fetchedAt": "2026-11-16T07:01:20.104Z",
       "status": "ok"
     },
     {
@@ -903,7 +904,7 @@
           "titleKoAlt": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:31.746Z",
+      "fetchedAt": "2026-11-16T07:01:20.184Z",
       "status": "ok"
     },
     {
@@ -933,14 +934,14 @@
         },
         {
           "id": "wsj-1",
-          "title": "Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over",
+          "title": "Asian Equities Drop as U.S. Chip Selloff Spills Over",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEVpV2tyTTZHU0JJTFJLNGQ5Y3pJbFBUUE90S1ZWQWg3ZGNzWXJVUU16cmVxb013eHdDOU9YcUU2aGdNQVpYS0lpYkJqTFptZzYyQ21oOFROLUNlRFRSU0FDNTdNMjZkQm11WmdZNlpIUkRvNVFMTXNQaDYyc3RrZjIwWnRPX0Vsblk4NFdNN2tZMmZ6S1J0RnRFa0dyb0xwV1lhYUVYNno3WEU?oc=5",
-          "date": "2026-11-16T02:05:00.000Z",
+          "date": "2026-11-16T06:16:00.000Z",
           "topics": [
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "미국 반도체株 매도세 확산에 아시아 증시 하락",
+          "titleKo": "미국발 반도체 매도세 확산에 아시아 증시 하락",
           "tr": "claude"
         },
         {
@@ -1021,7 +1022,7 @@
           "titleKoAlt": "Nvidia 낙진에 대한 우려로 인해 미국 주식이 혼합되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.191Z",
+      "fetchedAt": "2026-11-16T07:01:20.484Z",
       "status": "ok"
     },
     {
@@ -1050,6 +1051,18 @@
         },
         {
           "id": "tass-1",
+          "title": "Russia effectively wins Ukraine conflict, US analyst says",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE04eFR2V0ZKN0VZOUpUZU9maDBkU2oyN1lmMWRxUXJ0RDdNOHVwTGxoX01Da0U0aVBZV2owX1ZtdlNVdTI30gFKQVVfeXFMUDBIcHQtQVpzazRQSWItTHplNXZZU3p6aUdsSkJ1aEJHczZaWUhfeXlCRjFLaFQ4S0lSWUVranprMlI2b2lEMGZIaXc?oc=5",
+          "date": "2026-11-16T04:38:23.000Z",
+          "topics": [
+            "전쟁·휴전",
+            "외교·안보"
+          ],
+          "titleKo": "미 분석가 \"러시아, 우크라이나 전쟁에서 사실상 승리\"",
+          "tr": "claude"
+        },
+        {
+          "id": "tass-2",
           "title": "Passenger buses in Russia attacked by Ukrainian forces upon Zelensky’s orders — expert",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE03MlQ4MHo1Wk5JUG5QUW4xXzY5V3pvZ2RtOFJlYzIyMVBXUFJNbGd1d0VkZG1wb0lHbzNCMEl6WldiXzlMVXpn0gFMQVVfeXFMT3hwV2xWWXFJVWlhSFhGX01zX0pzbVl2VGFlN1k0bGZaUGhOT2Z5d2VGT2dPd1JhQjhlZnk4MkRkMUhySTdaQ1l3RmdtcA?oc=5",
           "date": "2026-11-15T04:07:56.000Z",
@@ -1062,7 +1075,7 @@
           "titleKoAlt": "젤렌스키의 명령에 따라 우크라이나군이 러시아 여객버스를 공격했다 - 전문가"
         },
         {
-          "id": "tass-2",
+          "id": "tass-3",
           "title": "230 Ukrainian drones taken down over Russian region during day",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA0RUpYd1Z0YzdMOFB5SjhPNDloaEluMHdIMWNNNzZZeDNyY3Fhb0dwbHByeDlCUGZEc09qZ09zcXl0QW9WU1hJ0gFMQVVfeXFMT3JiLXF0NXR5WjRmMnc3T1ZMRlowelkwVFUtdmZkZHZZbWJuekJuYXY0YnBrV29aN0xkOFhaNXFUTHdwSTJXeUVKcHRjbA?oc=5",
           "date": "2026-11-15T17:31:26.000Z",
@@ -1075,7 +1088,7 @@
           "titleKoAlt": "낮 동안 러시아 지역 상공에서 우크라이나 드론 230대 격추"
         },
         {
-          "id": "tass-3",
+          "id": "tass-4",
           "title": "Armenian PM says plans three visits to Russia in December",
           "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBRNFpPWlY3UFdGV2U0TmxrSHpocE5yTWdDWEU2bmdIMnJCWV9vSF92cDRXV0FwM3MtM0J6ZkpObU1QUnBm0gFKQVVfeXFMTWNNdl9yVTRscnhET25TNkJrWE1hQklLVmhRbDlrTkxHcjBCZkkwQXNVcV9jSlV4b0tvWGlNdlBobzdDR1NXQkJIcVE?oc=5",
           "date": "2026-11-14T07:18:46.000Z",
@@ -1086,7 +1099,7 @@
           "tr": "claude"
         },
         {
-          "id": "tass-4",
+          "id": "tass-5",
           "title": "OSCE may fail to agree on 2027 chairmanship — Russian envoy",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9RbFpoSGxfVXNldnZ2T1Bacy1rLVZOU3hNcFQ5STJROWdaemxqVzN4eEpDTWdPX1Q0ZlV0U1pjSVAxYjZNZGFZMtIBTkFVX3lxTFBLbU5WNmpuem1NcHE0aW1yTmItTGlRX2dwdDdNNDI1Z2FPcE9vTUZhYl9QemxlQUoxRkl3MUhra2staVZJRTBhTF9OdmIyZw?oc=5",
           "date": "2026-11-14T08:56:50.000Z",
@@ -1097,7 +1110,7 @@
           "tr": "claude"
         },
         {
-          "id": "tass-5",
+          "id": "tass-6",
           "title": "Russian GDP growth rate may be above forecast by year-end — ministry",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqb1N5TlJUZHpJNlFUTEV1bEM0U09VeGhBOThyRjJOakM5eXBBejBFVllfT2RhcTZ5a2k4MUUxWm84TmpiTWV30gFMQVVfeXFMT0FOM0pGd0NEcExoM1RnbnpFelhMdVAyaFprTDlfSElseC0wV2JMS0FsWk1pbTdCdGZhTVlGOEJ4dzVINmlmNVptLUhkUA?oc=5",
           "date": "2026-11-13T18:54:09.000Z",
@@ -1109,7 +1122,7 @@
           "titleKoAlt": "러시아 GDP 성장률, 연말까지 전망치를 상회할 수 있어 — 경제개발부"
         },
         {
-          "id": "tass-6",
+          "id": "tass-7",
           "title": "Russian Ambassador Darchiev’s death is great loss for diplomatic world — senior diplomat",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5VZHQwTFVZMkw3ZGU4dGN6Um1GVklIWG9PT1h6MmFhVGNBQ1MzNlJOUVJUV2VIeGlEbEFJcE96SVE3Um5BVm5mVdIBTkFVX3lxTFBrWm0tdXIycDdrOFdBd25uVEotS3p5NERyMUJmYVJnMldKRWtxYWxCcERidjJNb214RlJJUlF6ZWpsTXJpcTF6MFlfQ01jQQ?oc=5",
           "date": "2026-11-13T16:02:32.000Z",
@@ -1119,22 +1132,9 @@
           "titleKo": "다르치예프 러시아 대사 사망은 외교계의 큰 손실 — 러시아 고위 외교관",
           "tr": "claude",
           "titleKoAlt": "다르치예프 러시아 대사의 죽음은 외교계에 큰 손실이다 — 고위 외교관"
-        },
-        {
-          "id": "tass-7",
-          "title": "EU paid highest sum for Russian pipeline gas since 2025 year start",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5DWEtoWC1EbmFzR3RyZXgzZzRWR2FOVUdqaHl5XzBmSC1raU9ZbzFpWTJjbnpYS0M3LW9JWm5xM3Fnb3FZM3dR0gFMQVVfeXFMUFBUeVRHSVFPZEMzMlY2QkI1RExKdXRSUHFEWGFQTzllT3F3SnpBS3ExZXdtakl6YWxDbkVkMUFHVnNZbXhmOWQtQ0ZnbQ?oc=5",
-          "date": "2026-11-13T11:28:44.000Z",
-          "topics": [
-            "에너지·원유",
-            "산업·시장"
-          ],
-          "titleKo": "EU, 2025년 들어 러시아산 파이프라인 가스에 최고액 지불",
-          "tr": "claude",
-          "titleKoAlt": "EU, 2025년 시작 이후 러시아 파이프라인 가스에 대해 가장 높은 금액 지불"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.019Z",
+      "fetchedAt": "2026-11-16T07:01:20.373Z",
       "status": "ok"
     },
     {
@@ -1252,7 +1252,7 @@
           "titleKoAlt": "러시아 정부가 자율주행차, 택시, 트램을 규제하는 법안을 승인했다고 Kommersant가 보도했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.032Z",
+      "fetchedAt": "2026-11-16T07:01:20.400Z",
       "status": "ok"
     },
     {
@@ -1318,7 +1318,7 @@
           "titleKoAlt": "IEA는 10월 러시아 석유 수출량을 하루 약 700만 배럴로 추산했다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.181Z",
+      "fetchedAt": "2026-11-16T07:01:20.732Z",
       "status": "ok"
     },
     {
@@ -1426,7 +1426,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.408Z",
+      "fetchedAt": "2026-11-16T07:01:20.768Z",
       "status": "ok"
     },
     {
@@ -1502,7 +1502,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.416Z",
+      "fetchedAt": "2026-11-16T07:01:20.817Z",
       "status": "ok"
     },
     {
@@ -1543,6 +1543,18 @@
         },
         {
           "id": "wire-2",
+          "title": "Russian Fintech A7 Announces Plans to Expand Cross-Border Payment Options for India at Mumbai Summit",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05Ld0M4eGZlSHA3V3NMSm5FbUtlRFFjRjduU0dqSXYxY3NKTW5IMVppYXBNY2wxRHRCNEJjOFRIcU5RTnFlZXpEcndzbGlUaFZqajVEUzhhUGs4SDQ1TEx5SkZJckIwNENuRDhHdzhIV3dEcy1wNzRrUDBJWUJqenFoaV83UnJLVXl0amE4bFlpUDdhLXJSQ0tlWGRLMzgtbUFBNUt3cHRrNzUwQ05kNmlGcVU2NkFoTmxDUHZLeG9GdkhGYjRxVjRiR0pNS0xkSkJGazhR0gHbAUFVX3lxTE5tdlkyWEV6QlN4MkxRX3RHVDVXUG43eWhOQW5Td2JrbEFaekJjR25vRDB6eEVCczRDMWZmRXdkNEplUVJaVUswb3pLTTJ1X2EzX20xMGQ5RDk2Zmppb21MV0tCeTYzRTJpUkFEdDk5VktCVXRWUU9nT0ItWi1VcTZGNUFDRnVzaWFHMU1wMGNUSUwzanE2TGFNUi1XcWh2WVRmVEs5MmlRVDhHbW16Nks3S1pqM2VFN3NEUDhPX21JeTdxek1ya3FSRW81MldGSGJwTzQ2WF9fSzZVSQ?oc=5",
+          "date": "2026-11-16T06:43:14.000Z",
+          "topics": [
+            "이민·국경",
+            "외교·안보"
+          ],
+          "titleKo": "러시아 핀테크 A7, 뭄바이 정상회의서 인도 국경간 결제 옵션 확대 계획 발표",
+          "tr": "claude"
+        },
+        {
+          "id": "wire-3",
           "title": "Time Travel comes to health insurance: Star Health launches Young Star NEO for young India",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWUlRa0JrdG1YeHhPaFRHc3UzUHlHbkpULVExMUFQdkxBSWgxR0ZwUWszUjdDQzBRMDRQR3NhUC1Vb3cyS1hHcEJJUm5GblZnbXRkMTk5Yzh3eTQyeUppa0pkUG40Vm1hOEpTcXVWQndTODI5UW9BaG5sSHluWUN4dzYtQy1uREVENV95QjRFQV85Sm8xUmhSeVp0d0JqblJfZFdlTkdNS2RwWk1VcXBBdWlTenRldGhjWFNMTURxckwtd0YzbmFJ0gHMAUFVX3lxTFAxQlFkTHlCbEE5NUxQZVdnU2lFOFN2dGl5bmF6VlRpeGpCTFhwN3R6RHd3M3psbWtNbnNpT3RzX1FwMTV5OG8xTHctRHU0STV2dVRLV0ozdTdwOUstME9NeUs3a3VfNmtEQm9Lc2w5d2dXem81clcwbkNrVWM3bU1JVl9kUlc5UG5NYkh0NF9acmxzWmxPa1dFeXhzdWtoVl9malNUSmF4R2ZpTlQ1SjVvTFRQZGFla3NWRk1NcGtma2tGNldJeU9QWlEwZQ?oc=5",
           "date": "2026-11-16T05:55:35.000Z",
@@ -1553,7 +1565,7 @@
           "tr": "claude"
         },
         {
-          "id": "wire-3",
+          "id": "wire-4",
           "title": "Lighthouse Learning Expands Hyderabad Footprint with Strategic Partnership with Meru International School",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMlNya1FtTWQ2SFB2VVhNYmxjQUk1TkdHUTdrajNFOEJVSmVrR3Zhb2JfZEc1ZmV0RzR0Wlh3TmhCTEhXRzFhQms0d09SUFFCWERCMllfal9RZVdTZ1dyV1c1YzlmcWN4Ykd6NWtTOVJseDVLSzVManhxclV6QTNNTWVibHVfWXc5QmFYS2ZUUk1wLUFwZWY5SU9rY2pWN0VmYUI0UmhYb3loa3hSczhvOVZTa0VZcFVscktGZFBhU1M0NVBsTS1UU3NLQ29YUmtRREpQbzRZazBnN0do0gHiAUFVX3lxTFBNY1UxSGI2MUp0Nlk5MUdpMGUwemh0VGVNRXZ3NW1sVWpJQWhPS0ZTb1VYYXhrM2xXSTRhQkZ3ZG5YNDdySUgyRDFhZ2tuS29RcFVaUl8tZ1kyQ2d0bHpJMDlNSXYxOGlHSjdzN0dfZmV4ajNwQ2Zsa29BbzNZaE5NbDhycC1HdnlHbWtRcm9sZU51X3dIOXQ3LU45UUVadk95dVhqNDl4bmtxWnlfVjB1SzlNS3ZBaVpVQXBaSTZsa2IxNXhHcVd5a3EyZkI0MG5JcFZhNUdBWnJDZDdhU21yTFE?oc=5",
           "date": "2026-11-14T08:47:49.000Z",
@@ -1564,30 +1576,19 @@
           "tr": "claude"
         },
         {
-          "id": "wire-6",
-          "title": "Pakistan Will Send Environment Minister Musadik Malik to Delhi For SCO Event",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFvZzFhZUh0QnRwUUN0RzFyOEtGQm9zdnh1VDNrZzB1cERDWUhMT0cyMVR1dEk5Unc0WVZXYXJ1eWYwbS1qT05pb1lYLWFhVGQ4cWh2cHdOZjRPZ09DNDJtUHJER0pLTElTMDlLZXE0NlV3ZHVLcUVXZmo0UGZNSG5FSDBzemJqNUpXOEE3WEU3RlhtN2xhVUdlOHpBNWwwYm8wb210RGXSAbsBQVVfeXFMUDVnQmRVSUJFVHQxQmg5SWJRVG5iNm9EOXgyYnE2Q19xVnBzcXlWSFlMalh1UlF2VkYxajRVb21EMTBtUzNGQW1wSWlfWkVQMW1TaFNjUk1uZVZGQ1U1dklRb3FWTmluNWJ6dmIweUlJYjMtd2NJTHJCVkZ0QlNUTlZBTUZQR0tJc3ZiOEwtRnhyMjZDdG5zTS15ZEtLQmFIcFdHYk5sT1JNemd0OVBmWmpyeU1QM0wyMzd1cw?oc=5",
-          "date": "2026-11-14T17:26:13.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "파키스탄, SCO 행사 참석차 무사디크 말리크 환경장관 델리 파견",
-          "tr": "claude",
-          "titleKoAlt": "파키스탄, SCO 행사를 위해 무사딕 말릭 환경부 장관을 델리로 보낼 예정"
-        },
-        {
           "id": "wire-7",
-          "title": "Shree Niketan Group of Schools Launches Get Back Into The Conversation Campaign for Childrens Day",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWUt0aldsME1QVFBHTENYRlRST29jeWN0YnlHRGsxMGdFX1FaWm9BeFQ3Qm4tVVlfQW9ZWWdmLUt6ZWdkSFpjelN1c0hLdGVPTVloQlFmb0l6WmJLdUN3VWxsYkdzaDdxdkpRYjFvLWNmeGN2czh0VmtBcGN4TjFQZWVYcVNHT0VGakhzSHN2QmlVdi1iLXU4N3hPdXdZZ2JmN1VNcTZlZHZXczVPeXpSNjlBREVZamRPc2RndE9QYVYtNFhidV8xNDJMOTRYbFQ2b0HSAdcBQVVfeXFMUGhZV1hwX1ZCaWs5UW9jd2IxZDJMZ2o1QWp4d1FHVWwzaXlFaXNhd2lkQzh4cHhBNzRMR2FEMFZzZzNGWDIzT1poMWtaMXFSWEVPY2dPSE1hZVAxS0hVckpLdjdMZDZHNTZvQUNBVnU0S3dfVFVqdUJkR0JYaFA5Q3N6Mm1LWjFpNllINUtlYk9zYTNlUjAxNlkxbk5YRndUX0hGWlVrSHVEOEFCdVJtV1ZFNDRlZWVteWtPb0Nxejl4aTJJOTBLLUlkWFRZUk1aSjFfVXFqT1U?oc=5",
-          "date": "2026-11-14T11:41:51.000Z",
+          "title": "The Wires Shruti Sharma Wins HRRF Journalism Award for Reportage on Noida Workers Protest",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVzVZQmUwLWNIaXMyMjFsdUtlcFFtS2lDTlRibHdjdDlEcVhaS2JHc0VNaWN5dGpHUEs4eTRnT0YxelpxcXVCUWZISmRONGoyQlQ4VWo4NEhPMkRLSF9iR01za1QzY0lYcjVBTzZ1TE1leVM2aDJOTUZ1ZHdUMTNKeks0ZEw3SlZMSHl6b3FodDFsdnhjODdnUWRSTkhmS3BPaWVkME1KTUdjVnFhdUR3Ykk3dFHSAccBQVVfeXFMUEltMENWMl93RE8taWNleUU4eEJPVEZnT2U2VHUwYU5lcjloenhHZXdhZUx6SHBYSGRuOEhvMXFWVmZ0bFNwcjlKZVUwNXRjRkJza3pseE8yQk5JYzhwRTFlbnRPai1naHdLdUROMy1PSld3dDBPVTEyTUlHVmhfbXFCR3BCcXhtLWxrTl9GMUVlYzR6V25aVWxMOFhoOXFhUWNoVlVOMHk5aF9mUFg4bGF1UHJRaXNCQmdJeHNPWTNSbEpkTXVkOA?oc=5",
+          "date": "2026-11-15T12:06:16.000Z",
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "쉬리 니케탄 학교그룹, 어린이날 맞아 \"다시 대화에 나서자\" 캠페인 출범",
-          "tr": "claude"
+          "titleKo": "더 와이어 슈루티 샤르마, HRRF 언론상 수상…노이다 노동자 시위 취재 보도",
+          "tr": "claude",
+          "titleKoAlt": "Wires Shruti Sharma는 Noida 노동자 시위에 대한 보도로 HRRF 저널리즘 상을 수상했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.476Z",
+      "fetchedAt": "2026-11-16T07:01:21.039Z",
       "status": "ok"
     },
     {
@@ -1638,6 +1639,19 @@
         },
         {
           "id": "republic-3",
+          "title": "India-ASEAN Trade Hits USD 128.37 Billion In FY26 As PM Modi Departs For Philippines Summit",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGNmOUpVUUt0eHB3ZlNLYUNaOTlTQUhpLW5jRVJ0REhneWZDRzRTMm1VOGFoeVFGLVFTa29NVkVXelBPM2pSVllULVluTkNvUENndFlXXzVMT0ZhNUt1WHZhWjVVcGtPczRUbzA0OTROUzQ5Z2NxQnhTQlp6bExyT2ZIOGR6OHhNR3E2UXBsREZZRUtDbjNMMnJ2R1BqTkFiU21mdFAtQnZJWW92WTRBZlJRbUlOeFFUR0hEcFQzLWtKblhiNDBvWk9DOVNjcjFlaXpxeHhZc3ZTWUXSAeIBQVVfeXFMUGlOQVhMbVI3alVNWjJRckwwVmxoN2kwUlM4M0lnMmxYUjJLRDNkYXg3Z0JPOVlmaTNWVTBsRE5ZWGc0c3Jvay1URXpYRTVqdHZ0VW1QWGhZQ0x1Y3ZDSHBWRFdZVGFWazFQaGNqcC1BdUoxZkUwVjNnd2hyN3l6alc5VE5pbGhBZDltYUhqUElQUXJxZlJxdUUwTk5Bcmxua2Y4MzZQZUNsbmpSODItYTJkbFBORUVBeUF1cFZobTlIbUIyMlBMRW9PeWI3QjF0NHRGM2ZDVzRYdW01V1FFTUNXdw?oc=5",
+          "date": "2026-11-16T06:08:25.000Z",
+          "topics": [
+            "정치·선거",
+            "외교·안보",
+            "산업·시장"
+          ],
+          "titleKo": "인도-아세안 교역 FY26 1283억 7000만 달러 기록…모디 총리 필리핀 정상회의 출발",
+          "tr": "claude"
+        },
+        {
+          "id": "republic-4",
           "title": "'Naxal Violence Harmed Tribal Community Most': PM Modi Hails Nation Free of Left-Wing Extremism on Janjatiya Gaurav Diwas",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3RlVnBJYjE3LThpRGZ5SkYzZzVUSkZlcU02dVdqT3B2STR2Ynhhb3ljeGF6MjNPVV9VN09rR2N2RWxIbnQ5OTJJdzl2bk5pclZwRF9GNnduLWFpVHlERUQyR0swbE5tMzBZQ1BSeVhXQW95ZTE3VzRkc0pXaDZwVnRRdUhvdnU2RldnYnRGVklEb2VCY2tDT3ZHRTFnNHF4eWdTR0p3TTFQRjBkSE9ibFVweGNYLW9zM3pTRk1SUTdaRWlkUk5DWE5nTGRUVkducFkxTndfbjZaVGJCam1sQjR5SkVYT3JrNW1haTdDT2hDRmtMNDN3a1owbEZVUW9iZ1HSAYcCQVVfeXFMT0dGTC1jWGZDMGV3LUFaTGRrZXRSOVRuSmRZVXFCTHA4WVpZOVVxYjlrdlZuaWxZaHJZRndkMEkxRUY4NmF2YjB1enBiS2l5dUtYWWZXV0lrNWJ1SWNidHhMYng2RFBDYm1sWmZaZFNPaVJxekJuUmppQ19XVW1uMXp2Z2l0VTg2ZnRfYlRTRUNiWXFKS0hfUVVHbERSdXJkWk9OaS1SenVDRnB2Um1lSm40ZGc0Z2VDeUV6a1dOekRiNXBvQXZhbWVnNUtNVDlUN2ZZZzV6RG41RTFYS1JCQTl0RmJBeFE3LUtLZ2hLQVI1VUF0WEFzS2RqOEE5MklzYklJNExrdXc?oc=5",
           "date": "2026-11-15T07:58:08.000Z",
@@ -1649,7 +1663,19 @@
           "titleKoAlt": "'Naxal 폭력은 부족 공동체에 가장 많은 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌파 극단주의가 사라진 국가를 환영합니다"
         },
         {
-          "id": "republic-4",
+          "id": "republic-5",
+          "title": "CDS Gen Raja Subramani Flags Starlink Satellite Disruption in Ukraine, Stresses Need for India's Self-Reliant Space Capabilities",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGV4Z2tPSnMyVGdMcV9qQnAzRmVjOW4wNmU2c2tuZV9UdTR4M1phd0tRWW9ZU2UyajA3Q2dZYWpEV19QMjdOdU12U0J3YjNQcmdCRmxnTUtnNzNlOFI0aHdFNzRSZTdPWWg3LTBMQklhUElhYVlfakZib28tc1lRbzJWOGdJTC1Sdl9jWHpoTTdsMTYtMXBJdlgwMGVTWEJBR1gtZDZpZ3NaZ2lYTHJFakdtZ0ZqZ3FZMU1SMnU2RElvbkxIdHVDSjVFMUZXZ3NpbXlJNF9ZQUY3WDZuVmFjOHpfVTU2Rko1R0xyaWpTT2NzNnJ0elFWWXd3bk4tTmpsRTZCU3h2X09MalVX0gGTAkFVX3lxTE53S0V6Rlo2TnVJTjZ4Y1RyT0FaY2ljZEFqZEhRR3F0bnNxUmVyd3E4TFdpNHJEQWFia0ZjeEg4SmpYWmZDb0ZCQzVqNmZ3cnkzTjFnbWlRZUR4aC1RRUhKSUZVZldJWXBwTmtMZ1hNa3l2QjBseDBVZWdVLUwyNmttWVpwRkN0MlVfLXM2NmNDb2RtNm1UWXFJYnpFMWpHaUZLbDBkUWpVZ2pONXB6NGlzTkRUU0w5d19LOC1iWm9IQUhpdkk2NFI0NHk4TTM0eHgzU0lmMHpUdVg5MDNPenVUVl9OZEdNY3M3blRwVlFXYTRkTmE4VFROYlJwNVc5WXBXTVAwaUpJN2dQbnRucjlIN00w?oc=5",
+          "date": "2026-11-16T05:50:20.000Z",
+          "topics": [
+            "전쟁·휴전",
+            "외교·안보"
+          ],
+          "titleKo": "라자 수브라마니 참모총장 \"우크라이나서 스타링크 위성 교란 확인\" - 인도 우주 자체 역량 강화 필요 강조",
+          "tr": "claude"
+        },
+        {
+          "id": "republic-6",
           "title": "When Nvidia Sneezed, Who in India Caught a Cold?",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQck5IOWg5dk9OUzhMMndjXzFSSkV4X180MVg1RFI4VWhMQmtHSG5LZmJINU04YkJNTXVzdGcxYmhQMU5PdHd0RDVhcEZsYlI2anUzcG5ZeG0yMHVCQjZuMlgxdW9uSGVhMDNGNlhkSUhBVm5uTmlmOVotUlBudjVwMmFxWl9LUS1URldGLTQ0QjlpNHBFYmVRcXVPTjJESTZBNVAybld0TzDSAa8BQVVfeXFMTXdKcUgxMWQ2ODNBUzFvMnlNOXJmcTJXQV82OTB5dVVId0Zoc2RGc2w1NGRoMHAybWwtSFYyX1h5dV81R2VVcFZrbWZ1aTF1SVhhcVVwWmJ1UVJvUXVPM1BmTWdjWDVxVGJHUGo1VDN4NVFVVGF5ZktINUpaLVRsbnNRZy10eUVuRlN5MDlsemlrXzZnZXdFdW1yWlB2bHBUcnBHSFB6Q2xzV0xmM3JzTQ?oc=5",
           "date": "2026-11-14T08:14:28.000Z",
@@ -1661,7 +1687,7 @@
           "titleKoAlt": "Nvidia가 재채기를 했을 때 인도에서는 누가 감기에 걸렸나요?"
         },
         {
-          "id": "republic-5",
+          "id": "republic-7",
           "title": "'India Has Strengthened Indigenous Defence Ecosystem': Rajnath Singh Calls for Quality Assurance in Defence Manufacturing",
           "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdlJ3bXNkQkRZV1lnc0FaSHAtOVNOS3AtbF9pa25NLTcyWkRxZUNWeElTaDdQVl83a1Fqb0N1SVRTdWF3MU9BczdBWEFLd3J0Z01UdzluSzNMOTl4Qml0UXRhck9RRlF1dldKcU9ZQWlVbjFia29lVURBVUJDcmZMbzdXTmRNSFdBUUZkV05lQkNFc1hkX0tkQmJVQ2RFa29xNkFaOE5VbFhleS1vSkhlcE01a2dpZDhrdmtTaDVFX3IyYVY4SXI0RXR5cVRXWjdrQWZjWXNqMUN6TGsybHlfZjVPVTUxNFh1TDFxTndaWlpqdkZscGREbXBURi1ZcU9OazZ5N9IBigJBVV95cUxPTVdMQWY0Zm1EXzkxQlRFaWJWYzl5N2loV3RZU25jdXNLSURpQnNWbGtkUkxzWW8yMTlOc1BIbEx1MmRKLUYxT3dqQUI1RUF1czliczVzV3YyMGZib0d4SXFsMGVWclQ3Nmcwa01TZEhGbDduRUJYRzh4aHFzQUd3cV9WV1o1YVl1cVdvemxBVUlYWmJoNWoxSC1wUjBzdFBrLThWNXB4aC03dGJPUU1tMGVSZnNGWC0tSk1HUk1XS3p6SXkwNXJRM29BbGU0MERndnc5Z1JXY01qWVhSMmNwTkJSYnJYRzUzUWdGeHozR04ydUVZdEhiMHd5OTVkRzZsNU4wNkxMSUtPUQ?oc=5",
           "date": "2026-11-15T07:51:51.000Z",
@@ -1672,33 +1698,9 @@
           "titleKo": "라즈나트 싱 \"인도, 토착 국방 생태계 강화\"…국방 제조 품질보증 촉구",
           "tr": "claude",
           "titleKoAlt": "'인도는 원주민 국방 생태계를 강화했습니다': Rajnath Singh은 방위 제조 분야의 품질 보증을 요구합니다"
-        },
-        {
-          "id": "republic-6",
-          "title": "Delhi Police Draft Proposes 50,000 Cap, Fixed Timings for Ramlila Ground Gatherings",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOT3ppdEdWYVRBQ0l4Sy1ZLTlnQVZEdEROTHF0UmpMOVBaREYwM0t2d2dGeWFnSkt4X01VcHZEYWh0SktjWlV2emVVSzF5TTNUN253djNITVRsbDlOZVlvVFJ6THIyQ095cngzSWlFMXJuNnJCTHNlQTRoZzc4ZjRoYnlKRTluM1BMVFpqZEJKclFxMU44OW94T0NDcGx2NFlJYmJzRXdjNTEzRzBJUzFKWnUzdkR2Njk3VENMaTIwUS1kdDZ1WmIwbGdCbU9oMlp20gHWAUFVX3lxTE1JMWdlbnlzTXN4TVJBeVl4V3prODcwenJrSmxyM0N0S2xQUEgtNkdOaGlVYXRyTXF1NklkbDRJTTRTVGtvcUlfQWcwazdrLWJGblRsZlA1ejRUWVVpaGEtQTVJLVhmV2UyTGZSMUZzUGViUTkyakpMaVMwODBBVTJJN2NtRTRGVm11Z3BRbUYxSEthS0tIc0JaNHBrd3BTNUhHVHpNZnFCZkYtMnd1RWY4cVFBTWVIZ1VpcjVXNjU1UFNGRjdDZXBrd3BZRWZCQmhTZWZyZ1E?oc=5",
-          "date": "2026-11-14T04:40:26.000Z",
-          "topics": [
-            "사회·생활"
-          ],
-          "titleKo": "델리 경찰 초안, 람릴라 그라운드 집회 인원 5만 명 상한·시간 고정안 제시",
-          "tr": "claude",
-          "titleKoAlt": "델리 경찰 초안, Ramlila 지상 집회에 대해 고정된 시간, 50,000명 수용 제안"
-        },
-        {
-          "id": "republic-7",
-          "title": "Attending Diljit Dosanjh’s Mumbai Concert? Phone Rules, and What to Expect Amid High Security",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWl2Tmh2amowazktQ1d5WW1iVTctVXM0S2tDY0hVcmRyVXZCRm03bjF5bmpoOVQxWTVPcmhRNXJqQWh6aWtZalpNTEZFMi1RSDgwdjJKbzFkSVZrQWw5bDUyd1p2U2tvNTYtR2xOVlRvMi1YdkV2eWpWY2pwQ09OX1lOclg3NzJVUWJ6akxrdHdnVHZXQm9OWmNxWExrazlXSHAzTEVLdmk4T2R2a2lIM3NkQlpsanpKOEsyN3RkdTBTYzR4cWtsb1NZaDZUREVxalJYWUpZRi0zZWIy0gHiAUFVX3lxTFBrblRNR0F3RG04ZWJ6ZG9GLTVYbnlyQkdfdDFmVXptNFNGNExUQ0FQWEtyckVRVnpnSDFXclRJLUxpTzFaN1Rkd0pud180UWRWYU1tSFQ2aHQ1QXplSVpfWmxQell5RXVDQm1HTGVhT1FMTUpMSkE5c1B5ZWN4QzhPOEhWUkVuT3RiRzBMZGtUUDRPQkJycHdxS1ZBRHIyZUloOUhqWjRfRVBBNm51akxYMjJLSE1zRnl0c1NLU1ZNZDBSU1FjbFJjS3M4LVVmam92ckRabVZqLUxSYW12MGItNnc?oc=5",
-          "date": "2026-11-14T12:41:32.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "디질트 도산지 뭄바이 공연 참석? 휴대폰 규정과 삼엄한 경비 속 예상 사항",
-          "tr": "claude",
-          "titleKoAlt": "Diljit Dosanjh의 뭄바이 콘서트에 참석하시나요? 전화 규칙 및 높은 보안 속에서 기대할 수 있는 것"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.600Z",
+      "fetchedAt": "2026-11-16T07:01:21.143Z",
       "status": "ok"
     },
     {
@@ -1811,7 +1813,7 @@
           "titleKoAlt": "설명: AI 기반 해커가 인도의 금융 배관을 악용하여 돈을 훔치는 방법"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.787Z",
+      "fetchedAt": "2026-11-16T07:01:21.171Z",
       "status": "ok"
     },
     {
@@ -1919,7 +1921,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.818Z",
+      "fetchedAt": "2026-11-16T07:01:21.464Z",
       "status": "ok"
     },
     {
@@ -1958,6 +1960,17 @@
         },
         {
           "id": "jagran-2",
+          "title": "58 साल के हुए बिहार के 'सम्राट', RJD से BJP तक ऐसे तय किया सियासी सफर; PM मोदी ने दी बधाई",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlpuVjZ4VmQwTkd1YXpFQUFlT2FNRW5RSEk2bFdPNFQzSGJxTlN5d19McXQySzdscE1YbjJ5Mmc3cWxObDdseGRtYjlTYUhCanRtMTh0NnY0S2tyWGNyM05qUl9LMFVDanR6b0Q1VFg4QjhnbFFHZ0VXbi1DYlJwY20wMkdoTXhTUkRjUDc1Q1V3RXBWdnJvZlNmMUpCNkdmNG5uMVZ4dkZKdw?oc=5",
+          "date": "2026-11-16T05:29:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "58세 된 비하르의 '삼라트', 라슈트리야 자나타 달에서 인도인민당까지 정치 여정 - 모디 총리 축하 메시지",
+          "tr": "claude"
+        },
+        {
+          "id": "jagran-3",
           "title": "'AI नहीं, यह यमुना है' बनाम 'रेड कार्पेट' के दावे... दिल्ली में छठ पूजा के बीच यमुना के हालात पर AAP-BJP में टकराव",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUJVVUJZS09kUGlZY3hEVXVLV3B3ZVlFSnNBTkdOYUtvU01GY0IxejFfRm05amh5OTRTSUxhWDBwekRfeHcxUWZoMTFjYzZlYlZxUTVaVVFqR1BsMElsNFJNM24weGRHb3ZFXzNUdVpPRWtsZHFLMWRneFVncllDWElyeThRVk4xa3NNMktHbEpJdGdDQ1FBTFRJV3pJSUhiTGwteHdBOXlnTDR1d09XQ2FPOGw?oc=5",
           "date": "2026-11-16T05:30:00.000Z",
@@ -1966,17 +1979,6 @@
             "산업·시장"
           ],
           "titleKo": "\"AI가 아니라 진짜 야무나다\" vs \"레드카펫이다\"… 델리 차트 축제 와중 야무나강 상황 두고 AAP·BJP 충돌",
-          "tr": "claude"
-        },
-        {
-          "id": "jagran-3",
-          "title": "भारत में जल्द आ रही हैं ये तीन धांसू हैचबैक कारें, Maruti WagonR Facelift से लेकर नई Hyundai i10 तक लिस्ट में",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMk82R242VWU4YjgzbGRlQ095MjJ5SUVnT1dVY0w5UTlrSVRtY19TSWtYNEVWM2F5czROZDMwanJmRHNIcVl3SlNIM1V1aXU0VnBPMzB2aU5WMWhxY0xBbmo1d1hfUWFHU0c3ekFLV1U3aHRMaFRIU29odzJfVGh2YTRKNWM4bThFanJWVmNqV0ZuNlNNaUdPaG5UYjZ5N21JNjlsR0poOVRtZnhld0J0NXMyMy1Tdmk3cnM4?oc=5",
-          "date": "2026-11-16T02:30:00.000Z",
-          "topics": [
-            "예산·재정"
-          ],
-          "titleKo": "인도 출시 임박 해치백 3종, 마루티 와곤R 페이스리프트부터 신형 현대 i10까지",
           "tr": "claude"
         },
         {
@@ -1995,13 +1997,13 @@
         },
         {
           "id": "jagran-5",
-          "title": "58 साल के हुए बिहार के 'सम्राट', RJD से BJP तक ऐसे तय किया सियासी सफर; PM मोदी ने दी बधाई",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlpuVjZ4VmQwTkd1YXpFQUFlT2FNRW5RSEk2bFdPNFQzSGJxTlN5d19McXQySzdscE1YbjJ5Mmc3cWxObDdseGRtYjlTYUhCanRtMTh0NnY0S2tyWGNyM05qUl9LMFVDanR6b0Q1VFg4QjhnbFFHZ0VXbi1DYlJwY20wMkdoTXhTUkRjUDc1Q1V3RXBWdnJvZlNmMUpCNkdmNG5uMVZ4dkZKdw?oc=5",
-          "date": "2026-11-16T05:29:00.000Z",
+          "title": "भारत में जल्द आ रही हैं ये तीन धांसू हैचबैक कारें, Maruti WagonR Facelift से लेकर नई Hyundai i10 तक लिस्ट में",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMk82R242VWU4YjgzbGRlQ095MjJ5SUVnT1dVY0w5UTlrSVRtY19TSWtYNEVWM2F5czROZDMwanJmRHNIcVl3SlNIM1V1aXU0VnBPMzB2aU5WMWhxY0xBbmo1d1hfUWFHU0c3ekFLV1U3aHRMaFRIU29odzJfVGh2YTRKNWM4bThFanJWVmNqV0ZuNlNNaUdPaG5UYjZ5N21JNjlsR0poOVRtZnhld0J0NXMyMy1Tdmk3cnM4?oc=5",
+          "date": "2026-11-16T02:30:00.000Z",
           "topics": [
-            "정치·선거"
+            "예산·재정"
           ],
-          "titleKo": "58세 된 비하르의 '삼라트', 라슈트리야 자나타 달에서 인도인민당까지 정치 여정 - 모디 총리 축하 메시지",
+          "titleKo": "인도 출시 임박 해치백 3종, 마루티 와곤R 페이스리프트부터 신형 현대 i10까지",
           "tr": "claude"
         },
         {
@@ -2029,7 +2031,7 @@
           "titleKoAlt": "UP 승리의 '해트트릭'을 위한 BJP 회의: 내일 BJP 충실한 인사 40명이 마투라에 모일 예정이며, CM을 포함한 국가의 유명 인사들은 이틀 동안 머물 예정입니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.870Z",
+      "fetchedAt": "2026-11-16T07:01:21.506Z",
       "status": "ok"
     },
     {
@@ -2141,7 +2143,7 @@
           "titleKoAlt": "긴급: 중국은 태국과의 무역 및 경제 교류를 심화할 준비가 되어 있다고 중국 총리가 밝혔습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.939Z",
+      "fetchedAt": "2026-11-16T07:01:21.486Z",
       "status": "ok"
     },
     {
@@ -2256,7 +2258,7 @@
           "titleKoAlt": "표지 기사: 중국 AI 인프라 러시의 전망과 위험"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:32.973Z",
+      "fetchedAt": "2026-11-16T07:01:21.657Z",
       "status": "ok"
     },
     {
@@ -2365,7 +2367,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:33.209Z",
+      "fetchedAt": "2026-11-16T07:01:21.884Z",
       "status": "ok"
     },
     {
@@ -2405,7 +2407,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:33.247Z",
+      "fetchedAt": "2026-11-16T07:01:21.830Z",
       "status": "ok"
     },
     {
@@ -2520,7 +2522,7 @@
           "titleKoAlt": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:33.327Z",
+      "fetchedAt": "2026-11-16T07:01:22.045Z",
       "status": "ok"
     },
     {
@@ -2635,7 +2637,7 @@
           "titleKoAlt": "태스크 포스 아이언 게이트: 미국이 이란의 육로 무역로를 봉쇄할 수 없는 이유"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:33.207Z",
+      "fetchedAt": "2026-11-16T07:01:22.057Z",
       "status": "ok"
     },
     {
@@ -2689,20 +2691,6 @@
         },
         {
           "id": "haaretz-3",
-          "title": "Analysis • Trump may relish the Iran status quo, but his regional partners need closure",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRGlnSS0zX3p4UmxrT3NwSVBhVUY4am1rRWdtbjB4Ri02b29wVnNKUjZ1cWtUaXh0WG9ubTBUQ2V4djVhdjNDdURZZXJNc3E4TThPeDdWeDVJeWQ5ZlltZ2JmREdhMHJGNFlHaU5BZ3Q5eklqMUdqX093STBiaFlYOEdkQzVfSUZfOUVxdm1kbUtvczNac0JMdk1GY0c5QWNvRjBhNEhQSW93LWNmTlp3enUzZ0QzMmV2VGpLdnRNRFR1ZXgybzFDNWVRVUgyRmh5NEs3MzRSdnFGWXdGUHNwMnotRVFXd1dGNWJQVV83ZXA1c2FSel84Qko1S0J0a21ucVExcjZQLUhDT2xIVVRFZmxwV2trSS0y?oc=5",
-          "date": "2026-11-13T13:58:00.000Z",
-          "topics": [
-            "정치·선거",
-            "외교·안보"
-          ],
-          "opinion": true,
-          "titleKo": "[분석] 트럼프, 이란 현상 유지 반길지 몰라도 역내 파트너들은 매듭 필요",
-          "tr": "claude",
-          "titleKoAlt": "분석 • 트럼프 대통령은 이란의 현상 유지를 선호할 수 있지만, 그의 지역 파트너들은 종결을 원한다"
-        },
-        {
-          "id": "haaretz-4",
           "title": "Mossad chief meets U.S. officials to discuss Iran as Netanyahu pushes for war",
           "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNGFDZ1JvbnQzdl90OXJFRGlqc2tRbEZjVWRNclpmS0NSYUZYcVNaZm5zbXhCUTkxclZtLUxJbVhoSWRmcXpOdWdhM1FvNXc4Z0FIdTgwYVhKMHp0MW1mMEtJNkE0a2E0QmdkbEV0OXREQlpCcmxhOXE2QlV6LUo0b3hyb2hON2hFVUY3ZTJGdFdXM1RqT2FfRWM2LW83X0gtVW1SRi05N05Pa0hscTk3cWdiNy1tcENBNGpKUEZHQVdPQ24wLXVOLVpxOUc5bG1RRGJiUzZPSk9DeVR6Tm80aFNjTFVWbmh0MmJIZFZsZERyb2Jlb2FOamNDa2RqTzRjWTM1UkFITHVkT1ZDa1Z6NFYwYWMzZWJZeUE?oc=5",
           "date": "2026-11-13T15:34:00.000Z",
@@ -2714,6 +2702,20 @@
           "titleKo": "모사드 국장, 이란 문제 논의차 미 당국자 접촉… 네타냐후는 전쟁 추진",
           "tr": "claude",
           "titleKoAlt": "모사드 국장은 네타냐후가 전쟁을 추진함에 따라 이란에 대해 논의하기 위해 미국 관리들을 만난다."
+        },
+        {
+          "id": "haaretz-4",
+          "title": "Analysis • Trump may relish the Iran status quo, but his regional partners need closure",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRGlnSS0zX3p4UmxrT3NwSVBhVUY4am1rRWdtbjB4Ri02b29wVnNKUjZ1cWtUaXh0WG9ubTBUQ2V4djVhdjNDdURZZXJNc3E4TThPeDdWeDVJeWQ5ZlltZ2JmREdhMHJGNFlHaU5BZ3Q5eklqMUdqX093STBiaFlYOEdkQzVfSUZfOUVxdm1kbUtvczNac0JMdk1GY0c5QWNvRjBhNEhQSW93LWNmTlp3enUzZ0QzMmV2VGpLdnRNRFR1ZXgybzFDNWVRVUgyRmh5NEs3MzRSdnFGWXdGUHNwMnotRVFXd1dGNWJQVV83ZXA1c2FSel84Qko1S0J0a21ucVExcjZQLUhDT2xIVVRFZmxwV2trSS0y?oc=5",
+          "date": "2026-11-13T13:58:00.000Z",
+          "topics": [
+            "정치·선거",
+            "외교·안보"
+          ],
+          "opinion": true,
+          "titleKo": "[분석] 트럼프, 이란 현상 유지 반길지 몰라도 역내 파트너들은 매듭 필요",
+          "tr": "claude",
+          "titleKoAlt": "분석 • 트럼프 대통령은 이란의 현상 유지를 선호할 수 있지만, 그의 지역 파트너들은 종결을 원한다"
         },
         {
           "id": "haaretz-5",
@@ -2755,7 +2757,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:33.559Z",
+      "fetchedAt": "2026-11-16T07:01:22.209Z",
       "status": "ok"
     },
     {
@@ -2874,7 +2876,7 @@
           "titleKoAlt": "인포그래픽: 사우디 석유 재고량은 전쟁 발발 이후 가장 빠른 속도로 상승하고 있습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T06:32:33.575Z",
+      "fetchedAt": "2026-11-16T07:01:22.345Z",
       "status": "ok"
     }
   ],
@@ -2885,13 +2887,13 @@
     "byClaude": 201,
     "claude": {
       "run": {
-        "titles": 0,
-        "usd": 0,
+        "titles": 6,
+        "usd": 0.00031,
         "rejected": 0,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0297,
+      "monthUsd": 0.03,
       "limitUsd": 2
     }
   }

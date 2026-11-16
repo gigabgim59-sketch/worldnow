@@ -1,7 +1,47 @@
 {
-  "updated": "2026-11-16T06:32:33.599Z",
-  "count": 308,
+  "updated": "2026-11-16T07:01:25.163Z",
+  "count": 313,
   "items": [
+    {
+      "source": "wire",
+      "country": "in",
+      "title": "Russian Fintech A7 Announces Plans to Expand Cross-Border Payment Options for India at Mumbai Summit",
+      "titleKo": "러시아 핀테크 A7, 뭄바이 정상회의서 인도 국경간 결제 옵션 확대 계획 발표",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05Ld0M4eGZlSHA3V3NMSm5FbUtlRFFjRjduU0dqSXYxY3NKTW5IMVppYXBNY2wxRHRCNEJjOFRIcU5RTnFlZXpEcndzbGlUaFZqajVEUzhhUGs4SDQ1TEx5SkZJckIwNENuRDhHdzhIV3dEcy1wNzRrUDBJWUJqenFoaV83UnJLVXl0amE4bFlpUDdhLXJSQ0tlWGRLMzgtbUFBNUt3cHRrNzUwQ05kNmlGcVU2NkFoTmxDUHZLeG9GdkhGYjRxVjRiR0pNS0xkSkJGazhR0gHbAUFVX3lxTE5tdlkyWEV6QlN4MkxRX3RHVDVXUG43eWhOQW5Td2JrbEFaekJjR25vRDB6eEVCczRDMWZmRXdkNEplUVJaVUswb3pLTTJ1X2EzX20xMGQ5RDk2Zmppb21MV0tCeTYzRTJpUkFEdDk5VktCVXRWUU9nT0ItWi1VcTZGNUFDRnVzaWFHMU1wMGNUSUwzanE2TGFNUi1XcWh2WVRmVEs5MmlRVDhHbW16Nks3S1pqM2VFN3NEUDhPX21JeTdxek1ya3FSRW81MldGSGJwTzQ2WF9fSzZVSQ?oc=5",
+      "date": "2026-11-16T06:43:14.000Z",
+      "topics": [
+        "이민·국경",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "republic",
+      "country": "in",
+      "title": "India-ASEAN Trade Hits USD 128.37 Billion In FY26 As PM Modi Departs For Philippines Summit",
+      "titleKo": "인도-아세안 교역 FY26 1283억 7000만 달러 기록…모디 총리 필리핀 정상회의 출발",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGNmOUpVUUt0eHB3ZlNLYUNaOTlTQUhpLW5jRVJ0REhneWZDRzRTMm1VOGFoeVFGLVFTa29NVkVXelBPM2pSVllULVluTkNvUENndFlXXzVMT0ZhNUt1WHZhWjVVcGtPczRUbzA0OTROUzQ5Z2NxQnhTQlp6bExyT2ZIOGR6OHhNR3E2UXBsREZZRUtDbjNMMnJ2R1BqTkFiU21mdFAtQnZJWW92WTRBZlJRbUlOeFFUR0hEcFQzLWtKblhiNDBvWk9DOVNjcjFlaXpxeHhZc3ZTWUXSAeIBQVVfeXFMUGlOQVhMbVI3alVNWjJRckwwVmxoN2kwUlM4M0lnMmxYUjJLRDNkYXg3Z0JPOVlmaTNWVTBsRE5ZWGc0c3Jvay1URXpYRTVqdHZ0VW1QWGhZQ0x1Y3ZDSHBWRFdZVGFWazFQaGNqcC1BdUoxZkUwVjNnd2hyN3l6alc5VE5pbGhBZDltYUhqUElQUXJxZlJxdUUwTk5Bcmxua2Y4MzZQZUNsbmpSODItYTJkbFBORUVBeUF1cFZobTlIbUIyMlBMRW9PeWI3QjF0NHRGM2ZDVzRYdW01V1FFTUNXdw?oc=5",
+      "date": "2026-11-16T06:08:25.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Opinion | The New Congress Must Rein in Trump’s Dangerous China Policy",
+      "titleKo": "트럼프의 위험한 중국 정책 고삐 죄어야 - 새 의회의 과제 | 칼럼",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3MxNFlBbVVGR3ZtcWN2U3JGYUpzWTVBSG4wa2UyTkQ3RVdHa2FwbGZhckF1dGhJc1ZSZncwb1ZKeGdUWjBBY1JBTXJkTkxMeGZ5Ny1JRE9CUlh4NUE4VmwwTGlIQ0FTNlFyRlFCd3BoQTdRcENQU0J6VVBMLWFoaTRR?oc=5",
+      "date": "2026-11-16T06:00:05.000Z",
+      "topics": [
+        "정치·선거"
+      ],
+      "opinion": true
+    },
     {
       "source": "guardian",
       "country": "uk",
@@ -39,6 +79,19 @@
       "date": "2026-11-16T05:55:35.000Z",
       "topics": [
         "사회·생활"
+      ]
+    },
+    {
+      "source": "republic",
+      "country": "in",
+      "title": "CDS Gen Raja Subramani Flags Starlink Satellite Disruption in Ukraine, Stresses Need for India's Self-Reliant Space Capabilities",
+      "titleKo": "라자 수브라마니 참모총장 \"우크라이나서 스타링크 위성 교란 확인\" - 인도 우주 자체 역량 강화 필요 강조",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGV4Z2tPSnMyVGdMcV9qQnAzRmVjOW4wNmU2c2tuZV9UdTR4M1phd0tRWW9ZU2UyajA3Q2dZYWpEV19QMjdOdU12U0J3YjNQcmdCRmxnTUtnNzNlOFI0aHdFNzRSZTdPWWg3LTBMQklhUElhYVlfakZib28tc1lRbzJWOGdJTC1Sdl9jWHpoTTdsMTYtMXBJdlgwMGVTWEJBR1gtZDZpZ3NaZ2lYTHJFakdtZ0ZqZ3FZMU1SMnU2RElvbkxIdHVDSjVFMUZXZ3NpbXlJNF9ZQUY3WDZuVmFjOHpfVTU2Rko1R0xyaWpTT2NzNnJ0elFWWXd3bk4tTmpsRTZCU3h2X09MalVX0gGTAkFVX3lxTE53S0V6Rlo2TnVJTjZ4Y1RyT0FaY2ljZEFqZEhRR3F0bnNxUmVyd3E4TFdpNHJEQWFia0ZjeEg4SmpYWmZDb0ZCQzVqNmZ3cnkzTjFnbWlRZUR4aC1RRUhKSUZVZldJWXBwTmtMZ1hNa3l2QjBseDBVZWdVLUwyNmttWVpwRkN0MlVfLXM2NmNDb2RtNm1UWXFJYnpFMWpHaUZLbDBkUWpVZ2pONXB6NGlzTkRUU0w5d19LOC1iWm9IQUhpdkk2NFI0NHk4TTM0eHgzU0lmMHpUdVg5MDNPenVUVl9OZEdNY3M3blRwVlFXYTRkTmE4VFROYlJwNVc5WXBXTVAwaUpJN2dQbnRucjlIN00w?oc=5",
+      "date": "2026-11-16T05:50:20.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
       ]
     },
     {
@@ -102,6 +155,19 @@
       "date": "2026-11-16T04:48:00.000Z",
       "topics": [
         "경제·물가"
+      ]
+    },
+    {
+      "source": "tass",
+      "country": "ru",
+      "title": "Russia effectively wins Ukraine conflict, US analyst says",
+      "titleKo": "미 분석가 \"러시아, 우크라이나 전쟁에서 사실상 승리\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE04eFR2V0ZKN0VZOUpUZU9maDBkU2oyN1lmMWRxUXJ0RDdNOHVwTGxoX01Da0U0aVBZV2owX1ZtdlNVdTI30gFKQVVfeXFMUDBIcHQtQVpzazRQSWItTHplNXZZU3p6aUdsSkJ1aEJHczZaWUhfeXlCRjFLaFQ4S0lSWUVranprMlI2b2lEMGZIaXc?oc=5",
+      "date": "2026-11-16T04:38:23.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
       ]
     },
     {
@@ -258,7 +324,7 @@
       "source": "wsj",
       "country": "us",
       "title": "Asian Equities Fall as U.S. Chip-Maker Share Selloff Spills Over",
-      "titleKo": "미국 반도체株 매도세 확산에 아시아 증시 하락",
+      "titleKo": "미국발 반도체 매도세 확산에 아시아 증시 하락",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEVpV2tyTTZHU0JJTFJLNGQ5Y3pJbFBUUE90S1ZWQWg3ZGNzWXJVUU16cmVxb013eHdDOU9YcUU2aGdNQVpYS0lpYkJqTFptZzYyQ21oOFROLUNlRFRSU0FDNTdNMjZkQm11WmdZNlpIUkRvNVFMTXNQaDYyc3RrZjIwWnRPX0Vsblk4NFdNN2tZMmZ6S1J0RnRFa0dyb0xwV1lhYUVYNno3WEU?oc=5",
       "date": "2026-11-16T02:05:00.000Z",
