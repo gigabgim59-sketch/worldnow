@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T23:59:23.390Z",
+  "generatedAt": "2026-11-16T00:00:22.134Z",
   "feeds": [
     {
       "source": {
@@ -90,18 +90,6 @@
         },
         {
           "id": "guardian-6",
-          "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG5RenFlUWx2enotWWRnYlJ4dVdVMmQwRjBCb3BjeVBKVGpjQ3R3d2FhQkVmSV9nSDE2a0tvRjBGTjVmUXE4MFNHak9YYnl4bF93Z0czWTd1U094SXg5MmRXQVNNSjRNcy1iNkRLM1hTQlEwb3BDbDNnYWxoX0pQODRpekMwaTdKcmZKZE5pVlJSZkZNQWl4Yk53OFVWUE1CUFpTQlFZSVFtZnM5ZEJWZkV3?oc=5",
-          "date": "2026-11-15T15:37:00.000Z",
-          "topics": [
-            "사회·생활"
-          ],
-          "titleKo": "스코틀랜드·잉글랜드 북부에 한파·건강 경보 발령…눈·얼음",
-          "tr": "claude",
-          "titleKoAlt": "눈과 얼음이 예상됨에 따라 스코틀랜드와 잉글랜드 북부에 감기 및 건강 경보 발령"
-        },
-        {
-          "id": "guardian-7",
           "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYXVJLW5XZGo4SldNMWE5ZVdUcllWVzRSRGdqSVQ0emp5SUtrWXl1VFdvbFhHa2lMaERaQ3hYU2V3bEdlTldQZE9KMkhKdWtxZnNaVEdHZFB4amFPa2FQeDNKcXJ1Z2ZUd3UzejZ3MXk1RjNKaGR3WW4yRndNRy1nZTJyRHlNSWVxUWlJ?oc=5",
           "date": "2026-11-15T11:52:00.000Z",
@@ -109,11 +97,24 @@
             "경제·물가"
           ],
           "opinion": true,
-          "titleKo": "나쁜 직업이나 복지? Milburn은 고용주가 젊은이를 돕도록 강요해야 합니다 | 리처드 파팅턴",
-          "tr": "google"
+          "titleKo": "칼럼: 나쁜 일자리냐 혜택이냐? 밀번은 고용주가 청년을 돕도록 강제해야 | 리처드 파팅턴",
+          "tr": "claude",
+          "titleKoAlt": "나쁜 직업이나 복지? Milburn은 고용주가 젊은이를 돕도록 강요해야 합니다 | 리처드 파팅턴"
+        },
+        {
+          "id": "guardian-7",
+          "title": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjVDZXhTai01bUw2ZTBFWGdLbG5YdHQtVERLQmFwRTRMeUxnNFpiTVNxTExlYUk0dW14TFlMZjJwZm5Pa2M1RUxnbXllRW5iMjdOY1J4MEFJMVhCdFhEM0ttQUpOeXZNTDJLREI3VUphZEwwQ1JMVWl0WENWM21VZWcxQk5KWldvR2VWbmlQUXQwYmdENXFtQW1jOA?oc=5",
+          "date": "2026-11-13T14:37:00.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "패라지 영국 개혁당 대표 경호비, 500만 파운드 선물 주장에도 개혁당이 부담",
+          "tr": "claude",
+          "titleKoAlt": "£5m 이상의 기부금 청구에도 불구하고 Reform UK가 Nigel Farage의 보증금을 지불했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.410Z",
+      "fetchedAt": "2026-11-15T23:59:58.944Z",
       "status": "ok"
     },
     {
@@ -208,8 +209,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "영국 이슬람협회, 이집트 테러단체로 지정",
-          "tr": "google"
+          "titleKo": "이집트, 영국 무슬림협회를 테러 단체로 지정",
+          "tr": "claude",
+          "titleKoAlt": "영국 이슬람협회, 이집트 테러단체로 지정"
         },
         {
           "id": "telegraph-7",
@@ -220,11 +222,12 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "호르무즈해협에서 초대형 유조선이 광산에 부딪혀 침몰했다.",
-          "tr": "google"
+          "titleKo": "호르무즈 해협서 원유 초대형 유조선, 기뢰 피격 후 침몰 보도",
+          "tr": "claude",
+          "titleKoAlt": "호르무즈해협에서 초대형 유조선이 광산에 부딪혀 침몰했다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.332Z",
+      "fetchedAt": "2026-11-15T23:59:58.942Z",
       "status": "ok"
     },
     {
@@ -322,22 +325,24 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "AI 뉴스 사이클을 더욱 촉진하는 인류적 IPO",
-          "tr": "google"
+          "titleKo": "앤트로픽 기업공개(IPO), AI 뉴스 사이클에 기름 부을 전망",
+          "tr": "claude",
+          "titleKoAlt": "AI 뉴스 사이클을 더욱 촉진하는 인류적 IPO"
         },
         {
           "id": "ft-7",
-          "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1JOaEdsdTdDNG5MMWZtVW5rSWx1S2dKTXZ3ZmdOVUd2X2NFa1BmeS1kWkZpZ0diYmxZNGEtQ3R1MzNVN0RBM0txbHpfakxKR1MtblJZMFhsXzlacTlqUEpCZGZicmZLcm5yaHU3bGRDX1hBUHBPNEZ3TXJlZEwtTXRGeHg?oc=5",
-          "date": "2026-11-13T20:17:46.000Z",
+          "title": "RedBird explores listing for new AC Milan holding company",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2tpdFdFT0p0NVR1WUNPNXlncmlUS0hOQUYtS3ZFNjBGRm1qY1doMDNSWnpPTHotMjAybm9CZW5MRWZPM1dwdXQ0cVFKcHlSSUM2NGVITWlJbEJKS293TmNZdUc4ZTJoajZrUDEtcTF3X2FnNzdaTExZN0hmMElTUnJOMFk?oc=5",
+          "date": "2026-11-13T11:10:00.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "마이크로소프트는 글로벌 중단 이후 서비스가 '광범위한 복구'를 경험하고 있다고 밝혔습니다.",
-          "tr": "google"
+          "titleKo": "레드버드, 새 AC밀란 지주회사 상장 검토",
+          "tr": "claude",
+          "titleKoAlt": "RedBird, 새로운 AC Milan 지주회사 상장 모색"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.254Z",
+      "fetchedAt": "2026-11-15T23:59:58.940Z",
       "status": "ok"
     },
     {
@@ -433,8 +438,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "기본 급여 금액으로 100만 유로 환경에서 소득 수령",
-          "tr": "google"
+          "titleKo": "정부 추산 저임금층 지원 조치 약 10억 유로 규모",
+          "tr": "claude",
+          "titleKoAlt": "기본 급여 금액으로 100만 유로 환경에서 소득 수령"
         },
         {
           "id": "liberation-7",
@@ -448,7 +454,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.249Z",
+      "fetchedAt": "2026-11-15T23:59:58.932Z",
       "status": "ok"
     },
     {
@@ -464,6 +470,19 @@
       "items": [
         {
           "id": "figaro-0",
+          "title": "« On se tire une balle dans le pied » : quand le gouvernement favorise les verriers européens au détriment des industriels français",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWdPeGpib3pHd091UTNWcjE0bW5jcHVQa2lsOWhMcXZaaWpDcDRWaXFRZk5PTzE0S0hmV2lPUy15dm0tWTNESm1MSHN2TEZKWGRzOTJ5OWxnYkZkUkYyRkJxaHh0OXc5V1otMXpCb0REaG9PQnR6T2laYmduQnRmUngwWDJtb3dJWGNIZVViTTRIQUN0YUpYVlJzNnp5TjhXRjNFNzhsdW5ndUJ0dmFQaTFaaXRIS0ZvSDZia0VDOERBdEF1Wi1vRC1ZdmZUNGhiX0xNOTBaMl9yMWdUS0xhdzdUVnFDdE9tV0FGVTZrY0xZWW9yWVJEY2lOOA?oc=5",
+          "date": "2026-11-15T17:45:00.000Z",
+          "topics": [
+            "정치·선거",
+            "산업·시장"
+          ],
+          "titleKo": "제 발등 찍기 논란… 정부, 프랑스 산업계 희생하고 유럽 유리업체 우대",
+          "tr": "claude",
+          "titleKoAlt": "\"우리는 총을 쏘고 있습니다\": 정부가 프랑스 제조업체에 해를 끼치면서 유럽 유리 제조업체를 선호하는 경우"
+        },
+        {
+          "id": "figaro-1",
           "title": "Colère sociale : plus de 400 interpellations en France, une centaine de gardes à vue à Paris",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTN5ZjZtTlBDYWZibjZoTERlbXJhUU80VFVKaUhfa20tVFJyMkRzaExTVVBwb1ptempzSGNIVkk1WGUxb21lQThra1NoVHZEOUtUTHMxYWJnay1DeTBkS19WR0lrNUQ3YUhYTEUtRlcxemxHMUVuY18tSmJXTjhEOGpoRlVKTWhqeTJZSUNtTElUb0U1MGJ6ZUJ3aHdydnZTd1V0dHdWSW1paFFWelpydF91RE5qM2VsMkZMSGZnZHhXTTNyckVKaWF5TlB0aDNsdDN3?oc=5",
           "date": "2026-11-15T11:16:03.000Z",
@@ -475,7 +494,7 @@
           "titleKoAlt": "사회적 분노: 프랑스에서 400명 이상 체포, 파리에서 100명가량 구금"
         },
         {
-          "id": "figaro-1",
+          "id": "figaro-2",
           "title": "Guerre en Ukraine : Marine Le Pen «isolera» la France de l’Europe si elle est élue, selon l'entourage d’Emmanuel Macron",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeU1Jd2xmX3pYYWw1eEpHYjh2MEV3SjdYdmF2WURPZ05UZVBuUHc0RnRpY3dXeGF2MzlRSzVDcjFVazN1WTF0RjRTYTlZeTF6bXNmZ0t1dWRsTklCUm1ZdWNzRW14ZzlRTEhsNGIyeFFDemM1MUdCMjN1OERIb2FKLTV2ZE9jdnJ3Mm5PS25jMklnX2g4T1dDUUZvYWswTEZTNFZrbm5yTTBFUlIxZjQzcGVYamtBY1VvTFlYLVpxcUpQMXE3dEpqcDdMcmxtcFUtUUhFQlRnZF84eFlIYVF4V2ZOVjBnZmVxRlBETXFn?oc=5",
           "date": "2026-11-15T10:07:39.000Z",
@@ -487,19 +506,6 @@
           "titleKo": "우크라이나 전쟁: 르펜 당선되면 프랑스 유럽서 \"고립\"… 마크롱 측근 주장",
           "tr": "claude",
           "titleKoAlt": "우크라이나 전쟁: 마린 르펜이 당선되면 프랑스를 유럽에서 “격리”시킬 것이라고 에마뉘엘 마크롱 측근이 밝혔습니다."
-        },
-        {
-          "id": "figaro-2",
-          "title": "« On se tire une balle dans le pied » : quand le gouvernement favorise les verriers européens au détriment des industriels français",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWdPeGpib3pHd091UTNWcjE0bW5jcHVQa2lsOWhMcXZaaWpDcDRWaXFRZk5PTzE0S0hmV2lPUy15dm0tWTNESm1MSHN2TEZKWGRzOTJ5OWxnYkZkUkYyRkJxaHh0OXc5V1otMXpCb0REaG9PQnR6T2laYmduQnRmUngwWDJtb3dJWGNIZVViTTRIQUN0YUpYVlJzNnp5TjhXRjNFNzhsdW5ndUJ0dmFQaTFaaXRIS0ZvSDZia0VDOERBdEF1Wi1vRC1ZdmZUNGhiX0xNOTBaMl9yMWdUS0xhdzdUVnFDdE9tV0FGVTZrY0xZWW9yWVJEY2lOOA?oc=5",
-          "date": "2026-11-15T17:45:00.000Z",
-          "topics": [
-            "정치·선거",
-            "산업·시장"
-          ],
-          "titleKo": "제 발등 찍기 논란… 정부, 프랑스 산업계 희생하고 유럽 유리업체 우대",
-          "tr": "claude",
-          "titleKoAlt": "\"우리는 총을 쏘고 있습니다\": 정부가 프랑스 제조업체에 해를 끼치면서 유럽 유리 제조업체를 선호하는 경우"
         },
         {
           "id": "figaro-3",
@@ -545,8 +551,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "2027년 대통령: “57%가 운동선수들이 선거에 참여하는 것을 반대합니다”, 프랑스인들은 테디 리네르 후보에 대한 의견을 제시합니다.",
-          "tr": "google"
+          "titleKo": "2027년 대선: \"57%가 스포츠 선수의 선거 출마에 반대\" — 프랑스인들, 테디 리네르 출마 놓고 의견 밝혀",
+          "tr": "claude",
+          "titleKoAlt": "2027년 대통령: “57%가 운동선수들이 선거에 참여하는 것을 반대합니다”, 프랑스인들은 테디 리네르 후보에 대한 의견을 제시합니다."
         },
         {
           "id": "figaro-7",
@@ -561,7 +568,7 @@
           "titleKoAlt": "“10억유로 조금 넘는다”: 정부가 밝힌 공무원 최저임금 인상과 저임금 비용"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.657Z",
+      "fetchedAt": "2026-11-15T23:59:59.319Z",
       "status": "ok"
     },
     {
@@ -660,8 +667,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "프랑스와 유럽 지역의 경제 리더인 일드프랑스의 성공 원동력",
-          "tr": "google"
+          "titleKo": "프랑스·유럽 지역 경제 선두주자 일드프랑스의 성공 요인",
+          "tr": "claude",
+          "titleKoAlt": "프랑스와 유럽 지역의 경제 리더인 일드프랑스의 성공 원동력"
         },
         {
           "id": "echos-7",
@@ -672,11 +680,12 @@
             "금리·물가",
             "경제·물가"
           ],
-          "titleKo": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인",
-          "tr": "google"
+          "titleKo": "프랑스 10월 물가상승률 전년 대비 3.4%로 확정",
+          "tr": "claude",
+          "titleKoAlt": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.646Z",
+      "fetchedAt": "2026-11-15T23:59:59.264Z",
       "status": "ok"
     },
     {
@@ -760,8 +769,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "방산업체 L3Harris는 지상 정지로 이어진 업그레이드 뒤에 있었습니다",
-          "tr": "google"
+          "titleKo": "방산업체 L3해리스, 지상 운항 중단 사태 일으킨 업그레이드 작업 책임",
+          "tr": "claude",
+          "titleKoAlt": "방산업체 L3Harris는 지상 정지로 이어진 업그레이드 뒤에 있었습니다"
         },
         {
           "id": "nyt-6",
@@ -771,8 +781,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "의회가 조사를 계획함에 따라 백악관은 맹렬한 대응을 준비합니다",
-          "tr": "google"
+          "titleKo": "의회 조사 착수 예고에 백악관 강경 대응 준비",
+          "tr": "claude",
+          "titleKoAlt": "의회가 조사를 계획함에 따라 백악관은 맹렬한 대응을 준비합니다"
         },
         {
           "id": "nyt-7",
@@ -782,11 +793,12 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다.",
-          "tr": "google"
+          "titleKo": "업그레이드 작업이 전국 항공 운항 중단 원인…더피 장관 주장",
+          "tr": "claude",
+          "titleKoAlt": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.822Z",
+      "fetchedAt": "2026-11-15T23:59:59.369Z",
       "status": "ok"
     },
     {
@@ -871,8 +883,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "미국 최초의 무슬림 상원의원이 정치적 사각지대를 폭로하다",
-          "tr": "google"
+          "titleKo": "미국 첫 무슬림 상원의원, 정치권의 맹점 드러내",
+          "tr": "claude",
+          "titleKoAlt": "미국 최초의 무슬림 상원의원이 정치적 사각지대를 폭로하다"
         },
         {
           "id": "fox-6",
@@ -882,8 +895,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다.",
-          "tr": "google"
+          "titleKo": "알리토 대법관 \"국가 분위기와 무관하게 미국은 핵심 원칙 3가지 지켜야\"",
+          "tr": "claude",
+          "titleKoAlt": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다."
         },
         {
           "id": "fox-7",
@@ -893,11 +907,12 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "이란 전문가는 정권이 미국 장교를 지명함에 따라 테헤란의 온라인 위협이 '중요하다'고 경고했습니다.",
-          "tr": "google"
+          "titleKo": "이란 전문가 \"테헤란의 온라인 위협 심각\" 정권, 미군 장교 실명 공개",
+          "tr": "claude",
+          "titleKoAlt": "이란 전문가는 정권이 미국 장교를 지명함에 따라 테헤란의 온라인 위협이 '중요하다'고 경고했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.849Z",
+      "fetchedAt": "2026-11-15T23:59:59.366Z",
       "status": "ok"
     },
     {
@@ -986,8 +1001,9 @@
           "topics": [
             "AI·반도체"
           ],
-          "titleKo": "Nvidia CEO Jensen Huang을 무너뜨린 스캔들의 타임라인",
-          "tr": "google"
+          "titleKo": "엔비디아 CEO 젠슨 황 몰락시킨 스캔들 연표",
+          "tr": "claude",
+          "titleKoAlt": "Nvidia CEO Jensen Huang을 무너뜨린 스캔들의 타임라인"
         },
         {
           "id": "wsj-6",
@@ -998,8 +1014,9 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "Nvidia 낙진에 대한 우려로 인해 미국 주식이 혼합되었습니다.",
-          "tr": "google"
+          "titleKo": "엔비디아 파장 우려에 미 증시 혼조",
+          "tr": "claude",
+          "titleKoAlt": "Nvidia 낙진에 대한 우려로 인해 미국 주식이 혼합되었습니다."
         },
         {
           "id": "wsj-7",
@@ -1010,11 +1027,12 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "Jensen Huang이 AI 경쟁에서 베이징을 유지하는 백도어 경로를 구축한 방법",
-          "tr": "google"
+          "titleKo": "젠슨 황은 어떻게 중국을 AI 경쟁에 붙잡아 두는 우회로를 만들었나",
+          "tr": "claude",
+          "titleKoAlt": "Jensen Huang이 AI 경쟁에서 베이징을 유지하는 백도어 경로를 구축한 방법"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.087Z",
+      "fetchedAt": "2026-11-15T23:59:59.639Z",
       "status": "ok"
     },
     {
@@ -1063,8 +1081,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "낮 동안 러시아 지역 상공에서 우크라이나 드론 230대 격추",
-          "tr": "google"
+          "titleKo": "러시아 지역 상공에서 하루 동안 우크라이나 드론 230대 격추",
+          "tr": "claude",
+          "titleKoAlt": "낮 동안 러시아 지역 상공에서 우크라이나 드론 230대 격추"
         },
         {
           "id": "tass-3",
@@ -1099,8 +1118,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "다르치예프 러시아 대사의 죽음은 외교계에 큰 손실이다 — 고위 외교관",
-          "tr": "google"
+          "titleKo": "다르치예프 러시아 대사 사망은 외교계의 큰 손실 — 러시아 고위 외교관",
+          "tr": "claude",
+          "titleKoAlt": "다르치예프 러시아 대사의 죽음은 외교계에 큰 손실이다 — 고위 외교관"
         },
         {
           "id": "tass-6",
@@ -1111,8 +1131,9 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "유럽연합 집행위원회 위원장, 자신의 결정이 가스 요금 과다 지불로 이어졌음을 인정 — 러시아 외무부",
-          "tr": "google"
+          "titleKo": "EU 집행위원장 \"자체 결정이 가스 과다 지불 초래\" 인정 — 러시아 외무부",
+          "tr": "claude",
+          "titleKoAlt": "유럽연합 집행위원회 위원장, 자신의 결정이 가스 요금 과다 지불로 이어졌음을 인정 — 러시아 외무부"
         },
         {
           "id": "tass-7",
@@ -1123,11 +1144,12 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "유럽은 러시아 가스에 대한 자체 금지로 타격을 입었습니다 — 러시아 MFA",
-          "tr": "google"
+          "titleKo": "유럽, 스스로 택한 러시아산 가스 금수 조치로 타격 — 러시아 외무부",
+          "tr": "claude",
+          "titleKoAlt": "유럽은 러시아 가스에 대한 자체 금지로 타격을 입었습니다 — 러시아 MFA"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:30.975Z",
+      "fetchedAt": "2026-11-15T23:59:59.571Z",
       "status": "ok"
     },
     {
@@ -1177,8 +1199,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "러시아가 압수한 외국 기업을 이용해 수십억 루블을 전쟁 자금으로 활용하고 있다고 블룸버그가 보도했습니다.",
-          "tr": "google"
+          "titleKo": "블룸버그 보도 \"러시아, 몰수한 외국 기업 활용해 전쟁 자금 수십억 루블 조달\"",
+          "tr": "claude",
+          "titleKoAlt": "러시아가 압수한 외국 기업을 이용해 수십억 루블을 전쟁 자금으로 활용하고 있다고 블룸버그가 보도했습니다."
         },
         {
           "id": "meduza-3",
@@ -1215,8 +1238,9 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "유럽, 러시아-우크라이나 평화 회담에서 대륙을 대표할 국가안보보좌관 파견",
-          "tr": "google"
+          "titleKo": "유럽, 러-우크라이나 평화 협상 대표로 국가안보보좌관 내세워",
+          "tr": "claude",
+          "titleKoAlt": "유럽, 러시아-우크라이나 평화 회담에서 대륙을 대표할 국가안보보좌관 파견"
         },
         {
           "id": "meduza-6",
@@ -1226,8 +1250,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "러시아, 미신고 소득에 대한 P2P 은행 이체 감시 움직임",
-          "tr": "google"
+          "titleKo": "러시아, 개인 간(P2P) 은행 송금 감시 추진…미신고 소득 겨냥",
+          "tr": "claude",
+          "titleKoAlt": "러시아, 미신고 소득에 대한 P2P 은행 이체 감시 움직임"
         },
         {
           "id": "meduza-7",
@@ -1238,11 +1263,12 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "러시아, 23억 루블의 비용으로 AI 기반 인터넷 트래픽 필터링 시스템 출시",
-          "tr": "google"
+          "titleKo": "러시아, AI 기반 인터넷 트래픽 필터링 시스템 도입…23억 루블 투입",
+          "tr": "claude",
+          "titleKoAlt": "러시아, 23억 루블의 비용으로 AI 기반 인터넷 트래픽 필터링 시스템 출시"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.085Z",
+      "fetchedAt": "2026-11-15T23:59:59.599Z",
       "status": "ok"
     },
     {
@@ -1259,15 +1285,15 @@
       "items": [
         {
           "id": "kommersant-0",
-          "title": "МЭА: российский экспорт дизеля и газойля превысил 1 млн тонн в октябре",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQUVTZW85Zmw5NHVYbG8yZ003TndqV3NHNnVhb0NVMlAybmpBNGhSWG1MUC1rbU9qMDNCQkxTbmdNZ0g0YVZURFoyTzBQdw?oc=5",
-          "date": "2026-11-13T10:02:35.000Z",
+          "title": "«Эйлер»: цены на российскую сталь продолжат расти благодаря внутреннему спросу",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92NVNUSjliRU1vUXlvYi16cjI1VUZZYklVMC1PVUZLMnVDOWIwZlV2c1J3Yy1ZSW4xSUl3Tk5SNkp5STkyLTgwdmwwel9KQQ?oc=5",
+          "date": "2026-11-15T21:08:21.000Z",
           "topics": [
-            "에너지·원유"
+            "경제·물가"
           ],
-          "titleKo": "국제에너지기구(IEA): 10월 러시아 디젤·경유 수출 100만 톤 넘어",
+          "titleKo": "\"아일러\": 내수 수요 덕에 러시아 철강 가격 계속 오를 전망",
           "tr": "claude",
-          "titleKoAlt": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
+          "titleKoAlt": "오일러: 러시아 철강 가격은 국내 수요로 인해 계속 상승할 것"
         },
         {
           "id": "kommersant-1",
@@ -1284,31 +1310,18 @@
         },
         {
           "id": "kommersant-2",
-          "title": "«Эйлер»: цены на российскую сталь продолжат расти благодаря внутреннему спросу",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92NVNUSjliRU1vUXlvYi16cjI1VUZZYklVMC1PVUZLMnVDOWIwZlV2c1J3Yy1ZSW4xSUl3Tk5SNkp5STkyLTgwdmwwel9KQQ?oc=5",
-          "date": "2026-11-15T21:08:21.000Z",
+          "title": "МЭА: российский экспорт дизеля и газойля превысил 1 млн тонн в октябре",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TQUVTZW85Zmw5NHVYbG8yZ003TndqV3NHNnVhb0NVMlAybmpBNGhSWG1MUC1rbU9qMDNCQkxTbmdNZ0g0YVZURFoyTzBQdw?oc=5",
+          "date": "2026-11-13T10:02:35.000Z",
           "topics": [
-            "경제·물가"
+            "에너지·원유"
           ],
-          "titleKo": "\"아일러\": 내수 수요 덕에 러시아 철강 가격 계속 오를 전망",
+          "titleKo": "국제에너지기구(IEA): 10월 러시아 디젤·경유 수출 100만 톤 넘어",
           "tr": "claude",
-          "titleKoAlt": "오일러: 러시아 철강 가격은 국내 수요로 인해 계속 상승할 것"
-        },
-        {
-          "id": "kommersant-3",
-          "title": "Дисконты на нефть Urals в российских портах стали рекордными с весны 2023 года",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVZlNPUW1Ka1FBNVpPV1A5Q29wVTNsT3RuUlVWZnhoLU9jZjdoRXc4QjlsRng5UzNjbFZ2WU9kWDdtcmtWMy1Kb1hUMzR5Zw?oc=5",
-          "date": "2026-11-13T04:01:22.000Z",
-          "topics": [
-            "에너지·원유",
-            "산업·시장"
-          ],
-          "titleKo": "러시아 항만서 우랄유 할인폭 2023년 봄 이후 최대",
-          "tr": "claude",
-          "titleKoAlt": "우랄 지역의 대부분의 사람들은 병원에 있습니다. 2023년 3월"
+          "titleKoAlt": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.239Z",
+      "fetchedAt": "2026-11-15T23:59:59.727Z",
       "status": "ok"
     },
     {
@@ -1355,8 +1368,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "디왈리는 인도와 키프로스의 우정을 기념하는 \"Cyprus Glows\" 동안 처음으로 키프로스의 대통령궁에 옵니다.",
-          "tr": "google"
+          "titleKo": "키프로스 대통령궁에서 사상 처음 디왈리 행사…\"키프로스 빛나다\", 한-키프로스 우호 기념",
+          "tr": "claude",
+          "titleKoAlt": "디왈리는 인도와 키프로스의 우정을 기념하는 \"Cyprus Glows\" 동안 처음으로 키프로스의 대통령궁에 옵니다."
         },
         {
           "id": "wire-3",
@@ -1378,8 +1392,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "Wires Shruti Sharma는 Noida 노동자 시위에 대한 보도로 HRRF 저널리즘 상을 수상했습니다.",
-          "tr": "google"
+          "titleKo": "더 와이어 슈루티 샤르마, HRRF 언론상 수상…노이다 노동자 시위 취재 보도",
+          "tr": "claude",
+          "titleKoAlt": "Wires Shruti Sharma는 Noida 노동자 시위에 대한 보도로 HRRF 저널리즘 상을 수상했습니다."
         },
         {
           "id": "wire-7",
@@ -1389,11 +1404,12 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "파키스탄, SCO 행사를 위해 무사딕 말릭 환경부 장관을 델리로 보낼 예정",
-          "tr": "google"
+          "titleKo": "파키스탄, SCO 행사 참석차 무사디크 말리크 환경장관 델리 파견",
+          "tr": "claude",
+          "titleKoAlt": "파키스탄, SCO 행사를 위해 무사딕 말릭 환경부 장관을 델리로 보낼 예정"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.325Z",
+      "fetchedAt": "2026-11-15T23:59:59.877Z",
       "status": "ok"
     },
     {
@@ -1439,8 +1455,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "'Naxal 폭력은 부족 공동체에 가장 많은 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌파 극단주의가 사라진 국가를 환영합니다",
-          "tr": "google"
+          "titleKo": "모디 총리 \"나큘 폭력은 부족 공동체에 가장 큰 피해\"…좌익 극단주의 근절 선언, 잔자티야 가우라브 디와스에 발표",
+          "tr": "claude",
+          "titleKoAlt": "'Naxal 폭력은 부족 공동체에 가장 많은 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌파 극단주의가 사라진 국가를 환영합니다"
         },
         {
           "id": "republic-3",
@@ -1485,11 +1502,12 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "Diljit Dosanjh의 뭄바이 콘서트에 참석하시나요? 전화 규칙 및 높은 보안 속에서 기대할 수 있는 것",
-          "tr": "google"
+          "titleKo": "디질트 도산지 뭄바이 공연 참석? 휴대폰 규정과 삼엄한 경비 속 예상 사항",
+          "tr": "claude",
+          "titleKoAlt": "Diljit Dosanjh의 뭄바이 콘서트에 참석하시나요? 전화 규칙 및 높은 보안 속에서 기대할 수 있는 것"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.478Z",
+      "fetchedAt": "2026-11-15T23:59:59.951Z",
       "status": "ok"
     },
     {
@@ -1536,8 +1554,9 @@
           "topics": [
             "예산·재정"
           ],
-          "titleKo": "인도는 이번 회계연도에 1조 달러 수출 목표를 달성할 순조롭게 진행되고 있습니다: Goyal",
-          "tr": "google"
+          "titleKo": "고얄 장관 \"이번 회계연도 1조 달러 수출 목표 달성 궤도 진입\"",
+          "tr": "claude",
+          "titleKoAlt": "인도는 이번 회계연도에 1조 달러 수출 목표를 달성할 순조롭게 진행되고 있습니다: Goyal"
         },
         {
           "id": "et-3",
@@ -1572,8 +1591,9 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "설명: AI 기반 해커가 인도의 금융 배관을 악용하여 돈을 훔치는 방법",
-          "tr": "google"
+          "titleKo": "해설: AI 기반 해커들, 인도 금융 인프라 악용해 돈 탈취",
+          "tr": "claude",
+          "titleKoAlt": "설명: AI 기반 해커가 인도의 금융 배관을 악용하여 돈을 훔치는 방법"
         },
         {
           "id": "et-6",
@@ -1584,8 +1604,9 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "Jitendra Singh, 인도와 이탈리아에 AI, 생명공학 분야 공동 연구 강화 촉구",
-          "tr": "google"
+          "titleKo": "지테드라 싱 \"인도·이탈리아, AI·바이오 공동 연구 강화해야\"",
+          "tr": "claude",
+          "titleKoAlt": "Jitendra Singh, 인도와 이탈리아에 AI, 생명공학 분야 공동 연구 강화 촉구"
         },
         {
           "id": "et-7",
@@ -1595,11 +1616,12 @@
           "topics": [
             "금리·물가"
           ],
-          "titleKo": "인도, 결핵 사망률 38% 감소, 치료 성공률 94% 증가: 센터",
-          "tr": "google"
+          "titleKo": "인도 결핵 사망률 38% 감소…치료 성공률 94%로 상승 - 중앙정부 발표",
+          "tr": "claude",
+          "titleKoAlt": "인도, 결핵 사망률 38% 감소, 치료 성공률 94% 증가: 센터"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.451Z",
+      "fetchedAt": "2026-11-15T23:59:59.978Z",
       "status": "ok"
     },
     {
@@ -1645,8 +1667,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "인도는 더 이상 민주주의로 기능하지 않으며 2014년 이후 파괴되었습니다: 라훌 간디",
-          "tr": "google"
+          "titleKo": "라훌 간디 \"2014년 이후 인도는 민주주의로 작동하지 않아\"",
+          "tr": "claude",
+          "titleKoAlt": "인도는 더 이상 민주주의로 기능하지 않으며 2014년 이후 파괴되었습니다: 라훌 간디"
         },
         {
           "id": "hindu-3",
@@ -1680,8 +1703,9 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "인더스 물 긴장 속에서 파키스탄은 SCO Civilizational Dialogue에 보컬 비평가를 파견합니다. 3년 만에 첫 장관 방문",
-          "tr": "google"
+          "titleKo": "인더스강 물 갈등 속 파키스탄, 비판적 인사를 SCO 문명 대화에 파견…3년 만의 장관급 방문",
+          "tr": "claude",
+          "titleKoAlt": "인더스 물 긴장 속에서 파키스탄은 SCO Civilizational Dialogue에 보컬 비평가를 파견합니다. 3년 만에 첫 장관 방문"
         },
         {
           "id": "hindu-6",
@@ -1691,8 +1715,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "Microsoft 중단: Microsoft Outlook 및 기타 제품이 전 세계적으로 오프라인 상태가 된 이유는 무엇입니까?",
-          "tr": "google"
+          "titleKo": "마이크로소프트 장애: 아웃룩 등 제품 전 세계 먹통…원인은?",
+          "tr": "claude",
+          "titleKoAlt": "Microsoft 중단: Microsoft Outlook 및 기타 제품이 전 세계적으로 오프라인 상태가 된 이유는 무엇입니까?"
         },
         {
           "id": "hindu-7",
@@ -1702,11 +1727,12 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다.",
-          "tr": "google"
+          "titleKo": "샤시 타루르 \"바라트 서밋 연사 115명 입국 거부·비자 취소\"",
+          "tr": "claude",
+          "titleKoAlt": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.682Z",
+      "fetchedAt": "2026-11-16T00:00:00.203Z",
       "status": "ok"
     },
     {
@@ -1790,8 +1816,9 @@
             "정치·선거",
             "사회·생활"
           ],
-          "titleKo": "Modi 총리는 Eklavya Vidyalaya를 온라인으로 취임시켰고 Joba Majhi 의원은 교육만이 아이들의 미래를 결정할 것이라고 말했습니다.",
-          "tr": "google"
+          "titleKo": "모디 총리, 에클라비야 학교 온라인 개교 행사 주재…조바 마지 의원 \"아이들의 미래는 교육으로 결정\"",
+          "tr": "claude",
+          "titleKoAlt": "Modi 총리는 Eklavya Vidyalaya를 온라인으로 취임시켰고 Joba Majhi 의원은 교육만이 아이들의 미래를 결정할 것이라고 말했습니다."
         },
         {
           "id": "jagran-6",
@@ -1802,8 +1829,9 @@
             "예산·재정",
             "정치·선거"
           ],
-          "titleKo": "우타르프라데시(Uttar Pradesh)의 주택 세금 체납자들에게 큰 안도감을 주기 위해 요기 정부는 OTS 계획의 마지막 날짜를 한 달 연장했습니다.",
-          "tr": "google"
+          "titleKo": "우타르프라데시 주민세 체납자에 큰 숨통…요기 정부, OTS 제도 신청 마감 한 달 연장",
+          "tr": "claude",
+          "titleKoAlt": "우타르프라데시(Uttar Pradesh)의 주택 세금 체납자들에게 큰 안도감을 주기 위해 요기 정부는 OTS 계획의 마지막 날짜를 한 달 연장했습니다."
         },
         {
           "id": "jagran-7",
@@ -1813,11 +1841,12 @@
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "판누 살인 음모: 미국 정부는 니힐 굽타에게 24년의 징역형을 요구하고, 결정은 11월 20일에 나올 것입니다.",
-          "tr": "google"
+          "titleKo": "판누 암살 음모 사건…미 정부, 니킬 굽타에 징역 24년 구형, 11월 20일 선고",
+          "tr": "claude",
+          "titleKoAlt": "판누 살인 음모: 미국 정부는 니힐 굽타에게 24년의 징역형을 요구하고, 결정은 11월 20일에 나올 것입니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.750Z",
+      "fetchedAt": "2026-11-16T00:00:00.271Z",
       "status": "ok"
     },
     {
@@ -1900,8 +1929,9 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "경제 감시: 오스트리아 기업들은 총리 방문 이후 중국에서 새로운 기회를 모색하고 있습니다.",
-          "tr": "google"
+          "titleKo": "경제 워치: 오스트리아 총리 방중 이후 중국 시장 신규 기회 모색하는 오스트리아 기업들",
+          "tr": "claude",
+          "titleKoAlt": "경제 감시: 오스트리아 기업들은 총리 방문 이후 중국에서 새로운 기회를 모색하고 있습니다."
         },
         {
           "id": "xinhua-6",
@@ -1911,8 +1941,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "SpaceX, 15번째 우주선 비행 테스트 완료, 우주선이 발사대에 처음으로 포착",
-          "tr": "google"
+          "titleKo": "스페이스X, 15번째 스타십 시험비행 완료…우주선 발사탑에 처음으로 포획",
+          "tr": "claude",
+          "titleKoAlt": "SpaceX, 15번째 우주선 비행 테스트 완료, 우주선이 발사대에 처음으로 포착"
         },
         {
           "id": "xinhua-7",
@@ -1922,11 +1953,12 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "긴급: 중국-아세안 정상회담을 위해 중국 최초로 마닐라에 상륙",
-          "tr": "google"
+          "titleKo": "속보: 중국 총리, 중국-아세안 정상회의 참석차 마닐라 도착",
+          "tr": "claude",
+          "titleKoAlt": "긴급: 중국-아세안 정상회담을 위해 중국 최초로 마닐라에 상륙"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.834Z",
+      "fetchedAt": "2026-11-16T00:00:00.309Z",
       "status": "ok"
     },
     {
@@ -2017,8 +2049,9 @@
             "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "표지 기사: 중국 AI 인프라 러시의 전망과 위험",
-          "tr": "google"
+          "titleKo": "커버스토리: 중국 AI 인프라 붐의 약속과 위험",
+          "tr": "claude",
+          "titleKoAlt": "표지 기사: 중국 AI 인프라 러시의 전망과 위험"
         },
         {
           "id": "caixin-6",
@@ -2029,11 +2062,12 @@
             "산업·시장"
           ],
           "opinion": true,
-          "titleKo": "분석: 중국 보험사의 주식 베팅은 주식 리스크의 한계를 테스트합니다.",
-          "tr": "google"
+          "titleKo": "분석: 중국 보험사 주식 투자, 지분 위험의 한계 시험대에",
+          "tr": "claude",
+          "titleKoAlt": "분석: 중국 보험사의 주식 베팅은 주식 리스크의 한계를 테스트합니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:31.753Z",
+      "fetchedAt": "2026-11-16T00:00:00.255Z",
       "status": "ok"
     },
     {
@@ -2132,8 +2166,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "이라크 총리, 친이란 거점에서 석유 밀수 혐의로 관리 9명 해고",
-          "tr": "google"
+          "titleKo": "이라크 총리, 친이란 거점서 석유 밀수 연루 공무원 9명 해임",
+          "tr": "claude",
+          "titleKoAlt": "이라크 총리, 친이란 거점에서 석유 밀수 혐의로 관리 9명 해고"
         },
         {
           "id": "aljazeera-7",
@@ -2143,11 +2178,12 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?",
-          "tr": "google"
+          "titleKo": "마이크로소프트 전 세계 장애 발생…무슨 일이 있었나, 원인은?",
+          "tr": "claude",
+          "titleKoAlt": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:32.127Z",
+      "fetchedAt": "2026-11-16T00:00:00.734Z",
       "status": "ok"
     },
     {
@@ -2245,8 +2281,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "태스크 포스 아이언 게이트: 미국이 이란의 육로 무역로를 봉쇄할 수 없는 이유",
-          "tr": "google"
+          "titleKo": "타스크포스 아이언 게이트: 미국이 이란의 육로 교역로를 차단하지 못하는 이유",
+          "tr": "claude",
+          "titleKoAlt": "태스크 포스 아이언 게이트: 미국이 이란의 육로 무역로를 봉쇄할 수 없는 이유"
         },
         {
           "id": "presstv-7",
@@ -2256,11 +2293,12 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "영국 학교의 반유대주의 검토, '조잡한' 증거 때문에 비난",
-          "tr": "google"
+          "titleKo": "영국 학교 반유대주의 검토 보고서, \"부실한\" 근거 자료로 비판받아",
+          "tr": "claude",
+          "titleKoAlt": "영국 학교의 반유대주의 검토, '조잡한' 증거 때문에 비난"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:32.005Z",
+      "fetchedAt": "2026-11-16T00:00:00.615Z",
       "status": "ok"
     },
     {
@@ -2361,8 +2399,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "출처: 트럼프는 고문들에게 도발하지 않는 한 이란의 새로운 공격을 피할 수 있다고 말했습니다.",
-          "tr": "google"
+          "titleKo": "소식통 \"트럼프, 도발이 없다면 새 이란 공습 피할 수도\" 참모들에게 밝혀",
+          "tr": "claude",
+          "titleKoAlt": "출처: 트럼프는 고문들에게 도발하지 않는 한 이란의 새로운 공격을 피할 수 있다고 말했습니다."
         },
         {
           "id": "haaretz-7",
@@ -2373,11 +2412,12 @@
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "EU, 겨울철 상황이 악화됨에 따라 가자지구 위기가 빠르게 악화될 것이라고 경고",
-          "tr": "google"
+          "titleKo": "EU \"겨울 날씨 심화 속 가자 위기 급속 악화\" 경고",
+          "tr": "claude",
+          "titleKoAlt": "EU, 겨울철 상황이 악화됨에 따라 가자지구 위기가 빠르게 악화될 것이라고 경고"
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:32.147Z",
+      "fetchedAt": "2026-11-16T00:00:00.755Z",
       "status": "ok"
     },
     {
@@ -2484,8 +2524,9 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "아시아 투데이 | 대륙 정유소는 중동 석유 구매를 늘리고 칩에 대한 우려를 표명합니다.",
-          "tr": "google"
+          "titleKo": "아시아 오늘 | 아시아 정유사, 중동산 원유 구매 늘려…반도체 우려도",
+          "tr": "claude",
+          "titleKoAlt": "아시아 투데이 | 대륙 정유소는 중동 석유 구매를 늘리고 칩에 대한 우려를 표명합니다."
         },
         {
           "id": "asharq-7",
@@ -2496,28 +2537,29 @@
             "금리·물가",
             "경제·물가"
           ],
-          "titleKo": "유로존 경제의 성장으로 인해 유럽중앙은행은 금리를 인상할 여지를 갖게 되었습니다.",
-          "tr": "google"
+          "titleKo": "유로존 경제 성장세에 유럽중앙은행 금리 인상 여력 생겨",
+          "tr": "claude",
+          "titleKoAlt": "유로존 경제의 성장으로 인해 유럽중앙은행은 금리를 인상할 여지를 갖게 되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:58:32.197Z",
+      "fetchedAt": "2026-11-16T00:00:00.758Z",
       "status": "ok"
     }
   ],
   "collector": {
     "successful": 23,
     "total": 23,
-    "translated": 176,
-    "byClaude": 118,
+    "translated": 175,
+    "byClaude": 172,
     "claude": {
       "run": {
-        "titles": 37,
-        "usd": 0.0062244,
-        "rejected": 23,
+        "titles": 56,
+        "usd": 0.0020934,
+        "rejected": 3,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0224,
+      "monthUsd": 0.0245,
       "limitUsd": 2
     }
   }
