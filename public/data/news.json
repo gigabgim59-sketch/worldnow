@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T00:00:22.134Z",
+  "generatedAt": "2026-11-16T00:04:09.482Z",
   "feeds": [
     {
       "source": {
@@ -39,19 +39,6 @@
         },
         {
           "id": "guardian-2",
-          "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnpvNXJzaHE4UjFSUFIyNm5qRnlPY1cwaDF6Rkt0Q2RpWklVblc0ajRNd3FTX294b1B0bUhoQmtzc1czM1dDcFVUYmdvTjBla3d3d1VXOXlCQVBOOU9nUFRwWndKZWE5aXNLVGVJX0NtRFNfMFo0em5hZERKemFGQ2VOblVpTUk?oc=5",
-          "date": "2026-11-15T21:03:00.000Z",
-          "topics": [
-            "에너지·원유",
-            "정치·선거"
-          ],
-          "titleKo": "로즈뱅크 유전 개발 놓고 노동당 반발 의원 100명 넘을 듯",
-          "tr": "claude",
-          "titleKoAlt": "로즈뱅크 유전에 대한 노동당 반란, 국회의원 100명 돌파 예상"
-        },
-        {
-          "id": "guardian-3",
           "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3hIR3ZaUHRsUFBmN1p1cENXcjhSakZWQmVJUFA2bUZ3eU9MR0VySTdUSjNNbjNfMnZsalkySFpYVW5pSF82Zl9tcm1NaEpCS09PYVBTUzI5cS1laldmM0YyZlRwSHZGdEo5dXNmQjJmWVVESFpLQ1RsY1c3OTI0ampmRUUtc0IzV1VEdjNvNG1WV2lacGViaEpraTZwSWUwV2IyaXBqYXBPS2NBZFNoTDE4SXNHeklrclA0MFJWN0VMZw?oc=5",
           "date": "2026-11-15T21:57:00.000Z",
@@ -62,6 +49,19 @@
           "titleKo": "호주·영국·캐나다·이탈리아, 겨울 앞두고 이스라엘에 가자 필수 구호품 허용 촉구",
           "tr": "claude",
           "titleKoAlt": "호주, 영국, 캐나다, 이탈리아는 이스라엘에게 겨울이 오기 전에 가자 지구에 대한 중요한 지원을 허용할 것을 촉구합니다."
+        },
+        {
+          "id": "guardian-3",
+          "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnpvNXJzaHE4UjFSUFIyNm5qRnlPY1cwaDF6Rkt0Q2RpWklVblc0ajRNd3FTX294b1B0bUhoQmtzc1czM1dDcFVUYmdvTjBla3d3d1VXOXlCQVBOOU9nUFRwWndKZWE5aXNLVGVJX0NtRFNfMFo0em5hZERKemFGQ2VOblVpTUk?oc=5",
+          "date": "2026-11-15T21:03:00.000Z",
+          "topics": [
+            "에너지·원유",
+            "정치·선거"
+          ],
+          "titleKo": "로즈뱅크 유전 개발 놓고 노동당 반발 의원 100명 넘을 듯",
+          "tr": "claude",
+          "titleKoAlt": "로즈뱅크 유전에 대한 노동당 반란, 국회의원 100명 돌파 예상"
         },
         {
           "id": "guardian-4",
@@ -114,7 +114,7 @@
           "titleKoAlt": "£5m 이상의 기부금 청구에도 불구하고 Reform UK가 Nigel Farage의 보증금을 지불했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:58.944Z",
+      "fetchedAt": "2026-11-16T00:04:05.483Z",
       "status": "ok"
     },
     {
@@ -227,7 +227,7 @@
           "titleKoAlt": "호르무즈해협에서 초대형 유조선이 광산에 부딪혀 침몰했다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:58.942Z",
+      "fetchedAt": "2026-11-16T00:04:05.481Z",
       "status": "ok"
     },
     {
@@ -331,18 +331,18 @@
         },
         {
           "id": "ft-7",
-          "title": "RedBird explores listing for new AC Milan holding company",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR2tpdFdFT0p0NVR1WUNPNXlncmlUS0hOQUYtS3ZFNjBGRm1qY1doMDNSWnpPTHotMjAybm9CZW5MRWZPM1dwdXQ0cVFKcHlSSUM2NGVITWlJbEJKS293TmNZdUc4ZTJoajZrUDEtcTF3X2FnNzdaTExZN0hmMElTUnJOMFk?oc=5",
-          "date": "2026-11-13T11:10:00.000Z",
+          "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc1JOaEdsdTdDNG5MMWZtVW5rSWx1S2dKTXZ3ZmdOVUd2X2NFa1BmeS1kWkZpZ0diYmxZNGEtQ3R1MzNVN0RBM0txbHpfakxKR1MtblJZMFhsXzlacTlqUEpCZGZicmZLcm5yaHU3bGRDX1hBUHBPNEZ3TXJlZEwtTXRGeHg?oc=5",
+          "date": "2026-11-13T20:17:46.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "레드버드, 새 AC밀란 지주회사 상장 검토",
+          "titleKo": "마이크로소프트 \"전 세계 서비스 장애 이후 '광범위한 회복' 진행 중\"",
           "tr": "claude",
-          "titleKoAlt": "RedBird, 새로운 AC Milan 지주회사 상장 모색"
+          "titleKoAlt": "마이크로소프트는 글로벌 중단 이후 서비스가 '광범위한 복구'를 경험하고 있다고 밝혔습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:58.940Z",
+      "fetchedAt": "2026-11-16T00:04:05.479Z",
       "status": "ok"
     },
     {
@@ -372,30 +372,6 @@
         },
         {
           "id": "liberation-1",
-          "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVVlPSGJENHlJSnM3aEVWY0lrU3R0aFM2cWl2UHo3Ynp5dEFsclJ6aUNXeWNLRWRHOEtzWW0xZXl6OXAxVHFXOWZSTlIxSXFQa080cHo5UGxUS0VPNlY4Qm1tcTJOSkpuNzRETWJLcDBSUldTeWItV0ZwZ3ZIbGx2R3Z0Wm81UTBBVHJybl9SRm9VdnRpcVlKdXRUT1I5Wjk4UDFpLThLcjBDMFByTl9qSzAwUWJwTkppdFBaV1NJWHBVQ2V3eDJGNXlUWFQxSnlmZTh2WUhQSmJwWnJqSlFBYkRubVdPeGZoOGYwWmU4S2E3N2FxWElQMHJTeEh0cl8wMHV6TldiZ3I2b0dxaWU4VUJwdi1yaHM?oc=5",
-          "date": "2026-11-15T14:45:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "텍사스 남부, 트럼프 장벽에 반발 확산… \"여기서 유일한 침공은 연방정부의 침공\"",
-          "tr": "claude",
-          "titleKoAlt": "남부 텍사스에서 트럼프 장벽에 대한 반란: \"여기의 유일한 침략은 연방 정부의 침략입니다."
-        },
-        {
-          "id": "liberation-2",
-          "title": "Présidentielle : au salon du Made in France, Teddy Riner coupe le cordon avec Macron, mais ne donne toujours pas de programme",
-          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMjVrQzNodDZRT0ViakZtQUdLUGRmV211V183MDlDVHppUGc0dGtGQ2JNRnBtOEpPek5YVzZDNDdkbjc1NnVkQTVGTlNSRWJvQjE3LTU5eDZsc1ZRbGtHLXczMGljbGNuMkM0aDk3RXFZQ0pNM0FyZTdfaTJxUTZmd3Q1b3F4WGVLczdOUEZIdzhmUXJoeEF6X0lCcHkzZDNoLVNJMi1NTEtNX1F4a2tGUXdxTjdreG1qOERVUGVUVExDdjNrYVdYdXR0cjdEWl9jSnFhd2R4RG9hdzBCWkNXc0tFTDdEVjBZdGhPV1RQTU1TUmxmcGpmempBTWk0Z3BZTWlJVlMxZjFvOHNacWZQcnAyZHhUQlVjdG9HVWlJbw?oc=5",
-          "date": "2026-11-14T19:05:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "대선: '메이드 인 프랑스' 박람회서 테디 리네, 마크롱과 선 그었지만 공약은 여전히 미공개",
-          "tr": "claude",
-          "titleKoAlt": "대통령 선거: '메이드 인 프랑스' 박람회에서 테디 리네르는 마크롱과의 관계를 끊었지만 여전히 공약은 발표하지 않았습니다."
-        },
-        {
-          "id": "liberation-3",
           "title": "Attentat de Trappes : Sandrine Rousseau accuse le gouvernement de «sous-estimer la menace venant de l’extrême droite",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd3EySWVYOEdIUXVldl9SVWdZeEdUdHF4eEJwdzhmdDY3d21pVklpS0plYkk5QUE5VWpZQUJBdDZoZWU5V3JvV3JhREFFZ25oZ3gzY3F2U3BKbkFUSWY3SG1raE9Fc2xLbU9DcERNazhlNW5uR1BobEJ0eDd6OFd3UXZWTnpFa2NZejBUWUxuOEhlcndCWUJJOEdPLTR5dWd3LTJtX3cyb3lhek1ld2Vyc3VnS0p6bVRoWW1jUjZMUFp6QjNZcGk3RWdKOEh0QU1CVG9LSDNEckcxb2ExREdDdklfQWd6QU81Uzl4TjlsMF9yOW9kNWd2c2RaTndMVF9jQmxNeURfRzNQX1ZNVzhmN3ZWSQ?oc=5",
           "date": "2026-11-15T13:53:39.000Z",
@@ -407,7 +383,7 @@
           "titleKoAlt": "Trappes 공격: Sandrine Rousseau는 정부가 \"극우파의 위협을 과소평가하고 있다\"고 비난했습니다."
         },
         {
-          "id": "liberation-4",
+          "id": "liberation-2",
           "title": "Le gouvernement interdit la vente de mortiers d’artifice jusqu’à fin novembre",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTVtY2owaWYwM2k3Y1ZEd3FlSUU5d0NJcVdhckZVd1g1WGVESzFfTGIyVTZNQkptT0c3ZGMydFF3ZGJxYWhSakYzakZEbmJyaW1NRDNaY1VtU2ItNWFOZXlGa0R3R3NzVjNYYmxCTDU5RlhWVE85TFVod0h0NWM2NW5qZzc3Rm1CMXI5VEhjTHNxcjh4WjlueW92aFRfNmgzS09qSzZ2MVBtYy1JU2hJVFlVcGt4OXFvcS1SWmpVZ2gweUp4UFRhZTN1RDBidFJFQlM4aDk2MWdhLUY2R0tB?oc=5",
           "date": "2026-11-15T07:54:12.000Z",
@@ -419,7 +395,7 @@
           "titleKoAlt": "정부, 11월말까지 폭죽 판매 금지"
         },
         {
-          "id": "liberation-5",
+          "id": "liberation-3",
           "title": "Mouvement social : plus de 400 personnes interpellées en France lors des manifestations de samedi",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOGJJRm5VQVlqVU1TY2YtT1pGSHd0S1YwbXpzMFhYUUptSVZXMTZPeTNHekRMdFJJQXZGbGJpU3JOdDRDQ1lSRVpmdnhDeGJlcmtlRDBwdllDUU9aN2p2WGY5LS1ocE9rYmpRNTNTcjl0dmVCTk9rTWZxWXZkeUREbmU0ZmR1UXJucDZ1QmRtQUdtV1htTFUwTVEwOWU1UldPX1RmMGkxcnlhNEY1TmpnaDJ2VTByOTdPOFVINll3NFZiY0ZQVC1fNm5JSFNGc0JyTUlHcjRSWUZwUUtWd3lCU0U2Y05lN1JGTUFUU180QS12TlJqQTlHN1dTVC10S3ZSbEkzU3FaSkQwNncyVXc?oc=5",
           "date": "2026-11-15T14:26:25.000Z",
@@ -431,7 +407,19 @@
           "titleKoAlt": "사회적 지원: 유사한 증상이 나타나는 동안 프랑스에서 상호 작용하는 400명 이상의 사람들"
         },
         {
-          "id": "liberation-6",
+          "id": "liberation-4",
+          "title": "Présidentielle : au salon du Made in France, Teddy Riner coupe le cordon avec Macron, mais ne donne toujours pas de programme",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMjVrQzNodDZRT0ViakZtQUdLUGRmV211V183MDlDVHppUGc0dGtGQ2JNRnBtOEpPek5YVzZDNDdkbjc1NnVkQTVGTlNSRWJvQjE3LTU5eDZsc1ZRbGtHLXczMGljbGNuMkM0aDk3RXFZQ0pNM0FyZTdfaTJxUTZmd3Q1b3F4WGVLczdOUEZIdzhmUXJoeEF6X0lCcHkzZDNoLVNJMi1NTEtNX1F4a2tGUXdxTjdreG1qOERVUGVUVExDdjNrYVdYdXR0cjdEWl9jSnFhd2R4RG9hdzBCWkNXc0tFTDdEVjBZdGhPV1RQTU1TUmxmcGpmempBTWk0Z3BZTWlJVlMxZjFvOHNacWZQcnAyZHhUQlVjdG9HVWlJbw?oc=5",
+          "date": "2026-11-14T19:05:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "대선: '메이드 인 프랑스' 박람회서 테디 리네, 마크롱과 선 그었지만 공약은 여전히 미공개",
+          "tr": "claude",
+          "titleKoAlt": "대통령 선거: '메이드 인 프랑스' 박람회에서 테디 리네르는 마크롱과의 관계를 끊었지만 여전히 공약은 발표하지 않았습니다."
+        },
+        {
+          "id": "liberation-5",
           "title": "Le gouvernement chiffre à environ 1 milliard d’euros les gestes pour les bas salaires",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZnMzQ3RXUXZPeEw4aHdCWkkyUjF2Sk13eWU3Rk5sSTNNTHFKQmRYeTQ5cVNZcTIzcFlkNkFfc2piY29KTGtGaUl3aTRQX3JRZEtUenRMZ09uZGJqSmphX201VXdDRTI0VW1uU1p5Mk9UbV85dENWZ3U0SnRUYTVMVU5FRld1N2pnaXdfZGVGdmxwWDQtSEdfbjBZUFBhZi1SeGR2MVJfZW9nNXc4WkJ4YmQ4SkxWb2EyRk5ab3ZjeHRNdVpSNmx6d0Q3Y1JpSjNLUEN3SG1EY0NWQThQWFE4MWkzYTZsWGZVaS1Jd0FjeEROeDNOZ2c?oc=5",
           "date": "2026-11-15T10:53:33.000Z",
@@ -443,18 +431,31 @@
           "titleKoAlt": "기본 급여 금액으로 100만 유로 환경에서 소득 수령"
         },
         {
-          "id": "liberation-7",
+          "id": "liberation-6",
           "title": "Manifestation pour l’acte V contre la vie chère : entre 106 000 et 200 000 personnes ont défilé en France",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeEtyWlI1NE1pRkFWeDlZZkMybXFWbmNDZmM5LXZjUTM3NlB0U1FvSUhTbFFxcEt6LXItMDhBeWJxTU5mVEhZbGJyUnBrajgwelI3LXRMc3Y0UTJEbU5YZEJNZTNGV2oxYzB6UTdJYVRGM19aeFpHYUJITVFoeXE3WWVkam1vWnZvX2xGZTBaNkg3X0JlQk94djE0bC03bS1xMzBvNVc2enhldXgzZE53X3FpNmRCVGVaYnN6Vkc0TDh2dFZ3UjVhZGZTUHY?oc=5",
           "date": "2026-11-14T17:21:00.000Z",
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "높은 생활비에 반대하는 Act V 시위: 프랑스에서는 106,000~200,000명이 행진했습니다.",
-          "tr": "google"
+          "titleKo": "물가 고통에 반대하는 제5차 시위, 프랑스 전역서 10만 6천~20만 명 행진",
+          "tr": "claude",
+          "titleKoAlt": "높은 생활비에 반대하는 Act V 시위: 프랑스에서는 106,000~200,000명이 행진했습니다."
+        },
+        {
+          "id": "liberation-7",
+          "title": "Dans le sud du Texas, la révolte contre le mur de Trump : «La seule invasion, ici, c’est celle du gouvernement fédéral",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVVlPSGJENHlJSnM3aEVWY0lrU3R0aFM2cWl2UHo3Ynp5dEFsclJ6aUNXeWNLRWRHOEtzWW0xZXl6OXAxVHFXOWZSTlIxSXFQa080cHo5UGxUS0VPNlY4Qm1tcTJOSkpuNzRETWJLcDBSUldTeWItV0ZwZ3ZIbGx2R3Z0Wm81UTBBVHJybl9SRm9VdnRpcVlKdXRUT1I5Wjk4UDFpLThLcjBDMFByTl9qSzAwUWJwTkppdFBaV1NJWHBVQ2V3eDJGNXlUWFQxSnlmZTh2WUhQSmJwWnJqSlFBYkRubVdPeGZoOGYwWmU4S2E3N2FxWElQMHJTeEh0cl8wMHV6TldiZ3I2b0dxaWU4VUJwdi1yaHM?oc=5",
+          "date": "2026-11-15T14:45:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "텍사스 남부, 트럼프 장벽에 반발 확산… \"여기서 유일한 침공은 연방정부의 침공\"",
+          "tr": "claude",
+          "titleKoAlt": "남부 텍사스에서 트럼프 장벽에 대한 반란: \"여기의 유일한 침략은 연방 정부의 침략입니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:58.932Z",
+      "fetchedAt": "2026-11-16T00:04:05.472Z",
       "status": "ok"
     },
     {
@@ -568,7 +569,7 @@
           "titleKoAlt": "“10억유로 조금 넘는다”: 정부가 밝힌 공무원 최저임금 인상과 저임금 비용"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.319Z",
+      "fetchedAt": "2026-11-16T00:04:05.859Z",
       "status": "ok"
     },
     {
@@ -685,7 +686,7 @@
           "titleKoAlt": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.264Z",
+      "fetchedAt": "2026-11-16T00:04:05.866Z",
       "status": "ok"
     },
     {
@@ -798,7 +799,7 @@
           "titleKoAlt": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.369Z",
+      "fetchedAt": "2026-11-16T00:04:05.864Z",
       "status": "ok"
     },
     {
@@ -912,7 +913,7 @@
           "titleKoAlt": "이란 전문가는 정권이 미국 장교를 지명함에 따라 테헤란의 온라인 위협이 '중요하다'고 경고했습니다."
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.366Z",
+      "fetchedAt": "2026-11-16T00:04:05.893Z",
       "status": "ok"
     },
     {
@@ -931,7 +932,7 @@
           "id": "wsj-0",
           "title": "Opinion | The Success of President Trump’s Tariff Policy",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5",
-          "date": "2026-11-15T17:58:55.000Z",
+          "date": "2026-11-15T17:57:00.000Z",
           "topics": [
             "정치·선거",
             "산업·시장"
@@ -943,18 +944,6 @@
         },
         {
           "id": "wsj-1",
-          "title": "Seniors Have Made Florida’s Southwest Coast America’s Richest Retirement Market",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOelU2aHpDVm9iU0dBQm93QzNMVVpVOU91Y2tBdURDNWw4VldjYkZEZXVZX203NFhUcFZORk1zcHU2NUV5WjZ3WmhsNWpTRmQtSTdOR0UxS2FHY19pdGM3LWFraUtFUDhXYS1SdWppc3BPek1FLWNqb2pGRVpzQm1rcVJSZjVhTWE4SVVnWU5QWXhyWmRL?oc=5",
-          "date": "2026-11-13T00:01:35.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "고령층이 만든 플로리다 남",
-          "tr": "claude",
-          "titleKoAlt": "노인들은 플로리다의 남서부 해안을 미국에서 가장 부유한 은퇴 시장으로 만들었습니다."
-        },
-        {
-          "id": "wsj-2",
           "title": "Lutnick Fights for His Job as Trump Aides Blame Him for Nvidia Fallout",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNjVWV4allxWlI5bV9vdHIxNUVScENRellUNHpWV2lIOGJCOU5MS2ZEbDBMS3N3LUdoUUpMcE9SOF9oMThfSVdjdEVPd3A0dDBEcmMyRXhIbGhUelRtYXBvQjZtN2JJandKa1ljeDBHT0NDU2dBMGVodU1FMF9zZGJkOU9WblptbVZDejJzWTdYandKOXc3OXMteE5kRUM0SW5GT1BQS2h2dE9XTFFKdUJDQ3gyUQ?oc=5",
           "date": "2026-11-13T00:44:00.000Z",
@@ -967,7 +956,7 @@
           "titleKoAlt": "트럼프 보좌관들이 엔비디아 사태로 그를 비난하는 가운데, 러트닉이 자신의 직위를 지키기 위해 싸우다"
         },
         {
-          "id": "wsj-3",
+          "id": "wsj-2",
           "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXd4UlN6UWw5UmxJZGc3QnA5Sm5hVi1hRUl1blh3bnRfSnc3Zk4yeG53UjdFbjFvaklZbWRrN0ludmgxbm02cDFBZURTaXdDQTNxZ0gyZUk0OG5XeGVUUy1CZW94T19IUmVLWmFacU02eDVLbnYxcGU0TDI5SDVxMTQ3T0RaanNTdFFaUWpWZEZIbnVDU0hyUFpUVHAzajF4bTlJaWlCUQ?oc=5",
           "date": "2026-11-14T12:06:00.000Z",
@@ -981,7 +970,7 @@
           "titleKoAlt": "서방의 기술과 AI를 겨냥한 중국의 대규모 스파이 작전 | 11월 14일자 10가지 핵심 사항"
         },
         {
-          "id": "wsj-4",
+          "id": "wsj-3",
           "title": "Iran’s New Cyber Playbook: Create Real-World Havoc",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWHhDQVhxRWctTTRqSVdYVHZkYXlsb2hZTmlfSFNVRFZVOHJlSU1lWW1PUHhyN1hUMGhHUmtNQUlJOGJwRm8wSDNIOGhValpYbVFOVWplZ1BfckdNbnlNWUhOcHp4SFVnOUNJVlB6dlVkRG9McFBmd0xta0w0a2FpaUF6NlZLWXZRR0lxSnVoZmV4dEFCN1JJcUZkTQ?oc=5",
           "date": "2026-11-13T01:00:00.000Z",
@@ -994,7 +983,7 @@
           "titleKoAlt": "이란의 새로운 사이버 플레이북: 실제 세계를 혼란에 빠뜨리다"
         },
         {
-          "id": "wsj-5",
+          "id": "wsj-4",
           "title": "A Timeline of the Scandals That Brought Down Nvidia CEO Jensen Huang",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXB2RnB0R01qNVRtM25qWVlJUFhtM3lFOTJLdEtGQklVRC1zUFJTeW5ST2c4T3dZZVFHNlJJNW44WTBfd0xOelpwUTJybllxd254dDhOMXFBQmx6NmxvZVJmcmpUSnRTUW5vS3Q4MGV0ckRmMVRsbURjUzM1RHBkdmpMNnMzSFMwb201c3BkcDRkY2V6dlVvR1Iyaw?oc=5",
           "date": "2026-11-13T14:08:00.000Z",
@@ -1006,7 +995,7 @@
           "titleKoAlt": "Nvidia CEO Jensen Huang을 무너뜨린 스캔들의 타임라인"
         },
         {
-          "id": "wsj-6",
+          "id": "wsj-5",
           "title": "U.S. Stocks Mixed on Nvidia Fallout Fears",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXo0WGszbS1hZnpTdTRYYjJ0MnNDYVo3c1paejV2WkowZl93UVNiamRIQ0xEWU9HZWp3Ui14aEhFUEZkbWNQTXhfUVNSVE5tQkhELWJEcmZxYVpEM2c0aGRwdWpQZWM5MmdETXFXMDd5TTR5cHNvZUdaWmp4MlBLMG5KTm9JTFVrRmpfVA?oc=5",
           "date": "2026-11-13T22:14:00.000Z",
@@ -1019,7 +1008,7 @@
           "titleKoAlt": "Nvidia 낙진에 대한 우려로 인해 미국 주식이 혼합되었습니다."
         },
         {
-          "id": "wsj-7",
+          "id": "wsj-6",
           "title": "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5",
           "date": "2026-11-15T09:48:00.000Z",
@@ -1030,9 +1019,22 @@
           "titleKo": "젠슨 황은 어떻게 중국을 AI 경쟁에 붙잡아 두는 우회로를 만들었나",
           "tr": "claude",
           "titleKoAlt": "Jensen Huang이 AI 경쟁에서 베이징을 유지하는 백도어 경로를 구축한 방법"
+        },
+        {
+          "id": "wsj-7",
+          "title": "The Morning Risk Report: Huang’s Departure From Nvidia Unlikely to Mollify Congress, Plaintiffs’ Lawyers",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZEtrRU5sVF9hdkplVEwycHdSQkZ0VE5HbTdGM3JEdXVYZnRGTEU3N1ZEMlgwTEM1anVndDZPR3BiZFZpWFR1aGptNmxVYWRNVTZGcXRUaUdSNjd2SWZLOElFOTViYXBJSWx4SU1TcEVwdEt3Y3NNc1NuMTJJN0k0OWs5U29SWms1ZmJhQ0xMN21vM1pqYV9zTl8tZExFclpTUUpOQVRsb1BBaDdwZk9WdG5kaVludkxYd3R0X3ZjamZFUDVDc3dINGhCVEQwT0JjU3lyeHFCOFNjNTBibkcwUWhfclMzMlM3?oc=5",
+          "date": "2026-11-15T20:25:57.000Z",
+          "topics": [
+            "AI·반도체",
+            "정치·선거"
+          ],
+          "titleKo": "모닝 리스크 리포트: 황젠쉰의 엔비디아 사임, 의회·원고 측 변호인단 불만 누그러뜨리기엔 역부족",
+          "tr": "claude",
+          "titleKoAlt": "아침 위험 보고서: 황의 엔비디아 퇴임으로 의회가 완화될 가능성은 낮음, 원고 측 변호사"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.639Z",
+      "fetchedAt": "2026-11-16T00:04:06.232Z",
       "status": "ok"
     },
     {
@@ -1149,7 +1151,7 @@
           "titleKoAlt": "유럽은 러시아 가스에 대한 자체 금지로 타격을 입었습니다 — 러시아 MFA"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.571Z",
+      "fetchedAt": "2026-11-16T00:04:06.170Z",
       "status": "ok"
     },
     {
@@ -1268,7 +1270,7 @@
           "titleKoAlt": "러시아, 23억 루블의 비용으로 AI 기반 인터넷 트래픽 필터링 시스템 출시"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.599Z",
+      "fetchedAt": "2026-11-16T00:04:06.092Z",
       "status": "ok"
     },
     {
@@ -1321,7 +1323,7 @@
           "titleKoAlt": "IEA: 10월 러시아의 디젤 및 가솔린 수출량이 100만 톤을 초과함"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.727Z",
+      "fetchedAt": "2026-11-16T00:04:06.257Z",
       "status": "ok"
     },
     {
@@ -1399,8 +1401,8 @@
         {
           "id": "wire-7",
           "title": "Pakistan Will Send Environment Minister Musadik Malik to Delhi For SCO Event",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUFvZzFhZUh0QnRwUUN0RzFyOEtGQm9zdnh1VDNrZzB1cERDWUhMT0cyMVR1dEk5Unc0WVZXYXJ1eWYwbS1qT05pb1lYLWFhVGQ4cWh2cHdOZjRPZ09DNDJtUHJER0pLTElTMDlLZXE0NlV3ZHVLcUVXZmo0UGZNSG5FSDBzemJqNUpXOEE3WEU3RlhtN2xhVUdlOHpBNWwwYm8wb210RGXSAbsBQVVfeXFMUDVnQmRVSUJFVHQxQmg5SWJRVG5iNm9EOXgyYnE2Q19xVnBzcXlWSFlMalh1UlF2VkYxajRVb21EMTBtUzNGQW1wSWlfWkVQMW1TaFNjUk1uZVZGQ1U1dklRb3FWTmluNWJ6dmIweUlJYjMtd2NJTHJCVkZ0QlNUTlZBTUZQR0tJc3ZiOEwtRnhyMjZDdG5zTS15ZEtLQmFIcFdHYk5sT1JNemd0OVBmWmpyeU1QM0wyMzd1cw?oc=5",
-          "date": "2026-11-14T17:26:13.000Z",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNzFGd1p0VVNmVGdZRVhlbmFSQ3NrUTF1c1FsVktHZmtuSHNYaGREbFB2NHNUUEVrOVFMd1RmWlNQVDh1X21TZFdDUGMyYUNnMzIyLXlzaGNPNjFjdDNNQVNVN1VfbF91amtHMkNGVEtvSlFuOUdFTlRiTmk3RWNLWGswcUVraG5MQ2FFeW9vY2FMd2tJNmdkZXY1U21wdHVUeW54QV80RHo3anhGckFPQmVEQXRqZ9IBuwFBVV95cUxQNWdCZFVJQkVUdDFCaDlJYlFUbmI2b0Q5eDJicTZDX3FWcHNxeVZIWUxqWHVSUXZWRjFqNFVvbUQxMG1TM0ZBbXBJaV9aRVAxbVNoU2NSTW5lVkZDVTV2SVFvcVZOaW41Ynp2YjB5SUliMy13Y0lMckJWRnRCU1ROVkFNRlBHS0lzdmI4TC1GeHIyNkN0bnNNLXlkS0tCYUhwV0diTmxPUk16Z3Q5UGZaanJ5TVAzTDIzN3Vz?oc=5",
+          "date": "2026-11-14T17:41:51.000Z",
           "topics": [
             "정치·선거"
           ],
@@ -1409,7 +1411,7 @@
           "titleKoAlt": "파키스탄, SCO 행사를 위해 무사딕 말릭 환경부 장관을 델리로 보낼 예정"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.877Z",
+      "fetchedAt": "2026-11-16T00:04:06.379Z",
       "status": "ok"
     },
     {
@@ -1491,8 +1493,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "델리 경찰 초안, Ramlila 지상 집회에 대해 고정된 시간, 50,000명 수용 제안",
-          "tr": "google"
+          "titleKo": "델리 경찰 초안, 람릴라 그라운드 집회 인원 5만 명 상한·시간 고정안 제시",
+          "tr": "claude",
+          "titleKoAlt": "델리 경찰 초안, Ramlila 지상 집회에 대해 고정된 시간, 50,000명 수용 제안"
         },
         {
           "id": "republic-6",
@@ -1507,7 +1510,7 @@
           "titleKoAlt": "Diljit Dosanjh의 뭄바이 콘서트에 참석하시나요? 전화 규칙 및 높은 보안 속에서 기대할 수 있는 것"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.951Z",
+      "fetchedAt": "2026-11-16T00:04:06.535Z",
       "status": "ok"
     },
     {
@@ -1621,7 +1624,7 @@
           "titleKoAlt": "인도, 결핵 사망률 38% 감소, 치료 성공률 94% 증가: 센터"
         }
       ],
-      "fetchedAt": "2026-11-15T23:59:59.978Z",
+      "fetchedAt": "2026-11-16T00:04:06.584Z",
       "status": "ok"
     },
     {
@@ -1732,7 +1735,7 @@
           "titleKoAlt": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.203Z",
+      "fetchedAt": "2026-11-16T00:04:06.729Z",
       "status": "ok"
     },
     {
@@ -1846,7 +1849,7 @@
           "titleKoAlt": "판누 살인 음모: 미국 정부는 니힐 굽타에게 24년의 징역형을 요구하고, 결정은 11월 20일에 나올 것입니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.271Z",
+      "fetchedAt": "2026-11-16T00:04:06.789Z",
       "status": "ok"
     },
     {
@@ -1958,7 +1961,7 @@
           "titleKoAlt": "긴급: 중국-아세안 정상회담을 위해 중국 최초로 마닐라에 상륙"
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.309Z",
+      "fetchedAt": "2026-11-16T00:04:06.862Z",
       "status": "ok"
     },
     {
@@ -2067,7 +2070,7 @@
           "titleKoAlt": "분석: 중국 보험사의 주식 베팅은 주식 리스크의 한계를 테스트합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.255Z",
+      "fetchedAt": "2026-11-16T00:04:06.749Z",
       "status": "ok"
     },
     {
@@ -2183,7 +2186,7 @@
           "titleKoAlt": "글로벌 중단으로 타격을 입은 Microsoft: 무슨 일이 일어났으며 그 이유는 무엇입니까?"
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.734Z",
+      "fetchedAt": "2026-11-16T00:04:07.159Z",
       "status": "ok"
     },
     {
@@ -2298,7 +2301,7 @@
           "titleKoAlt": "영국 학교의 반유대주의 검토, '조잡한' 증거 때문에 비난"
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.615Z",
+      "fetchedAt": "2026-11-16T00:04:06.958Z",
       "status": "ok"
     },
     {
@@ -2417,7 +2420,7 @@
           "titleKoAlt": "EU, 겨울철 상황이 악화됨에 따라 가자지구 위기가 빠르게 악화될 것이라고 경고"
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.755Z",
+      "fetchedAt": "2026-11-16T00:04:07.141Z",
       "status": "ok"
     },
     {
@@ -2542,7 +2545,7 @@
           "titleKoAlt": "유로존 경제의 성장으로 인해 유럽중앙은행은 금리를 인상할 여지를 갖게 되었습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T00:00:00.758Z",
+      "fetchedAt": "2026-11-16T00:04:07.161Z",
       "status": "ok"
     }
   ],
@@ -2550,16 +2553,16 @@
     "successful": 23,
     "total": 23,
     "translated": 175,
-    "byClaude": 172,
+    "byClaude": 174,
     "claude": {
       "run": {
-        "titles": 56,
-        "usd": 0.0020934,
-        "rejected": 3,
+        "titles": 4,
+        "usd": 0.0003125,
+        "rejected": 1,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0245,
+      "monthUsd": 0.0248,
       "limitUsd": 2
     }
   }
