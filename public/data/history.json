@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T13:32:27.646Z",
-  "count": 455,
+  "updated": "2026-11-16T13:45:48.447Z",
+  "count": 460,
   "items": [
     {
       "source": "kommersant",
@@ -91,6 +91,32 @@
       ]
     },
     {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Ifo: Deutsche Stromkonzerne setzen in Krisen höhere Preise durch",
+      "titleKo": "ifo \"독일 전력사, 위기 때 가격 인상 관철\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPX3NaejJORlNHeFd1eHBmMXlSTGtQTmJyb0R5dWJDcFFZZm5XQU84RHlVMFpJanMzUG5mbVhrU0Y5Qk9mdkk5R2YxdHdzN0dMMXVaUkVjVTFGdG9nMlFwRXhRRkR1Z01mTUFkaGF4a1c0clc1V2h1cHRKTnhCUkE0VXRPTUNCcm1ncGlMQi1raGg1YTRZajh4dzhUUFQ1ZnNPTzZsMmdmYkhCS2Q3X1doejUwWm53TldvaDlIQ3RVci1NN3FQbjVCTWNIbw?oc=5",
+      "date": "2026-11-16T12:58:52.000Z",
+      "topics": [
+        "경제·물가",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Branchentreffen in Salzgitter: Reiche: Haben Industriestrompreis gegen Widerstand erkämpft",
+      "titleKo": "살츠기터 업계 행사에서 라이히 장관 \"산업용 전기요금 인하, 반대 뚫고 쟁취했다\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNb0ltTGxLQTZPSFctOE81Q0dlNXFWTElaRW8zLXZuVUYzQno0TmVZM1hURlJyQU80NGZXVl9IQ1kxWWxORFVhVmp0eG8xdnZfTVJhanBVN0tyY0FrSi1vU2VOb0w0REdKNUhrR0tXUmt4M0xTeUtBMVQ0RjVyemJNOGxHSG44QXhhNkJJTjFuUlh4X2RGVVhpRXFBZURvcDUtTHZsZjM3cGd2VXJObUdMVnJsZzBqSk9yRlI0MjNuVWFyZF9fZTZreGtpbEhhUVVXWjRadHpKZl9fS1pmVFdRSFZzS2pJa0dv?oc=5",
+      "date": "2026-11-16T12:58:24.000Z",
+      "topics": [
+        "에너지·원유",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "wire",
       "country": "in",
       "title": "Union Minister Chirag Paswan to Inaugurate IBAs National Beverage Conclave on 20th November",
@@ -175,6 +201,19 @@
       "date": "2026-11-16T12:16:00.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "republic",
+      "country": "in",
+      "title": "23rd ASEAN-India Summit: PM Modi Witnesses Purna Kumbha Shloka Recitation by Students in Philippines",
+      "titleKo": "제23차 아세안-인도 정상회의, 모디 총리 참석 속 필리핀서 학생들의 푸르나 쿰바 슬로카 낭송 펼쳐져",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdmNUS0U3ZzJFN0ZSa0ZzdzByUmhrSDZZOWx0Z0VKcDduUDRTdG00M3BwUVdENzhGdk42d04xOWk2eDNrUG54Ty0wdFpqRWlaRktZZDNhVTl4OFRtNk9nSHJreVdycTNVd0o0Q1FueWlqaXlDbElyeW9uQkZfd1U0WU8tLUN0ei1zdzVwNkJncjIxNW45LU9HMjZzcVNwNHczT0VaMmdBbmFvdXdQbzc2M1M3UVRZWUtCUE9fSVpZQzdRcjlzSlZSVXhhZExBb1J6aU04WTFQLVhoMXdkek9CWlhPcG9hS0Z5NzQ0TWYzakk0QQ?oc=5",
+      "date": "2026-11-16T12:11:39.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
       ]
     },
     {
@@ -380,6 +419,18 @@
       ]
     },
     {
+      "source": "liberation",
+      "country": "fr",
+      "title": "Mouvement social : quelles sont les manifestations et les grèves prévues ce mardi 17 novembre",
+      "titleKo": "이번 주 화요일 11월 17일 예정된 사회운동·파업 일정은?",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNnhkQnV2VnFmeWM0RVVvbGczQTRvSlBLSFpZR1NDUjF5aXl6WXhJZzZ6bzlBVW9nWjkzeEdqMS1xeUt2WGJLRjE0WVhZU3hBY3ZTV0RHSl9SSVJMUGJ6UW9TU0pFd1l2T2YyTWo4a19zLTQ4RkwwMG1COFUwbFA0dXpOc3JaNF9sYjZFeVpZY295cHNUeTYyLTBmZFVJTHh1V3JVV1JjSW5QZlgtWjZmSENYU09GWDJfdGNIVUEwSHNHRXV2QjMtaC1KU1VzYUlkXzN1QWtRbEVGUjY1OVdOVVhhSE1Yb3ZCNDR0YnprOEItYnphMlViY3lKQzJyRFk?oc=5",
+      "date": "2026-11-16T11:14:00.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "handelsblatt",
       "country": "de",
       "title": "Branchentreffen in Salzgitter: Stahlgipfel: Branche dringt auf Entlastung beim Strompreis",
@@ -452,6 +503,20 @@
         "금리·물가",
         "경제·물가",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Ukraine strikes key bridge in Crimea",
+      "titleKo": "우크라이나, 크림반도 핵심 다리 타격",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeXoxZjBhLU9nMktjZW9lb2dpODRfblh2ZS1JVmh2WU14RU1XOUM3cGM1S0Fvbm1ZSWtCRU5MZkwycHJIZlhWQmJxcmZ2Q1dsODl5OVdpTzJ3bVhTdlZnZXVVaUF1Q2hlLVd3NGtRc2pTcDEtVlNHbzdIazgzWjA1cERwWDdfSzNjQzBpRS1naS0?oc=5",
+      "date": "2026-11-16T10:38:00.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보",
+        "사회·생활"
       ]
     },
     {
@@ -534,7 +599,7 @@
       "source": "nyt",
       "country": "us",
       "title": "What to Know About Trump’s Trip to Asia",
-      "titleKo": "트럼프 아시아 순방, 시진핑·푸틴과 마주 앉는다",
+      "titleKo": "트럼프 아시아 순방 핵심 쟁점 정리",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVVDaXk0aEl6ZTJYNWFTMnJTQTBkWk1JN3laRkxoVXozZ3F6aHhVc1plRi1aQkt1SG56cnJkQzN1S2Q4djl5Tm9oeGE4c0FjSm5ET056UnBtRWNJUElwY1p2S0hpVmdXUzVsTVQ0LVA5Z0c5ZTlCYUpsSVg1M0pqbmJn?oc=5",
       "date": "2026-11-16T10:26:49.000Z",
@@ -1204,7 +1269,7 @@
       "source": "nyt",
       "country": "us",
       "title": "Opinion | The New Congress Must Rein in Trump’s Dangerous China Policy",
-      "titleKo": "칼럼 | 트럼프의 대중국 승부수가 역효과를 내고 있다",
+      "titleKo": "트럼프의 위험한 중국 정책 고삐 죄어야 - 새 의회의 과제 | 칼럼",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS3MxNFlBbVVGR3ZtcWN2U3JGYUpzWTVBSG4wa2UyTkQ3RVdHa2FwbGZhckF1dGhJc1ZSZncwb1ZKeGdUWjBBY1JBTXJkTkxMeGZ5Ny1JRE9CUlh4NUE4VmwwTGlIQ0FTNlFyRlFCd3BoQTdRcENQU0J6VVBMLWFoaTRR?oc=5",
       "date": "2026-11-16T06:00:05.000Z",
@@ -1482,7 +1547,7 @@
       "source": "reuters_cn",
       "country": "cn",
       "title": "Alibaba unveils new flagship AI model with safety upgrades",
-      "titleKo": "알리바바, 안전성 강화한 신규 플래그십 AI 모델 공개",
+      "titleKo": "알리바바, 개발자들 시험 공개 확대에 맞춰 새 AI 안전장치 상세 발표",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVhrY1I2NEhJUndRTG5sMWlxRXUxTS0wOHdOLVg2bG83NS10R0RuM1h2VWpMVTFrcHd3SmlsVy1hWFhiNld3NGdzcGxLWVVwN0UtUjhjUTdwaFdzMnVoSEkwZWR0MHYxMUw1NDVxbW5GZkFNbWZuaXlGZlRHUjRaTU1JM3FiVGRONXNCaTNtb3dFa1hmZlYxbUd6ZWRBdmgxVk1od0RDT3dscl9XaDRncU84RkxmYnNlcVFF?oc=5",
       "date": "2026-11-16T04:29:00.000Z",
