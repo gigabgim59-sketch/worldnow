@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-16T00:16:40.836Z",
-  "count": 235,
+  "updated": "2026-11-16T00:28:04.649Z",
+  "count": 239,
   "items": [
     {
       "source": "jagran",
@@ -39,6 +39,18 @@
         "예산·재정",
         "정치·선거",
         "사회·생활"
+      ]
+    },
+    {
+      "source": "jagran",
+      "country": "in",
+      "title": "4 दिसंबर को एक दूजे के होंगे रिंकू सिंह और प्रिया सरोज; PM मोदी, CM योगी और अखिलेश यादव को दिया शादी का कार्ड",
+      "titleKo": "12월 4일 린쿠 싱·프리야 사로즈 결혼 확정…모디 총리·요기 주지사·아킬레시 야다브에게 청첩장 전달",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaFlVTE5JSE1xcE55QXJPa2xGd1plWXp0THRFcUtkby1Scy1HN1JLZnoyU1FibVE5M2MxUFRRcmU4cmNDM001YnhOQmRiTFRVOVFyMUJFUFViUEdRclNhb0VSdU1xSVFuUHJKT0Y5SlhHaFNGVnVhUGxaYjZvSmh2OFZqMDNnSnQtZS1ha0hQVmpoODZkODFmajBYTTJfdDA4X0Q2ckVVVUJYQWNKcDd0ZGp0dV83TnpOYkxsdw?oc=5",
+      "date": "2026-11-15T23:30:00.000Z",
+      "topics": [
+        "정치·선거"
       ]
     },
     {
@@ -451,6 +463,18 @@
       ]
     },
     {
+      "source": "guardian",
+      "country": "uk",
+      "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
+      "titleKo": "스코틀랜드·잉글랜드 북부에 한파·건강 경보 발령…눈·얼음",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTG5RenFlUWx2enotWWRnYlJ4dVdVMmQwRjBCb3BjeVBKVGpjQ3R3d2FhQkVmSV9nSDE2a0tvRjBGTjVmUXE4MFNHak9YYnl4bF93Z0czWTd1U094SXg5MmRXQVNNSjRNcy1iNkRLM1hTQlEwb3BDbDNnYWxoX0pQODRpekMwaTdKcmZKZE5pVlJSZkZNQWl4Yk53OFVWUE1CUFpTQlFZSVFtZnM5ZEJWZkV3?oc=5",
+      "date": "2026-11-15T15:37:00.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "aljazeera",
       "country": "me",
       "title": "70 bodies recovered from Gaza rubble, thousands still missing",
@@ -704,8 +728,8 @@
       "source": "jagran",
       "country": "in",
       "title": "'छठी मैया की जय', संध्या अर्घ्य पर पीएम मोदी ने दीं शुभकामनाएं; नई ऊर्जा और जागरूकता की कामना की",
-      "titleKo": "Modi 총리는 'Chhathi Maiya ki Jai' 저녁 Arghya에 최고의 소원을 전했습니다. 새로운 에너지와 인식을 기원합니다",
-      "tr": "google",
+      "titleKo": "\"체트 마이야 키 자이\"…모디 총리, 저녁 아르getan 의식 맞아 축하 메시지 \"새로운 활력과 인식을 기원\"",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0t1cFlVTkJubDVNeVpRdDExYW91clZDaEZwanNzUUVmbkxrb1ZGSHBjSVU0czZWNjdpdVAzUjVzaWhma0NwcGxEN3BlcGJfQXJqWVk5UHNuRVZjQkV3Ylk0VEhNRmFUdHY5eFp0QkRzSFhDVG92dnJvdmxneFM1dDFVeGVnWGM1dXpRTV9WOUZMLVJIYXN4ME1RVU80QlNib3pnWi1CcTR6Q3VrbXc0cQ?oc=5",
       "date": "2026-11-15T12:03:00.000Z",
       "topics": [
@@ -2103,6 +2127,19 @@
       "tr": "claude"
     },
     {
+      "source": "wsj",
+      "country": "us",
+      "title": "Widespread Microsoft Outage Roils Businesses, Governments",
+      "titleKo": "마이크로소프트 대규모 장애로 기업·정부 기관 업무 차질",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTmhaT0diNlVIZzI4Mm1nSUpIV0RSeDJrM0RYYVIydVRzUzNHM2ZmcW40UjE2eW5xeEc4ZVROeGlBaTlUbl9hUXN5N0VrVHlHRnpvQ09odWw4RVNCZFBXTUxhWHNvWm1MSG1nV0doS191NHIyeXFMT09wbDY2YldsTDB3?oc=5",
+      "date": "2026-11-13T21:33:00.000Z",
+      "topics": [
+        "정치·선거",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "ft",
       "country": "uk",
       "title": "Microsoft says services experiencing ‘broad recovery’ after global outage",
@@ -2780,6 +2817,18 @@
         "산업·시장"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "Urgent: Chinese premier arrives in Thailand for official visit",
+      "titleKo": "[속보] 중국 총리, 태국 공식 방문차 도착",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MNWRZbGRqa18wOVA4WldLWVBrLVJvbWlDUEp6c3Brd1U3a1VCVVpySnBpOHpnZ2RVMWFSenUtTEJjekpfYzFxbTlRZHg3M2pNLTZGRzJXS3Y4WnNZM2VISHFPMFlndXVycWtpNGdYYkVWSEllMy02SXk4dm8?oc=5",
+      "date": "2026-11-13T06:49:45.000Z",
+      "topics": [
+        "외교·안보"
+      ]
     },
     {
       "source": "wire",
