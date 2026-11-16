@@ -18,8 +18,8 @@ ul{list-style:none;margin-top:24px}
 li{display:flex;align-items:center;gap:12px;font-size:16.5px;margin:7px 0;color:#59665f}
 li b{color:#1d2826;font-weight:800;min-width:92px}
 .dot{width:13px;height:13px;border-radius:50%}
-.chips{position:absolute;left:88px;bottom:62px;display:flex;gap:7px}
-.chip{border:1.5px solid #b9d6c6;background:#e3f1e9;color:#0f6b44;border-radius:99px;padding:4px 13px;font-size:14px;font-weight:700}
+.chips{position:absolute;left:88px;bottom:62px;display:flex;gap:6px}
+.chip{border:1.5px solid #b9d6c6;background:#e3f1e9;color:#0f6b44;border-radius:99px;padding:4px 10px;font-size:13px;font-weight:700}
 .right{flex:1;padding:58px 64px 0 10px;position:relative}
 .board{background:#fff;border-radius:22px;box-shadow:0 18px 50px rgba(20,60,40,.13),0 2px 6px rgba(20,60,40,.06);padding:26px 28px 20px}
 .bh{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px}
@@ -27,12 +27,12 @@ li b{color:#1d2826;font-weight:800;min-width:92px}
 .bh .live{font-size:12px;color:#128353;font-weight:700;display:flex;align-items:center;gap:6px}
 .bh .live i{width:8px;height:8px;border-radius:50%;background:#128353;box-shadow:0 0 0 4px #d4ecdf}
 .ax{display:flex;justify-content:space-between;font-size:11.5px;color:#93a097;margin:0 0 4px 64px;font-weight:600}
-.row{display:flex;align-items:center;height:51px;border-top:1px solid #eef2ef}
+.row{display:flex;align-items:center;height:45px;border-top:1px solid #eef2ef}
 .cn{width:64px;font-weight:800;font-size:15px}
 .track{flex:1;position:relative;height:100%}
 .track::before{content:"";position:absolute;left:0;right:0;top:50%;height:3px;border-radius:2px;background:linear-gradient(90deg,#3b78d8,#c3cbc6 50%,#d4483f);opacity:.35}
-.p{position:absolute;top:50%;transform:translate(-50%,-50%);background:#fff;border:1.5px solid #cfd8d2;border-radius:99px;padding:3px 10px;font-size:12.5px;font-weight:700;white-space:nowrap;color:#2b3632}
-.p.l{border-color:#8fb0e8;color:#2357aa}.p.r{border-color:#e8a29c;color:#b2342b}.p.e{border-color:#e2c27a;color:#8a5f0a;background:#fff9ea}
+.p{position:absolute;top:50%;transform:translate(-50%,-50%);background:#fff;border:1.5px solid #cfd8d2;border-radius:99px;padding:3px 9px;font-size:12px;font-weight:700;white-space:nowrap;color:#2b3632}
+.p.w{border-color:#86c9c4;color:#1d7a74;background:#f0faf9}.p.l{border-color:#8fb0e8;color:#2357aa}.p.r{border-color:#e8a29c;color:#b2342b}.p.e{border-color:#e2c27a;color:#8a5f0a;background:#fff9ea}
 .foot{display:flex;gap:16px;justify-content:flex-end;margin-top:16px;font-size:12px;color:#78857e;font-weight:600}
 .foot span{display:flex;align-items:center;gap:6px}
 .foot i{width:14px;height:9px;border-radius:5px;border:1.5px solid}
@@ -44,26 +44,27 @@ li b{color:#1d2826;font-weight:800;min-width:92px}
   <div class="kicker">WORLD DESK</div>
   <div class="langs">世界 · MONDE · МИР · दुनिया</div>
   <h1>세계의 오늘<em>진영별 헤드라인</em></h1>
-  <p class="sub">6개국과 중동, <b>21개 매체의 최신 제목</b>을<br>한국어로 나란히 읽습니다</p>
+  <p class="sub">세계 <b>30개 매체의 최신 제목</b>을<br>한국어로 나란히 읽습니다</p>
   <ul>
-    <li><span class="dot" style="background:#3b78d8"></span><b>진보·비판</b>· 가디언 · 리베라시옹 · 메두자</li>
-    <li><span class="dot" style="background:#d4483f"></span><b>보수·정부</b>· 텔레그래프 · 폭스 · 타스</li>
-    <li><span class="dot" style="background:#d9a63a"></span><b>경제 7곳</b>· FT · WSJ · 레제코 · 차이신</li>
-    <li><span class="dot" style="background:#128353"></span><b>매시간 갱신</b>· 자동 수집 · 한국어 번역</li>
+    <li><span class="dot" style="background:#3b78d8"></span><b>진보·비판</b>· 가디언 · 쥐트도이체 · 메두자</li>
+    <li><span class="dot" style="background:#d4483f"></span><b>보수·정부</b>· 텔레그래프 · FAZ · 타스 · 신화</li>
+    <li><span class="dot" style="background:#d9a63a"></span><b>경제 8곳</b>· FT · WSJ · 한델스블라트 · 차이신</li>
+    <li><span class="dot" style="background:#2a9d95"></span><b>서방 시각</b>· 로이터 · BBC가 본 중국·러시아</li>
   </ul>
-  <div class="chips"><span class="chip">영국</span><span class="chip">프랑스</span><span class="chip">미국</span><span class="chip">러시아</span><span class="chip">인도</span><span class="chip">중국</span><span class="chip">중동</span></div>
+  <div class="chips"><span class="chip">미국</span><span class="chip">중국</span><span class="chip">영국</span><span class="chip">러시아</span><span class="chip">독일</span><span class="chip">프랑스</span><span class="chip">중동</span><span class="chip">인도</span></div>
 </div>
 <div class="right">
   <div class="board">
-    <div class="bh"><span class="t">언론 지형</span><span class="live"><i></i>매시간 업데이트</span></div>
+    <div class="bh"><span class="t">언론 지형</span><span class="live"><i></i>자동 수집 · 번역</span></div>
     <div class="ax"><span>◀ 진보 · 정부 비판</span><span>보수 · 정부 ▶</span></div>
-    <div class="row"><div class="cn">영국</div><div class="track"><span class="p l" style="left:16%">Guardian</span><span class="p e" style="left:52%">FT</span><span class="p r" style="left:84%">Telegraph</span></div></div>
-    <div class="row"><div class="cn">프랑스</div><div class="track"><span class="p l" style="left:16%">Libération</span><span class="p e" style="left:52%">Les Échos</span><span class="p r" style="left:84%">Le Figaro</span></div></div>
     <div class="row"><div class="cn">미국</div><div class="track"><span class="p l" style="left:16%">NYT</span><span class="p e" style="left:52%">WSJ</span><span class="p r" style="left:84%">Fox News</span></div></div>
-    <div class="row"><div class="cn">러시아</div><div class="track"><span class="p l" style="left:16%">Meduza</span><span class="p e" style="left:52%">Kommersant</span><span class="p r" style="left:84%">TASS</span></div></div>
-    <div class="row"><div class="cn">인도</div><div class="track"><span class="p l" style="left:16%">The Wire</span><span class="p e" style="left:52%">Economic Times</span><span class="p r" style="left:84%">Republic</span></div></div>
-    <div class="row"><div class="cn">중국</div><div class="track"><span class="p e" style="left:52%">Caixin</span><span class="p r" style="left:84%">Xinhua</span></div></div>
-    <div class="row"><div class="cn">중동</div><div class="track"><span class="p l" style="left:12%">Haaretz</span><span class="p" style="left:36%">Al Jazeera</span><span class="p e" style="left:60%">Asharq</span><span class="p r" style="left:86%">Press TV</span></div></div>
+    <div class="row"><div class="cn">중국</div><div class="track"><span class="p w" style="left:20%">Reuters · BBC</span><span class="p e" style="left:52%">Caixin</span><span class="p r" style="left:84%">Xinhua</span></div></div>
+    <div class="row"><div class="cn">영국</div><div class="track"><span class="p l" style="left:16%">Guardian</span><span class="p e" style="left:52%">FT</span><span class="p r" style="left:84%">Telegraph</span></div></div>
+    <div class="row"><div class="cn">러시아</div><div class="track"><span class="p l" style="left:9%">Meduza</span><span class="p w" style="left:32%">Reuters · BBC</span><span class="p e" style="left:60%">Kommersant</span><span class="p r" style="left:87%">TASS</span></div></div>
+    <div class="row"><div class="cn">독일</div><div class="track"><span class="p l" style="left:16%">Süddeutsche</span><span class="p e" style="left:52%">Handelsblatt</span><span class="p r" style="left:84%">FAZ</span></div></div>
+    <div class="row"><div class="cn">프랑스</div><div class="track"><span class="p l" style="left:16%">Libération</span><span class="p e" style="left:52%">Les Échos</span><span class="p r" style="left:84%">Le Figaro</span></div></div>
+    <div class="row"><div class="cn">중동</div><div class="track"><span class="p l" style="left:10%">Haaretz</span><span class="p " style="left:34%">Al Jazeera</span><span class="p e" style="left:61%">Asharq</span><span class="p r" style="left:87%">Press TV</span></div></div>
+    <div class="row"><div class="cn">인도</div><div class="track"><span class="p l" style="left:8%">The Wire</span><span class="p l" style="left:28%">Hindu</span><span class="p e" style="left:50%">Econ. Times</span><span class="p r" style="left:72%">Jagran</span><span class="p r" style="left:91%">Republic</span></div></div>
   </div>
   <div class="seal"><span>gigabgim59-sketch.github.io/worldnow</span><span class="m">W</span></div>
 </div>
