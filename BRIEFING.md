@@ -19,6 +19,18 @@
 | 중동 me | aljazeera 카타르 · haaretz 이스라엘 · presstv 이란 국영 · asharq 사우디·경제 |
 | 인도 in | jagran 북인도·힌디 · hindu 남인도 · republic 친정부 · wire 비판 · et 경제 |
 
+## 어제와 비교 (먼저 할 일)
+- 쓰기 전에 `public/briefing/index.json`에서 오늘 바로 앞 날짜의 브리핑을 읽는다. 지난 7일치 브리핑의 `know`와 이슈 제목도 훑어 둔다.
+- 재료는 **직전 24~36시간 기사 중심**으로 고르고, 72시간 전 기사는 배경으로만 쓴다.
+- 이슈마다(3줄 포함) `status`를 붙인다: 앞 브리핑에 없던 사안이면 `"new"`, 있던 사안이면 `"cont"`. **제목이 아니라 사안(인물·사건) 기준**으로 판단한다. 제목만 바뀐 같은 사안은 `cont`.
+- `cont`이면 `change`(50자 이내)에 앞 브리핑 이후 **새로 일어난 일**을 쓴다. 새 전개를 기사로 확인할 수 없으면 그 이슈를 빼고 새 이슈를 넣는다. 다만 그 나라에서 여전히 가장 중요한 사안이면 남기되 change에 "큰 변화 없음, ~ 계속"처럼 사실대로 쓴다.
+- 앞 브리핑이 없으면(첫날) `status`·`change`를 쓰지 않는다.
+
+## 알아둘 만한 소식 (`know`, 3개)
+- 3줄·나라별 이슈에 나오지 않은 사안 중, 큰 뉴스는 아니지만 **앞으로 파장이 이어질 만한** 정책·산업·기술·사회 변화를 3개 고른다. 사건사고·연예·화제성 기사는 제외.
+- **매번 새 소식**: 지난 7일 브리핑의 `know`와 이슈에 나온 사안(사안 기준)은 다시 고르지 않는다.
+- 3개는 서로 다른 나라에서 고른다. 형식 `{"c":"나라id","t":"제목(40자 이내)","why":"왜 알아둘 만한가 한 문장(60자 이내)","source":"매체id"}`. why는 기사에 근거한 맥락만 쓰고 전망을 지어내지 않는다.
+
 ## 이슈 고르기
 1. 나라마다 **정치·외교·사회·경제 흐름**을 보여주는 이슈 2~3개. 스포츠·연예·단신·광고성 기사는 제외.
 2. `opinion: true`(칼럼·분석)는 사실 근거로 쓰지 않고, 진영 시각을 보여주는 자료로만 쓴다.
@@ -39,17 +51,19 @@
   - `desc`: 무슨 일이 왜 일어났고 각국이 어떻게 반응하는지 **한 문장**(110자 이내).
   - `items`: 이 흐름에 해당하는 나라별 기사 주제 2~4줄. `{"c":"나라id","t":"주제(40자 이내)"}`. 국영 매체가 다루지 않은 것처럼 의미 있는 침묵은 괄호로 덧붙인다(예: "(엔비디아 언급 없음)").
   - 모든 내용은 아래 countries 본문(what·stances)에 이미 쓴 사실에서만 가져온다.
+- `status`·`change`: 위 '어제와 비교' 규칙. 3줄(`headlineDetail`)과 각 이슈에 모두 붙인다.
 - `links`: 근거 기사. history.json의 url을 그대로, `title`은 titleKo가 자연스러우면 그것을, 아니면 직접 다듬은 한국어 제목.
 
 ## 형식 — `public/briefing/YYYY-MM-DD.json`
 ```json
 {"date":"2026-11-16","title":"11월 16일(월) 아침 이슈 브리핑","window":"11월 13~16일","articles":176,"author":"Claude",
  "headline":["…","…","…"],
- "headlineDetail":[{"keys":["…","…"],"desc":"…","items":[{"c":"us","t":"…"}]},…],
- "countries":[{"id":"us","issues":[{"title":"…","keys":["…","…"],"what":"…",
+ "headlineDetail":[{"status":"cont","change":"…","keys":["…","…"],"desc":"…","items":[{"c":"us","t":"…"}]},…],
+ "know":[{"c":"fr","t":"…","why":"…","source":"echos"},…],
+ "countries":[{"id":"us","issues":[{"title":"…","status":"new","keys":["…","…"],"what":"…",
    "stances":[{"source":"nyt","text":"…"}],
    "links":[{"source":"nyt","title":"…","url":"https://…"}]}]}]}
 ```
-- `countries` 순서: us, cn, uk, ru, fr, me, in.
+- `countries` 순서: us, cn, uk, ru, de, fr, me, in.
 - `public/briefing/index.json`의 `dates` 맨 앞에 날짜를 넣는다(최신순, 최대 90개).
 - 올리기 전 `node scripts/brief-check.mjs public/briefing/YYYY-MM-DD.json` 으로 검사.

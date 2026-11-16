@@ -74,6 +74,19 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .bhead p{margin:0;font-size:13px;color:var(--sub)}
 .bhead select{margin-top:8px}
 .three{background:var(--threebg);color:var(--ink);border-radius:16px;padding:16px 18px;margin:12px 0;border-left:4px solid var(--green)}
+.sb{display:inline-block;font-size:11.5px;font-weight:800;border-radius:6px;padding:1px 6px;margin-right:6px;vertical-align:2px;line-height:1.5;white-space:nowrap}
+.sb.new{background:var(--green);color:#fff;font-family:"Noto Serif CJK KR","Noto Sans CJK KR",serif}.sb.cont{background:var(--card);color:var(--sub);box-shadow:inset 0 0 0 1px var(--line)}
+.sb.sm{margin-right:0;flex:none;align-self:center}
+.bidx li a .old{color:var(--sub)}
+.t3chg{grid-column:2/4;margin-top:7px;font-size:14px;line-height:1.5;font-weight:400;color:var(--ink)}
+.t3chg b,.chg b{display:inline-block;font-size:11.5px;font-weight:800;color:#b57712;background:rgba(201,138,27,.15);border-radius:6px;padding:1px 6px;margin-right:6px}
+.chg{margin:2px 0 8px;font-size:14.5px;line-height:1.55}
+.know{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:12px 16px 4px;margin:0 0 16px}
+.know h3{margin:0;font-size:13px;color:var(--green);font-weight:800;letter-spacing:.04em}
+.know ol{margin:6px 0 0;padding:0;list-style:none}.know li{display:grid;grid-template-columns:52px 1fr;gap:6px;padding:9px 0;border-top:1px solid var(--line)}.know li:first-child{border-top:0}
+.know em{font-style:normal;font-weight:800;font-size:13px;color:#b57712;padding-top:2px}.know b{font-size:15px;line-height:1.45}
+.know p{margin:3px 0 0;font-size:13.5px;line-height:1.5;color:var(--sub)}.know small{color:var(--faint)}
+@media(min-width:1000px){.top2{display:grid;grid-template-columns:1.7fr 1fr;gap:14px;align-items:start;margin-bottom:16px}.top2>section{margin:0}}
 .bidx{margin:6px 0 18px}.bidx-h{font-size:13px;color:var(--green);font-weight:800;letter-spacing:.04em;margin:0 0 8px}
 .bidx-grid{display:grid;gap:10px}
 .bidx-c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px 6px}
@@ -442,31 +455,35 @@ function renderBrief(){
   const D=B.doc;
   if(!D){el.innerHTML='<div class="none">'+(B.err?'브리핑을 불러오지 못했습니다.':'아직 발행된 브리핑이 없습니다.')+'</div>';return;}
   const nm=id=>{const f=feedOne(id);return f?f.source.name:(RETIRED[id]?.[2]||id);};
+  const SB=x=>x&&x.status==='new'?'<span class="sb new">新</span>':x&&x.status==='cont'?'<span class="sb cont">이어짐</span>':'';
+  const CH=x=>x&&x.status==='cont'&&x.change?'<p class="chg"><b>오늘 달라진 점</b>'+esc(x.change)+'</p>':'';
   const dates=(B.index?.dates||[]);
   const regions=(state.country==='all'?Object.keys(COUNTRIES):[state.country]);
-  let h='<div class="bhead"><div class="k">ISSUE BRIEFING</div><h2>'+esc(D.title||'오늘의 이슈 브리핑')+'</h2><p>'+esc(D.window||'')+' · 기사 '+(D.articles||'')+'건 분석 · '+esc(D.author||'Claude')+' 작성</p>'
+  let h='<div class="bhead"><div class="k">ISSUE BRIEFING</div><h2>'+esc(D.title||'오늘의 이슈 브리핑')+'</h2><p>'+esc(D.window||'')+' · 기사 '+(D.articles||'')+'건 분석 · '+esc(D.author||'Claude')+' 작성'+(()=>{const a=(D.countries||[]).flatMap(c=>c.issues);const n=a.filter(x=>x.status==='new').length,m=a.filter(x=>x.status==='cont').length;return n+m?' · 新 '+n+' · 이어짐 '+m:'';})()+'</p>'
    +(dates.length>1?'<select class="chip" id="bdate" aria-label="지난 브리핑">'+dates.map(d=>'<option'+(d===B.date?' selected':'')+' value="'+d+'">'+d+'</option>').join('')+'</select>':'')+'</div>';
   const shown=regions.map(c=>[c,(D.countries||[]).find(x=>x.id===c)]).filter(([,C])=>C);
   h+='<div><div>';
   if(state.country==='all'&&D.headline?.length){const X=Array.isArray(D.headlineDetail)&&D.headlineDetail.length===D.headline.length?D.headlineDetail:null;
     if(!X)h+='<div class="three"><h3>오늘의 세계 3줄</h3><ol>'+D.headline.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>'; // 예전 브리핑
     else h+='<section class="three t3"><div class="thead"><h3>오늘의 세계 3줄</h3><button type="button" class="t3all" aria-expanded="false"><span class="t3ic" aria-hidden="true"></span><span class="t3lb">모두 펼치기</span></button></div>'
-      +D.headline.map((x,i)=>{const d=X[i]||{};return '<details class="t3it"><summary><span class="t3n">'+(i+1)+'.</span><span class="t3lead">'+esc(x)+'</span><span class="t3chev" aria-hidden="true"></span>'
-        +'<span class="t3keys">'+(d.keys||[]).map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span></summary>'
+      +D.headline.map((x,i)=>{const d=X[i]||{};return '<details class="t3it"><summary><span class="t3n">'+(i+1)+'.</span><span class="t3lead">'+SB(d)+esc(x)+'</span><span class="t3chev" aria-hidden="true"></span>'
+        +'<span class="t3keys">'+(d.keys||[]).map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>'+(d.status==='cont'&&d.change?'<span class="t3chg"><b>오늘 달라진 점</b>'+esc(d.change)+'</span>':'')+'</summary>'
         +(d.desc?'<p class="t3desc">'+esc(d.desc)+'</p>':'')
         +((d.items||[]).length?'<ul class="t3list">'+d.items.map(it=>'<li><em>'+esc(COUNTRIES[it.c]?.[0]||it.c)+'</em><span>'+esc(it.t)+'</span></li>').join('')+'</ul>':'')+'</details>';}).join('')+'</section>';}
+  if(state.country==='all'&&Array.isArray(D.know)&&D.know.length){const w2=h.includes('<section class="three t3">');if(w2)h=h.replace('<section class="three t3">','<div class="top2"><section class="three t3">');
+    h+='<section class="know"><h3>알아둘 만한 소식 '+D.know.length+'</h3><ol>'+D.know.map(k=>'<li><em>'+esc(COUNTRIES[k.c]?.[0]||k.c)+'</em><div><b>'+esc(k.t)+'</b><p>'+esc(k.why||'')+(k.source?' <small>· '+esc(nm(k.source))+'</small>':'')+'</p></div></li>').join('')+'</ol></section>'+(w2?'</div>':'');}
   const kk=ks=>(ks||[]).length?'<span class="ikeys">'+ks.map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>':'';
   if(state.country==='all'){ // 전체: 나라별 이슈 제목만, 누르면 그 나라 탭의 해당 이슈로
     h+='<section class="bidx"><h3 class="bidx-h">나라별 주요 이슈</h3><div class="bidx-grid">'+shown.map(([c,C])=>'<div class="bidx-c"><h4><a href="#'+c+'" class="bjump" data-jc="'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a></h4><ol>'
-      +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b><span>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
+      +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b>'+(it.status==='new'?'<span class="sb new sm">新</span>':'')+'<span'+(it.status==='cont'?' class="old"':'')+'>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
   }
   for(const c of regions){
     if(state.country==='all')break;
     const C=(D.countries||[]).find(x=>x.id===c);if(!C){h+='<div class="none">'+COUNTRIES[c][0]+'은(는) 이 날짜 브리핑에 없습니다. 새로 추가된 지역은 다음 아침 브리핑부터 실립니다. 지금은 <b>원자료 · 헤드라인</b>에서 기사를 볼 수 있습니다.</div>';continue;}
-    h+='<section class="bglance"><h3>'+COUNTRIES[c][0]+' 한눈에</h3><ol>'+C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b>'+'①②③④⑤'[i]+'</b><span class="gt">'+esc(it.title)+'</span>'+kk(it.keys)+'</a></li>').join('')+'</ol></section>';
+    h+='<section class="bglance"><h3>'+COUNTRIES[c][0]+' 한눈에</h3><ol>'+C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b>'+'①②③④⑤'[i]+'</b><span class="gt">'+SB(it)+esc(it.title)+'</span>'+kk(it.keys)+'</a></li>').join('')+'</ol></section>';
     h+='<details class="bc" open id="b-'+c+'"><summary><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2></summary>';
     C.issues.forEach((it,i)=>{
-      h+='<article class="bi" id="b-'+c+'-'+i+'"><button class="share" data-share="b-'+c+'-'+i+'" data-title="'+esc(it.title)+'" aria-label="이 이슈 링크 공유">공유</button><h3><b>'+'①②③④⑤'[i]+'</b>'+esc(it.title)+'</h3>'+kk(it.keys)+'<p class="what">'+esc(it.what)+'</p>'
+      h+='<article class="bi" id="b-'+c+'-'+i+'"><button class="share" data-share="b-'+c+'-'+i+'" data-title="'+esc(it.title)+'" aria-label="이 이슈 링크 공유">공유</button><h3><b>'+'①②③④⑤'[i]+'</b>'+SB(it)+esc(it.title)+'</h3>'+kk(it.keys)+CH(it)+'<p class="what">'+esc(it.what)+'</p>'
        +(it.stances||[]).map(st=>{const [,side,tag]=SIDE_OF(st.source);return '<div class="st '+side+'"><span class="tag">'+esc(st.tag||tag)+'</span><div><small>'+esc(nm(st.source))+'</small>'+esc(st.text)+'</div></div>';}).join('')
        +((it.links||[]).length?'<details class="src"><summary>근거 기사 '+it.links.length+'건</summary>'+it.links.map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(nm(l.source))+'</b> · '+esc(l.title)+'</a>').join('')+'</details>':'')
        +'</article>';
