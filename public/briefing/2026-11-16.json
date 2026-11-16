@@ -1,0 +1,787 @@
+{
+ "date": "2026-11-16",
+ "title": "11월 16일(월) 아침 이슈 브리핑",
+ "window": "11월 13~16일",
+ "articles": 176,
+ "author": "Claude",
+ "headline": [
+  "엔비디아 젠슨 황 파문이 이번 주 트럼프·시진핑 회담을 앞둔 미·중 기술 경쟁의 변수로 떠올랐다. 미국에선 대중 반도체 통제 강화론이 커지지만, 중국 국영 매체는 이 사안을 다루지 않고 아세안 외교와 기술 자립 성과를 앞세운다.",
+  "이란 전쟁의 여파가 에너지·물가로 번지고 있다. 호르무즈 해협 유조선 피해, 유럽 에너지 위기, 영국의 금리 인상 압력, 프랑스 물가 3.4%가 한 줄기로 이어진다.",
+  "각국 국내 정치는 ‘정부 대 견제 세력’ 구도다. 미국은 민주당 의회 대 백악관, 영국은 로즈뱅크 유전을 둘러싼 노동당 내부 반란, 프랑스는 시위와 대선 경쟁, 인도는 야당 국제회의 비자 논란으로 맞선다."
+ ],
+ "countries": [
+  {
+   "id": "us",
+   "issues": [
+    {
+     "title": "엔비디아 파문, 트럼프·시진핑 회담에 그림자",
+     "what": "엔비디아 젠슨 황 CEO가 사생활 스캔들과 외국 정보기관 접근 의혹 속에 물러나면서 회사가 후임을 찾고 있다. 워싱턴에서는 대중 반도체 수출통제를 강화하라는 요구가 커지고 있고, 트럼프 대통령은 이번 아시아 순방에서 시진핑 주석과 만난다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "파문이 미·중 정상회담 의제를 흔들 수 있다고 보며 정치적 파장에 초점을 맞춘다."
+      },
+      {
+       "source": "wsj",
+       "text": "트럼프 참모들이 러트닉 상무장관에게 책임을 돌리는 내부 갈등과, 황이 중국의 AI 경쟁을 도운 ‘우회로’를 추적한다. 증시는 파장 우려로 혼조."
+      },
+      {
+       "source": "fox",
+       "text": "엔비디아 파문보다 트럼프 고위 관리들에 대한 위협 증가 등 다른 의제에 무게를 둔다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "Nvidia Fallout은 Trump-Xi 회의를 통해 다가옵니다.",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUnBicm1Jcmo3Ukx0dXNldVp4TmRXbkpvN0JIV2NaWE9VaFB5RGxqLTU1WFV2MGpSTXlzZ3A0ZHlZdG5pcHVjaWxJQl9idVJfSUZFVUp1RWJzTGphUzNDc0Z0S0xrNkFwdlZqbWl3dFRPM2MwYmdIVGpKVVhTR2wxT1AzVWlSUQ?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "Lutnick은 Trump 보좌관이 Nvidia Fallout에 대해 그를 비난함에 따라 자신의 직업을 위해 싸우고 있습니다.",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNjVWV4allxWlI5bV9vdHIxNUVScENRellUNHpWV2lIOGJCOU5MS2ZEbDBMS3N3LUdoUUpMcE9SOF9oMThfSVdjdEVPd3A0dDBEcmMyRXhIbGhUelRtYXBvQjZtN2JJandKa1ljeDBHT0NDU2dBMGVodU1FMF9zZGJkOU9WblptbVZDejJzWTdYandKOXc3OXMteE5kRUM0SW5GT1BQS2h2dE9XTFFKdUJDQ3gyUQ?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "Jensen Huang이 AI 경쟁에서 베이징을 유지하는 백도어 경로를 구축한 방법",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5WRVRId0ZUcVRGRlNaOFhjRE5vUUVQWnZ6OElxc0llcUVsaXAxbDFxdXJocTh6UTc2OGN6VnZuN2sxMnZROVhnaU1aTWVVUlZLbU1KRzFYT2ljczNYTV9FTVQxWnFrS2xNdDdZQ2FHejNDUjh2d29PbHRROA?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "Nvidia 낙진에 대한 우려로 인해 미국 주식이 혼합되었습니다.",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXo0WGszbS1hZnpTdTRYYjJ0MnNDYVo3c1paejV2WkowZl93UVNiamRIQ0xEWU9HZWp3Ui14aEhFUEZkbWNQTXhfUVNSVE5tQkhELWJEcmZxYVpEM2c0aGRwdWpQZWM5MmdETXFXMDd5TTR5cHNvZUdaWmp4MlBLMG5KTm9JTFVrRmpfVA?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "미국과 동맹국, 중국으로부터 AI 공급망을 보호하기 위한 협정에 서명",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVM3Y2hkVkZKUTFFcUhkRUJlX3pWbFBGZlZ6QW1tMjJTUUZ5WUgtS0lWMmh5V3YweURabUtma0pDeTBNM0M1cTYtUkQwcDhrODFmM0RPdmoxYzNZYldpdmxKN0ROTVNmMFhOZ3dpVFpnQ2VSUkRyOWtnaG9udTNpbTdRemg?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "전국 항공편 운항 중단 사태",
+     "what": "14일 연방항공청(FAA)이 전국 항공편 이륙을 일시 중단시켰다. 더피 교통장관은 방산업체 L3Harris가 맡은 시스템 업그레이드 작업이 원인이라고 밝혔다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "사태 동안 트럼프 대통령이 모습을 드러내지 않았다는 점과 정부 책임을 짚는다."
+      },
+      {
+       "source": "fox",
+       "text": "부티지지 전 교통장관이 현 행정부를 비판했다고 전하며 여야 공방 구도로 다룬다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "트럼프는 F.A.A.로 눈에 띄지 않았습니다. 발행된 비행 지상 정지",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5"
+      },
+      {
+       "source": "nyt",
+       "title": "방산업체 L3Harris는 지상 정지로 이어진 업그레이드 뒤에 있었습니다",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yOXU5b1dHZVlma295S1pOVWtPY0NQWG1ZYmxsUnhMWnpzaV9TamVoeGxUM0YxOEw1TGNuRFZEb0JfRFBTN1VxRVBxM2ZZQzc0RHl1Nl9IWDR0Uy1VUGtheUpkMHRKZWNRUzY5UWhpWXI?oc=5"
+      },
+      {
+       "source": "fox",
+       "title": "Buttigieg는 FAA 비행 혼란 속에서 트럼프 행정부를 강탈합니다",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR25SbzlIY3hUZUxScFVOYXUwamY1X0ZwaW9UTXR5Rm5hWjVfRy1kMzc0aDFFTEMyLUtITDMyU0syTUd2QmJKeTdOcXhiUWw3X1ZZVXJ4U0FRZzJHVjVGLTZJaU82OGgxUlNaTVN6eXVwUW5QNmRWZW85VENyUkR4RXdpLTEwTFNJaEctLXUwUmhUYnMtemZIWEYwMWp2QdIBowFBVV95cUxQRVBUSVVIX2J6Q1VKM1hneHRpX0hnSWZncWpsZjNRZFNnVzhLMklxX1FsUFZRd0tSVXE3UGd4cW0tX2YwWlBPV1BfQ25INWNVbi03QzB1ZjkwYTVIM0czV21uY1BrR2p1bE4zUXdzcUJ6UWRYeDJxZWMxMEpvSkw2TVNtMVQ5VGRtMzZVTVFDWUtDNXoxdVVzUUNzWVdVNUMwRmhN?oc=5"
+      },
+      {
+       "source": "nyt",
+       "title": "Duffy는 업그레이드 작업이 전국 항공편 폐쇄의 원인이라고 말했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "민주당 의회 대 백악관, 견제 국면",
+     "what": "의회가 행정부에 대한 조사를 예고하면서 백악관이 강경 대응을 준비하고 있다. 구조조정으로 곤경에 처한 연방 공무원들은 민주당이 주도하는 새 의회에 기대를 건다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "연방 공무원의 처지와 의회 조사 예고를 중심으로, 행정부 견제의 시작으로 본다."
+      },
+      {
+       "source": "fox",
+       "text": "고위 관리들에 대한 위협이 커져 이들이 군 시설 안으로 거처를 옮겼다는 점을 부각한다."
+      },
+      {
+       "source": "wsj",
+       "text": "사설에서 트럼프의 관세 정책이 성공했다고 평가한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "궁지에 몰린 연방 직원들은 민주당 의회에서 생명선을 찾습니다",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ2xkYzJvbzJ4WTRvNnJsY2tQNHIwOTVjYmZENlJnQ1JXT0ZyMzFtUXowdTRPanYxa19rV3pZRkJ1dmxkUUk0WGR3RFk2RlJpdlBlQkhQU3NsSzJEWEUxYW1qZ044SEhXQ2JLSlB6Y08wZS1NZ0tGSjZZMC1fYktldy10Vk00YTRvWlRsTWxQVGJvaEJqeGYyVjZKWnFHSTg?oc=5"
+      },
+      {
+       "source": "nyt",
+       "title": "의회가 조사를 계획함에 따라 백악관은 맹렬한 대응을 준비합니다",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYkx2YXNrZlBZU0dNZlRwbU4yOWRiRVhpWV9rUDNHejQ3LTNacGdoLUU5eGM2QVFLMjFDUmFBS3lhVjk2amgxZHJhcFdmWFE3S1hYU2lnRzFkYkJrTjU0UGlUVW9KRHZoVldDNUxTOFFpUVRCeHlTQmx4dnJWRzhJY1FnVU5wSGVW?oc=5"
+      },
+      {
+       "source": "fox",
+       "title": "전직 FBI 부관이 위협을 촉발하는 요인을 지적하자 트럼프 고위 관리들은 군사 관문 뒤로 후퇴했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObzNGbjk3ZEFwRzVLb212NklvblprNXIxMWRXUEdEdjdDRUl4aFV5S0h1cGZzc1VYdS1NLUtDSTZVR3lTMGU1c0xDeFJjbGoybmNRbWlkbng4Y1RIZGM4aGR6MXBUV1l5ODBHdXl5TmptbzRUMEZTMmI0dHpEaG1qeUJPeUFna3BfMVQ5VXE1bHZMLWlLVnFOTkQ5NVByTHl5bjBTNzI4LTVPdndfaG5zNXlqYVJhcHBlVkc3VWFKMklvMFJ60gHKAUFVX3lxTE5GRU91SG1aMzBHMG5PaXVJNEpCcDRwLVZTVVFNSzh2cmVGUUhhQ2Y1NTljWTlQY19nUU1NY09wbFJISDBkbmRVNGxOSkdUUUVEM2VvX1VBbmlMLWhDYVRfX3V0Z3FpWkFkUmo5dWt6NE40Z3VmaWtyU1ZzUmpTYzBMcWZRTEhTWDFseHpBQWNFRno3UktkYU5HUXBGVk5IYlZMSE8zeXhHb08wMmVCWWN3OFZteHlUREhncWR0MTBGbVE2NXJzYlgyYUE?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "의견 | 트럼프 대통령 관세정책의 성공",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdi15MUprNUVWM1B5T1Z1bEdNcFRrR0RhSmxvZHlfVEdGNXkzb0w4dngtQWh6aWs3eGVwN3JJMVMwanRYNEgzRnNpVGFsUUJNeU5oZzZ0LWkwTTFDV1pKS014OGcwUkdMaGFuak1ocVB0dkxBT0hOQXd6WlJUNURyTXRCVDFZa3l4aEE?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cn",
+   "issues": [
+    {
+     "title": "리창 총리의 아세안 외교",
+     "what": "리창 총리가 중국-아세안 정상회의 참석차 마닐라에 도착했다. 태국과 무역·경제 교류를 심화하겠다고 밝히는 등 주변국 경제 외교에 속도를 내고 있다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "‘긴급’ 꼬리표를 붙여 총리 일정과 협력 의지를 신속히 전하며, 외국 정상의 방중 이후 기회를 찾는 외국 기업 소식을 함께 싣는다."
+      },
+      {
+       "source": "caixin",
+       "text": "외국 기업들이 중국을 여전히 세계 성장 엔진으로 본다는 경제계 목소리를 전한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "xinhua",
+       "title": "긴급: 중국 총리, 중국-ASEAN 정상회담을 위해 마닐라에 상륙",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHdwa0JPOFVld2J5RjZIVFFCc0M1bGVrZ3FPVTVja1Q2bjU0eENGNzhzSDlWLTZpOVZfUGVnb1ZNUEVObUc3ZXpyWVVBbUI4Um5iOXNWTmZuTVFCcmlTakFhRktDRUFhQzA4QkcxUTVUVGZVamluRWFOTDZKMjZCVlR1Y0ZzcUdiZGJsVQ?oc=5"
+      },
+      {
+       "source": "xinhua",
+       "title": "긴급: 중국은 태국과의 무역 및 경제 교류를 심화할 준비가 되어 있다고 중국 총리가 밝혔습니다.",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tcU9nU0w2ZmRCSkkwQ1BmQ29yZ0RZZ19vbGg5RHRzaGh3NFFuVHNCTkRkV0w4VkFXZ0J1QjFGUGpOSEZMWDlENEtqNFVuOFdLYmxLdGZ5TFRyZV81OHdVZjhvXzZfakpBclZBcUNCX1ZzZnZJbWR4YnZlcHo?oc=5"
+      },
+      {
+       "source": "xinhua",
+       "title": "경제 관찰: 오스트리아 기업들은 총리 방문 이후 중국에서 새로운 기회를 모색하고 있습니다.",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ROGdxRHJuaGJETHNRUzVrb0g4elFSSkxCZU5SaUx4VERES28wdElQdk1NWFJhdGVJXzJCRHNRNFo4NkFHcHUwT3BmMFR4MGZnRFNSVjlJWkFUcHg3OHFWa2F2aE9rbUFyR0RWNk82WWRSb01aNVVEX2k5OUs?oc=5"
+      },
+      {
+       "source": "caixin",
+       "title": "Caixin Summit: 외국 기업들은 중국을 글로벌 성장 엔진으로 보고 있다고 BASF 부사장이 밝혔습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTUhRRzNMOTE2WXV3RlliTDZRTVhMY21zV09ESXNDMFg2OGZpb1lWdU0zX1M4Y1NFWFFwa19hdkNWdHh2WFBYTGZMOVpId2l0TGV3UzF3NUdmRGNvYV9BT1JxX2hUVmNQVkcwaGFpWVJUTFpQUFNkOHhSWGRvOHhXMGs1dy1TZS1jUmpjckJUbVZsaXgtU1h3ZXZEUDNWVXhmcWdTRE9jZlNyNkYzZkhROWl5V1YtcHNzUHhlN3NEbk5vODYzWVNuSHl1SGI3c1k3YVpTR0k3ZGw?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "기술 자립과 AI 인프라 경쟁",
+     "what": "중국이 자체 개발한 10톤급 전기 항공기가 첫 유인 비행에 성공했다. 동시에 AI 데이터센터 등 인프라 투자 열기가 과열 논란을 낳고 있다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "전기 항공기 첫 비행과 케냐 전기 오토바이 지원 등 기술 성과와 해외 확산을 강조한다. 엔비디아 파문은 다루지 않는다."
+      },
+      {
+       "source": "caixin",
+       "text": "AI 인프라 투자 붐의 약속과 위험, 모델 순위 경쟁 이상의 과제, 엔비디아 주요 고객이 된 중국계 기업을 분석한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "xinhua",
+       "title": "중국이 자체 개발한 10톤급 전기 항공기가 첫 조종 비행을 완료했다.",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0zY0dnTk9NZEQ0aU9vME1DQkpRTjFmeUotNGd0SS1DUjBrcnRMOVdsSUx5Q00wN2ZLWER1eElNTV8ta01OOEcxYzJmQ1I5T2otRFJ5Rkt2ZnBJMzRuQTVLN1JzYjJuelg3QkhtZzdMQ1dGeUxmVGhRdUdMTDI?oc=5"
+      },
+      {
+       "source": "xinhua",
+       "title": "특징: 중국 기술로 케냐의 전기 오토바이 추진력 강화",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DY3hzSkw4S2llRC1nVG5hT2pmSW5FYkY4RHZwdGRwakxzQnUyYUx2QzQ5S1dyT3BuVS1VMzlLUGRiY0ZNUV93b19qMXFrYmxGUnNtOENhWnlydFp0R3dOLV91NTh6Y2xoZEtCYXZWeVNJb2NGRXdja0p6T2g?oc=5"
+      },
+      {
+       "source": "caixin",
+       "title": "표지 기사: 중국 AI 인프라 러시의 전망과 위험",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeEtObG9hZ0thaEprZ0E0cl9ZNnpvNHBCUjRwN0ZOOEN5cE1BT1FLY1RVYnhvTWphSm9DUThFM0FleUl4WjQ4NlhRUUdnUC1UZ1k1cm9CX0FGNjhWUXJYdmRPb1oyazRNUEJqMDhKX2ZWYkQzOVlUb3VqQVczR2Nwd29ZZFdrZkFtXy1LN0lQWDlpN1lZWTV4cTFqYU50RUxtUVhUOW53N0UwSnM1NlFZemY0Y3FYN2JOMVlOYS13?oc=5"
+      },
+      {
+       "source": "caixin",
+       "title": "Caixin Summit: 중국의 AI 추진에는 더 나은 모델 순위 이상의 것이 필요합니다",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQWdSMzFoc3BpMDZwNDRQeFZ1bGxpeU5QMC1HQ0JnakYtUklrcGdwbjhJTTBaUHdhUjY4SU00c3AySHVBYUxocTItQlNJY2RDdGRlR0twNk5rTVY4Uzg1anQzWEdPWnVWR3l1MElCOFpsZG5LdkowNDFSdUx2Z1Y5RXNQdnpnOUtnMkJ4RkxtaXN5NDN6VDZoTkh6RU1sc3lHWEUwWmRGSFFVRFVKT0gzV0JSaHU3eVplekI4NHp3?oc=5"
+      },
+      {
+       "source": "caixin",
+       "title": "심층 분석: Alice Huang이 주요 Nvidia 고객에게 Megaspeed를 구축한 방법",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkVyYmdQanY3akhGUkFqVHM5M2pJMWljR1BNNllvZ210NWF5QzhIb1VVNnZGX1gwVF9mODVXbmxPeWtBTENwZXRRR0xTaTBpb2pBaGpOZi04SFdTb1pXb3E1SHByemFBaFVCR2h2WHpGRkp4TmV6bEJqc0swWFhKdUxJR0tRcDVHVGNvUmx3OERQNEliWGhGZVo2SU1taF9zUlJvZFExTElFYjgxZkFqQV8zejZjMGROOVdnd1pNT3B6QQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk",
+   "issues": [
+    {
+     "title": "금리 인상 경고와 생활비 부담",
+     "what": "영란은행 수석 이코노미스트가 물가를 잡으려면 추가 금리 인상이 필요하다고 밝혔다. 이란 전쟁 이후 에너지 가격이 오르면서 인플레이션 압력이 다시 커진 상황이다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "빠른 금리 인상이 불가피해 보이며 그 부담을 가계가 떠안게 된다고 본다."
+      },
+      {
+       "source": "telegraph",
+       "text": "인플레이션이 24년간의 집값 상승분을 실질적으로 지웠다고 지적한다."
+      },
+      {
+       "source": "ft",
+       "text": "해고도 채용도 적은 고용시장이 미·영 생산성을 갉아먹는다고 분석한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "guardian",
+       "title": "급격한 금리 인상은 불가피해 보이며 영국 가계가 그 책임을 맡을 것으로 예상됩니다.",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWg2eXA2U2I2QTRzRWFjcVV2X1hQaURhamh1aGJId3lGUWRRUkZySEdHWm5TOUdxOW5lZ3VISVZGTmxBTERqNjlxLTVqVXlaRkdxNzJSYTBoNlJWeFNzeFI4Sld4d2R5NkZuWmhHdUR2MWF1RGN6UG1sbkR6VC11NFViWUxpbHg0X1R0aHp3eVJ4WnpRdVlKUG5NMEVERmNL?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "BoE 수석 이코노미스트는 인플레이션을 막기 위해 추가 금리 인상이 필요하다고 말했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "인플레이션으로 인해 24년간의 주택 가격 상승세가 사라졌습니다.",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGZQVFhFc0FNMzZXWTcwcXdaWEFGZ0dqRTlwdGVzc2dNTkxYbzdZT054QVdKRHh5RzR4Q21mWXV0S2xDWVpxVDdLVERUZmVUa0ZtX1hrRWx5dzRITmJvbDcwUVFXYlVpYjVMd3VaVUJacTZNb1ZsUG9SWldJY2tlWEF2WkNxRTFPOTlPT1BTcFk5b0VtZWtsNWlSS0g1ZndJ?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "'낮은 화재, 낮은 고용' 고용 시장으로 인해 미국과 영국의 생산성이 저하됨",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPampTRjFQdm9jcE9lZ3lCTUNXZllPTDZJUHhoRk45eDFUQVBGRVdkMWxKZHc1bXlmY1VoVG1PeTFzSUdsb1psWVJlQXNyeEJLUF9sLUpyN0l5bm45MGwwck1RSUwxbW1pT2stSm1qejQ0Qk1xejNFQ0d4ODRNWnFIV0JkMS0?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "로즈뱅크 유전과 에너지 안보",
+     "what": "북해 최대 미개발 유전인 로즈뱅크 개발 승인을 둘러싸고 노동당 내부 반발이 커지고 있다. 호르무즈 해협에서는 초대형 유조선이 기뢰에 맞아 침몰했다는 보도가 나왔다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "로즈뱅크 승인에 반대하는 노동당 의원이 100명을 넘을 것으로 보며 당내 반란에 초점을 맞춘다."
+      },
+      {
+       "source": "telegraph",
+       "text": "호르무즈 유조선 피해를 전하고, 기후정책이 실패했다는 칼럼으로 정부 에너지 노선을 비판한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "guardian",
+       "title": "로즈뱅크 유전에 대한 노동당 반란, 국회의원 100명 돌파 예상",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnpvNXJzaHE4UjFSUFIyNm5qRnlPY1cwaDF6Rkt0Q2RpWklVblc0ajRNd3FTX294b1B0bUhoQmtzc1czM1dDcFVUYmdvTjBla3d3d1VXOXlCQVBOOU9nUFRwWndKZWE5aXNLVGVJX0NtRFNfMFo0em5hZERKemFGQ2VOblVpTUk?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "호르무즈해협에서 초대형 유조선이 광산에 부딪혀 침몰했다.",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmpReEpXNS0wU1l5SlZqc3J1ZGQtRUF0WF9XeHgxUURQVk9VeVhtbFB5dy11VUtSaU9pZGktZmNQeEZ1cFE1eTR0NHZJaDhPT2ZZSjg4ay1PVVIwRGV4bDNjOFRWQ29qNzNlZmp1djBhUHdBUnQ3bUh1WVlHUm5iUUpCSzkxdHlUZjdvU0ZOU2JpamhOQnc?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "기후변화와의 전쟁은 실패했습니다. 자기혐오적인 영국만이 이를 눈치채지 못했다",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnZoYU45R3A1UnZMV0pmREw1SWpLZE1aU3BOZnR1OXRDbGc3US1QUDN6UWJtSmJJTkFQVFBGV1o1VGdTLUk3ZVM2Y2tmZ2Z5c21ldzNWTTFMbVlHS2RoZFh6ZEFsa043a3l3UFZsWUJqcTF3cGFPYVRJNkxfT1dEVDF4enR5V3FDbVdqQzRuX0t3Mi1IdEtmMTAyY0tiMlBXZDg5QTBWQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "청년 실업과 일자리 대책",
+     "what": "정부가 1년 이상 일하지도 공부하지도 않는 청년에게 일자리를 보장하는 대책을 내놨다. 예산책임청(OBR)은 AI로 인한 일자리 손실을 경고했다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "버넘 맨체스터 시장의 조기 개입·급여 안전망 구상을 소개하며 고용주 책임을 강조한다."
+      },
+      {
+       "source": "ft",
+       "text": "정부의 청년 일자리 보장 정책을 사실 중심으로 전한다."
+      },
+      {
+       "source": "telegraph",
+       "text": "노동당의 규제가 청소년 주말 아르바이트를 없앨 수 있다고 비판하고, AI 일자리 손실 경고를 부각한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "guardian",
+       "title": "Burnham은 청년 일자리 위기를 해결하기 위해 조기 개입과 '혜택 백스톱'을 약속합니다.",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlZDZzBxUDZoVEVpOGxTNFFSYjZKdndOankwWkdsQTBoMkd0MmtEUlZwaktHdzNCRGZxTWtVbmhVdWtDRDdrS04yMUE2RmRkam41OHRVQk5reDdWTWhLcm81WXpYVzhzaGlaalh4dHNrSVhIT1pxZUtjR1FTbXA1WDlmWS01MHVFeWFJblE2TTFoYmFyNkJrRTgtcDZBRXFwejh0SGY1R1Vqb0U1cWRPU0hlX0hldkRIRVpmZDdsUlNqaE0?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaE5NUTh2a1lUS01feVlhQTBYMWJ5ZkhjaXg1V2l5MmJBaXVoTDRWbHpMcU1oM1Zzcl9neHVxeXBFaWZiQTNGNFFXVkc3YlVJalhWTllOd2RNYV9JZGZhbU9uUFZQMVRkUW8tZ1hHT05EVVUzVURLeGc2UDdXRGFjTTh0T3I?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "노동당의 '괴짜' 관료주의로 토요일 일자리 종료 위협",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeTdmWGtuUDctVlNxVF95bnRtYnVjV3BKRmY1ZjRBT3M0SGYwOTV0QkZvQVoxQm9qajZaLUg3Y3VjUGF1V1paWVViVlo3dEhWTlV5V0p3RVFmRElUalUwNVNocDFaeXM3OEJjUVpsZVZoNHpiTVA0V2lwdjE2cm4tOF9PZDRsV2hfaEpxRnNEOTN1TnRHRm05bjJvZzM3Q2lMVHd6ekdDdVl5MWc?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "OBR: 영국은 AI로 인해 '매우 고통스러운' 일자리 손실에 직면해 있습니다.",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMVBXUWhhV3Y5VVpQenowRWJOUjJNUDhyaFRKNmZyeWp3ZElQcF92MXJ1QmlpRE9na2dWSFZkYjhSa3BnaWxyV0VMY1FHSXhhZ3YzNmxlaVdyZ051dXBCWmVrb0ZrSUE1Yzl0b21jMW1KeG00ZTlzcFRhWjNNRDhHRE9ZQWpJblpEQ1U1cmVlN0hMSEtGZmE1aW9RU2dRcERPZjIwemdJM2M1NXFs?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ru",
+   "issues": [
+    {
+     "title": "발트·북유럽 국경 긴장",
+     "what": "에스토니아가 러시아와의 국경 검문소를 닫는 방안을 주변국에 알렸다. 러시아가 핀란드에 나토 탈퇴를 요구했다는 독일 언론 보도도 나와 북유럽 긴장이 커졌다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "외교관 발언을 인용해 ‘정보를 확인 중’이라고 짧게 전하며 사실 전달 수준으로 다룬다."
+      },
+      {
+       "source": "meduza",
+       "text": "핀란드 나토 탈퇴 요구 보도와 모스크바의 부인, 헬싱키의 반발을 함께 전한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "tass",
+       "title": "러시아, 에스토니아의 국경 통과 폐쇄 계획에 대한 정보 확인 - 외교관",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Pb0djZDZYR3JEWTlwckZtT2RuSGRQTTJGTlktVWUzQWU1c3FxaGx6MXpLZE1wTDdudVRkeElpV01ORWl1TXBIZ9IBTkFVX3lxTE5lby1OaFJVdDloVGRZU0U1ckNuRnkxelBud01GUEZqajdtdTRzXzhrMGF3THh1S2xTemtxblNGazVTN2NtWDAwd2NYUWpfUQ?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "에스토니아, 다른 나라들에 러시아와의 국경 폐쇄 계획 통보 - 최고 외교관",
+       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBlNVlLNWNodmNKa2hKdnAwSmZibEZlbk9aZjl5dkpoUjQ4Q2NsUUVQTG5TZGVGNzZUbzByYjdRdFRZVnpU0gFKQVVfeXFMUENyY0lRZHc2alRqVjlGU2pST3F3OHlIS3RiU29aTUo0RVZmb1c2TkhKOHFjak9NOHZqLXFLQWx4enhVTHk3MGFYV3c?oc=5"
+      },
+      {
+       "source": "meduza",
+       "title": "러시아는 핀란드에게 NATO 탈퇴를 요구했다고 빌트(Bild)가 보도했다. 모스크바는 이를 부인했고 헬싱키는 격분했다.",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXZZdHF2RVlpYi1qWUV1RVEyd3pTSWxxWVl5NEdlczUtem5zMjZLVVNKWEZBcGxyNTBUa0xVQWRSVEJoaUpVMFkwRXQ1dEdGTEo4aEQwWjc0OWZEdGthTk1GNTEyYUJhOFYtX0FJeFExSnN2WHo0VnNxamxfWTJWZzNCQk5CYVhvOU95TlN5YnBFYXBpQ3NmRlo1M1duUERvc3VZc2RSNnRvaFRrVlFaS0phVjRkcGdtZDdUbDlTak8tanfSAcgBQVVfeXFMTnVreS0xUWxuemJoc2JGdEwyVnNKMTczRWxEQUdrLXJTSUE4S2lWb0hES2UxRnZkRmItWm1vczdfc3ZTMGhPUWJIYmxzNUljWFFaN05FMV9qYUtfU2FsVXBENlE1aHF3QWRGNExrUUdxclQ1dy1LR3pndXkzN3BqeXdrcjZ0VllDUV9FNEktZXN5dFQwSk1Pd0xaVjBfTkdWNnNrbmZNZk1IOTZNVHdpdHlFRnF6VFk0eEN4akNhUENETUZOWTVhODQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "에너지 수출과 제재, 전시 경제",
+     "what": "EU가 러시아 원유 운송 관련 업체에 대한 추가 제재를 예고했다. 러시아 정부는 올해 성장률이 전망을 웃돌 수 있다고 주장한다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "외무부를 인용해 유럽이 스스로 내린 러시아 가스 금지로 타격을 입었다고 강조하고, EU의 러시아 가스 구매 증가와 성장률 호조를 전한다."
+      },
+      {
+       "source": "kommersant",
+       "text": "EU 제재 예고, 경유 수출 증가, 내수에 힘입은 철강 가격 상승 등 업계 지표를 건조하게 전한다."
+      },
+      {
+       "source": "meduza",
+       "text": "압류한 외국 기업으로 전쟁 자금을 대고, 전쟁 이후 보건·교육 예산이 1조 루블 넘게 줄었다는 조사를 전한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "tass",
+       "title": "유럽은 러시아 가스에 대한 자체 금지로 타격을 입었습니다 — 러시아 MFA",
+       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE44U1c0cFFUX2VUQ1pWQjB4aXVpak8xcHlKUWhtN3ZuZ0JsQVNOOXM5S2lXYTZfMnJzQ2puaHZpeVJqUWtfWVNN0gFMQVVfeXFMUF9vQmt5emVyWkpMNU5lZ2VKVmVfZDdBcHBuNFdMZnJ4akt0OEMtazA2WVl1ZnRNbWJoUnR3UjdIV0s3N2hUc2FiYy00cw?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "러시아 GDP 성장률, 연말까지 예상보다 높아질 수도",
+       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBqb1N5TlJUZHpJNlFUTEV1bEM0U09VeGhBOThyRjJOakM5eXBBejBFVllfT2RhcTZ5a2k4MUUxWm84TmpiTWV30gFMQVVfeXFMT0FOM0pGd0NEcExoM1RnbnpFelhMdVAyaFprTDlfSElseC0wV2JMS0FsWk1pbTdCdGZhTVlGOEJ4dzVINmlmNVptLUhkUA?oc=5"
+      },
+      {
+       "source": "kommersant",
+       "title": "EU는 러시아와 관련된 석유 운송 참가자에 대한 제재를 발표했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9jdFJwV3dMTGxHbnJ1YzJTbDlhd283cVp4TVRUdGc0MW54bGV3c0tYeV9BenhZamVRUXJwV3g5VldUYnItcG5PaUNjS2N5QQ?oc=5"
+      },
+      {
+       "source": "meduza",
+       "title": "러시아가 압수한 외국 기업을 이용해 전쟁 자금으로 수십억 루블을 조달하고 있다고 블룸버그가 보도했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVkZydnRrZXJuLU9XOVpnZWJoTVdEY2JLVnpvUWRDcVNPOXAycmV1LXJHelJlUHJqRmNJWDlscmdJVTFnUnlKZnZtMFpGeHlVRG84QlI1U1RYbW9uQVdwazJaWndLUmJTUFdsOG9UcjlCZzlkMVhheTY4eVNEanhoNnJYYjNVdFl1WFV6RVNja2tiYml1UFZjdmNrdS1TYks0NVh2NFJ0dFZSMGtnN1RfaXdBWTlra3lfdjktMDRnT0l2MEdqS3VfUHJKYVotWTdHS2dCMGlLTFREQ0Nh0gHiAUFVX3lxTE5aWWEza2U2TkFfR1BWSF9TajJOWjluUTM2Z3dsRUxqVnR0SjJ6RW56c3NGNWlTTEY4dFNfQzEwQm5DN2VZRmRVMzZ0UVdjZnZ4bUoyYTZxRzRtcVVOMW9DenZ1NXR2cGFhR3J4MzI3bTFkbWF0NkRtU0VqNmRrREljNWNPeXJjVFBkQ05Kb1JRQ2F6TEhDTlIzV1NGeDNOU19fVEZlTXhGN19rU0pEbG9SWjJwV2VubC1EOV8xZjM3RlM3czh6WGlXNjN5NFBCdGNKd1VwcjVWZUpTMmJJOGZBRmc?oc=5"
+      },
+      {
+       "source": "meduza",
+       "title": "러시아의 의료 및 교육 부문은 전면전이 시작된 이후 1조 루블 이상의 자금을 잃었다는 조사 결과가 나왔습니다.",
+       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNSGlOWUVDTlVIdXJGdmVCTl9FVG5iWkthYkQxdG1BZmNNNDg5UDZnM3d2OWQwenZKOHpWZHBFdzV3ZmJYczUxVEJMRk05ZElpdTNEQzRjRmhEMG5fOVd3RWpMOGFvZXQzNURsMlptTElGM0dHQkJRWk8xU2lvOEIxeGp3TW1keVVvMHJYeWQ4c0FXR1JwT1ViLU83UGo3TTZONzhEa3JnRXdVWlI3RWpRYVBoQ0g1NnVrTERDWG9fa3pBdHZ3WVg4ODBDZ2VlRVc4ZzNRVXl6QVdWeUtQNlVzWkFhTzJTeGltR1RWTmFrWDRRU2ZHbXZYb0doVF9tbG1aWnFIU2pkWWZvRkQ1Tm9UTFd30gGXAkFVX3lxTFB1N0txUDFKZ0Joblh0bDNlSTlNbk9lZC1kWDlZYklMMEZWRm8xUUgwUGVOVVI0eGNpeWFrc0dXR2tCUTJDYTFEYmpPc0hMcnd3bEU5SDAzMmtEX3RyVGFUWHNaOG5QdEpVaFRGR25IS2hzTC1LMlFCeS1ySWZWM3ZLeVY3ckpzTGgxY1BiSHNCUTg1MmhvOUQwVUxEMGdfRHNtUHhiYzhaekpMZHRRRkoyaUZUSzBXTlE3SlVIM0JBZ3ZQNXdSSF93TVRKYVU2cE42QkZiSGVCaGppTGJhaE9LSDlqeFJKMWxTcWV3UkEzRm9waFJ0eU50S1FnV0dFQWJRNWZZeHVyNDFla0dDT0pJSWNMMmpGZw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fr",
+   "issues": [
+    {
+     "title": "‘사회적 분노’ 시위와 저임금 대책",
+     "what": "15일 전국 시위에서 400명 넘게 체포됐다. 정부는 최저임금과 공무원 저임금 인상에 약 10억 유로가 든다고 발표했고, 10월 물가 상승률은 3.4%로 확정됐다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "대규모 체포와 함께 정부의 저임금 대책 비용을 전하며 시위대의 요구에 무게를 둔다."
+      },
+      {
+       "source": "figaro",
+       "text": "체포와 구금 규모를 앞세우고, 시위의 요구가 제각각이며 동력을 잃고 있다고 본다."
+      },
+      {
+       "source": "echos",
+       "text": "물가 급등으로 가정용 난방유 소비가 역대급으로 줄었다는 생활 경제 지표에 주목한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "liberation",
+       "title": "사회 운동: 토요일 시위 도중 프랑스에서 400명 이상의 사람들이 체포되었습니다.",
+       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOGJJRm5VQVlqVU1TY2YtT1pGSHd0S1YwbXpzMFhYUUptSVZXMTZPeTNHekRMdFJJQXZGbGJpU3JOdDRDQ1lSRVpmdnhDeGJlcmtlRDBwdllDUU9aN2p2WGY5LS1ocE9rYmpRNTNTcjl0dmVCTk9rTWZxWXZkeUREbmU0ZmR1UXJucDZ1QmRtQUdtV1htTFUwTVEwOWU1UldPX1RmMGkxcnlhNEY1TmpnaDJ2VTByOTdPOFVINll3NFZiY0ZQVC1fNm5JSFNGc0JyTUlHcjRSWUZwUUtWd3lCU0U2Y05lN1JGTUFUU180QS12TlJqQTlHN1dTVC10S3ZSbEkzU3FaSkQwNncyVXc?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "사회적 분노: 프랑스에서 400명 이상 체포, 파리에서 약 100명 경찰 구금",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWTN5ZjZtTlBDYWZibjZoTERlbXJhUU80VFVKaUhfa20tVFJyMkRzaExTVVBwb1ptempzSGNIVkk1WGUxb21lQThra1NoVHZEOUtUTHMxYWJnay1DeTBkS19WR0lrNUQ3YUhYTEUtRlcxemxHMUVuY18tSmJXTjhEOGpoRlVKTWhqeTJZSUNtTElUb0U1MGJ6ZUJ3aHdydnZTd1V0dHdWSW1paFFWelpydF91RE5qM2VsMkZMSGZnZHhXTTNyckVKaWF5TlB0aDNsdDN3?oc=5"
+      },
+      {
+       "source": "liberation",
+       "title": "정부는 저임금 조치를 약 10억 유로로 추산한다.",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZnMzQ3RXUXZPeEw4aHdCWkkyUjF2Sk13eWU3Rk5sSTNNTHFKQmRYeTQ5cVNZcTIzcFlkNkFfc2piY29KTGtGaUl3aTRQX3JRZEtUenRMZ09uZGJqSmphX201VXdDRTI0VW1uU1p5Mk9UbV85dENWZ3U0SnRUYTVMVU5FRld1N2pnaXdfZGVGdmxwWDQtSEdfbjBZUFBhZi1SeGR2MVJfZW9nNXc4WkJ4YmQ4SkxWb2EyRk5ab3ZjeHRNdVpSNmx6d0Q3Y1JpSjNLUEN3SG1EY0NWQThQWFE4MWkzYTZsWGZVaS1Jd0FjeEROeDNOZ2c?oc=5"
+      },
+      {
+       "source": "liberation",
+       "title": "정부는 저임금 조치를 약 10억 유로로 추산한다.",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZnMzQ3RXUXZPeEw4aHdCWkkyUjF2Sk13eWU3Rk5sSTNNTHFKQmRYeTQ5cVNZcTIzcFlkNkFfc2piY29KTGtGaUl3aTRQX3JRZEtUenRMZ09uZGJqSmphX201VXdDRTI0VW1uU1p5Mk9UbV85dENWZ3U0SnRUYTVMVU5FRld1N2pnaXdfZGVGdmxwWDQtSEdfbjBZUFBhZi1SeGR2MVJfZW9nNXc4WkJ4YmQ4SkxWb2EyRk5ab3ZjeHRNdVpSNmx6d0Q3Y1JpSjNLUEN3SG1EY0NWQThQWFE4MWkzYTZsWGZVaS1Jd0FjeEROeDNOZ2c?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "“절약하려고 노력 중”: 물가 급등으로 국내 연료 소비가 역사적 급락",
+       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZWRkc0VhcS01VXNsYmkwMHhWaTRzNzlFX09peUxUeHRMVHBua3BfTHdOWHdGUm5HbGktUk1wdEdzX1J6bkN4NHhFYXJ5TWpYRjNUTEJpR01uOFY0Sllka1VZNkpaN3VBZDNfSFp5c0RIYUU2NC1WTk53QlZsQzdnaEIzWlB1Z2F3eWEtZ1dGZkNpVlVxVGhWUDk5ZXlZbG51MzFZVWp0ZEZFTGdzZURDVFdhMkRDdXhxc3NsaW40cUVKOGZDN2tIN3MxRUh2bnhBVmJtbUZPZjJ4R0daOHdmSTV3QWlCTkVEZ0x6TUJHV29lejFaZ254MVNhWUNBTUFY?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "프랑스: 10월 인플레이션은 1년간 3.4%로 확인",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUEtrcUlrWkd4YUJqNWNETHVHaHFfb2dScEpyRVQ5Zks5OVY4cnVld1VabENkZFZxTk9ZbEJoNXRnZGlxZTN6aHZiYTNDTWJOWFRXdWVVUnpaNm5EWlg3VnBmd002NS1WeFNiY19ma0tYREQ3MU9ia2ljN0RSSEFjQ1EwQlZBRkp3eFZudjVma1JvVHhjc1VFRHo3MG5qSUZQN3pIRE5NVEVlZElWOXJjWkl3eFZtd2FFeVNiV2NKTjN3UDh2QlFLWmNB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "대선 레이스와 우크라이나 지원",
+     "what": "2027년 대선을 앞두고 마크롱 진영이 우크라이나 지원 재원 문제로 극우 국민연합의 르펜을 정면 공격했다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "마크롱이 르펜에게 공세를 폈다고 전하고, 대선 출마설이 도는 유도 선수 테디 리네르가 마크롱과 거리를 뒀다고 보도한다."
+      },
+      {
+       "source": "figaro",
+       "text": "마크롱 측근의 말을 빌려 르펜이 당선되면 프랑스가 유럽에서 고립될 것이라는 경고를 전한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "liberation",
+       "title": "러시아에 대한 우크라이나 자금 지원 : Macron은 Le Pen에 대한 공격을 시작합니다",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdVA4VlJYOVVGanl1LVZzV29tcHpSUWtlTnhKQmRBdEtzLVFBbTRraExmRDBTMjduV1p5SG5HZG1rSDVMY3MwX3d4WWFRU3RfNG5JUjA3UnBVc2VmRGR0bXI5VjBGeFhaQXhEUGx0WXlyOVdHX1BmTzhKY3VsZ1FQSjZVY3Zsd0lUaXVuWVNNTDlORkdUOUdueV9NSmlON0JkWUU5VnJOeXNJTWtfajhxZzdrUG1ndnJ1c2lnWVFURUJkRlRNaFNkU2xEVW9sMnM2WmpzcV80ZlZNaFZPamhQdEgzclVXZzNidXhoOEV0YVhucVhIT1E?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "우크라이나 전쟁: 마린 르펜이 당선되면 프랑스를 유럽에서 “격리”시킬 것이라고 에마뉘엘 마크롱 측근이 밝혔습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeU1Jd2xmX3pYYWw1eEpHYjh2MEV3SjdYdmF2WURPZ05UZVBuUHc0RnRpY3dXeGF2MzlRSzVDcjFVazN1WTF0RjRTYTlZeTF6bXNmZ0t1dWRsTklCUm1ZdWNzRW14ZzlRTEhsNGIyeFFDemM1MUdCMjN1OERIb2FKLTV2ZE9jdnJ3Mm5PS25jMklnX2g4T1dDUUZvYWswTEZTNFZrbm5yTTBFUlIxZjQzcGVYamtBY1VvTFlYLVpxcUpQMXE3dEpqcDdMcmxtcFUtUUhFQlRnZF84eFlIYVF4V2ZOVjBnZmVxRlBETXFn?oc=5"
+      },
+      {
+       "source": "liberation",
+       "title": "대통령: Made in France 쇼에서 Teddy Riner가 Macron과 인연을 끊었지만 여전히 프로그램을 제공하지 않습니다.",
+       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMjVrQzNodDZRT0ViakZtQUdLUGRmV211V183MDlDVHppUGc0dGtGQ2JNRnBtOEpPek5YVzZDNDdkbjc1NnVkQTVGTlNSRWJvQjE3LTU5eDZsc1ZRbGtHLXczMGljbGNuMkM0aDk3RXFZQ0pNM0FyZTdfaTJxUTZmd3Q1b3F4WGVLczdOUEZIdzhmUXJoeEF6X0lCcHkzZDNoLVNJMi1NTEtNX1F4a2tGUXdxTjdreG1qOERVUGVUVExDdjNrYVdYdXR0cjdEWl9jSnFhd2R4RG9hdzBCWkNXc0tFTDdEVjBZdGhPV1RQTU1TUmxmcGpmempBTWk0Z3BZTWlJVlMxZjFvOHNacWZQcnAyZHhUQlVjdG9HVWlJbw?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "트라프 테러 이후 극우 위협 논쟁",
+     "what": "10월 23일 트라프·라베리에르에서 이민자 출신을 겨냥한 총격 테러로 1명이 숨졌다. 녹색당 상드린 루소 의원이 정부가 극우 위협을 과소평가한다고 비판했다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "루소 의원의 비판을 전하며 극우 폭력 문제를 정면으로 다룬다."
+      },
+      {
+       "source": "figaro",
+       "text": "같은 비판을 전하되 따옴표로 거리를 두고 사실 위주로 보도한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "liberation",
+       "title": "Trappes 공격: Sandrine Rousseau는 정부가 \"극우파의 위협을 과소평가하고 있다\"고 비난했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd3EySWVYOEdIUXVldl9SVWdZeEdUdHF4eEJwdzhmdDY3d21pVklpS0plYkk5QUE5VWpZQUJBdDZoZWU5V3JvV3JhREFFZ25oZ3gzY3F2U3BKbkFUSWY3SG1raE9Fc2xLbU9DcERNazhlNW5uR1BobEJ0eDd6OFd3UXZWTnpFa2NZejBUWUxuOEhlcndCWUJJOEdPLTR5dWd3LTJtX3cyb3lhek1ld2Vyc3VnS0p6bVRoWW1jUjZMUFp6QjNZcGk3RWdKOEh0QU1CVG9LSDNEckcxb2ExREdDdklfQWd6QU81Uzl4TjlsMF9yOW9kNWd2c2RaTndMVF9jQmxNeURfRzNQX1ZNVzhmN3ZWSQ?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "Trappes 공격: Sandrine Rousseau는 정부가 극우 위협을 \"과소평가\"했다고 비난합니다.",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdGV1V2otRWllcWJ3Wk1CSEk4ZzVXX3lna1JWb092RlpOM29Oc2VYVEl4Rnk4d2NESnBNcFI4RGJvbEpsaTBCYUZSa2FuWEc2U1hRUThpRGJWU1cyNEY2anpIMUlRX0VlNmc4TXVfZXB3Y0N0Y3lhaEJDQmxOSXZfRTVBU0hDS0paeWttUFpFcThNZHNVU2cyYkgySnJBZ21vRkE3VFhhTUVVYTVzUU5wekZwWWdEUFJYRE9YZ1hJVVgwYlV0UXo5RGplY1VzUWN6M3h2SC02Qk1jSGJkMjBB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "me",
+   "issues": [
+    {
+     "title": "이란 전쟁 이후: 호르무즈와 협상",
+     "what": "미국·이스라엘의 대이란 전쟁 이후 호르무즈 해협 주변에서 선원 25명이 숨졌다고 유엔이 밝혔다. 트럼프는 도발이 없으면 추가 공습을 피할 수 있다는 신호를 보내고 있다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "유엔 집계를 인용해 해상 인명 피해를 전하고, 카타르·튀르키예 상호방위협정의 의미를 해설한다."
+      },
+      {
+       "source": "haaretz",
+       "text": "트럼프는 현상 유지를 원하지만 네타냐후는 전쟁을 밀어붙인다고 분석하며, 미국이 푸틴에게 중재를 요청했다는 이란 측 주장도 전한다."
+      },
+      {
+       "source": "presstv",
+       "text": "미국이 이란의 육상 교역로를 막을 수 없다고 주장하며 이란의 버틸 힘을 강조한다."
+      },
+      {
+       "source": "asharq",
+       "text": "이란 전쟁이 유럽 에너지 위기를 키우고, 아시아의 걸프 원유 의존과 사우디 원유 재고가 늘고 있다는 시장 영향을 짚는다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "유엔 \"미-이스라엘, 이란 전쟁 이후 호르무즈 인근에서 선원 25명 사망\"",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdjB0S19BOXR1ZW1EU3dLRnNLUmYzb3YwZmFiQ0s2U25IdHZlQ1hTX1FYSTB2TjU3Q0h0UzBpTkRkMHdOUm5yRGhQVHdzTWJEdXNfWlMzc2RwRzRQMVk3MVdFMG5nLXd4MS04TWFkZTJocW9rVGdXMXEtelN6M3lMRjhUYVhHT290VkdQVkxObnpSTnFWNXNjS1FPc29aR25BM0lz0gGoAUFVX3lxTFBuVVc1SlJVcngxX0pBcGcwMnR3T0hOREcxVkdDSWVjb3JRdzZ1LURoVlVZRW5zblpialpwSEx1MFBGaWQ2T09WVGRMY1cySWdDc0Q2MVNDX0tlM1JtLUppbEZmcm9LaEg1VDVTdFV6a0VTYXV4eGFmX09GeGVWbWJSZlREY09kUXN4VEJKaDM5NXhNamQ3eVQxdjREam9Fc0lVZWlUSDJ6Uw?oc=5"
+      },
+      {
+       "source": "aljazeera",
+       "title": "카타르와 투르키예가 상호방위 협정을 체결했습니다. 우리는 무엇을 알고 있나요?",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaklaZF9jNmdnNHk5SlFXYzIyTC1lajZFLXFPeE5PajFxSGtWa2NZOFZEcnVoaFptZzRMcGUxR1VpNkFaRE1JUEZaZUVSTUMyYUl1UTRsTjhKVDJYYk9RcTJUUWxDX1U0VG80X0l0b1VGejdMa3dnbXYySEppNTdJaFFIMzJiT3pGcDRkN1M0c0w2ZjYxVk9iU1o4cWdKYkZmX3lretIBqgFBVV95cUxOTG1VRC1lUHVLTFRJNHhJYmpWQjRPVG9pOEJjWUtmc2xfcmxvakV5elpYNjN5dHdGY2lrMW01ZDdmMjNEZ1RpSkEycGhvdFVvZ2N2eGRlSW9IQ3kyQTUyZVAwOVJBSk03VmlueEh2UU5jRWcza3pXZHc0Y2pJX1F2VXlsTWtLTjFkZzY5d1UycGRkUDNiUzFiU2ZLWENFM2FaemhRYlNwNzdhZw?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "출처: 트럼프는 고문들에게 도발하지 않는 한 이란의 새로운 공격을 피할 수 있다고 말했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcUZKblRlbHRyQkNxMzZHUTFrcnpTMjhBbXMwQ1NvQWxxWFQwQmJhV3Y4Vi1PUF8zN2pyVl9yREVpOG1DRTVMUmZ1RW1LMzctdHBzQ3ZqemxLYS1TNlgwQTlaZnMtSnRxczRHZS03S0VfUlhtQk1rbUljSUhzRVdvTmdaUmE4bEtNdDJyUWpjMnZQdGU3bDdYal9vaTVwazdKUThiQkgydEFISm9xUGQ0S290NVk3VmNmcUNqRkZ3WEJqV3g3VEo3M3RtSFM5aVlaUDEtVG5pVXl5cXRPZlVDbEN3YXR3T2VjVk0xa2dTY1hCUGN0MWl5dQ?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "이란 수석대표 \"미국, 푸틴 대통령에 전쟁 종식 위해 회담 중재 요청\"",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTHdTU0VScTcwYjg1bHRWYlViQndOcF9Md0FFay0yQlhPWENaT1dBRUlIelhlUnFsbHFJbnF1SmJvdkkyb0RLN3BSWWdxQkJ1MkQ0M1VUT3NSeVo0aDFvS1MxVjhEZnRINC03M19XV1dlWTZqR3Zhb2tlUGFYYnM2Um9lY0FNMzZsM3ZYdmNVU2p5Rmh6SWlMTldXMEFsY2xheU9LVE54LS1kdFNyNXMyamMzaDBXb1JjbTlxdmFmbTBSeml3bjEzQTdFMTF5ZnZTbjRONVRfdFhmb3hvRXJHSXFCZUpPQjlERkZuVFJYUzAteW5QeEM1cnNlT1VPZDA5R3BsYQ?oc=5"
+      },
+      {
+       "source": "presstv",
+       "title": "태스크 포스 아이언 게이트: 미국이 이란의 육로 무역로를 봉쇄할 수 없는 이유",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWFmT0pOaEE3T1VwQUlpbk5uMWVDMHFXZlBzbHZ3WGZBRFpjeW5SZlhIZjJBTHgyeTZHb1NtYmJrWTZnQ1ctQzZDWFY4RWtOZlVrdVlLdG1yVjdlZ0NUSGVRalhyUnZfSEVuVElaS3M1MW90WlozSWMwWG1zUXd5aXFocUJKVGo5bFRKa0RITFNFSlZfQ3ctOTlYXzM5ZERhYlVnZmQ4cXFndE1QWFRTQg?oc=5"
+      },
+      {
+       "source": "asharq",
+       "title": "이란 전쟁으로 유럽 에너지 위기 촉발.. 따뜻한 겨울이 위기를 구할 수 있을까?",
+       "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxPekFhQVlYSFdPTUdINGMzcmdfX3BJN3NwUkMtSnpLX05VenNiVXJpQnN5b2FXV0Z0ZWppTENsZ25WN0xTcU5KTUhyQUwxQzFZSUJTOXppQzJGckdmWUdrUTU1VjRiZlZlV0RYRjV4emxzcFhNTXU2YWFESzJIZ3lwaWZqTGdBMmthQWMzSnhSTWt2OXJFZEdUV3E0V2RlMklYT1ZVV19Ld2hUUmtEcGkzMkFpQnc2U09IUXBIRGtlWmdldkctSllDcnd5NnZLUVhSY3ZRM01McmVBZFItX1hWdmt3YWRSNW4yem55M3FvSjBvQ3k1UmlrRXJHWGk2ZGg2YVhIa2w2dzZ5MjZKRHk5SmpGZGg3OW1wN1FpWG5GSGUtQlVEcmRxTzhzczNUaXFRdWFOX2IwNWRNYWZYMTJmenRDVTF5XzJocDFlbnRONlpxVnhvTy1rT09RMEJJU21lbjZlZURHMXVWQWt2VURPbHUzWmZCN0x5QkIzeDhfNlQ3VTIzTTFuMG1hTEpIRDZjSjgyZlZJTDFuSTlPN2xENldoNllIWXRlcmZQVFpfTmJJckdYZmU0Yg?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "가자 인도주의 위기",
+     "what": "가자지구 잔해에서 시신 70구가 수습됐고 수천 명이 여전히 실종 상태다. 겨울이 다가오며 인도주의 위기가 악화되고 있다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "수습 현장과 실종자 규모 등 피해 현황을 전한다."
+      },
+      {
+       "source": "haaretz",
+       "text": "EU의 위기 경고를 전하고, 사설에서 병원 폭격과 팔레스타인 경제 붕괴의 대가를 비판한다."
+      },
+      {
+       "source": "presstv",
+       "text": "이슬람·아랍 18개국의 규탄과 서안지구 어린이 사망·정착촌 확대 계획을 앞세운다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "가자지구 잔해에서 시신 70구 수습, 수천구 실종",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTFHYzlldGo4WjRZdGhnY21NeUpQV0FTSDRsNEhKbHZhR1FVa2VPSHB1NkI4LWR1TGhSeFIzaUR4V3NlNGVXeFhGQllMdFdUelpzZUc3TEREZTZRUjJINE5mOVgtbEVxVXRtc3g2cDZ1QS1JSW12SUhDOTgxZ3hBNWpkUmlUOWxNTUJUWlNBUkFMa0QwaFFsMjItT1pfekFIMjgxSVM0dHZiQktQTWJJUEtR0gG3AUFVX3lxTE5OaG52VzVzRDZtZG4wMEdQV01xWG5uNkViWlJqRHpRNXl5TVRvdFB2dGhYU3Z0bk1wRGdfRWNqNF8zeENsdGJvYmpVWVJjS2JLUkdTbkpiQ1l3dDNlcDBxeDFpdklGRFo3NEFxZ3pDQjNwUnFXNDlHM1JLNlBmMGpCZDg5SHVvdkVSeFhEVWowemt2MFRrQWV2MmpiUXBJcWVtbzVsZmRhUUxrUThfZjhPZmktZGdEaw?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "EU, 겨울철 상황이 악화됨에 따라 가자지구 위기가 빠르게 악화될 것이라고 경고",
+       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUC1oWUk0ajZjN0V2TDc5UE1ieW9iTnBYbjhtRlhZemhHUzFSSW1KM2c0S2FTMi1oRHhVQzFkbGlxQ1dBZy00ODhRU2lXd294V19wQU15MDBvanQyd2JEUHJSOXZjYXpwc2tKWEVVcDdGU0hTVjJESkxIRllidVVWZjNOdXZuR1JiQVpGb2ZkUGZITkpBT0tvcEFsS0k2VnJkc1VTODZhYndtLVdRbHZQUFFfWFFYUnlzNEpqbTdGM0xnY1BveW1QYm5ZQ29XVUl5blVwZENhbGNyc0t2U21md2EtTUhlbExXSFN4bU5rZmlfbVdBQ3VVYnFORGhqMVk?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "의견 | 이스라엘은 가자 지구의 또 다른 병원을 폭격했습니다. 그래서 뭐?",
+       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ19RYjZmUWNqMGlaQ3VhMGRzS0N6Y29QU0hrV01wQWdzV1RDS1dSRXFGbW5XSEFKZENUNFIzaEQ0LUJOVUt2TklZYlhGQUVYOWM5bTVLZ0gyTHptLVd2aHNWM0R0SVhwWk9mZnY2S2pBRnZLRE9HaWE5VU92ZV9WMXF2Z1V4Y1l5c3AzMTFGd0hWaTZrNWM5LV9ENmFrVXRfeGFWcElWMXBoMzN0em5hdzhsMV9oMERJMDNGWlYtR1N1dV9iTWhGeTYzOFI0Z1hSWXUwcEowWldiZUJoTVJUVXFKdVpKWWlXRWFad09JQVlERHVRbzRSNA?oc=5"
+      },
+      {
+       "source": "presstv",
+       "title": "이슬람·아랍 18개국, 이스라엘의 가자지구 병원 공격 비난, 구호 제한 철폐 요구",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3R2MS16eWNRLTVFcFdfWDktSzB2aTdwS0E1SHlUS1VrVkNmcVBnTzB5bTZGM1h5aTNySllLYTVUUGdFLWloLUZ5LWtyb0J1TVNaQnpkOVBRSjViU0ZIUTJzNUZkYXlwaUhuMk1kZU9wUW8xNWRSdE9pYkd5TDhXTzRWUFhfcGNJbjUxOVp3RXF1WUNaS0xoTVM2MEkzbnpYR0FLeTBJOXZwN3hiOEs3WnlWeGVJc1JHR0E?oc=5"
+      },
+      {
+       "source": "presstv",
+       "title": "이스라엘, 점령된 서안 지구에 약 900개의 새로운 정착민 단위 건설 계획 추진",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYWEwUmlNd1VLcUFhdEpWc3JUTkRiTTZQY2VYUkNNcXk1RDc3ZnlvWTViN0hRSlJ4Vk5XQmpXcjdMLXZoQXo1VGd0RTVScEVRd1FCTFA1QmZwdUE1VUJOR1FWSVM5RzJWdWRWR0hDeEU1TkZjRjdWZGNiUXY3ZzNTck5uSDhBbmFud0kyYzZWLU9nN2NPai1qd1RsRDI5ZWlDOFpPZm9RMTJtdlR6SWl6VW1ubW5VOTFVUkk0?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "예멘 후티와 사우디의 무력 충돌",
+     "what": "후티 반군이 사우디아라비아의 군사 목표와 리야드 공항을 겨냥해 미사일·드론 공격을 벌였고, 사우디 주도 연합군이 이를 요격했다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "‘사우디 연합군이 후티 미사일을 요격했다’는 방어 측 시각으로 보도한다."
+      },
+      {
+       "source": "presstv",
+       "text": "후티를 ‘예멘’으로 부르며 ‘대대적 보복 공격’으로 표현해 공격 측 시각을 취한다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "사우디 주도 연합군, 후티 반군 미사일과 드론으로 의심되는 요격",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0?oc=5"
+      },
+      {
+       "source": "presstv",
+       "title": "예멘, 사우디 군사 목표물인 리야드 공항에 대대적인 탄도, 드론 공격 개시",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbnZfUGp2WERGSzJtc0RzMWlEU0s0S2hkSmd0ajZUS0ZQNDllNDdXTkc0WXloUEkxZ1h3ZU1XX0U0ZklSYy1QaGxQUEF0S2YxRzFQX3d5V21XM2doSEVNSGJncUhCaElvTGkyV25CcjU5ZVBsQVhneG83TWdWdkFXS0JIUjhQazRxd29aZkNyR2dKTnVBYUpGYnlsaEpVeVZXYzgzVG9mRnV2ekowdzQtZmZMdUk0WVdMSHhXMk40T1lPYUd1RS1Bb1hya21kMzBjUmc?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "in",
+   "issues": [
+    {
+     "title": "야당 ‘바라트 서밋’과 비자 거부 논란",
+     "what": "제1야당 국민회의가 하이데라바드에서 연 국제회의 ‘바라트 서밋’의 해외 연사 115명이 입국을 거부당했다. 외교부는 비자는 ‘주권 사항’이라고 맞섰다.",
+     "stances": [
+      {
+       "source": "wire",
+       "text": "정부의 입국 거부와 외교부 해명을 비판적으로 전한다."
+      },
+      {
+       "source": "hindu",
+       "text": "타루르 의원의 문제 제기와, 라훌 간디의 “2014년 이후 인도 민주주의가 파괴됐다”는 발언을 전한다."
+      },
+      {
+       "source": "jagran",
+       "text": "행사에서 이탈리아 정치인이 ‘표 도둑’ 구호를 외치고 라훌이 웃자 BJP가 공격에 나섰다며 야당 행사의 논란에 초점을 맞춘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "wire",
+       "title": "115명의 Bharat 정상회담 연사들의 입국이 거부된 후 MEA는 비자 문제가 '주권적 기능'이라고 말합니다",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM3ZjVWx3enhnbjFyei0wN0pWSTUzTGZELXl1NXdPVkZQaXZJbnhZb2VEVTdRR3RBSHdmVlZBWE5RMUlWb3ZiOG05MHctYmZxMlowdTFiQTVWMmhVS0k2S1JFSTFrX1plVnIxZmJVWUoxT2lZU1B6Vi1YNHRuWm5tZ2VpNU83dmRWbGFPSzlIdFRXNTZpa2hLWEY0RUxxLXdS0gGzAUFVX3lxTE5HXzRJamRvb2ZFOUpYRUJZNDVaSFpsZUktbERhc0kycG5FUG5Lb1hjWjFHMDVYY0tnbGJFNU9UOXZtOWNLUHVxY0I5dzR0RS1vQktXbzJpLXJZR2FIOGhoTEJxaENmN3VjbFhCaEpKc19MbV9YN3hiWHVES3oyMVZ0YVlDN2JxX1JNcTBFTE93ODVLaXRXSUVnUURfV3JHMThIYUd3Ry1vTXNSVGpmMEJrT2R3?oc=5"
+      },
+      {
+       "source": "hindu",
+       "title": "Shashi Tharoor는 115명의 Bharat Summit 연설자들이 인도 입국을 금지하고 비자가 취소되었다고 주장합니다.",
+       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQejdHWWNHbXU3QUJ0dWlxS09jZmVCTU1XdmV4TnV1SEdEeHQ0R0tUZ3dreE9hVGNMQTZJYzBWdTEyUlM5MVNFUmNDOHV0TU1Cd2xhRG1oTEdfTzFudmxBQlBNQ2lGOVdJS2E1anQ5T1EtaGVVRFZxSXdlOE8zTW4xYlowNlp5V0xFZnp1bmMxU01Ya2xUV2xBUWktNXNDazZfMVJ6SHZfVG9pNmswbkd1V3BpenVINUVWcmhCVWpjQmdxSng4YTBiemdGd1RXRXlqamVzUDByZ19hLXVqcm9OeW5FS3B1bDJpUGVMRm9heWFneG1GdVhWNElKcjM1b3l0ZUtqNUp3ZnHSAY8CQVVfeXFMTkRHNHhqekRvNjUzSkx4aFVCVVB4N1lmRVc3ZlY5WlZVWGdVd2lDc2VUV1hxUlBkZkl4NmN4anh0T1pXQTFaalVCNE9WX3llVExPLWZMSkdjdnBVN3VDREFwUXAyR3M0ZTUwN1JybGtqUnFYYXVLNnpLb1JIYl9UMjJLd1Q5U0xjdG9yVWd1SDFHSnBMY3BzNy1SUndhdkpuM3dfTGJMN2Zqc1RWczJLQmtZLUlFbmtoM1lGVHJLbm5zVl91djQ4cnE1NVpZQkJaUHBTUU1taFd1VC12UHlwd0djYXdOeW56SWhXcTZ2N3BzbEk4MTZnTnNvN1RCREJ3SGpOUUc2RDhZU0NBa00zUQ?oc=5"
+      },
+      {
+       "source": "hindu",
+       "title": "인도는 더 이상 민주주의로 기능하지 않으며 2014년 이후 파괴되었습니다: 라훌 간디",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVY1SzBqUDdQal9lSm9yQnlGZWNyNHJJcHpSVkJlSFNFTkpST281RE43ZHRVTWVvT01ta0tqd1R3MzlmYjBTWlduWFB2WERLbFNlMlMtMEtFYTZQNDJ0ZXY4MzRzZWUyd2Q3UXNNVTFkamRGWk9lTlJuLWlvQVI2NWo2Z2M0ZXI5RWhsX1F0TFR6QV9hSlRxZTNPMFdVM0ZWUXh1RWU1WFVma0tTamVPay04SHVPSjdRNVBld9IBwwFBVV95cUxNZ01FVXA3Yjl5QW50am9NcERxeEZsQkVuQ2JfNlpHMnFqajNVM3JDU0swa0I5LVlEczBYTmZkbXVkUWZHdG9mYmR6WnJWLVRLQ0JIUXpTTHR1c3lfNFNMdGtlSXoySFRIWWFaeWQ3R0hFMzF5bGlGQzBGc2JUeFdua0pySlFCdUFodG05S2lqVjZoN09yd0IxejlUV0tEaUNrSWNPUDRTQ2Fibk5MaW92WTF0d3QxcnM5bFBKV2t2T3pUYW8?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "이탈리아 지도자는 인도 하이데라바드 정상회담에서 투표 도용 슬로건을 제기했고, 라훌은 웃는 모습이 보였고 BJP는 그를 표적으로 삼았습니다.",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSFlKOC1HQXdDRXVJV1VLeGtVdXg3b2pQOVlDTjZjNC1UdjRmTk1oRHk3MzYxY1Q4ajloVkFWeFZ0VFVORWFZaC01cUtDZWpMX0JGRFhBWEJDVUxvZmxUc3d0NFpsblRuSVFWdTRmeTJCYXN5ZGIycXQ2THRCUlc0eS1YR3dhaDJfRWQxdkpTNG5Ud2pYU0hxREEteU50SGtVRER3MnZObG9aZlFlSGJBbFZmakFaRzhlU2g3Q0pBRQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "모디의 ‘마오이스트 종식’ 선언과 지방선거 준비",
+     "what": "모디 총리가 부족 자긍심의 날 행사에서 인도가 좌익 극단주의에서 벗어났다고 선언했다. BJP는 우타르프라데시 3연승을 노리고 펀자브에서는 아칼리달과 연대를 추진한다.",
+     "stances": [
+      {
+       "source": "republic",
+       "text": "모디의 선언과 국방 국산화 성과를 긍정적으로 전한다."
+      },
+      {
+       "source": "jagran",
+       "text": "“이전 정부는 마오이스트 피해자를 외면했다”는 모디 발언과 BJP의 선거 전략 회의, 펀자브 연대 소식을 비중 있게 다룬다."
+      }
+     ],
+     "links": [
+      {
+       "source": "republic",
+       "title": "'Naxal 폭력은 부족 공동체에 가장 큰 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌익 극단주의가 사라진 국가를 환영합니다",
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3RlVnBJYjE3LThpRGZ5SkYzZzVUSkZlcU02dVdqT3B2STR2Ynhhb3ljeGF6MjNPVV9VN09rR2N2RWxIbnQ5OTJJdzl2bk5pclZwRF9GNnduLWFpVHlERUQyR0swbE5tMzBZQ1BSeVhXQW95ZTE3VzRkc0pXaDZwVnRRdUhvdnU2RldnYnRGVklEb2VCY2tDT3ZHRTFnNHF4eWdTR0p3TTFQRjBkSE9ibFVweGNYLW9zM3pTRk1SUTdaRWlkUk5DWE5nTGRUVkducFkxTndfbjZaVGJCam1sQjR5SkVYT3JrNW1haTdDT2hDRmtMNDN3a1owbEZVUW9iZ1HSAYcCQVVfeXFMT0dGTC1jWGZDMGV3LUFaTGRrZXRSOVRuSmRZVXFCTHA4WVpZOVVxYjlrdlZuaWxZaHJZRndkMEkxRUY4NmF2YjB1enBiS2l5dUtYWWZXV0lrNWJ1SWNidHhMYng2RFBDYm1sWmZaZFNPaVJxekJuUmppQ19XVW1uMXp2Z2l0VTg2ZnRfYlRTRUNiWXFKS0hfUVVHbERSdXJkWk9OaS1SenVDRnB2Um1lSm40ZGc0Z2VDeUV6a1dOekRiNXBvQXZhbWVnNUtNVDlUN2ZZZzV6RG41RTFYS1JCQTl0RmJBeFE3LUtLZ2hLQVI1VUF0WEFzS2RqOEE5MklzYklJNExrdXc?oc=5"
+      },
+      {
+       "source": "republic",
+       "title": "'인도는 원주민 국방 생태계를 강화했습니다': Rajnath Singh은 방위 제조 분야의 품질 보증을 요구합니다",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdlJ3bXNkQkRZV1lnc0FaSHAtOVNOS3AtbF9pa25NLTcyWkRxZUNWeElTaDdQVl83a1Fqb0N1SVRTdWF3MU9BczdBWEFLd3J0Z01UdzluSzNMOTl4Qml0UXRhck9RRlF1dldKcU9ZQWlVbjFia29lVURBVUJDcmZMbzdXTmRNSFdBUUZkV05lQkNFc1hkX0tkQmJVQ2RFa29xNkFaOE5VbFhleS1vSkhlcE01a2dpZDhrdmtTaDVFX3IyYVY4SXI0RXR5cVRXWjdrQWZjWXNqMUN6TGsybHlfZjVPVTUxNFh1TDFxTndaWlpqdkZscGREbXBURi1ZcU9OazZ5N9IBigJBVV95cUxPTVdMQWY0Zm1EXzkxQlRFaWJWYzl5N2loV3RZU25jdXNLSURpQnNWbGtkUkxzWW8yMTlOc1BIbEx1MmRKLUYxT3dqQUI1RUF1czliczVzV3YyMGZib0d4SXFsMGVWclQ3Nmcwa01TZEhGbDduRUJYRzh4aHFzQUd3cV9WV1o1YVl1cVdvemxBVUlYWmJoNWoxSC1wUjBzdFBrLThWNXB4aC03dGJPUU1tMGVSZnNGWC0tSk1HUk1XS3p6SXkwNXJRM29BbGU0MERndnc5Z1JXY01qWVhSMmNwTkJSYnJYRzUzUWdGeHozR04ydUVZdEhiMHd5OTVkRzZsNU4wNkxMSUtPUQ?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "모디 총리는 부족 프라이드 데이에 \"이전 정부는 마오이스트 희생자들을 돌보지 않았습니다. 우리는 그들의 삶을 밝게 했습니다\"라고 말했습니다. - pm modi 부족 개발 마오이스트 희생자 janjatiya gaurav diwas",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUngzVHBJTVBjaWo1SFBBWGpfUTBmMlRNVmZRbXNkcEZyVHE4dUI2RFduTHA3SDRWb3VoRkdpOWc4U0VTYVgycTlXbS0zUG9SY19qQ1czV1Jtd3RPN3luTDFjOFpDMDlBN2pCZHhOWkxlMFpCZ2w4cl9rZktrcXhFbXdLeVNLSEx3Sk81LUN2RzNhbjlIUUdHdUhTQXdqQl96NDdTUFJERHN2RGpIazNTbVBKQ0RXNm9ZU1BfZklR?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "UP 승리의 '해트트릭'을 위한 BJP 회의: BJP의 충실한 인사 40명이 내일 마투라에 모일 예정이며, CM을 포함한 국가의 유명 인사들이 2일 동안 머물 것입니다. - 마투라 전략에서 위로의 BJP 균형 정치적 방정식은 이틀 동안 만들어질 것입니다 cm yogi and nitin n",
+       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQQjZNN0JEX2swNnRpaDJWWU8ydzBycDF6UWkzRWV2S0xTaDVWcDAwTkVjUUUwbmZrQnBGOFlWUEMyTVBhVVl5ekRNMUNQZU1kT2hQWWhxVm5zeEJESU9FN2JTQklhcmUyOUg3TmNoOEliRmZZcjBBRkp5YTJzRFBJS0U3X2FDX0xBWERYakVoOFhJSUpiZDVKWkJMZmFMeFN5RzhFRnRvb3VaTkU1Q2tEMTh5dlFpb1NkeU15dnUwMnJRVEl2Z0Z4T0x5R3VDVG05N1NGTHBfU0xhUVpaMGszdXRNUU5HMDBiVEJPRXFRTXRUdjdQcERXZVJSeHBTeDN0LXc?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "Akali Dal과 BJP는 Punjab 의회 선거의 의석 공유에 동의하고 이번 달에 동맹이 이루어질 수 있습니다. 슬프고 BJP는 이번 달 Punjab vidhansabha 선거 2027 의석 거래를 위해 동맹을 맺을 수 있습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMDJ1akpqcFFtb0FwSWRLbE9ZSXFKN0tQcVByNEFaVU1fWTlhbWdkeU5lemNmVjZUaGh5Y0JYNnVseXhEZHVXSHVVTlZVY3JqN0Z4VnNIMzgzVHZ5UmFBLVNSUy1OVjNmZ1hsMWcyNlpYQ0tvdVNIU1MtMzlBSWdBNmpwNkZISEJvNGVQY1RrTGcxS1hQLUFlNjlYVXc2UHkxOFd5S3hEV1prWWJ5RGV1QnJhLVRpNTZuU2RCam1Ea2I0WEFHN0w3T0RTVFhYcnF1MjZDYjdTbWdFUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "무역적자와 대미 관세 협상",
+     "what": "10월 상품 무역적자가 398억 8천만 달러로 1년 만의 최대를 기록했다. 동시에 미국이 경쟁국보다 유리한 관세를 인도에 보장했다는 보도가 나왔다.",
+     "stances": [
+      {
+       "source": "et",
+       "text": "무역적자 확대와, 올해 수출 1조 달러 목표는 순항 중이라는 정부 입장을 함께 전한다."
+      },
+      {
+       "source": "hindu",
+       "text": "미국의 관세 우위 보장을 ‘중대한 돌파구’로 보도한다."
+      },
+      {
+       "source": "republic",
+       "text": "엔비디아 파문이 인도 기업에 미칠 여파를 짚는다."
+      }
+     ],
+     "links": [
+      {
+       "source": "et",
+       "title": "인도의 10월 상품 무역 적자는 398억 8천만 달러로 1년래 최고치로 증가했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaWhXMTN3eVhlUDZHNXpIb1FnMWQwR1I0OGIwRG16NWhVUGpJOVJ1UFpDVW9kZ0g2Umk5bWlkbXVuV19mUWk2QkF3V1plMnpGMGFuVXIyZU5XWDlGdmdRVkpEWnRqZ24wZXhlZkhUTWdBYWpaUWFrckFEVVZYTWFwUDBMZXQtVkpwbkR6dlB3dm0yeTJRVV9qODV0cUJVMTFkc01ZYjdGOVg3cEwyeGtodkV3WkEzUjJqVEU3bW5TNm14dWhobXFHQjhQa1dEd0JVZGkzS1VlRzJFMzBPNnd2MXliSFHSAegBQVVfeXFMT2hxSDhIVWtuM2hfTjZ5WEcxcnBrald2TXpiZUxJQlhPMEJQM0NiMmlBYjlQako3SjFqSlkxRUszb0lScWhuYkliX3dsVlhSZW9SRlZoNUxwVDFncmpoUW9vU2F6V1dvS2E0X3o4ZWVsZndLUlVsZWdDSWkycG4zam5DeGdwRndIbVJOWkhQc1lQRld0dHJDTGpvUTk2VEJzb3BqU2pDNE9pOERwOUNRVWpLNWlOeGpNcXVHVDRvZlJFTkFUdk1QWF9LaUN4eUJnblYtMW1oeG96QjFwdDJsLVN4bDMxaXZkNA?oc=5"
+      },
+      {
+       "source": "et",
+       "title": "인도는 이번 회계연도 1조 달러 수출 목표를 달성할 순조롭게 진행되고 있습니다: Goyal",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWU9qZXBVNzdZeVBWbHdLaE1RU2d4Znk0bXNOdUV3eHRWSVpLX0xiYXF0WE5ib2dOTE81ZzNOdG1PRlQ1N3RGNnJKV3pKOThEVi05dW1pbW5wNzV6cVlTelVpU3ZRVTU3SWFkWUpHaUdVaHhrRk82TWxmeUQ2YW50YUxxNmp5dDZ2bnF3MjBrLXZPZlpyZjRtS05GbzMtb05qYnFqdldfeWVRTmpFc1pHanJ0WlVudE1VZ2huNUlYXzh4SFdlUjBUcFBYNUNvdm9pc2owQmNnRnJlU3o4TXZyZ2w3Wm91SDd20gHsAUFVX3lxTE9Sakpzb0tybUw3X2JIakRyQmRaa3Bid041NFFpcEllcl9FemZfNGlWc1lKZXFZdmRBV3Q0ZFFYemlPNk92WlJ1VTZZcmMzOEZUTkM4R0c0ZGdrQTdGOFRPSGl0dkpKeDlGQXVidG9HSVV5RnJGcUJDdzhxU0t3RTQtakpkS0FpQVFPTVhDd29LTUduRzNEU3dBZW1GTzFPWmRfVTRMOFZUdFBIYk9rclZ4RzJ3YUdkcDNQTFd3bEFYMkl0S0xvcWszWFBlQWpEWUVhempDWlRGVzdBQ2pNVVJWZ1ZHZXFQVnptaXhZ?oc=5"
+      },
+      {
+       "source": "hindu",
+       "title": "미국은 인도가 경쟁업체에 비해 관세 비교 우위를 확보할 수 있도록 획기적인 돌파구를 마련했습니다.",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcnNfUWxOV3FjT2FhV3dSWGtnWHk5aVJaWU9CSHVSSVhtRHMwRDEtUGIwVm1oSGtLd29qRzZ0anphYm1DRVNxMVFDdElWbUpZUmV1THFBNDJaWHFtMWJXUFhiRmxRamVndXZfVjdhejJsem9kVUJxMVRiR2ltOXVXVExhczl3cExEeHpFdGhoenRad1J4N0laRHM1UjVvUGlLVFZvbGV2M2ZrSV9URWZJMm91ZTJuS1E2SXBIakwyU2RuYWNyOUZnUElxdEhKZU9EdlM5UUxkUmtGek9jWWlvekpTQlTSAesBQVVfeXFMTmlWR2RtU2hGRE1NUFNhOVlrbFk1d3FTRjIwY2dUUjVWbVZzbVZXSERtbmxoTXFwTUR3RHFlRFJMUXZqWENDM1E5MjlYWVR1bVNiTS15b3hhMWtIWW5Qak5pTkFnWnhrcDBxVTBuQldPb1VTNTJldzZCa0o1a0RoM2ZoVzFrakhkOFdWZFZPVUlOUU1mQnh2ck9CM0ZqTjVYQ0FWbkxFeFlCQzZxSk82WEduZVVUb0hRSnRVLWdHVUx3ZzhsSWlpNERqdDFYZmNTajlsSnRWRGlSWjcxTGNTWE9kUG53dTg1cXA5RQ?oc=5"
+      },
+      {
+       "source": "republic",
+       "title": "Nvidia가 재채기를 했을 때 인도에서는 누가 감기에 걸렸나요?",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQck5IOWg5dk9OUzhMMndjXzFSSkV4X180MVg1RFI4VWhMQmtHSG5LZmJINU04YkJNTXVzdGcxYmhQMU5PdHd0RDVhcEZsYlI2anUzcG5ZeG0yMHVCQjZuMlgxdW9uSGVhMDNGNlhkSUhBVm5uTmlmOVotUlBudjVwMmFxWl9LUS1URldGLTQ0QjlpNHBFYmVRcXVPTjJESTZBNVAybld0TzDSAa8BQVVfeXFMTXdKcUgxMWQ2ODNBUzFvMnlNOXJmcTJXQV82OTB5dVVId0Zoc2RGc2w1NGRoMHAybWwtSFYyX1h5dV81R2VVcFZrbWZ1aTF1SVhhcVVwWmJ1UVJvUXVPM1BmTWdjWDVxVGJHUGo1VDN4NVFVVGF5ZktINUpaLVRsbnNRZy10eUVuRlN5MDlsemlrXzZnZXdFdW1yWlB2bHBUcnBHSFB6Q2xzV0xmM3JzTQ?oc=5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

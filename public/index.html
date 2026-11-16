@@ -63,6 +63,34 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .iitem .lh{margin-bottom:3px}
 .silent{font-size:13px;color:var(--sub);padding:8px 2px 4px}
 .silent b{color:var(--ink)}
+.views{display:flex;gap:4px;background:#eef1ee;border-radius:12px;padding:3px;margin:2px 0 10px}
+.views button{flex:1;padding:8px 0;border-radius:9px;font-size:14.5px;font-weight:700;color:var(--sub)}
+.views button.on{background:#fff;color:var(--ink);box-shadow:0 1px 3px rgba(0,0,0,.08)}
+.bhead{padding:16px 2px 6px}
+.bhead .k{font-size:12px;font-weight:800;color:var(--green);letter-spacing:.06em}
+.bhead h2{margin:4px 0 4px;font-size:23px;font-weight:800;letter-spacing:-.035em}
+.bhead p{margin:0;font-size:12.5px;color:var(--faint)}
+.bhead select{margin-top:8px}
+.three{background:var(--ink);color:#fff;border-radius:16px;padding:16px 18px;margin:12px 0}
+.three h3{margin:0 0 8px;font-size:13px;color:#b9d8c8;font-weight:800;letter-spacing:.04em}
+.three ol{margin:0;padding-left:20px}.three li{font-size:15.5px;line-height:1.55;margin:6px 0;font-weight:500}
+.bc{margin:20px 0 6px}
+.bc>h2{margin:0 0 8px;font-size:20px;font-weight:800;display:flex;align-items:baseline;gap:8px}
+.bc>h2 span{font-size:11px;color:var(--green);font-weight:800;letter-spacing:.08em}
+.bi{background:#fff;border-radius:16px;padding:16px 16px 12px;margin:0 0 10px}
+.bi h3{margin:0 0 6px;font-size:17px;font-weight:800;letter-spacing:-.03em;line-height:1.4}
+.bi h3 b{color:var(--green);margin-right:6px}
+.what{font-size:15px;line-height:1.65;color:#2f3a35;margin:0 0 10px}
+.st{display:flex;gap:9px;align-items:flex-start;padding:9px 0;border-top:1px solid var(--line)}
+.st .tag{margin-top:2px}
+.st div{font-size:14.5px;line-height:1.55}
+.st small{display:block;font-size:12px;color:var(--faint);font-weight:600}
+.st.l .tag{background:var(--l)}.st.e .tag{background:var(--e)}.st.r .tag{background:var(--r)}.st.s .tag{background:var(--s)}
+details.src{margin-top:6px;font-size:13px}
+details.src summary{cursor:pointer;color:var(--green);font-weight:700;padding:4px 0}
+details.src a{display:block;padding:6px 0;border-top:1px dashed var(--line);color:var(--sub);line-height:1.45}
+details.src a b{color:var(--ink);font-weight:600}
+.bnote{font-size:12px;color:var(--faint);line-height:1.6;padding:10px 2px}
 .topicnow{font-size:13px;padding:8px 0 0;color:var(--sub)}
 .topicnow b{color:var(--ink)}
 .topicnow button{margin-left:6px;color:var(--green);font-weight:700}
@@ -125,6 +153,9 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
 </div></header>
 <nav class="tabs" aria-label="지역"><div class="wrap" id="countries"></div></nav>
 <main class="wrap">
+  <div class="views" role="tablist"><button data-view="brief" role="tab">이슈 브리핑</button><button data-view="raw" role="tab">원자료 · 헤드라인</button></div>
+  <div id="brief"></div>
+  <div id="rawUI">
   <div class="searchrow" id="searchRow" hidden><input id="search" type="search" placeholder="제목 검색 (예: 금리, 우크라이나)" aria-label="제목 검색"></div>
   <div class="bar">
     <span class="status" id="status"><i></i>불러오는 중</span>
@@ -136,6 +167,7 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
   <div class="issues" id="issues" hidden></div>
   <div class="topicnow" id="topicNow" hidden></div>
   <div id="board"></div>
+  </div>
   <footer>
     WORLD DESK · 6개국과 중동, 23개 매체의 제목을 매시간 모아 한국어로 번역합니다.<br>
     성향 꼬리표는 매체를 이해하기 위한 대략적 구분입니다. <button id="sourcesBtn">매체 목록·수집 기준</button>
@@ -155,7 +187,7 @@ const LANES={
  cn:[['xinhua','s','국영'],['caixin','e','경제']],
  me:[['haaretz','l','이스라엘'],['aljazeera','c','카타르'],['asharq','e','사우디·경제'],['presstv','s','이란 국영']]
 };
-const state={issue:null,country:'all',eco:false,original:false,period:72,search:'',topic:null,feeds:[],updated:null,loading:true};
+const state={view:'brief',issue:null,country:'all',eco:false,original:false,period:72,search:'',topic:null,feeds:[],updated:null,loading:true};
 try{const v=JSON.parse(localStorage.getItem('wd-ui-v3')||'{}');state.original=!!v.original;state.eco=!!v.eco;if(COUNTRIES[v.country]||v.country==='all')state.country=v.country;}catch{}
 if(COUNTRIES[location.hash.slice(1)])state.country=location.hash.slice(1);
 const save=()=>{try{localStorage.setItem('wd-ui-v3',JSON.stringify({original:state.original,eco:state.eco,country:state.country}))}catch{}};
@@ -204,7 +236,7 @@ function region(c){
 
 // ── 오늘의 쟁점: 여러 나라 매체가 함께 다루는 단어를 제목(한국어 번역)에서 자동 계산 ──
 const JOSA=['에서는','에게서','으로는','으로서','에서','에게','으로','까지','부터','보다','처럼','이라는','라는','와의','과의','에는','에도','은','는','이','가','을','를','의','에','와','과','로','도','만','들'];
-const STOP=new Set('대한 위해 관련 이후 가운데 따라 통해 위한 대해 대해서 이번 지난 오늘 올해 내년 지금 최근 새로운 주요 계획 발표 말했다 밝혔다 있다 없다 한다 했다 것으로 것이 것은 것을 수도 위한 경우 이상 미만 가장 다시 더욱 현재 사람 사람들 문제 결정 상황 가능성 우려 기간 시간 동안 이전 이후에 하는 하고 했습니다 합니다 됩니다 있습니다 없습니다 있는 없는 같은 다른 모든 많은 한국어 단독 속보 긴급 분석 사설 인터뷰 칼럼 영상 사진 라이브 업데이트 뉴스 기사 보고서 보도 정부 국가 세계 국제 전세계 국내 해외 주간 경제 정치 사회 시장 대통령 총리 장관 의원 우리 그들 이것 미국 중국 영국 러시아 프랑스 인도 중동 지역 글로벌 강화 방법 관계 관리 기업 이유 작업 인해 밝혀 중단 촉구 시작 경고 위기 위협 지상 공격 지원 판매 요구 사태 정보 어떻게 아무 혼란 건강 가격 문제로 때문 이제 아직 계속 거의 매우 정말 모두 여러 일부 전체 처음 마지막 하루 이틀 사흘 주말 오전 오후 이날 당국 관계자 측은 측이 소식통 전문가 성명 회의 협상 논의 합의 전쟁 무역 유럽 아시아 최초 처음 인상 인하 금지 의회 국회'.split(' '));
+const STOP=new Set('대한 위해 관련 이후 가운데 따라 통해 위한 대해 대해서 이번 지난 오늘 올해 내년 지금 최근 새로운 주요 계획 발표 말했다 밝혔다 있다 없다 한다 했다 것으로 것이 것은 것을 수도 위한 경우 이상 미만 가장 다시 더욱 현재 사람 사람들 문제 결정 상황 가능성 우려 기간 시간 동안 이전 이후에 하는 하고 했습니다 합니다 됩니다 있습니다 없습니다 있는 없는 같은 다른 모든 많은 한국어 단독 속보 긴급 분석 사설 인터뷰 칼럼 영상 사진 라이브 업데이트 뉴스 기사 보고서 보도 정부 국가 세계 국제 전세계 국내 해외 주간 경제 정치 사회 시장 대통령 총리 장관 의원 우리 그들 이것 미국 중국 영국 러시아 프랑스 인도 중동 지역 글로벌 강화 방법 관계 관리 기업 이유 작업 인해 밝혀 중단 촉구 시작 경고 위기 위협 지상 공격 지원 판매 요구 사태 정보 어떻게 아무 혼란 건강 가격 문제로 때문 이제 아직 계속 거의 매우 정말 모두 여러 일부 전체 처음 마지막 하루 이틀 사흘 주말 오전 오후 이날 당국 관계자 측은 측이 소식통 전문가 성명 회의 협상 논의 합의 전쟁 무역 유럽 아시아 최초 처음 인상 인하 금지 의회 국회 주장 조치 추진 원인 전망 논란 비판 확대 검토 대응 여파 파장 의혹 반발 보도 공개 예정 규모 이유 결국 계획 첫 겨냥'.split(' '));
 // 같은 대상의 다른 표기를 하나로 (번역기가 Nvidia/엔비디아처럼 섞어 쓴다)
 const ALIAS={Nvidia:'엔비디아',Microsoft:'마이크로소프트',Anthropic:'앤트로픽',Google:'구글',Openai:'오픈AI',Spacex:'스페이스X','가자지구':'가자','투르키예':'튀르키예'};
 // '이'·'가' 등으로 끝나는 명사는 조사로 잘못 떼지 않는다 (스파이→스파 방지)
@@ -279,7 +311,46 @@ function issueView(){
   return '<div class="ihead"><div><h2>‘'+esc(w)+'’ 각국의 시각</h2><p>'+covered.length+'개 지역 · 제목 '+total+'건 · 진영 꼬리표로 입장 차이를 비교하세요</p></div><button id="closeIssue">닫기 ✕</button></div>'
     +boxes+(silent.length?'<div class="silent">이 주제를 다룬 제목이 없는 곳: <b>'+silent.join(' · ')+'</b></div>':'');
 }
+
+// ── 이슈 브리핑 ──
+const B={index:null,doc:null,date:null,err:false};
+const SIDE_OF=id=>laneOf(id);
+async function loadBrief(date){
+  try{
+    if(!B.index){const r=await fetch('briefing/index.json?t='+Date.now(),{cache:'no-store'});B.index=r.ok?await r.json():{dates:[]};}
+    const d=date||B.index.dates?.[0];if(!d){B.doc=null;renderBrief();return;}
+    const r=await fetch('briefing/'+d+'.json?t='+Date.now(),{cache:'no-store'});B.doc=r.ok?await r.json():null;B.date=d;
+  }catch{B.err=true;}
+  renderBrief();
+}
+function renderBrief(){
+  const el=$('brief');
+  if(state.view!=='brief'){el.hidden=true;return;}el.hidden=false;
+  const D=B.doc;
+  if(!D){el.innerHTML='<div class="none">'+(B.err?'브리핑을 불러오지 못했습니다.':'아직 발행된 브리핑이 없습니다.')+'</div>';return;}
+  const nm=id=>{const f=feedById(id);return f?f.source.name:id;};
+  const dates=(B.index?.dates||[]);
+  const regions=(state.country==='all'?Object.keys(COUNTRIES):[state.country]);
+  let h='<div class="bhead"><div class="k">ISSUE BRIEFING</div><h2>'+esc(D.title||'오늘의 이슈 브리핑')+'</h2><p>'+esc(D.window||'')+' · 기사 '+(D.articles||'')+'건 분석 · '+esc(D.author||'Claude')+' 작성</p>'
+   +(dates.length>1?'<select class="chip" id="bdate" aria-label="지난 브리핑">'+dates.map(d=>'<option'+(d===B.date?' selected':'')+' value="'+d+'">'+d+'</option>').join('')+'</select>':'')+'</div>';
+  if(state.country==='all'&&D.headline?.length)h+='<div class="three"><h3>오늘의 세계 3줄</h3><ol>'+D.headline.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>';
+  for(const c of regions){
+    const C=(D.countries||[]).find(x=>x.id===c);if(!C)continue;
+    h+='<section class="bc"><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2>';
+    C.issues.forEach((it,i)=>{
+      h+='<article class="bi"><h3><b>'+'①②③④⑤'[i]+'</b>'+esc(it.title)+'</h3><p class="what">'+esc(it.what)+'</p>'
+       +(it.stances||[]).map(st=>{const [,side,tag]=SIDE_OF(st.source);return '<div class="st '+side+'"><span class="tag">'+esc(st.tag||tag)+'</span><div><small>'+esc(nm(st.source))+'</small>'+esc(st.text)+'</div></div>';}).join('')
+       +((it.links||[]).length?'<details class="src"><summary>근거 기사 '+it.links.length+'건</summary>'+it.links.map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(nm(l.source))+'</b> · '+esc(l.title)+'</a>').join('')+'</details>':'')
+       +'</article>';
+    });
+    h+='</section>';
+  }
+  h+='<p class="bnote">이 브리핑은 23개 매체가 최근 3일 동안 낸 기사 제목을 원문으로 읽고, 주요 사실은 웹 검색으로 확인해 Claude가 매일 아침 작성합니다. 기사 본문 전체를 읽은 것은 아니므로, 판단이 필요하면 근거 기사 원문을 확인하세요. 진영 꼬리표는 매체 성향의 대략적 구분입니다.</p>';
+  el.innerHTML=h;
+}
 function render(){
+  document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('on',b.dataset.view===state.view);b.setAttribute('aria-selected',b.dataset.view===state.view)});
+  $('rawUI').hidden=state.view!=='raw';renderBrief();
   $('countries').innerHTML=[['all','전체'],...Object.entries(COUNTRIES).map(([k,v])=>[k,v[0]])].map(([k,n])=>'<button data-country="'+k+'" class="'+(state.country===k?'on':'')+'" aria-pressed="'+(state.country===k)+'">'+n+'</button>').join('');
   $('ecoBtn').classList.toggle('on',state.eco);$('ecoBtn').setAttribute('aria-pressed',state.eco);
   $('origBtn').classList.toggle('on',state.original);$('origBtn').setAttribute('aria-pressed',state.original);
@@ -307,7 +378,8 @@ async function load(){
   state.loading=false;render();
 }
 document.addEventListener('click',e=>{
-  const b=e.target.closest('[data-country],[data-topic],[data-issue],#clearTopic,#closeIssue');if(!b)return;
+  const b=e.target.closest('[data-view],[data-country],[data-topic],[data-issue],#clearTopic,#closeIssue');if(!b)return;
+  if(b.dataset.view){state.view=b.dataset.view;window.scrollTo({top:0});save();render();return;}
   if(b.id==='clearTopic'){state.topic=null;}
   else if(b.id==='closeIssue'){state.issue=null;}
   else if(b.dataset.issue){state.issue=state.issue===b.dataset.issue?null:b.dataset.issue;state.topic=null;window.scrollTo({top:0});}
@@ -317,6 +389,7 @@ document.addEventListener('click',e=>{
 });
 $('ecoBtn').onclick=()=>{state.eco=!state.eco;save();render();};
 $('origBtn').onclick=()=>{state.original=!state.original;save();render();};
+document.addEventListener('change',e=>{if(e.target.id==='bdate')loadBrief(e.target.value);});
 $('period').onchange=e=>{state.period=+e.target.value;render();};
 let t;$('search').oninput=e=>{clearTimeout(t);t=setTimeout(()=>{state.search=e.target.value;render();},150);};
 $('searchBtn').onclick=()=>{const r=$('searchRow');r.hidden=!r.hidden;if(!r.hidden)$('search').focus();else{$('search').value='';state.search='';render();}};
@@ -324,6 +397,6 @@ $('refresh').onclick=load;
 $('how').onclick=$('sourcesBtn').onclick=()=>$('info').showModal();$('closeInfo').onclick=()=>$('info').close();
 window.addEventListener('hashchange',()=>{const k=location.hash.slice(1);if(COUNTRIES[k]){state.country=k;render();}});
 $('today').textContent=new Date().toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul',month:'long',day:'numeric',weekday:'long'})+' · 6개국과 중동, 23개 매체';
-render();load();
+render();load();loadBrief();
 setInterval(()=>{if(!document.hidden)load();},15*60*1000);
 </script></body></html>
