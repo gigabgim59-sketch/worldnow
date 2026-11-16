@@ -138,7 +138,7 @@ function numbersOk(src,ko){
     if(/^(?:st|nd|rd|th)\b/i.test(rest)&&+m[0]<=2)continue;
     const digits=m[0].replace(/[.,]/g,'');
     if(kn.has(digits))continue;
-    const v=parseFloat(/,\d{3}(?!\d)/.test(m[0])?m[0].replace(/,/g,''):m[0].replace(',','.'));
+    const v=parseFloat(/^\d{1,3}(?:\.\d{3})+$/.test(m[0])?m[0].replace(/\./g,''):/,\d{3}(?!\d)/.test(m[0])?m[0].replace(/,/g,''):m[0].replace(',','.')); // 140.000(독일식 천 단위) → 140000
     if(kv.has(Math.round(v*1000)/1000))continue;
     return false;
   }
