@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T11:12:41.097Z",
+  "generatedAt": "2026-11-16T11:16:20.194Z",
   "feeds": [
     {
       "source": {
@@ -111,7 +111,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.178Z",
+      "fetchedAt": "2026-11-16T11:16:16.688Z",
       "status": "ok"
     },
     {
@@ -221,7 +221,7 @@
           "titleKoAlt": "인플레이션으로 인해 24년간의 주택 가격 상승분이 사라졌습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.164Z",
+      "fetchedAt": "2026-11-16T11:16:16.684Z",
       "status": "ok"
     },
     {
@@ -332,7 +332,7 @@
           "titleKoAlt": "일자리를 보장받기 위해 1년 동안 일을 하지 않거나 훈련을 받지 못하는 젊은 영국인들"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.171Z",
+      "fetchedAt": "2026-11-16T11:16:16.680Z",
       "status": "ok"
     },
     {
@@ -436,7 +436,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.183Z",
+      "fetchedAt": "2026-11-16T11:16:16.673Z",
       "status": "ok"
     },
     {
@@ -472,8 +472,9 @@
             "경제·물가",
             "산업·시장"
           ],
-          "titleKo": "경제 상황: 업계 매출은 증가하지만 140,000개의 일자리가 사라짐",
-          "tr": "google"
+          "titleKo": "산업 매출은 늘었지만 일자리 14만 개 사라져",
+          "tr": "claude",
+          "titleKoAlt": "경제 상황: 업계 매출은 증가하지만 140,000개의 일자리가 사라짐"
         },
         {
           "id": "handelsblatt-2",
@@ -547,7 +548,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.616Z",
+      "fetchedAt": "2026-11-16T11:16:17.082Z",
       "status": "ok"
     },
     {
@@ -650,7 +651,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.565Z",
+      "fetchedAt": "2026-11-16T11:16:17.091Z",
       "status": "ok"
     },
     {
@@ -668,7 +669,7 @@
           "id": "liberation-0",
           "title": "Pour le président de France Universités, «il est nécessaire de continuer à porter des questions légitimes mais les blocages et occupations ne sont plus tenables",
           "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNaV9BTDMzY3FYYWhUbWcteE53TVNwUXBVYXFlZzhLOHhLeVBUdVFtR2Rfc04wQ285M2J2eTczX21XbnpLWEVxZTdwSEE1bmNlbk1GZHk5eURoWndUdVhiSzJ0OHgwY1loQnpOdzhYZlVDWlo2SjVkNVdoZDNxSmFPS2V2T0lDM28tLWkzbnRZdnA4U09pU0VFOS1qbTVNUnh4VHJSaHh1WF9MR3pzbXBXSDJHSWxERGtJVXdfTGdpRDJlemVid18wcVlRb29Wa1NfTmhwWjJQSFZtU0Q0LXpTWW1VZjJJVndJeURLYU1lVWdYcWhpaVY4amhUbFU3R2RvX1NOdEIwckRqVFJOR294ZkQ2MWdwM2lrS2VyMHhfR1JYNXhsYWl5QTZtdElib2U1Y3hEaVVnYVVuNzhvWjVOSmw2ZzJXbmJ5cWZ5VDlnN2dvODNMcWFIUE4zZw?oc=5",
-          "date": "2026-11-16T08:12:00.000Z",
+          "date": "2026-11-16T08:12:44.000Z",
           "topics": [
             "정치·선거"
           ],
@@ -762,7 +763,7 @@
           "titleKoAlt": "정부, 11월말까지 폭죽 판매 금지"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.588Z",
+      "fetchedAt": "2026-11-16T11:16:17.065Z",
       "status": "ok"
     },
     {
@@ -874,7 +875,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.685Z",
+      "fetchedAt": "2026-11-16T11:16:17.102Z",
       "status": "ok"
     },
     {
@@ -990,7 +991,7 @@
           "titleKoAlt": "2027년 예산: 일드프랑스는 해당 국가의 재무 포지션에 계속 투자합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:21.948Z",
+      "fetchedAt": "2026-11-16T11:16:17.386Z",
       "status": "ok"
     },
     {
@@ -1093,18 +1094,19 @@
         },
         {
           "id": "nyt-7",
-          "title": "Defense Contractor L3Harris Was Behind Upgrade That Led to Ground Stop",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yOXU5b1dHZVlma295S1pOVWtPY0NQWG1ZYmxsUnhMWnpzaV9TamVoeGxUM0YxOEw1TGNuRFZEb0JfRFBTN1VxRVBxM2ZZQzc0RHl1Nl9IWDR0Uy1VUGtheUpkMHRKZWNRUzY5UWhpWXI?oc=5",
-          "date": "2026-11-14T22:08:07.000Z",
+          "title": "Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSG5Ua0Eya2ctVDEweEN2X3Z4VmxHU0EtZU5ERk5HRUNLZ3lLdWx3VFkzYjBjMzZKS0FPRE9CaHp2MUJNTWJaenk0UV9OQldvdGVrdndRakI2UmxwSllMQVVUZUM3Wi1aaEd3WllvNVRpNWdhaE9aRWJ2Z204WE5nRmtiNFgwMFJfMGlpMmIwdUdIN3gtVk52dXZscHFYRUFF?oc=5",
+          "date": "2026-11-15T10:02:05.000Z",
           "topics": [
-            "외교·안보"
+            "AI·반도체",
+            "산업·시장"
           ],
-          "titleKo": "방산업체 L3해리스, 지상 운항 중단 사태 일으킨 업그레이드 작업 책임",
+          "titleKo": "러트닉, 가족 사업과 겹치는 반도체 규제 완화 압박 받아",
           "tr": "claude",
-          "titleKoAlt": "방산업체 L3Harris는 지상 정지로 이어진 업그레이드 뒤에 있었습니다"
+          "titleKoAlt": "Lutnick은 가족 사업과 겹치는 칩 규칙을 약화시키려고 노력했습니다"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.045Z",
+      "fetchedAt": "2026-11-16T11:16:17.595Z",
       "status": "ok"
     },
     {
@@ -1131,6 +1133,17 @@
         },
         {
           "id": "fox-1",
+          "title": "Democrats plot massive spending spree after midterm rout — and Trump could help them pull it off",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkdoM3QyNjI3NWJ4WXVaOUltTUM5blQ0WGFDM3ZKdU9oMlJleEJqMmNRQ2JLbzNRWnpZWGdxb3VTM0pmNVQ3UW9WSTRhbXpUZ0ZLVVBQWkRUa1JRUlowYWh0RTBpRTU4U2Vmdk5kMG1pdFpQbEdLU1p2a1IxZHk1SHBaOXZtN19tcnp5UjRNZi1EaEloMlZoYTNDLXc1Wm9CdW02YllRNnZ4UXJ5b0FsZERRUEtfQm8tSFdKTtIBwgFBVV95cUxNcGVMSDQxeHZxR1oxbUdTTVFDYzBIckZFd0VTUkNNMWRuTHNPNGYzajZ2M0ZOYXl4TWk3UXZKb2ZCZ20zOGNRRl9uSHNSUXhwYXNlOUZfLTZqdjV2UzE0aDdiT3JXc1VKTm85U1k0Rkw1UVNLQ3hQQmR6SkVfWk9kSlUteW9FaG45VjNnTDlqM25UelROUVhYT0YtSGdSS2hVa1RBS193a1RJRjlCUFZyd1M1bGhBMmw5a01oSTlUcm5qUQ?oc=5",
+          "date": "2026-11-16T10:00:56.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "민주당, 중간선거 참패 후 대규모 지출 계획 추진…트럼프가 도와줄 수도",
+          "tr": "claude"
+        },
+        {
+          "id": "fox-2",
           "title": "Congress' incoming wealthiest member vows to crack down on politicians getting rich in office",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdkRXR0phTktDcWxoN0FJZ285Z0hvZmVocEdIVHlmTE9lek5IdzBOc2FFOGhfMm1EZjdtWlZ0MkRtcnRXREM3eFVmMlNhdzdOVU5tN3czMDZ3SDlibGQ2dkN1cUQzbkNjSHZxSFRVZ1poWXdXWFJUbU1fWGpoUGVFSWpRSGNjeWRIVUNCdkpBZzFnUW1QY2xENVFHV0tXM1FUaUNyMVJYNnlkZTFuWHctN2laOXFPVFHSAbwBQVVfeXFMTkZZYUQ5UDBNbGFwc0prWEJLRTNlMDRtcGJ6Rmt6SjdXeW04aFNhZnZ5NE5Cc0ZDUWw5NUllem9XdlF6TUltdFVxUW5fS3JLSzNzV3MxNE5RZmVWRFh5c0FCOVo0eFliY00tOXZ5SENXOC1McU5peVFXRzZxdGdiSjc5bmcwdHhJbUlOX0JoRHRVLWVuNi1JX1ZlUlBHdVMxWmt4UEdxRkNyNXpQSmpKSFRPRGJlRVRCVTl0VVk?oc=5",
           "date": "2026-11-15T15:00:17.000Z",
@@ -1140,17 +1153,6 @@
           "titleKo": "의회 최고 부자 신입 의원, 재임 중 치부하는 정치인 단속 다짐",
           "tr": "claude",
           "titleKoAlt": "의회의 가장 부유한 의원은 공직에서 부자가 되는 정치인을 단속하겠다고 맹세합니다."
-        },
-        {
-          "id": "fox-2",
-          "title": "Democrats plot massive spending spree after midterm rout — and Trump could help them pull it off",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkdoM3QyNjI3NWJ4WXVaOUltTUM5blQ0WGFDM3ZKdU9oMlJleEJqMmNRQ2JLbzNRWnpZWGdxb3VTM0pmNVQ3UW9WSTRhbXpUZ0ZLVVBQWkRUa1JRUlowYWh0RTBpRTU4U2Vmdk5kMG1pdFpQbEdLU1p2a1IxZHk1SHBaOXZtN19tcnp5UjRNZi1EaEloMlZoYTNDLXc1Wm9CdW02YllRNnZ4UXJ5b0FsZERRUEtfQm8tSFdKTtIBwgFBVV95cUxNcGVMSDQxeHZxR1oxbUdTTVFDYzBIckZFd0VTUkNNMWRuTHNPNGYzajZ2M0ZOYXl4TWk3UXZKb2ZCZ20zOGNRRl9uSHNSUXhwYXNlOUZfLTZqdjV2UzE0aDdiT3JXc1VKTm85U1k0Rkw1UVNLQ3hQQmR6SkVfWk9kSlUteW9FaG45VjNnTDlqM25UelROUVhYT0YtSGdSS2hVa1RBS193a1RJRjlCUFZyd1M1bGhBMmw5a01oSTlUcm5qUQ?oc=5",
-          "date": "2026-11-16T10:00:56.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "민주당, 중간선거 참패 후 대규모 지출 계획 추진…트럼프가 도와줄 수도",
-          "tr": "claude"
         },
         {
           "id": "fox-3",
@@ -1215,7 +1217,7 @@
           "titleKoAlt": "알리토 판사는 미국이 국가의 '분위기'에 관계없이 3가지 핵심 원칙을 지켜야 한다고 경고합니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.105Z",
+      "fetchedAt": "2026-11-16T11:16:17.521Z",
       "status": "ok"
     },
     {
@@ -1247,7 +1249,7 @@
           "id": "wsj-1",
           "title": "Asian Equities Drop as U.S. Chip Selloff Spills Over",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSEVpV2tyTTZHU0JJTFJLNGQ5Y3pJbFBUUE90S1ZWQWg3ZGNzWXJVUU16cmVxb013eHdDOU9YcUU2aGdNQVpYS0lpYkJqTFptZzYyQ21oOFROLUNlRFRSU0FDNTdNMjZkQm11WmdZNlpIUkRvNVFMTXNQaDYyc3RrZjIwWnRPX0Vsblk4NFdNN2tZMmZ6S1J0RnRFa0dyb0xwV1lhYUVYNno3WEU?oc=5",
-          "date": "2026-11-16T06:16:00.000Z",
+          "date": "2026-11-16T06:26:27.000Z",
           "topics": [
             "AI·반도체",
             "산업·시장"
@@ -1332,7 +1334,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.076Z",
+      "fetchedAt": "2026-11-16T11:16:17.445Z",
       "status": "ok"
     },
     {
@@ -1444,7 +1446,7 @@
           "titleKoAlt": "다르치예프 러시아 대사의 죽음은 외교계에 큰 손실이다 — 고위 외교관"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.287Z",
+      "fetchedAt": "2026-11-16T11:16:17.676Z",
       "status": "ok"
     },
     {
@@ -1558,7 +1560,7 @@
           "titleKoAlt": "러시아의 의료 및 교육 부문은 전면전이 시작된 이후 1조 루블 이상의 자금을 잃었다는 조사 결과가 나왔습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.316Z",
+      "fetchedAt": "2026-11-16T11:16:17.703Z",
       "status": "ok"
     },
     {
@@ -1599,7 +1601,7 @@
           "titleKoAlt": "유럽연합(EU)이 러시아와 연관된 석유 운송 주체들에 대한 제재를 발표했습니다."
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.449Z",
+      "fetchedAt": "2026-11-16T11:16:17.924Z",
       "status": "ok"
     },
     {
@@ -1708,7 +1710,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.492Z",
+      "fetchedAt": "2026-11-16T11:16:18.016Z",
       "status": "ok"
     },
     {
@@ -1784,7 +1786,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.672Z",
+      "fetchedAt": "2026-11-16T11:16:18.044Z",
       "status": "ok"
     },
     {
@@ -1895,7 +1897,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.678Z",
+      "fetchedAt": "2026-11-16T11:16:18.042Z",
       "status": "ok"
     },
     {
@@ -1960,18 +1962,6 @@
         },
         {
           "id": "republic-4",
-          "title": "CDS Gen Raja Subramani Flags Starlink Satellite Disruption in Ukraine, Stresses Need for India's Self-Reliant Space Capabilities",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGV4Z2tPSnMyVGdMcV9qQnAzRmVjOW4wNmU2c2tuZV9UdTR4M1phd0tRWW9ZU2UyajA3Q2dZYWpEV19QMjdOdU12U0J3YjNQcmdCRmxnTUtnNzNlOFI0aHdFNzRSZTdPWWg3LTBMQklhUElhYVlfakZib28tc1lRbzJWOGdJTC1Sdl9jWHpoTTdsMTYtMXBJdlgwMGVTWEJBR1gtZDZpZ3NaZ2lYTHJFakdtZ0ZqZ3FZMU1SMnU2RElvbkxIdHVDSjVFMUZXZ3NpbXlJNF9ZQUY3WDZuVmFjOHpfVTU2Rko1R0xyaWpTT2NzNnJ0elFWWXd3bk4tTmpsRTZCU3h2X09MalVX0gGTAkFVX3lxTE53S0V6Rlo2TnVJTjZ4Y1RyT0FaY2ljZEFqZEhRR3F0bnNxUmVyd3E4TFdpNHJEQWFia0ZjeEg4SmpYWmZDb0ZCQzVqNmZ3cnkzTjFnbWlRZUR4aC1RRUhKSUZVZldJWXBwTmtMZ1hNa3l2QjBseDBVZWdVLUwyNmttWVpwRkN0MlVfLXM2NmNDb2RtNm1UWXFJYnpFMWpHaUZLbDBkUWpVZ2pONXB6NGlzTkRUU0w5d19LOC1iWm9IQUhpdkk2NFI0NHk4TTM0eHgzU0lmMHpUdVg5MDNPenVUVl9OZEdNY3M3blRwVlFXYTRkTmE4VFROYlJwNVc5WXBXTVAwaUpJN2dQbnRucjlIN00w?oc=5",
-          "date": "2026-11-16T05:50:20.000Z",
-          "topics": [
-            "전쟁·휴전",
-            "외교·안보"
-          ],
-          "titleKo": "라자 수브라마니 참모총장 \"우크라이나서 스타링크 위성 교란 확인\" - 인도 우주 자체 역량 강화 필요 강조",
-          "tr": "claude"
-        },
-        {
-          "id": "republic-5",
           "title": "'Naxal Violence Harmed Tribal Community Most': PM Modi Hails Nation Free of Left-Wing Extremism on Janjatiya Gaurav Diwas",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd3RlVnBJYjE3LThpRGZ5SkYzZzVUSkZlcU02dVdqT3B2STR2Ynhhb3ljeGF6MjNPVV9VN09rR2N2RWxIbnQ5OTJJdzl2bk5pclZwRF9GNnduLWFpVHlERUQyR0swbE5tMzBZQ1BSeVhXQW95ZTE3VzRkc0pXaDZwVnRRdUhvdnU2RldnYnRGVklEb2VCY2tDT3ZHRTFnNHF4eWdTR0p3TTFQRjBkSE9ibFVweGNYLW9zM3pTRk1SUTdaRWlkUk5DWE5nTGRUVkducFkxTndfbjZaVGJCam1sQjR5SkVYT3JrNW1haTdDT2hDRmtMNDN3a1owbEZVUW9iZ1HSAYcCQVVfeXFMT0dGTC1jWGZDMGV3LUFaTGRrZXRSOVRuSmRZVXFCTHA4WVpZOVVxYjlrdlZuaWxZaHJZRndkMEkxRUY4NmF2YjB1enBiS2l5dUtYWWZXV0lrNWJ1SWNidHhMYng2RFBDYm1sWmZaZFNPaVJxekJuUmppQ19XVW1uMXp2Z2l0VTg2ZnRfYlRTRUNiWXFKS0hfUVVHbERSdXJkWk9OaS1SenVDRnB2Um1lSm40ZGc0Z2VDeUV6a1dOekRiNXBvQXZhbWVnNUtNVDlUN2ZZZzV6RG41RTFYS1JCQTl0RmJBeFE3LUtLZ2hLQVI1VUF0WEFzS2RqOEE5MklzYklJNExrdXc?oc=5",
           "date": "2026-11-15T07:58:08.000Z",
@@ -1981,6 +1971,18 @@
           "titleKo": "모디 총리 \"나큘 폭력은 부족 공동체에 가장 큰 피해\"…좌익 극단주의 근절 선언, 잔자티야 가우라브 디와스에 발표",
           "tr": "claude",
           "titleKoAlt": "'Naxal 폭력은 부족 공동체에 가장 많은 피해를 입혔습니다': PM Modi는 Janjatiya Gaurav Diwas에서 좌파 극단주의가 사라진 국가를 환영합니다"
+        },
+        {
+          "id": "republic-5",
+          "title": "CDS Gen Raja Subramani Flags Starlink Satellite Disruption in Ukraine, Stresses Need for India's Self-Reliant Space Capabilities",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOdGV4Z2tPSnMyVGdMcV9qQnAzRmVjOW4wNmU2c2tuZV9UdTR4M1phd0tRWW9ZU2UyajA3Q2dZYWpEV19QMjdOdU12U0J3YjNQcmdCRmxnTUtnNzNlOFI0aHdFNzRSZTdPWWg3LTBMQklhUElhYVlfakZib28tc1lRbzJWOGdJTC1Sdl9jWHpoTTdsMTYtMXBJdlgwMGVTWEJBR1gtZDZpZ3NaZ2lYTHJFakdtZ0ZqZ3FZMU1SMnU2RElvbkxIdHVDSjVFMUZXZ3NpbXlJNF9ZQUY3WDZuVmFjOHpfVTU2Rko1R0xyaWpTT2NzNnJ0elFWWXd3bk4tTmpsRTZCU3h2X09MalVX0gGTAkFVX3lxTE53S0V6Rlo2TnVJTjZ4Y1RyT0FaY2ljZEFqZEhRR3F0bnNxUmVyd3E4TFdpNHJEQWFia0ZjeEg4SmpYWmZDb0ZCQzVqNmZ3cnkzTjFnbWlRZUR4aC1RRUhKSUZVZldJWXBwTmtMZ1hNa3l2QjBseDBVZWdVLUwyNmttWVpwRkN0MlVfLXM2NmNDb2RtNm1UWXFJYnpFMWpHaUZLbDBkUWpVZ2pONXB6NGlzTkRUU0w5d19LOC1iWm9IQUhpdkk2NFI0NHk4TTM0eHgzU0lmMHpUdVg5MDNPenVUVl9OZEdNY3M3blRwVlFXYTRkTmE4VFROYlJwNVc5WXBXTVAwaUpJN2dQbnRucjlIN00w?oc=5",
+          "date": "2026-11-16T05:50:20.000Z",
+          "topics": [
+            "전쟁·휴전",
+            "외교·안보"
+          ],
+          "titleKo": "라자 수브라마니 참모총장 \"우크라이나서 스타링크 위성 교란 확인\" - 인도 우주 자체 역량 강화 필요 강조",
+          "tr": "claude"
         },
         {
           "id": "republic-6",
@@ -1996,7 +1998,7 @@
           "titleKoAlt": "'인도는 원주민 국방 생태계를 강화했습니다': Rajnath Singh은 방위 제조 분야의 품질 보증을 요구합니다"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.866Z",
+      "fetchedAt": "2026-11-16T11:16:18.295Z",
       "status": "ok"
     },
     {
@@ -2110,7 +2112,7 @@
           "titleKoAlt": "Jitendra Singh, 인도와 이탈리아에 AI, 생명공학 분야 공동 연구 강화 촉구"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:22.889Z",
+      "fetchedAt": "2026-11-16T11:16:18.374Z",
       "status": "ok"
     },
     {
@@ -2219,7 +2221,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.135Z",
+      "fetchedAt": "2026-11-16T11:16:18.489Z",
       "status": "ok"
     },
     {
@@ -2235,17 +2237,6 @@
       "items": [
         {
           "id": "jagran-0",
-          "title": "रजनी पाटिल की मोदी-शाह पर विवादित टिप्पणी, कहा- शीर्ष पदों पर बैठी ‘रंगा-बिल्ला’ की जोड़ी देश को नुकसान पहुंचा रही",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGVpeHZSOThRVEZVOUpQNWh0ZWdWRUktQm9obEFYWFJZLWNhN0cxcXlieDNyQmVCdHZXUlo2aE00WnZsaHVaUHB6ZURGamVBbFZ2V3VPOG1uZlRnU1RzYWw1Mmh3dW9XYkR0a0RGdlRGU3NfaGdfWnVFUTllaWlPbFZKTm9OZjhMV3lHdkRueE1oUzlCNVA4Q1RhWTI3RFNrSWtEb005dS1xQjJpVTNLdDhjR0JaWUlPVWQ5eQ?oc=5",
-          "date": "2026-11-16T07:32:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "라지니 파틸 \"모디·샤, '랑가-빌라' 콤비가 나라에 해악\" 발언 논란",
-          "tr": "claude"
-        },
-        {
-          "id": "jagran-1",
           "title": "'पाकिस्तान ने दीवाली के दिन हमें गालियां दी थीं', अंडर-19 टीम इंडिया के स्टार ने बताई आक्रामक जश्न की असली वजह",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjZHYS1Ya1o1VGNBQmhscmltcG02Q0Qza3Rpai0zejU3bFkyMlZWdDdxM1BVM2duZDVlbzN3LTFqLXhMMXpuZmJoU21EeVFKQTl5cFJtc3g2dWhITGFiZlo4MjNQbWY4b0s0WVcyblJuX0t2OHN1ZUktQW53NnN6LTMxeml2RWdkYWdiSjFva0xrTFZpRU1ZQWd0dXJwajVvODlqUEEzSGlWalp2X3ZJeWpzSkk4RmJ6dk5YY0YxVTlaUXh0M0p0N1NjOE5jZGx5TU1MYlQzTWFGNjQ?oc=5",
           "date": "2026-11-16T04:04:00.000Z",
@@ -2253,6 +2244,17 @@
             "외교·안보"
           ],
           "titleKo": "\"파키스탄이 디왈리 날 우릴 욕했다\" - 19세 이하 인도 대표팀 스타, 공격적 세리머니의 진짜 이유 밝혀",
+          "tr": "claude"
+        },
+        {
+          "id": "jagran-1",
+          "title": "रजनी पाटिल की मोदी-शाह पर विवादित टिप्पणी, कहा- शीर्ष पदों पर बैठी ‘रंगा-बिल्ला’ की जोड़ी देश को नुकसान पहुंचा रही",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGVpeHZSOThRVEZVOUpQNWh0ZWdWRUktQm9obEFYWFJZLWNhN0cxcXlieDNyQmVCdHZXUlo2aE00WnZsaHVaUHB6ZURGamVBbFZ2V3VPOG1uZlRnU1RzYWw1Mmh3dW9XYkR0a0RGdlRGU3NfaGdfWnVFUTllaWlPbFZKTm9OZjhMV3lHdkRueE1oUzlCNVA4Q1RhWTI3RFNrSWtEb005dS1xQjJpVTNLdDhjR0JaWUlPVWQ5eQ?oc=5",
+          "date": "2026-11-16T07:32:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "라지니 파틸 \"모디·샤, '랑가-빌라' 콤비가 나라에 해악\" 발언 논란",
           "tr": "claude"
         },
         {
@@ -2329,7 +2331,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.110Z",
+      "fetchedAt": "2026-11-16T11:16:18.449Z",
       "status": "ok"
     },
     {
@@ -2438,7 +2440,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.244Z",
+      "fetchedAt": "2026-11-16T11:16:18.609Z",
       "status": "ok"
     },
     {
@@ -2555,7 +2557,7 @@
           "titleKoAlt": "CATL, eVTOL 시장이 형성됨에 따라 항공 배터리 추진 확대"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.100Z",
+      "fetchedAt": "2026-11-16T11:16:18.584Z",
       "status": "ok"
     },
     {
@@ -2579,7 +2581,7 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "중국 \"시진핑·푸틴·트럼프 회담, 획기적 의미 지녀\"",
+          "titleKo": "중국 \"시진핑-푸틴-트럼프 회담, 획기적 의미\" 평가",
           "tr": "claude"
         },
         {
@@ -2669,7 +2671,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.492Z",
+      "fetchedAt": "2026-11-16T11:16:18.838Z",
       "status": "ok"
     },
     {
@@ -2709,7 +2711,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.461Z",
+      "fetchedAt": "2026-11-16T11:16:18.819Z",
       "status": "ok"
     },
     {
@@ -2818,7 +2820,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.596Z",
+      "fetchedAt": "2026-11-16T11:16:18.975Z",
       "status": "ok"
     },
     {
@@ -2933,7 +2935,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.475Z",
+      "fetchedAt": "2026-11-16T11:16:18.881Z",
       "status": "ok"
     },
     {
@@ -3050,7 +3052,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.824Z",
+      "fetchedAt": "2026-11-16T11:16:19.157Z",
       "status": "ok"
     },
     {
@@ -3168,7 +3170,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-16T11:12:23.846Z",
+      "fetchedAt": "2026-11-16T11:16:19.232Z",
       "status": "ok"
     }
   ],
@@ -3176,16 +3178,16 @@
     "successful": 30,
     "total": 30,
     "translated": 224,
-    "byClaude": 223,
+    "byClaude": 224,
     "claude": {
       "run": {
-        "titles": 55,
-        "usd": 0.0020656999999999997,
-        "rejected": 1,
+        "titles": 1,
+        "usd": 0.0001893,
+        "rejected": 0,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0339,
+      "monthUsd": 0.0341,
       "limitUsd": 2
     }
   }
