@@ -1,7 +1,60 @@
 {
-  "updated": "2026-11-16T23:18:25.028Z",
-  "count": 558,
+  "updated": "2026-11-17T00:50:05.107Z",
+  "count": 571,
   "items": [
+    {
+      "source": "fox",
+      "country": "us",
+      "title": "Trump’s Asia trip takes Alaska detour as weather forces refueling stop change",
+      "titleKo": "트럼프 아시아 순방, 날씨 탓 알래스카 경유 변경",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWmU3RUJReGJtRnRuWnpEb1VsM18tbTVhSUJORUpLZ2RjWmlsVzRKOXZvNGtJRzU2ZV8yeHBZVGdoMGVleUtOajRVMTI0Z0RwbXdIbTJsWmpnbGwxOEhibnpTT2FjeTlab2FpNGZFV2lfVmt2YjIxR2Fzcm50dmZjdk1oOHI3a0RPZzZTbjA0MTFCOWttdC11cjdGV3puaVpyaS1yWWd5SUtlUdIBrwFBVV95cUxOUmJ3czJsMzM3S1k1SlA3OFE5VUFXeEpJUGlHMTViQndsWlNJdWpMWFh0MFpRNF9rd0VEc1B0NnlodHF3VzBUbkphTGtHUU4xeHViWFQ4Z3BKUGdpYkltTmNGWWhZX1FNR2ZxSDhGU1lQamVxVW00QXY3bHE4SWd6MUtzTEFOOWVUbjUtUUExMTJ3WG5QMFllNFJGRlI5UzBrQUpoNzhla0NDZnQwRVZZ?oc=5",
+      "date": "2026-11-16T23:48:44.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "bbc_cn",
+      "country": "cn",
+      "title": "China is hosting the world's leaders in Schenzhen's AI wonderland. Here's what they won't see",
+      "titleKo": "중국, 선전서 세계 지도자 초청…'AI 원더랜드' 공개 행사 논란",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRFEzRDhlVEVZYzFmQmNzaFl6YUN6Rnd2dGhTMm13LTkxOUFiV0dFUHFsZlBQQlp3S2Y4WTZ2cHFqQk1FRnpuX2VaY0lEajlwUG9MYk8zV2xzNmc?oc=5",
+      "date": "2026-11-16T23:07:20.000Z",
+      "topics": [
+        "AI·반도체",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "wsj",
+      "country": "us",
+      "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
+      "titleKo": "미국 증시 하락세 확대…엔비디아·중국 우려 겹쳐",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
+      "date": "2026-11-16T22:06:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "wsj",
+      "country": "us",
+      "title": "U.S. Natural Gas Futures Settle Lower",
+      "titleKo": "미국 천연가스 선물 가격 하락 마감",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEQwdHNLc2RNT0Q3X3pSei1YakVrcnJxbk0yNC0tOWlxUXlsX0lLaTVjbExmNlFMbllHMGNZeUYtcTh2bXBMOUE2UW1Bd1V3TG4tdTdvMUFWVi1QdnlzcVZKOWItWnVMY2F2ZC1FemZzRElWR1pHeUFkdWl0U3ZncGdHQWUwbGpTRDRNVkdYOWRLcWZFamJoMjBzTU5DZw?oc=5",
+      "date": "2026-11-16T21:51:00.000Z",
+      "topics": [
+        "에너지·원유",
+        "산업·시장"
+      ]
+    },
     {
       "source": "sz",
       "country": "de",
@@ -40,6 +93,19 @@
       ]
     },
     {
+      "source": "fox",
+      "country": "us",
+      "title": "Dem governor rips College Republicans for hosting ex-Trump Border chief, provokes fiery response",
+      "titleKo": "민주당 주지사, 공화당 대학생 단체의 전 트럼프 국경 책임자 초청 행사 비판…거센 반발",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTJuc2xPRzEtaGc0d25Qai0ySDhyV0VSUjB6cTRDd1FUU3FNWjhoMlRlUF9CSXB2Q1hibXdzell2dUI5VW5keW5PUkNMYl9iNVBRclVXT1dnZExuWkNwNWt3S0N1R2lBMl8xbEZOa3NSTEQtZVdHM1RjaU9PdFQ3TFNUZ3M0QmZMSDZLZkZFQklpXzVUQ1ZxTDQybS14dHo1VHphZXUxeTAyWWcwTlp5Q3RYWG9jSG15UTlxY29BUlktUdIBxwFBVV95cUxQb3Q2dGZROEl5czFubEJxcGl2MHh5MTh5eGdTUmFQY2VzSzJhdHRGMExkbE0wbTNOVHBTRlJGcTg4V0k0b203ZHpWenlVMWtqaG9ScWhzdl9jQkVmS2EwOEx3Y2tNWjg2YnFjY2RvR2U1NzNfQlNRbnZfTy1GUWp4aTdENWJOcDBlbmtYSGFKNDFwNW9nUFdXaWxOcWFhTVl0WWFWeHN6WC0zcEl1Wk1vUHQtLU5ZUEhtMzA5a1RmaDdRamlydGEw?oc=5",
+      "date": "2026-11-16T20:09:22.000Z",
+      "topics": [
+        "이민·국경",
+        "정치·선거"
+      ]
+    },
+    {
       "source": "guardian",
       "country": "uk",
       "title": "Failed UK asylum seekers to lose five-day grace period and face immediate removal",
@@ -64,6 +130,18 @@
       ]
     },
     {
+      "source": "haaretz",
+      "country": "me",
+      "title": "Israel strikes deep inside Lebanon after prolonged restraint at U.S. request",
+      "titleKo": "이스라엘, 미국 요청으로 자제하다 레바논 깊숙이 공습",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNUdzYVIycndKMjRzMTNqZjF0LWFVdTY2eTdndkVQak1iaTdPMGhZcXJPVFV5R0tOQm9CWEZOUWtieWtQd0YzVjVxenF0YjJIWVhHS3NPenBfa2REMUxyRGs3TTZCcUxBVmZZeDc5dVE3ZTJ3VlcxckVNa1FQdVBFTlQwUGJkOFh0WmxiclVpb2hVSk9lelE1akNIaTl1MlhvcExUZXI4aDVaRzF5YmdVcEZKMjVpdVZIQkxSaV90UmRjeUt3YVhUZDdDRmdHZ296azhhUWw0d1ZCNDk1SGFFZFpUQkJ5WlhvbUYtLU5pYm9QYWdLVzJ3LWRfVURTUGhYYkNhRXdSQkdBRUtBZE02SVVDTzNKcGZ6Si1MUnpZcFozdw?oc=5",
+      "date": "2026-11-16T20:04:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
@@ -85,6 +163,18 @@
       "date": "2026-11-16T19:59:32.000Z",
       "topics": [
         "산업·시장",
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "meduza",
+      "country": "ru",
+      "title": "Russian publisher cuts Pushkin’s drinking stanza from third-grade textbook, citing anti-alcohol law. The Education Ministry’s response? Don’t do that — it’s Pushkin.",
+      "titleKo": "러시아 출판사, 음주 금지법 이유로 3학년 교과서서 푸시킨 음주 시구 삭제…교육부 \"그러지 말라, 푸시킨이다\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQbkttUGk4TlAwRmE4LWVhejVTS1Q1MTBwZmtNa1pLZUV6eGlSOElmZS1qdGJxSGhVdTRTb1dXQl9BODRCZVVjemVVVFZSQU5JOUNFRmpfSFBqb3JnZHJSaXdOOVdGOXFfMjBETGVUQ2w3cFA3akFVam5CU1lpVXdORXhyRUcyN0dzV281dUs2Y2EzTzFJT01rdjZFNGh1d1N0cnh1am52dFQ3ZGVhZC1yaERJWWd5ZjlRdUtwWnZ1OVIyUUVweWFvYzJxY05rc1BwY19WU1dHU0ZSTE95c1RFZGVCQnJOV3ZFbk9jN3EtUVpmX2FIbWR2UGFNNkRuNndFVEotam1OaU55RC0wQUFwY0h2M1RHQWFjc1I0d1psYlcxWWxjYnfSAasCQVVfeXFMUGxwZjlPQWFOS3ZKVTljMGhpUFZjd29SZzRUSnhlUFpiY1BZc201TzJSUzJ0QTh4WlhadGdOaWRncjQ2SVNtMWZ5bFpJdjI0U1pUZ3NwOGk4YUZCNGRBQUVJZnVXdl9mdm9ZX2FTNDJpdUpEVWJaVGYzVnJ5c3M5YW9wLXhnNmU5ODZnUUE2YW80WFpuOVFId2pRRzJ4X1R4ZW5IbjVXWlZiNnVJcmpJZzFTc3pMYnFrLTVsQlR3N1hCQzh5RTFzZGVmUWN0MHk2MDNpNXM4SmRfcWwtQ0thWkUtOHJ4b2F3cnpPMmVncFVFTmdYLUU3RUU1Ymx1bzVXMWxNdzlKTUw5c01SM2otTi1Ic1hndnA0M3VFSXpxRXdVSWlKYTdGeEN4aHc?oc=5",
+      "date": "2026-11-16T19:44:00.000Z",
+      "topics": [
         "사회·생활"
       ]
     },
@@ -203,6 +293,20 @@
       ]
     },
     {
+      "source": "meduza",
+      "country": "ru",
+      "title": "After Ukraine’s latest attack, Moscow calls damage to the Crimean Bridge ‘insignificant,’ but OSINT analysts say its main road span is visibly deformed",
+      "titleKo": "우크라이나 최신 공격 후 크림대교 피해 '미미'하다는 모스크바…오픈소스 분석가 \"본선 도로 뚜렷이 변형\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdl95QWRTbXVPU2x1cmFjN0xtc2p2TEMxS1U0V3dHR1hMNnU0OTNubzR3a1hHUnJ6cFZsUGZQbk4xdEstZHFWeHo4ZkhiUTFMTWx3dWVQUFRzM3JxeVFVbGxUU2xuSlozMzNHMHdST0tMaDgtX2hwWm14VTMzcER5dWZwXzdwQnU2NFplVGxRbWRwN1lsamx5ZEtIVWhoS0FONnBLSWxQR0lRUWhWaTdlUjczaGs0V1luU2U1Mm95dlZvb0FuNWFnZHFvWVRwcFlpa2VNbFl3R2JPUzJoZUZCVWRtZDFoRHZLVnZDMkZQOVJMbENhV3JBcDhmT3JZZE5ROEUyNHhMUGtOeGVDd1B5VGRB0gGXAkFVX3lxTE11U0Flc3lJWlZGSEt0aUk5Zmd4R2VJSFNNRS03SDNnWGtOdXhNM0ZaVVNlX0NfUy1ObjNkYjNlcG1PY09kWEJiLXl6YmZnSC1USUlWbF9YNVhBQ2EzMDRldF9nUkRwSlFmd1E1WmpOUFZLRTNBMXNZZGNyb2NQVmQ3Z1NoVkV2WkNoU3RPdnFzbkhQZkNKSGNFUlpFcDZqQTNKMFlwWFpJWkVHbmJBSGJhbDY1WWhIallRUGFmRERJcUplT0NoOHN2Z3JfWW5lZ2pSTVN6Vkw5NEZ5NjJmY2xqSDkyOU1TbU15VjQtdnpabU1pdXpSdGNBSFFCMm84QzZNSFhDTWpWZjl1Q25GNVNOcml4SW9SOA?oc=5",
+      "date": "2026-11-16T17:58:00.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보",
+        "사회·생활"
+      ]
+    },
+    {
       "source": "sz",
       "country": "de",
       "title": "Bahnverkehr - Zugverkehr zwischen Berlin und Hannover massiv gestört - Wirtschaft - SZ.de",
@@ -243,13 +347,26 @@
       "source": "wsj",
       "country": "us",
       "title": "Major U.S. Stock Indexes Slide as Nvidia Fallout Continues to Ripple Through Markets",
-      "titleKo": "엔비디아 여파 지속에 미 주요 주가지수 하락",
+      "titleKo": "미국 증시 하락…엔비디아 악재 지속",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3NsU18tTmdONnFEdnZIZzUyb3JXVFVpQjhhQ04tcG15MFpUclFpeTVUczh3X3RmRWZ4eWQ2Tk5SbUwtVlBvaGNSQ3N6MXRYa0tSVk43alVlMFZNTGZRdnNDWHlQcUwxMjNtR3lnVU5zbkJpQkpta0R5anRiQ01rVTZhNDdqbEtsMWFnWms2ZzFHVUJLSWlZdXhlZFlIWXk0dUVOS3M2elFGOFhuRFU3bk9MOVgtMnJ6azltUGktWXdhd2lRaUZMYkp5UQ?oc=5",
       "date": "2026-11-16T17:55:00.000Z",
       "topics": [
         "AI·반도체",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "meduza",
+      "country": "ru",
+      "title": "Kremlin says the next U.S.-Russia-Ukraine peace talks will be trilateral, without Europe",
+      "titleKo": "크렘린 \"차기 미·러·우 평화협상은 유럽 배제한 3자 방식\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQUlYbW9hQXNqTHNXWVo0R3h5WHZqYnhVU1VSYnJkY2l2ODg4ZnJQYU52MHdKejJRZUpPc2JYWWh5U2t0VWZDUmFXT2ZDcXZISFYzSzhFM1c3ZGJ5bkQzbW5qVXJ4dXdlX1ZDWkhnbFlsUnQycnNpaFA5dDFHZi1rUFlHcjUwTzRYQXAzYi1HYmpsalF4b0ZxdzhwNkR5OHNKZEFfSjdYLThmT1JkbTM1M3YxWm1QOUFMMGRIT2VEWHbSAcYBQVVfeXFMTkhRYVhYQlVySWczaWFpMXJTM0FsY3pGR0tSMlJsUTVIVXYyT0JTMG1kbXNIb1hvb092RWVVRDhyUXo5R21hT0dsWDJ0ZTBMNUZPTmRuRXdJVXBUVnQ3aGhGLTREUlRtdlhMU29RYTJrU0hNY2I0UmwxcWhrRk5kTXoyQXJuOHl0eWxLVjZ4NWZ1Q18wblJkdFU5UDRyc2FLbmNiTkxXOGJ2c1VySERGdTgwdk5XQzh2SnpyQmUwRVFTM1F2OHBR?oc=5",
+      "date": "2026-11-16T17:47:00.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
       ]
     },
     {
@@ -420,6 +537,18 @@
       ]
     },
     {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Houthis show off captured US military kit",
+      "titleKo": "후티 반군, 노획한 미군 장비 공개",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjljLVYzZnFuMDBKSHdVRm1rdzdUV1NSWHRqeWFMaFJVbDNaMWZJYlNXb1FUZV82bHc3VzhHeFVSRG5KT0NYZnM5NFVOVzQtVHJzZ011SmU5c3NoTlZNUGdpM3NsZURqQXpzVHFBOHRwLXE0RjdfOFNISHVjamZhNGEtbWdzZDB5elczYmNyenBvdVh4d19z?oc=5",
+      "date": "2026-11-16T16:26:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "sz",
       "country": "de",
       "title": "MTU Aero Engines in München: Merz und Söder eröffnen Entwicklungszentrum",
@@ -441,6 +570,19 @@
       "date": "2026-11-16T16:11:26.000Z",
       "topics": [
         "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "reuters_ru",
+      "country": "ru",
+      "title": "Kremlin aide denies US assertion that Europeans will join next round of Ukraine peace talks",
+      "titleKo": "크렘린 측근 \"유럽 우크라이나 평화협상 2차 참여\" 미국 주장 부인",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY0FmVF9kSmNHVV9ZbWY3cHg5Rm41UlRaY21vMzYxRDh1ZzItZHl1UzRpRDBDRnFfMFNOdi11S2dnckdQSExYWDBBYV9MVEVWZlRnam9ET29oaHNzRzhCd2s2ZGU3NlQ3TzgyMEVyYy1CTTN6ZllCdHk1d1dTc2JwYWtMUmNwb2kwbk5uOFNGTWxySmFMQThRTUFDeU1RYy0xeS05c3BEclloYnJUcnQ0?oc=5",
+      "date": "2026-11-16T16:07:27.000Z",
+      "topics": [
+        "전쟁·휴전",
         "외교·안보"
       ]
     },
@@ -629,6 +771,20 @@
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hRFlEM2dDX1FwcnczeFZOWXRfdHduMC1ORDJGQ0NZSEFCZi1KSW9HNW9YNzJnQTV2QkRBYUg1aXFpcjFjZEdkVWwycGYxSGdnNkJCc1dlRGJPQ0E?oc=5",
       "date": "2026-11-16T14:58:12.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보",
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "meduza",
+      "country": "ru",
+      "title": "Ukrainian drone attack damages Crimea Bridge, shutting down road traffic for hours. Kremlin says damage is ‘minor.’",
+      "titleKo": "우크라이나 드론 공격에 크림대교 피해…도로 수시간 통제, 크렘린 \"피해 경미\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUlBSWkI5WHlQNXJFaFl4SHJtRHlra3JheFFnNGhhZE9jcTFURjRqZjI5NUVaSm5CdlRVOThjMmxvNkN1TEJKTGlVdzhjUjktYWNra29pMlp6UHkzTWJvSW9sS0Y4bDVneDNCMHVwdjNEbVkzZmgwZEdOdUg1dGdXRTEtREJnZVJHVm9SOFZGbDVMYmYxM1ZCRXFQdW5LZkt3SjJIYmluUDA1YTc0clVBVTdVNW5EU2RybTZCTDl2MTJib1RJekNRSXMwVEo4UHJKZVM4S2Q0QU8wSFFtODZzZlJPN0_SAeoBQVVfeXFMTmhRMUVRekhTSnFsRjV6MG1WVFAxMmxWVmdXOGFCWWllSHRCcjJlemJPWGV2bXVYRkY4a2QyV0ViM01iem9OMEd0Q3VSQ0NKNXZuY1poNjgtRDktMmgtWWRraGhhNVc4c2ZIY2xmd2x5ZnBHb0hzbjg0NnRpanZVQi1YTjBndFQycWhWVUdKcWlFU0F6b2t1dDJaLXJFcXZWaGZHMmp6ZTBMeFpxWVZQZEJnc1kxdlFQeU1mbDEzdGFJZk5iNEtmSFVYLS1nejNMZUllTXliemdDeWFIeU5KUXBGdlY1T0s1Rndn?oc=5",
+      "date": "2026-11-16T14:58:00.000Z",
       "topics": [
         "전쟁·휴전",
         "외교·안보",
@@ -2557,6 +2713,18 @@
       ]
     },
     {
+      "source": "presstv",
+      "country": "me",
+      "title": "Violating tanker catches fire after hitting mine east of Hormuz Strait: Iran Army",
+      "titleKo": "호르무즈 해협 동쪽서 기뢰 触发…위반 유조선 화재, 이란군 발표",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcVpDQVV0ZGtiYW84M284M3hmSUVFRHo1R095UEIxUHRCMV9UazRvclFfWEZwNHNHY0UzcE5Ga1otLXdyaVJBdVY0ZVNlZWZsVWJFWlhpdk94SjNWVERubFhfdHJFS1JCMWt2QTM4U21iYlZhRmhvZ0hfMXYxVmtLajByNjdzbS1BU1FSbTdDU3czQnBZYVhldGx5TzBiVHV6SVl1S1F6bmZ2U2JubEk2SndHM1BsclczeGxxMXdfTnNiS05JVndv?oc=5",
+      "date": "2026-11-16T05:08:18.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "reuters_ru",
       "country": "ru",
       "title": "Russia remains isolated after losing votes for UN telecoms agency posts",
@@ -3180,6 +3348,18 @@
         "외교·안보"
       ],
       "tr": "claude"
+    },
+    {
+      "source": "hindu",
+      "country": "in",
+      "title": "As diabetes spikes in Kashmir, the health lens turns to the fabled wazwan",
+      "titleKo": "카슈미르 당뇨병 급증…전통 연회 '와즈완' 음식에 건강 시선 집중",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMFh6V2R4MXFfVldKWnZHVl84WDZhMjg0UGt3X1JxazdOUG93cm9ha2pDSEk1eV84V3RZYUh1OW9LZ1hNU0RJdzVaamw2ZXNhaWgwYzZPMWNfOXRZQXBKRzlzNWE4NjJ0elZJQ2wwQ0hhNl91cTQ1aDFOVGZERTY2YjZLMkVsRlhrZ0UzYUh4d2NYNGxTVF92cXI4cWlxNlZEc29MRUtzYThuSldIam4tSEI4c0k3N05xS0lGQS1kTldwQ0hGZW9ZTEZiZ3ZoTHVIUHlvYTNhOThpUWJKU3hZSVJ5c9IB6gFBVV95cUxNUG91T25jUlFQbVJQTmViV1dFcHh6b1BSalJSZDlybmVUNnIxZnNLeGQzWnFjcTVpbWtpbmt1SGd6eHFEZnl4OWNDY0d3VHk2R3M2elRPRFA4ZHZwX213RUZ6OTRsOXNwanozYUVfS3ZBS0NlNXc4WXhlOFpxdXZEOE5yRVpZWWVmckhnTnd0V1JaVHRBSHVOQ3NTSVNvQ1NValVlVi1BUURkTGstNkhLb0p1bWkwS1NURGtCQ1JVbWVOREpQRGV4VDJSVERhN3RNQWVMYUI0aDh1bEZrQ0V3NENPaFdwcWRWd2c?oc=5",
+      "date": "2026-11-15T21:30:00.000Z",
+      "topics": [
+        "사회·생활"
+      ]
     },
     {
       "source": "figaro",
@@ -4144,6 +4324,19 @@
       "topics": [
         "에너지·원유",
         "정치·선거"
+      ]
+    },
+    {
+      "source": "wire",
+      "country": "in",
+      "title": "Days Before Israeli Polls, Netanyahu Invites Modi to 2027 Independence Day Event",
+      "titleKo": "이스라엘 총선 앞둔 네타냐후, 2027년 독립기념일 행사에 모디 초청",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZTXB5TnhFak1ScEhwU2V5dkxEQkltZTA1NXBqdG9laENpU2RMV1pneUR3V05uSXRpemFRNllySkFLRGlrQmtfSjRBZGQ4NUFObzNNR09LNW5QUUJ2?oc=5",
+      "date": "2026-11-15T11:59:01.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
       ]
     },
     {
@@ -6953,30 +7146,6 @@
         "산업·시장"
       ],
       "tr": "claude"
-    },
-    {
-      "source": "wsj",
-      "country": "us",
-      "title": "Lutnick Fights for His Job as Trump Aides Blame Him for Nvidia Fallout",
-      "titleKo": "러트닉, 엔비디아 파장 책임론에 자리 지키기 안간힘",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZHNjVWV4allxWlI5bV9vdHIxNUVScENRellUNHpWV2lIOGJCOU5MS2ZEbDBMS3N3LUdoUUpMcE9SOF9oMThfSVdjdEVPd3A0dDBEcmMyRXhIbGhUelRtYXBvQjZtN2JJandKa1ljeDBHT0NDU2dBMGVodU1FMF9zZGJkOU9WblptbVZDejJzWTdYandKOXc3OXMteE5kRUM0SW5GT1BQS2h2dE9XTFFKdUJDQ3gyUQ?oc=5",
-      "date": "2026-11-13T00:44:00.000Z",
-      "topics": [
-        "AI·반도체",
-        "정치·선거"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "wsj",
-      "country": "us",
-      "title": "Seniors Have Made Florida’s Southwest Coast America’s Richest Retirement Market",
-      "titleKo": "노인들은 플로리다의 남서부 해안을 미국에서 가장 부유한 은퇴 시장으로 만들었습니다.",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOelU2aHpDVm9iU0dBQm93QzNMVVpVOU91Y2tBdURDNWw4VldjYkZEZXVZX203NFhUcFZORk1zcHU2NUV5WjZ3WmhsNWpTRmQtSTdOR0UxS2FHY19pdGM3LWFraUtFUDhXYS1SdWppc3BPek1FLWNqb2pGRVpzQm1rcVJSZjVhTWE4SVVnWU5QWXhyWmRL?oc=5",
-      "date": "2026-11-13T00:01:35.000Z",
-      "topics": [
-        "산업·시장"
-      ]
     }
   ]
 }
