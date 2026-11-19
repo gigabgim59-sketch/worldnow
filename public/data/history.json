@@ -1,7 +1,44 @@
 {
-  "updated": "2026-11-19T08:45:37.824Z",
-  "count": 1010,
+  "updated": "2026-11-19T08:51:20.987Z",
+  "count": 1032,
   "items": [
+    {
+      "source": "hani",
+      "country": "kr",
+      "title": "[속보] 사상 최초 미·중·러 정상회담 개최, 트럼프-시진핑-푸틴 한자리에",
+      "titleKo": "[속보] 사상 최초 미·중·러 정상회담 개최, 트럼프-시진핑-푸틴 한자리에",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbS16VDJseVl2VlhVd1Q4R2VTOG9PMDlaX1c3MEZScG5fSXk1QWZ4NEF1NWFjYTBodmNfdGwydFlIVnVaNE9EdzZjRklOdjVyWVVKZl8yRlQ2MVFQZ1JjMlZLOVFjNEhQZ3pCVUNvbG1yUWFVNk5JLTlhcnJ0cHg2WDl3?oc=5",
+      "date": "2026-11-19T08:48:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "hankyung",
+      "country": "kr",
+      "title": "반도체의 나라…수출 1조달러 돌파",
+      "titleKo": "반도체의 나라…수출 1조달러 돌파",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KR1c1a0s5eHBvWUdtVjBTUnJXYmJ6a0F5M0FCa3QwTHFIMnpTVXVSZEdpMDgtZGJrWUdwS2ZlWE51U01lTjVVVG42Q0lkU2doZHZzY1lsbEZGZw?oc=5",
+      "date": "2026-11-19T08:45:07.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "jagran",
+      "country": "in",
+      "title": "राफेल और ऑपरेशन सिंदूर पर हिमाचल के मंत्री की विवादित टिप्पणी, BJP नेताओं ने घेरी सरकार; क्या आपका भी यही रुख?",
+      "titleKo": "라파엘·'작전 신두르' 관련 히마찰프라데시 장관 발언 논란…BJP, 정부 공세",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVUJiSUVHLU1OUVB4bmJjN0JvNTBfUVpUOFNtWEwxNjNDTW5UbjBWVUlYWkFxdlFDdk9aenBMTENNR3J5WFhvVFowOGlmY05fTEtDMTJORlV4LW55eEJWZU9vd1Y4TDRFVHdzS3ctaUU2NGFjenBuUWdnLWxkNWRrb3JVbkRSQWY4VkdIMmdQdFM5MG50VGZBMjB4TS1UN3VzVVBnMU1PVXowRFg4V25FQVBMdXItbHZxQmNfTVpMVlltUQ?oc=5",
+      "date": "2026-11-19T08:44:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
     {
       "source": "hankyung",
       "country": "kr",
@@ -220,6 +257,18 @@
       ]
     },
     {
+      "source": "reuters_kr",
+      "country": "kr",
+      "title": "South Korea's Lee says hopes reopening talks with North Korea could lead to lasting peace",
+      "titleKo": "이 대통령 \"북한과 대화 재개가 항구적 평화로 이어지길 희망\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3p1X0tCV19neWFKZTZwc21Iaks0ZFFCZk9oMzBJakpGX3FzbmJqOWppOUN5Z3I1ZlI4QTMybDNjb0VsR1VoS1RCb0ZES2ctMU05ZWxHSzlWcEtpcnVyU19heTloa3R4SmY1NXQyUHlnNXZhbEFHdzZaR0ZGQzVCYkVfSVg5a0VTMXhwY2licDVoeUVzME5oWHlma25DcGtqQXhhV093VHVtZmdlWTJHLVY3enFCQnlXa0tjZ2FMNFlvcHNVWlE?oc=5",
+      "date": "2026-11-19T07:28:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "handelsblatt",
       "country": "de",
       "title": "„So viele Schulden kann Deutschland sich nicht leisten“",
@@ -379,6 +428,19 @@
       "topics": [
         "정치·선거",
         "외교·안보"
+      ]
+    },
+    {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Handelsblatt - Nachrichten aus Finanzen, Wirtschaft und Politik",
+      "titleKo": "Handelsblatt - 금융·경제·정치 뉴스",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1zSjlyS3k1ZDNjeUpodEJTUlZwb3NhT2t5MkJiWFB4QXZnazNLVVdCZTk2dXdpM2l4UU1CNGh0V2x4elE?oc=5",
+      "date": "2026-11-19T06:49:50.000Z",
+      "topics": [
+        "경제·물가",
+        "산업·시장"
       ]
     },
     {
@@ -1232,6 +1294,19 @@
       ]
     },
     {
+      "source": "mk",
+      "country": "kr",
+      "title": "DXVX, 한미사이언스에도 특별감사 요구…“투자·자금집행 독립 검증 필요”",
+      "titleKo": "DXVX, 한미사이언스에도 특별감사 요구…“투자·자금집행 독립 검증 필요”",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0xN1BwQ191ZS1CaUpKLXc3UG92Y3RxcFh3b0ZHbmNfMVplVzg5eHQ4TkhyajQ2V2VrMnY2WkhLNUpreVQzbVVaZ2VJakt2amdsc3c?oc=5",
+      "date": "2026-11-19T00:04:36.000Z",
+      "topics": [
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Trump Ally Arranged for Russian Flag to Be Displayed on an Arch in Atlanta",
@@ -1293,6 +1368,21 @@
       ]
     },
     {
+      "source": "mk",
+      "country": "kr",
+      "title": "웨이비스, 정부 첨단산업 투자지원금 63억원 확보…국방반도체 강화",
+      "titleKo": "웨이비스, 정부 첨단산업 투자지원금 63억원 확보…국방반도체 강화",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mQWhjeWw3RTVqdjJCbGRhT3NpaC1CdnhOY2ZGOWVkWXNPSENLSjVCcnBhaThGM1VSZlROdEh4NGwybjNRYnVNZjh2dHZXZUNHdGc?oc=5",
+      "date": "2026-11-18T23:41:20.000Z",
+      "topics": [
+        "AI·반도체",
+        "정치·선거",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
@@ -1314,6 +1404,18 @@
       "date": "2026-11-18T23:29:34.000Z",
       "topics": [
         "외교·안보"
+      ]
+    },
+    {
+      "source": "mk",
+      "country": "kr",
+      "title": "하나증권 “현대글로비스, 中 자동차 수출 증가에 운반선 확대 수혜”",
+      "titleKo": "하나증권 “현대글로비스, 中 자동차 수출 증가에 운반선 확대 수혜”",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zSHh6OGdtdVhTN1VITUxaRmR3Y2VFYVI2aV9VOHdyeGpmaVdqMWhpWjg3alNsajF3NHRLdWNWQzFNVmxoRWVBYVRZdUN6RE5NUWc?oc=5",
+      "date": "2026-11-18T23:28:40.000Z",
+      "topics": [
+        "산업·시장"
       ]
     },
     {
@@ -2181,8 +2283,8 @@
       "source": "figaro",
       "country": "fr",
       "title": "Chips au bacon fumé interdites, marmelade rebaptisée : avant le sommet avec l’UE, le gouvernement britannique démonte des rumeurs",
-      "titleKo": "훈제 베이컨 칩 금지, 마멀레이드 이름 변경 : EU와의 정상 회담 전에 영국 정부는 소문을 폭로했습니다.",
-      "tr": "google",
+      "titleKo": "베이컨 훈제 칩 금지·마멀레이드 개명…영국 정부, EU 정상회담 앞두고 루머 해명",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQ2U0d09VUTNuV0t4M3JnWGlXWm5yZk9NY0w1dFZZcC1XbFhWYXhHZkk1Q25UNUtjWWFFeFZJTVA2cTRpNWRQRzRMdnBMU1Zad19rVHgtdk91enNqY3dlTkZjX3hkeDBZemNBWXJIN1pZcjZOTW5tXzFCS3NybkVrUWZSN19xWlBwekpUamZHSzNCVHZ5RUo2RmMweWgwb25QTUt6R2VvQ2JDU1dFR3VpTExxZTMyWl9uZ2xYUXU1Y1BfMVF2ZFBLNnlIa2UyZkNJQkNUWXdyUHd6V2R3R1V3YWcyOXlHNjY2RTRQM1gxMWVJMWJrZE82dXpGMzFIa1hTRGc?oc=5",
       "date": "2026-11-18T15:56:46.000Z",
       "topics": [
@@ -2372,6 +2474,22 @@
       ]
     },
     {
+      "source": "chosun",
+      "country": "kr",
+      "title": "[경제포커스] 간첩보다 못한 한국 반도체 외교",
+      "titleKo": "[경제포커스] 간첩보다 못한 한국 반도체 외교",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOd1d2dlhKRGVGVGp2WGZTREpUVjFJNkM4ajNud0h6dWxYUF9vdTFVcUxWM3pJNV96bTBnV0N3T0xQbUMwQTJaUDdiM1I0dXJtaUpvZWdJcWxvRGRQdXFpQU1rQmM5STg2bWhQNGJFdHF4UmpGeE1NWXY3b2M2VmJvWWV2aW4yT2JkVXRpeg?oc=5",
+      "date": "2026-11-18T14:38:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "경제·물가",
+        "외교·안보",
+        "산업·시장"
+      ],
+      "opinion": true
+    },
+    {
       "source": "faz",
       "country": "de",
       "title": "Merz und die Stromsteuer: Was in der langen Koalitionsnacht geschah",
@@ -2422,6 +2540,18 @@
         "정치·선거",
         "외교·안보",
         "사회·생활"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Mathias Döpfner, \"Bild\" und die Deutsche Bank: „Wir haben nichts zu verbergen!“ - wirklich? - Medien - SZ.de",
+      "titleKo": "될러프너 \"빌트\"·도이체방크 논란…\"숨길 것 없다!\"는 말, 진짜일까",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTAzSzB1a1Fyajl5bjVUTWtPT2Z5LU9FWkxQVlZxRGoydGpERVlldlQ0WDUxbndXN19SZEowOWFFa2JLQkNWQnNBRGVHblpuUHZDOUdibnlpMV9Wa0doSUpXaDJzVktRQ0dzWC1LWEh2SWpXQ24xS3Y1eVV2R0pXV2hLQzVmRi1XMmZFbzktOFhEZ3pCTm5sS3pjMk1sOXBINFdKV1pKNHBiZTgtVzU5bQ?oc=5",
+      "date": "2026-11-18T14:09:04.000Z",
+      "topics": [
+        "산업·시장"
       ]
     },
     {
@@ -3643,6 +3773,19 @@
       ]
     },
     {
+      "source": "mk",
+      "country": "kr",
+      "title": "“젠슨 황 때문에 밤잠 설칩니다”…내 반도체 ETF, 안전할까?",
+      "titleKo": "“젠슨 황 때문에 밤잠 설칩니다”…내 반도체 ETF, 안전할까?",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sYVM3ckQ5REs5UmlDdnBTZHUtRVJlYWl4eklvVURyYWtqRDlscUFKTzJIOGpRMFY3NkpPVzJiYWZCZjk4c2c5SF9ucWZ2Q2E3M0E?oc=5",
+      "date": "2026-11-18T06:56:41.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "jagran",
       "country": "in",
       "title": "ट्रंप से लेकर जापानी और ऑस्ट्रेलियाई पीएम तक... देखें मनीला दौरे में PM मोदी ने किस-किस नेता को क्या तोहफा दिया",
@@ -3715,6 +3858,19 @@
       "date": "2026-11-18T06:13:51.000Z",
       "topics": [
         "전쟁·휴전",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "mk",
+      "country": "kr",
+      "title": "반도체 호황에 충북 광공업생산 30%↑…전국 소매판매는 뒷걸음",
+      "titleKo": "반도체 호황에 충북 광공업생산 30%↑…전국 소매판매는 뒷걸음",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TanByd3Q4NUVOdlBtSjhpd2QyMDYzWFQwUGpsMTM3MlpUZWZORFU4VXpkZ2FEX3BJelQzaVBQS3ozTDhhOVlCdk93VGxwbldMZmc?oc=5",
+      "date": "2026-11-18T06:06:17.000Z",
+      "topics": [
+        "AI·반도체",
         "산업·시장"
       ]
     },
@@ -4189,6 +4345,18 @@
       "date": "2026-11-18T00:00:04.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "mk",
+      "country": "kr",
+      "title": "일본도 못 넘은 ‘수출 1조 달러’ 초읽기…가발 팔던 한국, 세계 4번째 기록",
+      "titleKo": "일본도 못 넘은 ‘수출 1조 달러’ 초읽기…가발 팔던 한국, 세계 4번째 기록",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0teDhwVS1SNjQzdlVhNjZYVk95SHhHYnc2TlNtQXMyNGtXRHlISjBtbW52X2dFdWdIWEQ3WGg3NDhjUWJ1Z3V4UzQ0ZWpqYXZjYUJ3RA?oc=5",
+      "date": "2026-11-17T23:42:23.000Z",
+      "topics": [
+        "산업·시장"
       ]
     },
     {
@@ -5893,6 +6061,18 @@
       ]
     },
     {
+      "source": "khan",
+      "country": "kr",
+      "title": "반년 만에 만난 한·일 정상…‘셔틀외교’ 공고화에 뜻 모아",
+      "titleKo": "반년 만에 만난 한·일 정상…‘셔틀외교’ 공고화에 뜻 모아",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pOVFobHRUbEJWLUNCZktaMHBVNnJIcFlXSjQ5OEdmV3U3Nmc0S2FPMkp0NTh1ZGVwaTJ5ZGpOOWNicWFVQl9sb3FkLTQzYlVmZWQ0VWJReTRsZ9IBX0FVX3lxTE9MRmduWWl1aUQwX3p5RjFkRlprRC1ISVNMQkhXRnlvUDk0SDlNTWg3eTREcHpFR2gxZEhXQW5LS0ZKLWZ3cDVmMy1MVEwzUDNmVDRNZkVCUEI1ZFNaTmlV?oc=5",
+      "date": "2026-11-17T12:12:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "haaretz",
       "country": "me",
       "title": "Analysis • How the Houthis outmaneuvered Saudi Arabia and Trump",
@@ -6415,6 +6595,18 @@
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOaGVBUmpkb2U2VzU3ZTZOYXhZSDQ0aHlHTWNvM0U2WVdYSlRTbEVIV0pGbHJKLXBhaWw5RDBHby1CTXBSWWdBd2djWTF1aFFQMWoxdlRBM2ZMX0Z2T0JKa3lnUXJKVzZUaEs1bVZncVJMcm9GWlgwZWplS0ZlYmZQM0l3RnhLb1FScFhHSk1BaEhBZUgwa2dWSDFBdTBnWTRTUUh6WGp4TWozYzJONzZzUnZDQW9GUGQwd3FzbUZvSnc3T1J6Qlk1YmF6MU1Lb1lNTE53Z0xkZXVway1yNXA0YW1UNTd2U2RsSndBVzFmdVV0RXl2blV0V0Q0U25sdlh5UHNCMnk3Y09FSjhKbFNFR2lkT1JJaWsyaVdLaExaUUVUQ2s?oc=5",
       "date": "2026-11-17T09:33:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "khan",
+      "country": "kr",
+      "title": "마닐라에서 다시 마주한 한일 정상 [현장 화보]",
+      "titleKo": "마닐라에서 다시 마주한 한일 정상 [현장 화보]",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HUjdhTUpQR0F1SFJ6RmVtLVlMSkdSd3ZfWGtpNWctMTZUYy1NbVdVSzBqcGkxZ3MxSUxjb0RMRXNRSDBmMEs3YURJNmdPOWZXa0Y2Si1pN0lud9IBX0FVX3lxTE5qQUdKLVg5c0c5TmF0Y2c2RHBnS2FXREFBaDNpRWdXalVLTTVGNnRDSzdobkgtQUhtNTNpZzBEMDBlazJEcEF2Z1NpekQ3WnlwNzVBNVdFYVZyUk9XVVBB?oc=5",
+      "date": "2026-11-17T09:26:00.000Z",
       "topics": [
         "외교·안보"
       ]
@@ -7110,6 +7302,19 @@
       ]
     },
     {
+      "source": "mk",
+      "country": "kr",
+      "title": "발빠른 드러켄밀러, 미리 반도체 다 팔고 ‘이것’ 샀다",
+      "titleKo": "발빠른 드러켄밀러, 미리 반도체 다 팔고 ‘이것’ 샀다",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nakY4Ylk5eENOS2NtbUdoYW9UVTVVNkVkSzI2X0pSSDNYbDVXSkU1anZfT2RsVng0eF9kOGFZUTY2aVpSY0NEb2pZa3lCN2p4SEFoYVFR?oc=5",
+      "date": "2026-11-17T05:27:12.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Facing Criticism, Trump Administration Says It’s Investigating Megaspeed",
@@ -7379,6 +7584,19 @@
       ]
     },
     {
+      "source": "khan",
+      "country": "kr",
+      "title": "젠슨 황 스캔들 후폭풍···미, 중국의 AI 반도체 원격 이용까지 통제",
+      "titleKo": "젠슨 황 스캔들 후폭풍···미, 중국의 AI 반도체 원격 이용까지 통제",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aVU94Ry1wV0g0MXBXZlZVcXA1cVNwM3lveWpSSkRyQ1dTdUZJOFhlY0dzRlBUcHg4X2Zaa1hsbm1jVF9fNldDbkQwam1vZV95SmVtcTFsNC0wZ9IBX0FVX3lxTE1jQXFKZE8xR1QzcE54TjB1UzQyUFJKQlBPOE95OVQ3Y19lZlBvWTQxdi02VllBMWk5QXllMkFpTW1vbW5yWDl5bVRxeVhRQjBLd0lKakFrVnlzNjZrLW80?oc=5",
+      "date": "2026-11-17T02:49:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "xinhua",
       "country": "cn",
       "title": "S. Africa seeks to expand agricultural exports to China, says minister",
@@ -7516,6 +7734,31 @@
       "date": "2026-11-17T00:47:00.000Z",
       "topics": [
         "외교·안보"
+      ]
+    },
+    {
+      "source": "khan",
+      "country": "kr",
+      "title": "“탄소 배출도 수출 장벽”···충남도, 전국 지자체 첫 전담 TF",
+      "titleKo": "“탄소 배출도 수출 장벽”···충남도, 전국 지자체 첫 전담 TF",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVeUdnZk9vVE5ILUdtMHBycEVCMkJfR1FnRWUwazNYQUl3Ui1keE12YXFHYzhNSGhBcXExTzlSTXhqSWdnQmI3ZHhsekVjSng5RzBfdTBGV2lIQdIBX0FVX3lxTE1RWDE1Q2tnQUpDUXJGYlJvOTFtVURaS0VJcklwQjl2Y2xXcHRmSjBYcWdvSkZBdGs4dTVvYXhrYWhqVmlUbS1FSURZekxxcVJFZmM2Zk5hMG03VDlaV2s0?oc=5",
+      "date": "2026-11-17T00:37:00.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "khan",
+      "country": "kr",
+      "title": "칩 수출 완화·젠슨 황 두둔한 트럼프, 엔비디아 주식 830억원어치 보유하고 있었다",
+      "titleKo": "칩 수출 완화·젠슨 황 두둔한 트럼프, 엔비디아 주식 830억원어치 보유하고 있었다",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5za2ZQeHVSOG5GZTNXUDNFODVyRlJ5VEUxZ18yaVhmNVVIbmVrRzhCRHl2VkJ1bWtHcVNoOGo1MTF5ZWxwcy1jZVNXVEYxZHRzelp6dFlaQkhCZ9IBX0FVX3lxTFB4MUVzRkplTWFaZ19QVHY0QWVUTVJiZEVDY19DRFBYVm5HWW9STENZRmVhZWgtVlpoYXI3bnZ1WFhJQk9nMFppaVRZYnl3ZXR3b1VYS2VPRkJKSmFEX1c4?oc=5",
+      "date": "2026-11-17T00:34:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
       ]
     },
     {
@@ -9777,6 +10020,19 @@
       ]
     },
     {
+      "source": "khan",
+      "country": "kr",
+      "title": "[현장 화보]마닐라에서 시작된 정상외교…이재명 대통령, 아세안·APEC 순방 돌입",
+      "titleKo": "[현장 화보]마닐라에서 시작된 정상외교…이재명 대통령, 아세안·APEC 순방 돌입",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHVnJHYWpsa1pKUWJLYVdYYWlHdklSdW5aWVc1UldiOTZiV004V0d4MmRxVkFzek9zYTgwZWY3bk1aWFdzcTRaVjlWR1F4cG53OS13OW5mVnFkUdIBX0FVX3lxTE1KWU1nM243S0lJeEZYU3lhcDdRaFZyYUlRanc0dDRxaW0tVzFTTzZrWVFPZEJIUE0wT0xWc1g1SVJBemNpWU9GQnpKN2RLdms2M3dMQkVGdFZMQWwtaUpB?oc=5",
+      "date": "2026-11-16T10:03:00.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Trump Has Eased Up on Russia, but Russia Hasn’t Eased Up on Ukraine",
@@ -10057,6 +10313,33 @@
       "topics": [
         "산업·시장",
         "사회·생활"
+      ]
+    },
+    {
+      "source": "mk",
+      "country": "kr",
+      "title": "블룸버그 “한국 반도체 생산 빠르게 늘면 내년 성장률 4% 가능”",
+      "titleKo": "블룸버그 “한국 반도체 생산 빠르게 늘면 내년 성장률 4% 가능”",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5zWDNKU0hCR2JNdGxESW1jem1pby1LM3RqV0ZrNlY5ekhCSUJYTXJSMk1kSm5Oa3BGSXp5Tks0cmNQdlB6Tk5qbzcxdE40d1ItdHBCRg?oc=5",
+      "date": "2026-11-16T08:53:23.000Z",
+      "topics": [
+        "AI·반도체",
+        "경제·물가",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "khan",
+      "country": "kr",
+      "title": "“용인 반도체 국가산단 공사 멈춰라” [현장 화보]",
+      "titleKo": "“용인 반도체 국가산단 공사 멈춰라” [현장 화보]",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5vTElVOHJFRFRZSEpYMDVwbnVtZEM1VHA4cFd5R0VyTTZIRFZEa25MTkZqd04xc1lhSERQTzlsR1JpRHFHSEFMems4N2xUZVpzeHYwb1NoQ1JTZ9IBX0FVX3lxTE13bHNxUjlHSlhyN2xrYlBKUHVULTJ4aTRnUVBWdlZfS0pYRl9MUkV1b1BJblUwSEhtemZOX21MalZWS2Q4QlZJUVdkRURVbkRPVHhySm5za2ZpYV9LZFN3?oc=5",
+      "date": "2026-11-16T08:53:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
       ]
     },
     {
