@@ -161,6 +161,34 @@
     "color": "#3a3a3a"
   },
   {
+    "id": "asahi",
+    "country": "jp",
+    "name": "朝日新聞 · 아사히신문",
+    "label": "진보·자유주의 성향",
+    "domain": "asahi.com",
+    "lang": "ja",
+    "color": "#b63835"
+  },
+  {
+    "id": "nikkei",
+    "country": "jp",
+    "name": "日本経済新聞 · 니혼게이자이신문",
+    "label": "경제 전문",
+    "domain": "nikkei.com",
+    "lang": "ja",
+    "economy": true,
+    "color": "#445347"
+  },
+  {
+    "id": "yomiuri",
+    "country": "jp",
+    "name": "読売新聞 · 요미우리신문",
+    "label": "보수 성향",
+    "domain": "yomiuri.co.jp",
+    "lang": "ja",
+    "color": "#17447c"
+  },
+  {
     "id": "wire",
     "country": "in",
     "name": "The Wire",

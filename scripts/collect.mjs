@@ -23,6 +23,7 @@ function bad(ko,orig){
   if(/[\u0400-\u04FF]/.test(orig)&&(ko.match(/[\u0400-\u04FF]/g)||[]).length>=3)return true; // 러시아 글자 남음
   if(/[\u0600-\u06FF]/.test(orig)&&(ko.match(/[\u0600-\u06FF]/g)||[]).length>=3)return true; // 아랍 글자 남음
   if(/[\u0900-\u097F]/.test(orig)&&(ko.match(/[\u0900-\u097F]/g)||[]).length>=3)return true; // 힌디 글자 남음
+  if(/[\u3040-\u30FF]/.test(orig)&&(ko.match(/[\u3040-\u30FF]/g)||[]).length>=3)return true; // 일본어 가나 남음
   return f>h*1.5&&h<10; // 라틴 글자가 한글보다 훨씬 많으면 덜 번역된 것
 }
 const script=t=>/[\u0400-\u04FF]/.test(t)?'cyr':/[\u0600-\u06FF]/.test(t)?'ara':'lat';

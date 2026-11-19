@@ -17,7 +17,11 @@
 | 독일 de | sz 진보 · handelsblatt 경제 · faz 보수 |
 | 프랑스 fr | liberation 좌파 · echos 경제 · figaro 우파 |
 | 중동 me | aljazeera 카타르 · haaretz 이스라엘 · presstv 이란 국영 · asharq 사우디·경제 |
+| 일본 jp | asahi 진보 · nikkei 경제 · yomiuri 보수 |
 | 인도 in | jagran 북인도·힌디 · hindu 남인도 · republic 친정부 · wire 비판 · et 경제 |
+
+- 일본은 2026-11-19 이후 브리핑부터 인도 바로 앞에 넣는다. 과거 브리핑은 수정하지 않는다.
+- 일본도 원문 제목(`title`, 일본어)으로 판단하고, 진영별 시각은 asahi 진보 → nikkei 경제 → yomiuri 보수 순서로 쓴다. 이슈·3줄·알아둘 만한 소식의 형식과 검증은 다른 나라와 같다.
 
 ## 어제와 비교 (먼저 할 일)
 - 쓰기 전에 `public/briefing/index.json`에서 오늘 바로 앞 날짜의 브리핑을 읽는다. 지난 7일치 브리핑의 `know`와 이슈 제목도 훑어 둔다.
@@ -64,6 +68,6 @@
    "stances":[{"source":"nyt","text":"…"}],
    "links":[{"source":"nyt","title":"…","url":"https://…"}]}]}]}
 ```
-- `countries` 순서: us, cn, uk, ru, de, fr, me, in.
+- `countries` 순서: us, cn, uk, ru, de, fr, me, jp, in.
 - `public/briefing/index.json`의 `dates` 맨 앞에 날짜를 넣는다(최신순, 최대 90개).
 - 올리기 전 `node scripts/brief-check.mjs public/briefing/YYYY-MM-DD.json` 으로 검사.
