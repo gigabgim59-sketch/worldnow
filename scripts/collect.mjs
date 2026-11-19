@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import { getFeed, translate, googleBatch, claudeBatch, numbersOk } from './news-lib.mjs';
 import { publishKorea } from './korea-review.mjs';
+import { collectBriefPhotos } from './brief-photos.mjs';
 const root=new URL('../',import.meta.url);
 const read=async p=>{try{return JSON.parse(await fs.readFile(new URL(p,root),'utf8'));}catch{return null;}};
 const write=async(p,j)=>fs.writeFile(new URL(p,root),JSON.stringify(j,null,2));
@@ -107,6 +108,8 @@ const koreaCandidates=feeds.filter(f=>f.source.country==='kr').reduce((n,f)=>n+f
 result.collector.korea={...await publishKorea(feeds,previous,read),candidates:koreaCandidates};
 result.collector.translated=feeds.reduce((n,f)=>n+f.items.filter(a=>a.titleKo).length,0);
 result.collector.byClaude=feeds.reduce((n,f)=>n+f.items.filter(a=>a.tr==='claude').length,0);
+// 아침에 선정된 사진만 무료 라이선스를 확인해 저장한다. 번역·유료 AI 호출을 추가하지 않는다.
+await collectBriefPhotos(root);
 // 문자 원고: 오늘(한국 시간) 브리핑이 있으면 바로 보낼 수 있는 문자, 없으면 빈 파일 (휴대폰 단축어가 비어 있으면 보내지 않음)
 // 카톡·문자 원고는 scripts/sms.mjs가 따로 만든다(수집이 전부 실패해도 만들어지도록).
 await write('public/data/news.json',result);await fs.writeFile(new URL('public/data/news.js',root),'window.WORLD_NEWS='+JSON.stringify(result).replace(/</g,'\\u003c')+';\n');await write('.cache/news-last-good.json',result);

@@ -182,6 +182,19 @@ details.src a b{color:var(--ink);font-weight:600}
 .bi.hit{box-shadow:0 0 0 2px var(--green)}
 .share{position:absolute;top:12px;right:12px;font-size:12px;font-weight:700;color:var(--green);border:1px solid var(--line);border-radius:99px;padding:3px 10px;background:var(--card)}
 
+
+/* 펼침형 사진: 제목을 펼칠 때만 src를 연결한다. 사진이 없으면 기존 텍스트를 유지한다. */
+.t3{background:var(--card);border:1px solid var(--line);border-radius:16px}
+.t3 .t3keys span{background:var(--soft)}
+.t3photo{margin:0 0 14px 26px;background:var(--card);border-radius:12px;overflow:hidden}
+.t3photo img{display:block;width:100%;height:auto;max-height:340px;object-fit:contain;background:var(--soft)}
+.t3photo figcaption{padding:10px 12px;font-size:12px;line-height:1.65;color:var(--sub);word-break:keep-all;overflow-wrap:anywhere}
+.t3photo .photo-kind{display:inline-block;margin-right:5px;padding:1px 6px;border-radius:4px;background:var(--soft);color:var(--green);font-weight:800}
+.t3photo .photo-credit{display:block;margin-top:4px}
+.t3photo a{text-decoration:underline;text-underline-offset:2px}
+.t3photo[hidden]{display:none}
+@media(max-width:759px){.t3photo{margin-left:0}.t3photo img{max-height:280px}.t3photo figcaption{font-size:12px}}
+
 /* 최소 수정형: 나라별 읽기 폭·제목 줄바꿈·날짜 구분. 전체 목록 구조는 유지한다. */
 .country-brief{max-width:960px;margin:0 auto}
 .bhead h2{word-break:keep-all;overflow-wrap:anywhere;line-height:1.4}
@@ -462,11 +475,22 @@ function issueView(){
 
 // ── 이슈 브리핑 ──
 const B={index:null,doc:null,date:null,err:false};
+let BRIEF_PHOTOS=null;
+async function loadBriefPhotos(){
+  if(BRIEF_PHOTOS)return;try{const r=await fetch('briefing/photos.json?t='+Date.now(),{cache:'no-store',signal:AbortSignal.timeout(5000)});if(r.ok)BRIEF_PHOTOS=await r.json();}catch{}
+}
+function briefPhoto(date,i,headline){
+ const p=BRIEF_PHOTOS?.dates?.[date]?.[i];if(!p||p.headline!==headline||!/^data\/photos\/[a-f0-9]{64}\.jpg$/.test(p.src)||!['archive','event'].includes(p.kind))return '';
+ const link=u=>{try{return new URL(u).protocol==='https:'?u:'';}catch{return '';}};const source=link(p.sourceUrl),license=link(p.licenseUrl);if(!source||!license)return '';
+ return '<figure class="t3photo"><img data-photo-src="'+esc(p.src)+'" alt="'+esc(p.caption)+'" width="'+(+p.width||640)+'" height="'+(+p.height||400)+'" decoding="async" referrerpolicy="no-referrer"><figcaption><span class="photo-kind">'+(p.kind==='archive'?'자료사진':'현장사진')+'</span>'+esc(p.caption)+'<span class="photo-credit">사진: '+esc(p.author)+' · <a href="'+esc(source)+'" target="_blank" rel="noopener noreferrer">Wikimedia Commons 원본</a> · <a href="'+esc(license)+'" target="_blank" rel="noopener noreferrer">'+esc(p.license)+'</a> · 촬영: '+esc(p.takenAt)+' · '+esc(p.changes)+'</span></figcaption></figure>';
+}
+function loadOpenPhotos(scope){scope.querySelectorAll('details.t3it[open] img[data-photo-src]').forEach(img=>{img.addEventListener('error',()=>{img.closest('figure').hidden=true;},{once:true});img.src=img.dataset.photoSrc;delete img.dataset.photoSrc;});}
 const SIDE_OF=id=>laneOf(id);
 async function loadBrief(date){
   try{
     if(!B.index){const r=await fetch('briefing/index.json?t='+Date.now(),{cache:'no-store'});B.index=r.ok?await r.json():{dates:[]};}
     const d=date||B.index.dates?.[0];if(!d){B.doc=null;renderBrief();return;}
+    await loadBriefPhotos();
     const r=await fetch('briefing/'+d+'.json?t='+Date.now(),{cache:'no-store'});B.doc=r.ok?await r.json():null;B.date=d;
   }catch{B.err=true;}
   renderBrief();
@@ -493,6 +517,7 @@ function renderBrief(){
     else h+='<section class="three t3"><div class="thead"><h3>오늘의 세계 3줄</h3><button type="button" class="t3all" aria-expanded="false"><span class="t3ic" aria-hidden="true"></span><span class="t3lb">모두 펼치기</span></button></div>'
       +D.headline.map((x,i)=>{const d=X[i]||{};return '<details class="t3it"><summary><span class="t3n">'+(i+1)+'.</span><span class="t3lead">'+SB(d)+esc(x)+'</span><span class="t3chev" aria-hidden="true"></span>'
         +'<span class="t3keys">'+(d.keys||[]).map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>'+(d.status==='cont'&&d.change?'<span class="t3chg"><b>오늘 달라진 점</b>'+esc(d.change)+'</span>':'')+'</summary>'
+        +briefPhoto(D.date,i,x)
         +(d.desc?'<p class="t3desc">'+esc(d.desc)+'</p>':'')
         +((d.items||[]).length?'<ul class="t3list">'+d.items.map(it=>'<li><em>'+esc(COUNTRIES[it.c]?.[0]||it.c)+'</em><span>'+esc(it.t)+'</span></li>').join('')+'</ul>':'')+'</details>';}).join('')+'</section>';}
   if(state.country==='all'&&Array.isArray(D.know)&&D.know.length){const w2=h.includes('<section class="three t3">');if(w2)h=h.replace('<section class="three t3">','<div class="top2"><section class="three t3">');
@@ -561,8 +586,8 @@ document.addEventListener('click',e=>{
   save();render();
 });
 // 로고·제목을 누르면 처음 화면(전체 · 이슈 브리핑 · 최신 브리핑 · 맨 위)으로
-document.addEventListener('click',e=>{const b=e.target.closest('.t3all');if(!b)return;const S=b.closest('.t3'),D=[...S.querySelectorAll('.t3it')],o=!D.every(d=>d.open);D.forEach(d=>d.open=o);t3sync(S);});
-document.addEventListener('toggle',e=>{const S=e.target.closest?.('.t3');if(S)t3sync(S);},true);
+document.addEventListener('click',e=>{const b=e.target.closest('.t3all');if(!b)return;const S=b.closest('.t3'),D=[...S.querySelectorAll('.t3it')],o=!D.every(d=>d.open);D.forEach(d=>d.open=o);if(o)loadOpenPhotos(S);t3sync(S);});
+document.addEventListener('toggle',e=>{const S=e.target.closest?.('.t3');if(S){loadOpenPhotos(S);t3sync(S);}},true);
 function t3sync(S){const D=[...S.querySelectorAll('.t3it')],o=D.length&&D.every(d=>d.open),b=S.querySelector('.t3all');if(!b)return;b.setAttribute('aria-expanded',o);b.querySelector('.t3lb').textContent=o?'모두 접기':'모두 펼치기';}
 let allY=0;
 document.addEventListener('click',e=>{const a=e.target.closest('.bjump');if(!a)return;e.preventDefault();const c=a.dataset.jc,i=a.dataset.ji;

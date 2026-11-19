@@ -1,6 +1,7 @@
 // 브리핑 JSON 검사: node scripts/brief-check.mjs public/briefing/2026-11-16.json
 import fs from 'node:fs';import assert from 'node:assert/strict';
 import { checkKoreaItem } from './korea-review.mjs';
+import { validSelection } from './brief-photos.mjs';
 const f=process.argv[2];const B=JSON.parse(fs.readFileSync(f,'utf8'));
 const S=new Map(JSON.parse(fs.readFileSync('sources.json','utf8')).map(s=>[s.id,s]));
 const ORDER=['us','cn','kr','jp','ru','uk','de','fr','me','in'];
@@ -10,7 +11,7 @@ assert(Array.isArray(B.headline)&&B.headline.length===3,'headline 3줄');
 assert.deepEqual(B.countries.map(c=>c.id),(B.date<'2026-11-19'?LEGACY_ORDER:ORDER).filter(c=>!(c==='de'&&B.date<'2026-11-17')&&!(['jp','kr'].includes(c)&&B.date<'2026-11-19')),'나라 순서'); // 독일은 2026-11-17, 일본·한국은 2026-11-19 브리핑부터
 for(const x of B.headline)assert(typeof x==='string'&&x.length<=60,'headline은 한 문장(60자 이내): '+x);
 if(B.headlineDetail){assert(Array.isArray(B.headlineDetail)&&B.headlineDetail.length===3,'headlineDetail은 headline과 같은 3개');
- for(const d of B.headlineDetail){assert(Array.isArray(d.keys)&&d.keys.length>=2&&d.keys.length<=4,'keys 2~4개');
+ for(const d of B.headlineDetail){if(d.photo)assert(validSelection(d.photo),'사진은 Commons 파일명·설명·자료/현장 구분·연관 근거 필요');assert(Array.isArray(d.keys)&&d.keys.length>=2&&d.keys.length<=4,'keys 2~4개');
   assert(d.desc&&d.desc.length<=110,'desc 한 문장(110자 이내)');
   assert(Array.isArray(d.items)&&d.items.length>=2&&d.items.length<=4,'items 2~4줄');
   for(const it of d.items){assert(ORDER.includes(it.c),'items.c는 나라 id: '+it.c);assert(it.t&&it.t.length<=40,'items.t 40자 이내: '+it.t);}}}
