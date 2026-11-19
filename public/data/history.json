@@ -1,7 +1,367 @@
 {
-  "updated": "2026-11-18T18:52:28.897Z",
-  "count": 848,
+  "updated": "2026-11-19T01:14:15.361Z",
+  "count": 883,
   "items": [
+    {
+      "source": "guardian",
+      "country": "uk",
+      "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+      "titleKo": "EU, 브렉시트 재검토 전까지 영국과 장기 관계 논의 \"문 닫아\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVExFS3BCUDZkdXVxWEh4RjRULTZUXzFRalNaZ09YdEo1NVcyNjVVUE1WUjNRSWVwYVRFQkllQW9iVTJBTXVNNnRjUXBXR0VsWFRoM1RjWTRlU1EzZzhkZjlFMG1XNHB5VkUtaDh4aExSdU5aZWd5eUR0bnZULUVMWi12VFhtRTFJQlVLek44MlMxQQ?oc=5",
+      "date": "2026-11-18T23:42:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Nach langem Warten - Computerspiel GTA 6 ist in Deutschland verfügbar - Wirtschaft - SZ.de",
+      "titleKo": "오랜 기다림 끝에…게임 'GTA 6' 독일서 출시",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcERua2VyR1ZuaXNxX1RXSGxDVlZMcEFWMUFwRXI1cTl6Qmg0UUttS1hrMWNBWko4VmE4WjI1bGlzVnBxN2lyUlAwUmptZjlTWjA0d0JEdUNyOEw0VVY1dVdhbGgwYXcwOEkxQzd3aEdTeEZ2V0pNbG5GTFAybXlxbjVWcGE4Y2xzTms3WmNWcHFuVmpjbmVmTzN6UjhwMmg3T0FjSHFtaUZyTzE3bUlyQlktbUcyaHF2OFR0VGRrWDNNc1ItX0lWa3dYWDNCcm5Xd3BwdDljUEY4ZjNEaWRTS1FwbzN3ZzJ6bDFBag?oc=5",
+      "date": "2026-11-18T23:41:51.000Z",
+      "topics": [
+        "경제·물가"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Trump, Xi and Putin Will Sit Down for the First Time. It Won’t Be Like Yalta.",
+      "titleKo": "트럼프·시진핑·푸틴, 첫 회동…얄타 회담과는 다를 것",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGRTdlhWbkxzY1hHZWw0alBsRDFueVFJYW1tRTV0amhUSFVHd1lxTXFQaGxteXZHdTV2WXdrMDMwd01rSHJyREVZNmJsNXlUdXJDdVExUkVpSkp6S3hyNEdGN0lCaTVIMUlXZEl6dE12Nk9hd18wRlRmVXBZNmh3NzdhdHZSQQ?oc=5",
+      "date": "2026-11-18T23:35:48.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "fox",
+      "country": "us",
+      "title": "Irish activist indicted in US over alleged destruction of $60M military plane",
+      "titleKo": "미국서 6천만 달러 군용기 파괴 혐의로 아일랜드 활동가 기소",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVdidlk4UzRrUnZkUXd5M3RjYmlsU1Z1SmpEQTgxX2pFempQQkhGdmY5U2JueVV6X1RGVjZqemFKZF9zQTM1eGtiOUk2VjRiaE9Pa3pBMTV3ZnhBOWdWTm9sOWZaSlhmSlVLMmtFVXQ3M0pHZHdlQTJrUjRTak5Kb2lPZmZOcktTRVd0OExmMWRjUGUwUGx3VFBQRdIBoAFBVV95cUxPVnV2U2wtak9rNEIyZV91ZnBNT0VrNmtpS0g2U25FUWRSQktQZ2F6YWJvbDl3YkpWQmtCSFVoeXNubDJXTDZtT2R6VDczQ052am9UQWNvVGxQd3I3ZjZNQnAyVmNDMUZYYmpDbWtNUVUzM3JPY3ZKdkttcTcxNGJkQ1MtYmdDNEc1c1ZjZ3FTR2JQRVF3QzVlSXc4UlNkQnV3?oc=5",
+      "date": "2026-11-18T23:29:34.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "bbc_ru",
+      "country": "ru",
+      "title": "Russian man accused of spying on US tech defence company that assists Ukraine",
+      "titleKo": "우크라 지원 미국 방산기업 기술 간첩 혐의로 러시아인 체포",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZjZlY3VELXUxODkxQzhsTGJETERuYngtaUNOREdIUzVZRllMcXc2MlVYMVU0LUlqX2ZqOU04TVRHdjZ3b01kN19GZVhmS2J2N240ZWc4bk14Skk?oc=5",
+      "date": "2026-11-18T23:28:03.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Banken: Bundesregierung und Unicredit einigen sich bei Commerzbank-Übernahme",
+      "titleKo": "독일 정부, 유니크레디트의 코메르츠방크 인수에 합의",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU3lEQURTenZBY2pIMVpxRlpFOERiQmxpZk1qNlBSU05lQVV3S1ZXcjVrQjVHRnQybjFMVmZwZlRneVQ1UFZoNkVheVlSQWw4MGdYTGoxZjh1Tm81b3RUSk9FczdaakNWby1jdjVmZWxETkhGWkhzaWNWVGhxcGNUODlpSWJFNm5pZHdVczc2bGVkYXQ1YnU4YWRjdlZKTGNxNzdKSFQwMEwtUElFeFQzVmZZRlN4QjNHZkZMRTk3dDFRSEFZQUtIVXp4OGotTU5rODJrOUpsNzJxRXNSZHhhSXZfa0dsM2w1ZWRpekUtVQ?oc=5",
+      "date": "2026-11-18T23:15:23.000Z",
+      "topics": [
+        "정치·선거",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Trump Weighs New Strikes on Iran as Israel Presses for Action, Officials Say",
+      "titleKo": "트럼프, 이스라엘 압박 속 이란 추가 공습 검토 중이라고 관리들 전해",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TOTFWdU93OVF0V1d3QTZ4elZ2SHRiV0RzRmxjM3J2aTZuR3RyNlRWVmN2akRqUTcxVGpRM1dOZmFrelB4cGw3eWRha2F5TmI5SXpRdDFUZEwta3VSTUxQOTd3NGhGVnY1VUlnaWdVazFLVGhpUmlBck9xSmVzdw?oc=5",
+      "date": "2026-11-18T23:13:04.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Trump, Putin and Xi to Meet for the First Time",
+      "titleKo": "트럼프·푸틴·시진핑, 사상 처음 한자리에서 회동",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE11RmJJY25BNERwcFNvQ0pBcXJlbmUyTDY1a0FMN09sUTBnZXFRUlF5UHZYWDdPcWdEc1JHMFNSYlBRVlRkQ0RiT3JjYzNtOFJjV25HNFA5dEk5T3JIa1YwOWZwN19XZ3lBTVVCeFdlcWJ4Y0pnNXZhTUE1RQ?oc=5",
+      "date": "2026-11-18T22:42:26.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Kritik an Bundesregierung - Kretschmer rügt Koalition: nicht das optimale Handwerkszeug - Politik - SZ.de",
+      "titleKo": "크레치머 \"연방정부 비판\"…\"최적의 수단 아니다\" 연정 질타",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQNlo4c3o2ejZoUXNULWlCMlBaNXI4dFF2a0dYTHdOcUtyX3VnZE5FSjhPQVBuSzcwYlZMM0ZZLTJPLWtvdHBIVnRSZHVkSzUwRllGNk1YNVJGYXpjUXIzcjdwWXFraTVVd1M1dkRqVXVBejFiMHhuOUtGR1VScHU4V0QxWkM2RUQxU3FqNldROEJrYURrbnh6S1ZEWU1ZN1p1YkEtbEIzeEdsaHZwNVRFTTVRaU1xeS1qdXBCdE5hUG5nRGVOa3RRNVVLQU9seGZwcGNPVTVDU1pWenk4VVpiU0NrZHlwWmxSQTlsODZFYVZLa3J3bUwxcU9zZ2xEUUU?oc=5",
+      "date": "2026-11-18T22:37:44.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Judge Extends Block on Building Trump’s Triumphal Arch",
+      "titleKo": "판사, 트럼프 개선문 건설 금지 조치 연장",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1WjZqMTlSaWoyZE54RzVLbFdGdW9FMW9NYmxHS24wNU5iLWtsQWo5MjB5SnN1eGYtY2ZYSmxtMkt6YUJhOG0zdlFCdk5qbmpwbmNIWFMyb1pvamlnN3AtMmpISkhKblVfQ0djYlVCS2JrRFRpbldnSklQbDVxTm8?oc=5",
+      "date": "2026-11-18T22:34:26.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "wsj",
+      "country": "us",
+      "title": "U.S. Stocks Mixed, Nvidia Down Again Ahead of Anthropic IPO",
+      "titleKo": "미국 증시 혼조, 앤트로픽 기업공개(IPO)를 앞두고 엔비디아 또 하락",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXo2WlZpcTltVUpERGFLMVFlbzk3NkhYcVJsSGFCRk1ZeEV3eTBTa2ZhbEx5dHVpZTAxTFFXc1o1Mzc2WHJ1cHFFZWFGVS1GUGxyaGJfOU9KdHF3ZWxaQmZHTWh6bDB0N0JUOVNpbzdpTDZRWGZnY2p0d3lEcXVJcERPZEVwM01QdUdLRWkwN0M2YnNzMk1QbjdlckU?oc=5",
+      "date": "2026-11-18T22:14:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Opinion | Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.",
+      "titleKo": "[칼럼] 트럼프가 2025년 '실종'시킨 이들을 찾아보니…감금되고 굶주려",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbTU2T3VkclJPaEM4OTBRT1ZIYUNoWm5xZG1iOTFsTUVpM3RwV180dXJ1Ym1uVEhEU0F6czRndTJHZnJxSDhob0Y4X1Fjei1RSi1xYkM5RHduMUFXWWhvUG10Wi12RExDX01iOThJM3QyOHRrSGtIQ09JVEJlbkZuR1hJNA?oc=5",
+      "date": "2026-11-18T22:00:20.000Z",
+      "topics": [
+        "정치·선거"
+      ],
+      "opinion": true
+    },
+    {
+      "source": "meduza",
+      "country": "ru",
+      "title": "U.S. warns Russia it should make peace with Ukraine now, while Trump still has room to negotiate, The Kyiv Independent reports",
+      "titleKo": "미국, 트럼프가 협상 여지 있을 때 러시아에 우크라이나와 평화 맺으라고 경고 - 키이우 인디펜던트 보도",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSjVqZ2VKdVM2OVpnbVI2a0ZxRkktdWtDTnhxUUt3czZPZGhKLTZzRVVNbUZqbVR0TFBDT1JuVXRERFV6MTRCT0NCZHJOLTlfaU5IcEgtVWFvOTBGSmdVdzN4NWhvOXdaMWRjQVY5dlNhcmZ5TjVCWkVWVnBiNDMzbDd1amZKS0NPSmZoemZpOEg2blRMWkRZZVB5cWxWeVFNVG05TXRhSkFyMkEyaWNXSERpVVBvYVFweF9TOWJNWTdXRlNNbWpIWUFkN05Oc0hxajZESEhVR2tPRUFtbGxpb3A4NFkyMU15MU5NT2ZYMldBQdIB9wFBVV95cUxPQUxBeHZiSEpVR3lNNGtSRzVra3BPblJ2TnR1OUg5bHNvQlNRbUU3TmxaNy10ekFUb2ptUVJyLWJONFk3QmNscVZaMlhMN2VXa010X2w3VG5NdHcwLUozZ2d4VVhjbnM0MVFIalZPNkRIWXRFMHJ0ekYxZ0FGY0JTdXBzc1BYdzY1TjNMM1pMdXoyM1EyN09nbkpuOGZ2cC1YYUN3S2hrZmVsazZSVnoyR09kdDNwTXlGOEV4c25ya2tjLXd6Sl9jYXlzcDVPWHZjcGVraXZ1b1dpckg3cE9DM2Z4YjdoUDlHV2lsTE9JYVE2T2F0dzFv?oc=5",
+      "date": "2026-11-18T21:38:00.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "fox",
+      "country": "us",
+      "title": "US races to build bunkers across Middle East as Iranian strikes threaten American troops",
+      "titleKo": "이란 공격 위협에 미국, 중동 곳곳에 벙커 건설 서둘러",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjJ5SHZaQmlaT2pXTUJnOEthSTZMemUxdnU0RjJoWG9RSE1RNmFoQnBJcHdfSFZBV2l2TkZSTzZQdzZueTgyeVpCN3hBTVV4eTg2ZTBONTV4TnplVkdwNE04RE92VDFFamZiMm9VSTFLUDdpZWZJQ3FuUzhxSjdDSUZwcWFCMGpmOXBGTWdfQ0lkdlJ1XzhjRmJEdzFpcS1OWW0tOEJlcHVWWDJtZWtKUE530gG3AUFVX3lxTE5pcXVLdldDUnlRUTRfSHptaXNmc2F3aFBneG1zTG16OVpReFliWW1iOTc2dFRWSFN3dkQzTS1iLWNGWGdEVzhrWG9TWjZwU1NrNjJPdXA3bFMwT3ZYd25FQW1yWF96SFZsUC0xTi1wa19OV29iYnFaQ1hQc3NrYnFjQVZMemxwR2dDZmpCYnVKWkMxLXBVbWg0THRudk41MGpVUk1UZHJOaGZuMC0wZnVNT2hLUURYcw?oc=5",
+      "date": "2026-11-18T21:18:28.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "fox",
+      "country": "us",
+      "title": "Kim Jong Un's nuclear buildup sparks 'serious concern' ahead of Trump-Xi-Putin summit",
+      "titleKo": "김정은 핵무력 증강에 \"심각한 우려\"…트럼프-시진핑-푸틴 정상회담 앞둬",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlB3eGtraUx0MGplTnYxUDNVX1gtUE8zbW1BeGpIdnV2anhRWXhkeERReXhYal9RWXNtaHM4SmRBMFp3cEhLRzZOSWRZc0d0MDFmUTJYM0FIaGI2bDlLOEhZeldMSEJGcjluUTJlamRaYVRNWUFwOGlXRWplVFE4SFo2dzYtTDdfNHR2SjZrbS1iZmo4ZzBzZnVSNFJvbEJHZll3WNIBqgFBVV95cUxPNXd4RFljOUxKdTAwNFF3alRsZDlwSkpKQnFCdEdoVF9JeVdfWURhSDRsREJVbmtoY0xwejhnZy0wMEs2MzBWY2huVG5rNlhLcDdrcVZibzd5UldpNE9ndlNZYjh5NEN2WF95YkxrRzdpdlZRa2xUQjBTQnY3VmFuZ3dwQXlpVHlFNDhZVXZjZVFXeDJuSkFxUWM1bi1IN25FTEp5YjhzRmFodw?oc=5",
+      "date": "2026-11-18T21:07:34.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "bbc_cn",
+      "country": "cn",
+      "title": "Newshour | Donald Trump arrives in China",
+      "titleKo": "[뉴스아워] 도널드 트럼프, 중국 도착",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lZEpqRFVERDR3NV9pNnJlQmFUV19nVWk1YUpubjk3VFNHMlNlRXd1OUppNTlRSjd1OTAxM180TFdSLUpNZ2NhbWVLSlJuSUdvRVV6SUpXTkpMZw?oc=5",
+      "date": "2026-11-18T21:06:00.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
+      "titleKo": "민주당 하원의원들, 트럼프 조사 대비해 광범위한 대상 검토",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlJQTWo5ek5SZGlUalR6SFI1U3JNeTI3RVNkOVQydjZUcjM1YWc1cEhEUWtROHB6OEk2c3pNUkNhUTEzQU1iYXFFd3BMZl9MS2JFVmM0Rlk1cXo0UEl3Z3U5V2drZDEyVHhWMmh3aXVzRXhSSzc5TFppZTRxT2tJNFVFM2lkdDN2bUNSU3BvYWM?oc=5",
+      "date": "2026-11-18T21:03:47.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "bbc_ru",
+      "country": "ru",
+      "title": "Prince Harry, after Ukraine trip, warns on threat from Russia",
+      "titleKo": "해리 왕자, 우크라이나 방문 후 러시아 위협 경고",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHMUJiQ0F5Vm1Fc3A4ZW04TUJSRG9yLW1CdWRxOVRsN2NGU2JoajN0aTljaG13OUlVU0Q3Ul9DeWF6ay1IcEVWc01PR0o5eU5Qd0xVN0lYcFRoY00?oc=5",
+      "date": "2026-11-18T20:55:15.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "figaro",
+      "country": "fr",
+      "title": "Le «bouclier de sécurité» de la Région Île-de-France invalidé par la justice",
+      "titleKo": "프랑스 이르드프랑스 지역 '안전 방패' 정책, 법원서 무효 판결",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM01pb19sdEpSTjhyRXJxM1NFa3ppZmRWVEcyRzhfRnVkeWdKMHJFcWZwQXFmZGJtQnNjTWI3WVZPbmZybm12NUgtd0NRMTRKbU1Qc09iVmV6UGNqSFpuNzdYd0o4RWozVXozclQtNnRDQVp4WmctTzdfWFR4ZUw2SUdYdFBpZjNOYkc1QjFrb21CbHg3M3VubnktY3ExYk5pMGNHWks2Y0tHU0d1NFVTb3JKNDZQNUxxcldqYUI4MXNuTlljYW1scjlfbXFYSkFpX2VWc1FFY0tGUmUwSFNUZlUzSk0?oc=5",
+      "date": "2026-11-18T20:51:11.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "guardian",
+      "country": "uk",
+      "title": "UK ministers reportedly ask Google to block Russell Brand’s YouTube account",
+      "titleKo": "영국 장관들, 구글에 러셀 브랜드 유튜브 계정 차단 요청 보도",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0NDVHN1NGxCSTdZX0VUNVdHX011aGRENlJ1SHpncE85RjRFQnBYSk5xcG53WmQzdnVBWG9tUkRwU0p2YnJMRy13ZDRhbnRhYThGbmd0VjlKTnhXUmxxUFBIWjZEMEc4Ul9vQjNOZ1VsMFVYcFdkOWJLR1FzeXc0NktUc3NfZ1V6SHBoMGQ0TGxLUVZ3LWZ0U1k0NHJ2aDBR?oc=5",
+      "date": "2026-11-18T20:39:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Pentagon chief walks out of Nato talks after admonishing Ukraine",
+      "titleKo": "헤그세스 국방장관, 우크라이나 질책 후 나토 회의 중 퇴장",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcllXVC1ZbFZSTkJDZVhJVk5IY01MQWdqYmVwV3ZoX3lveE82V240Y2RxMldaaVdENkR4Um5qVEdKUGU4WUFUYXdMdjBWbjMwSTlBamwtUTRhQjR1QzVuU0k5alBHZzJ3d3NqN2I2ZHJ2dFpGZGtGdmhVNkJFOWFRYmVRTnFzTTkzWXRObWp2TkpxUENfSkNUV19QcjN5cU9yWEJlbVlCQzllbWZwZEE?oc=5",
+      "date": "2026-11-18T20:38:00.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "jagran",
+      "country": "in",
+      "title": "अमेरिका में बोले राहुल गांधी- 'भारत गंभीर आर्थिक संकट की कगार पर, देश में भारी बेरोजगारी'; भाजपा का तीखा पलटवार",
+      "titleKo": "라훌 간디, 미국에서 \"인도 심각한 경제위기 직전, 대규모 실업\" 주장…인도국민당 강력 반박",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR21Qc0stM3RIb3NaRDlrNDZWazN1Yy10Nm0zY1VjUWFSSmxBWWozdmwzZEJIeWdfQ1B2bmxWRE40aXJKTnNYUFlPRVpJckcyaU5aWFpidnlzNzFwOFZ4akctRzZtTkVGQjJuRVpLaTNvNlR3UnVXN1JsQlg4V0g2TTNTSzhfb0FHR25xLVU5UlB2U1BFWlB5cU9SSGdVSXRmdUpJczV0Wm1lemhhaEZPTEtVWVNXalNYbjJIM0ZjbnA2bjFjX2c?oc=5",
+      "date": "2026-11-18T20:30:00.000Z",
+      "topics": [
+        "정치·선거",
+        "경제·물가"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "New Members Get a Congress Crash Course With Grade School Vibes",
+      "titleKo": "신임 의원들, 초등학교 수준 분위기 속 의회 속성 교육 받아",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aQXlJQlFQQi1ORzBHMy1iczNxNnA0X1VRMVYySl82ZEYtaHB1dnJvY0VSR24zVm03RFlyQjM2bGNpQ3N3TlhZeGluZGZlRW9OVTRTa2RBVGt6cU9XV2NiQzNjNTdEMV9xbWFJUjRTR29JbnZQLXdBU1NTSmo?oc=5",
+      "date": "2026-11-18T20:04:41.000Z",
+      "topics": [
+        "정치·선거",
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "meduza",
+      "country": "ru",
+      "title": "Ukraine hit the Crimean Bridge with Ruta missiles from a firm Russian-born Mikhail Kokorich founded in Switzerland after the U.S. barred him from his own startup’s technology",
+      "titleKo": "우크라, 미국이 기술 사용을 막은 창업자 미하일 코코리흐가 스위스에 세운 기업의 루타 미사일로 크림대교 타격",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQWFPOGtNY2tCQXEwOC0waFVJY3pYdUdKZ0pIcGxjNzhINmtWREFWZ3RmTUJXaUNkWjh4b0xCZFpMRE5Ua2E2S2NyNm95azZhM1ZObjhJX0I1bWFfTTQ5WENsVHhENGszemJ2aUE1VWpNdkU3MTZucEd1ckFmQ0NBaWtBNzFmcm1wQUN5eTlwU2NNOWtPcW50U0ZobGxxNmlwSGlhQkt4RFRKXzRWQ2tVemVSQlRFb3k4Z3EyMzBqVnhNeFFQNFl2cDZkRXJBV0VCSVJmY0RCRC1PLU8xNXFUUUdIR1hLV1JPbFNmLVlmVlBCdUVxb3NaY1ZUNjRhOUZKUVZiSmlQRDJvdHdwWS1mQTZ5cElZbGZkVi1pNjUtQVRKNXZ3UHJEQlVpZkZURUhqRWJFYjRoSDXSAb4CQVVfeXFMT2ZqV21DdDAzR0U4NFhPUEdwNU5PYndFM3c1dHBNd3cxZlcyTWZkRmFnTGNsbzNuVEdUTFNWWTRHS0FHUmxTREppRDM2WGszMWZjVzdvUDlWM2Z1MzljUmhUZE1sUHgxZ2V0bDV2MWU2ZjE5blJaeV81OEpBZVVKeUlSN190cVR5SjRLQXpNUzh2VFpGNlRNODFFQWdEamdaU0NMclhfUUlwdUJKeloyWmcybHBqNnB2UVlWakxmRnAzTFYyR2lFZ3Q1bDBkbEtDOEZVYVB2R0o2RnZWODMzMGZVR1NSaGZjRmhlSDBjR2pvTmxDWHRqaFlyV2J6bnlISHNQUVVmeFh5dk1EVm5aR25OYk54SHRhb1dYUFBvUE5BQ1JUNXExNzI5NzV4cjVEMUhqbnZXYUpjMXQ0Ql9R?oc=5",
+      "date": "2026-11-18T19:48:00.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보",
+        "산업·시장",
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "hindu",
+      "country": "in",
+      "title": "PM Modi meets Prince and Princess of Wales, discusses boosting U.K.-India ties",
+      "titleKo": "모디 총리, 웨일스 왕세자·왕세자빈 면담…영국-인도 관계 강화 논의",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbWZqV2ViRWNJZzdrUlFMZ09FX1BJamwxUms0T0loUXlocXFnM09icDQ3RnB0VTdtVm1uVXp6TFZSdmI2YWRsZkItTVpyWDRTNC1zUi1fUXNiVjJEYlkzZy1xR09FQm1jcVdjMFQ1R2k1c3VIa05HbkpqeGRCTjZMYkdRWTlfRGtDSnJvOFQ4cDRyNlU2N0NyN0JyMWlmMnZ2VlFjMlFDT3JWVzN4SGxLdEJ5QmFxSEttWGdXNktrTEZLVlR3WWNyU0F0bXdvek3SAdYBQVVfeXFMUHNSRkZnZHVfWnZKVEV4dTlYMzlYLVlvWVdfLUs1dVg0Rkl4MEFERm95NjZWcTNNM2VkTEtsclNXWFd6WV9SUXM4MUg2RnBFbThmT3dqcmZYLVplalRRUzJDOEpQb3o1Tk00Rld5aThVUGxpUmRHZlZtZXc3VUljd3hnMjBHRXJ1NTBmYXA1TGZWYlROd05jVmpJSkdsOFJyV0dkRjlIQmYxSE4zeUIzSjdqMS1zVzhMd1lzZ2RRMDNXeWIzanNzYzEzaThjeWdfdl9SbVk2dw?oc=5",
+      "date": "2026-11-18T19:21:24.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "ft",
+      "country": "uk",
+      "title": "BAE set to cut more than 1,000 jobs",
+      "titleKo": "BAE시스템즈, 1000명 넘게 감원 예정",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdklkWUkySVFzd2RoNWxuMFlZSDRleDVReXBXRV9rUlZRdVU1VVBGOHdpTzhfUmJWMy1QTXdlLVc1MEhycDdna1JYazRxSXpsd1JVTE9kNzdxUTE1MmZYc0hGaEM1aVUzenEwSU5GVWNSYWxxMUdMNURqRXJzMWRKTGc1WTk?oc=5",
+      "date": "2026-11-18T18:43:39.000Z",
+      "topics": [
+        "경제·물가"
+      ]
+    },
+    {
+      "source": "fox",
+      "country": "us",
+      "title": "Russian national accused of surveilling US tech company",
+      "titleKo": "러시아 국적자, 미국 기술기업 감시 혐의로 기소",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWljVHpQSWxuNE1iUWgtSHNVZ3hncEVXYlRjTHY3R3Q2VjRFTU1sWFpUcTlfWVpxSzFGaTdrNWJmRnhZY3V5bVk4U0FhMkdpRnlPUWVWY29HOHdkQmVCMU9oT0hMcVd0MVdQMWNRdTFodEVGajdiOTZjWDluR1lUT1hpa2lzQQ?oc=5",
+      "date": "2026-11-18T18:41:32.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "fox",
+      "country": "us",
+      "title": "Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China",
+      "titleKo": "우크라이나, 푸틴·트럼프 중국 회담 앞두고 러시아 남부 대형 정유시설 타격",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkpOdlB0QTkxRnY2WXJ5bmJsYkJ0OUc2UFcyb1JfVFFvOEM4QzYxT193My1DeWoyeGlscHNwelNJMlRkdHI0YzZXTXNxM1Z5NE95NDRaZnB2VUNwcVB2Y1F5ckdycDBOTU1mN0t2QVk3WDVTTm9zdzVkZmFydlFfRE5zWEhlWnpMUGtpMzYyUEtPY3oyTFdRbTlycExMUFhmU3VvUDZUSWg5QTZpNk5CNmdVYWVkWWo0WkJlZdIBwgFBVV95cUxPUFNsZzRZREVadllKd1pfdUpheVkxNXpwYWdWZDJmblZpYTllanhhSjUteDRBTml5Ym9FSHJUb2lhUmRPMy1QbUYtcGFIOTBXSkJXcjhXcW81bHl3Zk0xb2o2aEcxM3pHUEE5MnM1bnZJNURqM3M0N0NGUm0xSy00VlFOYkE5U0o4cEU4YUx3bnZqUzR2STZMb3M0QkhiTHpwWmU0UFhqNGxYWjJwaXhKTUVrMloyU2RVSXJYQk9ldllHZw?oc=5",
+      "date": "2026-11-18T18:32:36.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "에너지·원유",
+        "정치·선거",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
     {
       "source": "faz",
       "country": "de",
@@ -29,6 +389,45 @@
       ]
     },
     {
+      "source": "fox",
+      "country": "us",
+      "title": "SOUND OFF: Trump face to face with Putin in China",
+      "titleKo": "여론 대립: 트럼프, 중국에서 푸틴과 대면",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhdG43RW15TWZjQzc1MVZMMHh6cVpXaEptVW5zOEJFNmRzcC15cjY2ZXd4RTJHQ2V6WXQwOEU3dnNDcXczQ2l1LW5VRlBSV0dDRFhNRGdHSUpkbDE3Z2d5TnZJY0ZxdVFldDR5RlRERU9aeTVVaHlqUmxR0gF_QVVfeXFMT0ZpM2w4WWpHYVRPZFBQUTUwU1R2SjdPcmFqSm5sZjhwWkdMWFpOaU9MNFM0Zk00VDNNMjk2U01qaXlzTFVhd2ZwaVcydTN0d3ZNZ21iUXRDNWVwN2pGbjhwNVE1dmpTSk5tcE5GY19pNUg2VHpHSTEta3RqV1lqbw?oc=5",
+      "date": "2026-11-18T18:22:10.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "guardian",
+      "country": "uk",
+      "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+      "titleKo": "전 보수당 의원 영입 금지…지아 유수프 \"리폼 UK 이민정책 좌우 못 해\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2RMOFRBN0dHdTB0aTJKOXA5M21kUzJ5eUhrYkFFeC1QaVlWYzBDai1uTUU5NEpjUzJha1VmRDJZN3JtRm05eGFDZU83TEhpRTdyTDZ3WG5KWktjX29adGRtWmtza0tCVTc5T1FZcl9BckZiUUtFdkl6dXR5SE9XbGhlTmtEcWVodzdGdmxONnNPajVhbTJXbXlQV1dqdl9SdHIzbXI5WUVMYWFtbGprQjNEN0twLXUwanlYZlIxTGFrZzVVNFE?oc=5",
+      "date": "2026-11-18T18:22:00.000Z",
+      "topics": [
+        "이민·국경",
+        "정치·선거",
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "tass",
+      "country": "ru",
+      "title": "Willingness to talk, Putin Mr. Popular at reception: Kremlin aide’s comment",
+      "titleKo": "대화 의지에 푸틴 인기 만점…크렘린 측근 발언",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5SS184Z0FjdFk4WGQ2dklRR1hRd3dCVlMtVGczNFpCVXhOQ2NjcHktN01VWENKa2dGRXpudmd3TVNkSkdXb0V2adIBTkFVX3lxTE5hd0IyajhPYTJFWUdYYXZVNXAtc0twRE94ZVRPaHRhLVh1eG9oTDhSTkdKdDNJTFdDV2s4SHFfanJDTjlFRkMzTVZ6d0Nudw?oc=5",
+      "date": "2026-11-18T18:21:23.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "jagran",
       "country": "in",
       "title": "पीएम मोदी से मिले प्रिंस विलियम और केट मिडलटन, 'इंडिया-यूके विजन 2035' और रणनीतिक साझेदारी पर हुई चर्चा",
@@ -38,6 +437,19 @@
       "date": "2026-11-18T18:19:00.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "wsj",
+      "country": "us",
+      "title": "U.S. Crude Oil Stockpiles Rise for Second Straight Week",
+      "titleKo": "미국 원유 재고 2주 연속 증가",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQb092MEEzczMxZ19aRDJsQ2ZXblpzUEVNaHhGa1ZmRXFMRWpBYk00bC1pajFhLW9wblJqSF9URHRHZUd3NHg5aEdUSm9WbmJONjBvX2lpTmNXbjhIYmpLWkNKZFNIYjJjamNhY0YzUzlwMThvRHgwN2VEalJ3eXJIU3RpWVZZeFA1ZDUtU0tQSGRKWHRkS3d6WW83RGQ1YjFEMDBncnJ3?oc=5",
+      "date": "2026-11-18T18:18:00.000Z",
+      "topics": [
+        "에너지·원유",
+        "산업·시장"
       ]
     },
     {
@@ -121,8 +533,8 @@
       "source": "faz",
       "country": "de",
       "title": "Neuer Ukraine-Kredit: EU-Kommission folgt Merz' Vorstoß",
-      "titleKo": "새로운 우크라이나 대출: EU 위원회는 Merz의 이니셔티브를 따릅니다.",
-      "tr": "google",
+      "titleKo": "EU 집행위, 메르츠 총리 제안 따라 우크라이나 신규 대출 추진",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWRkUnJ2NUd0NFdBc3plSlQ2NDZJNnNMc19jbEV6Q3RNRXNxSDJYVmhxTXpJUlVrZFFaS0ptbmpBM2M2T0JaQlBaQjZOeVRCeGFUd0N3ZmJWb2Fvbm5zbDhOdkMwQkZJSmVaNDFJVGh6dVlTaDdiMmRmSDZUMVkzNnJ5V3ZDZFhKOEZ1NkNVNURLcjVKek9NYmZPZl9uYU1zT3lad0NsaVJkcS1veXFPcnV0WQ?oc=5",
       "date": "2026-11-18T17:23:08.000Z",
       "topics": [
@@ -160,7 +572,7 @@
       "source": "wsj",
       "country": "us",
       "title": "U.S. Stocks Slip After Nvidia Earnings Fail to Soothe Nerves",
-      "titleKo": "엔비디아 실적 발표에도 불안 가시지 않아…미 증시 하락",
+      "titleKo": "뉴욕증시 엔비디아 실적에도 불안 완화 못 해 대체로 하락",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeVFyOU5ZTWtBVzZob0FxRUQxME5TdllYbHgxNDVsTTZYaDBQMkNnU0x6czdEaUtlemhyQXJWVHk3cURHeWJ5NXRncmtubDZtZnNvTG5ac1E0Vm1YS0o3OWRrRm5GNi1wOEFwallTZmhyaHBqX0Z2MG80S3gzb3ViQnhZTWgxSmlkRHFTa09NNXA5MHhGVzYtQ28yVVRIdzVyZ2RJYTJ4cldqZms3dFg1ekplQUp1QQ?oc=5",
       "date": "2026-11-18T17:16:00.000Z",
@@ -248,6 +660,30 @@
       ]
     },
     {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "EU to tell Burnham: No more deals without joining single market",
+      "titleKo": "EU, 버넘에게 단일시장 가입 없이는 더 이상 협상 없다고 통보",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYWJBV1BXQTIyYy04UWM5UWcxZDRidXNrQV9PSjVxUHFEbG1pRktJUEIzODBNdkxaZkxhdTBrbGZCdzRYLUNTT2R5d0Q5VnJDR3hvb0RuX0hkZzNOMXpacFMxb2lub0VDLXNwdjFPVjJnRzBGNk9KLVdScFNHMl9QSHVrbEVmM0tiWTlieVNDSWwyWnJHSldSOWtEeGd3WDdmZVE?oc=5",
+      "date": "2026-11-18T17:00:00.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "aljazeera",
+      "country": "me",
+      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+      "titleKo": "미국, 케슘섬 공습 후 쿠웨이트·바레인에 이란 신규 공격 위협",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdTNrNm5hd0NlSW9sNVo1VDVMVDA3eEtIMXhDdzJ3LTVjbGNxQ1J3dEVnWFFuMlQxTjVGYVhWaWVVaW5yRHJ3LWFrNkYwMGZjN3FrSENvdDlpQTRLNUNUQUhjb3hUX3BoUWRwMW5iSGZENWo3dm1xeUZIOU1FZm9EZDV5bHZYLU5mTENabEpoa1Y1ZEQyZXNZQk9sQkRzVVpNQ0VpR1lSdjBFRjRBNXow0gG0AUFVX3lxTE4xUnJGLWRBLUtPLWw0TjhrZjNZQUFVcmlHSjZrSURWSno1Z2JhUHBJOEFTcWN4X1R1cHdWLUFhc25RR25vbWtVUEN4S2J2TzdvdkJaLUxHeWJZX1BIbHpfeTlIcW53bkVSU2VoMzBRRnFKX1JvcG9ROHZtcW5jb0RMNnhLdjJUaDBmSWVPM3NRbUJUcmdHN0JkVU1fMW9fZm1kUU16WGJYOTR1eThhNEljVW5lcQ?oc=5",
+      "date": "2026-11-18T16:56:45.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Trump Grows Frustrated With Vance Over Iran War Critique",
@@ -290,8 +726,8 @@
       "source": "reuters_cn",
       "country": "cn",
       "title": "Global patent filings hit record high in 2025 as China drives growth, UN agency says",
-      "titleKo": "UN 기관은 중국이 성장을 주도하면서 2025년 전 세계 특허 출원이 사상 최고치를 기록했다고 밝혔습니다.",
-      "tr": "google",
+      "titleKo": "2025년 글로벌 특허 출원 사상 최대…중국 주도 성장, UN 기구 발표",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX21fSEZwSlpHUWFuby1pYnF1X0R0SVZUdEVENG1ITG1SVlJYMmpIMzhRLWxWbXREbVBWeC1jV2NmbUxQS0RGbjVWSlJYcE1zY3lockx1aWJGMUtGRmFINEVEYkxRQVAxc0VTaVdXWi1WaEs2ZzEzVGo5cFdiWW5tSDhibFhhaHdtRy1qX3NEaU81Mkx3alVKbFFZYlN3d0Y4V0xKYmpvTVRQWG1zUnRQXzBWbmIyME0xUzNjdUVVV1hKVnhZOWRuSTd3?oc=5",
       "date": "2026-11-18T16:13:56.000Z",
       "topics": [
@@ -493,6 +929,19 @@
       ]
     },
     {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Wife of senior Nvidia executive embroiled in chip smuggling scandal",
+      "titleKo": "엔비디아 고위 임원 아내, 반도체 밀수 스캔들에 연루",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVYzYVZ4NXdERVBORkNYenhQdjAtSTl2ekQ2RW1INlJsWFZxZmtITXZDdTJwUEcxMG1XcE5jNldQTkQ2c2tTVDRPZUpjMWFiOEdTWE92eGMwOXA3VGtDRVo4VUczZnZhbk9ENnpZSFh4c2tyMTJqbm0tbEFhcHR6Ylo4N055NExNYzNoeHpJbklzVXhvVkx4N3BVVzBQcTFBOXpZWi1n?oc=5",
+      "date": "2026-11-18T14:38:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "House Democrats Cast Wide Net as They Prepare Trump Investigations",
@@ -502,6 +951,20 @@
       "date": "2026-11-18T14:17:26.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Wie Merz der Ukraine mit einem Gipfel der Superlative helfen will - Politik - SZ.de",
+      "titleKo": "메르츠, 우크라이나 지원 위한 '초대형 정상회의' 추진",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUGZDZFBYWmdGcTJnS050emlmR2tOUUd4a0REYXdaVFZ1aTdwbG1oUkczLW56NmVzSGItck9WSGdRdm5STG1UNldCdUxpX0FhQURlVFZmNURDYTZWeUZDVVVUanFpU3hJUzRGT1BNVnRTbDNuQW9MVVNNSXI5WENTaktvUFlTeHhLRW9oUFhjZXBBaUJkRVVUZWRrRktBeFlOQjNEWW5OZ1lhV3dRQXFqaVpB?oc=5",
+      "date": "2026-11-18T14:16:57.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "정치·선거",
+        "외교·안보"
       ]
     },
     {
@@ -522,7 +985,7 @@
       "source": "wsj",
       "country": "us",
       "title": "U.S. Natural Gas Futures Gain on More Supportive Weather",
-      "titleKo": "미 천연가스 선물, 날씨 호재에 상승",
+      "titleKo": "미국 천연가스 선물 가격 강세",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ003OTJ0S0ZkdlFHS012NUNRWWE4eklqcGo3LTFteXRMbVZPOG1CNGh5Y0EwOVZDYzZ6WThkVm1nNGExVy1JWER3Zlg5NVl4VXFLOHBDRzEydHhmSDhoZ0NWVnNlaGFxRThaY3FFRlpYeFd0amxJTk9aSjUzYUhYcmFwRnl0Q2o2MWVJUVlHYy1CcVlaZlpyd2FHZFQ4ME94U3FqakdMWm84SlNURzdKVjVB?oc=5",
       "date": "2026-11-18T14:08:00.000Z",
@@ -539,6 +1002,18 @@
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX1dWYUV3STZjalZ5REgxaWZ1aG1HTEJwdEZqd1JyTFlzdFQ1Q3ctM0FCVEp6MWNudTVkNVNQWTdXaEpXSk1jd1BocWhDMDhQV1pLVnE1Y1JTRVFnS2pTRkFsUjZIVFNZLTFodUlENHd1MGU0bXp3dGtTSDh2VmVKQ2o5dG5QaUpsbXJMaHE1VXBJNjBDeTdXckNlTGVUOHl5UHJJLUpRUWFDdmNBNVZmYklyVmw?oc=5",
       "date": "2026-11-18T14:07:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "faz",
+      "country": "de",
+      "title": "CDU und SPD: Warum Friedrich Merz die Koalition nicht aufgeben darf",
+      "titleKo": "기민당·사민당 연정, 메르츠가 포기해선 안 되는 이유",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeU1PVngtaXZWVjJobzZSWjd4VmpialVtQjJZVThTaXZRcFRzcVJCZXNBUjBjWU5fNzBndlhwTzRkQVNBVnZZeFgzOEZvUXl5QTEwNTRudU9HUWtSd0YwT2JMWXh6cFpUVGxmZXJrSWRoM295YXlGS1l4dm00VUZpV2NqbERXRXo0RXF6dHhoNUZzWGxYZzcyYzIteUVSNmlSb0pldWdPOXhjYnJSdllvTEFMa1M1cjNvaVFDc0dvd0t6dw?oc=5",
+      "date": "2026-11-18T13:55:32.000Z",
       "topics": [
         "정치·선거"
       ]
@@ -580,6 +1055,19 @@
       "date": "2026-11-18T13:42:05.000Z",
       "topics": [
         "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "guardian",
+      "country": "uk",
+      "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
+      "titleKo": "장관들, EU와 식품 무역협정 타결 위해 푸아그라 수입 금지 철회 검토",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFQ5RzYxQnYyd3B3TFZKdHNqVUg1NWphU2hKTFBaTDhBYlRWcjlXWDRuU1lEN2N0ZE9CZnFGOVo1ejNHWUhNcnRzR0F0b1ZBTWlDdFFkelVOSW9hNGFYaUlLcmdKWUh5RUZPb1lHSzZjczRsSFZaclJlMGhUYmwwSmdHQmx5YkxZNWtWV3VNMC1HWDZtcUxTRTZWM2o5QXk4U3lB?oc=5",
+      "date": "2026-11-18T13:37:00.000Z",
+      "topics": [
+        "정치·선거",
         "산업·시장"
       ]
     },
@@ -661,8 +1149,8 @@
       "source": "handelsblatt",
       "country": "de",
       "title": "Stromsteuer: Gegen Mitternacht verlässt der Kanzler verärgert den Saal",
-      "titleKo": "전기세 : 자정쯤 총장, 화를 내며 퇴장",
-      "tr": "google",
+      "titleKo": "전기세 인하 논쟁 속 총리, 자정 무렵 불만 표하며 회의장 떠나",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTGdNWW13UXpFTG5ieW55ak1qWnd5VlVRdkZEdTJRQm9KN2hjSkhIc3FaWG1zVEw4WGtJRFNMRG51VGI2Y29rTHh6ek9oTmZad0d3Zi1OZEVSSVRiSnJrWUlXVFVScXdBVGppYnZaNlZvNXpmUXBubFliVHhRUVR1TGYxQUNXbjRfeUtPSzloTUx0dnd5QTNLUGpZVjNjbGQxR3RzSHRGWFJlR3MxS3JlaV9WZVdzODRGaWVsaGwtWWhEcGpreUljSkV0SmFGM2w3?oc=5",
       "date": "2026-11-18T13:03:48.000Z",
       "topics": [
@@ -874,6 +1362,33 @@
       ]
     },
     {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Bundesregierung: Regierung erleichtert Befristungen von Jobs",
+      "titleKo": "정부, 기간제 근로 규제 완화 추진",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3owQWZKWHJzTFM4aGYyQV9YejNFQ0pEeVcyYUpFdXQ2YzBlRE1jdEluLWNhTWlPMVJfaHhEbkxteGpINjhNZUM0ajN4YjJqcENQQS1sdERjQmZHUTNoV2U1SzVmSldTV0JMTndQZHlROE5xbVhwRHdicUs2czZOME5NWFNibWVQOURoTzBrQ1VUbUI1M3hOOFljSGdUN1R4ZEFnMzVNRDQ2b2tFMmQwem5FMF9WM0hXYXRYcHkyRTA?oc=5",
+      "date": "2026-11-18T10:51:07.000Z",
+      "topics": [
+        "정치·선거",
+        "경제·물가"
+      ]
+    },
+    {
+      "source": "hindu",
+      "country": "in",
+      "title": "AAIB probe report into AI 171 crash at ‘fag end’, Centre tells Supreme Court",
+      "titleKo": "인도 정부 \"AI 171 추락사고 AAIB 조사보고서 막바지\" 대법원에 보고",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMWVyWFk3OTgwLXoyRFJ1VE1sNVZ0b2NLRk1VdGF4U1hMWDVES05ZOVc1Ri1NdDlLM2VkN21YbmlkZFR3OUVoRGxRcnEzaG5nUHlxUEV3eTRlaGJtVmRaRWlsRFJ2YlNKVmJleXBtRFpvOUNwNDZiYk0zYVNjM21FRk41MGFWRTNEVHZQdkd4WF9mdGdJMFJzNnRfNUk3dDNhMmNjWjc4eFpSN1ZwbVQ2NGVkM0cxUnlUY05hd28zY3drYUVHZDduMmJGekTSAdMBQVVfeXFMTlF4MThNdFdZQzB1TG11QmhfZlpCLUpiUm92V2ZYcjFjUzZReko2ZF8xU2d5Z3hLaGJJeVdhNXpqTXJNbDNkOFFrY2VJM3U4S0lKVG03UXhUY1VGRUEwZGEycGFSTG5pVjdCNXpMRDJEVFFSSUpYUEItT3I4VEctcFNiZFVEQ295NjczS1c4UkpQdGFmRGZKRHRncjhQam5QLVpRTjJrbGlwRjkxbDI3RkU4eHVnS2tQWFVUNlRhQ1pQTnpSMFVUbDRJX0t5RFlralRNYw?oc=5",
+      "date": "2026-11-18T10:44:09.000Z",
+      "topics": [
+        "AI·반도체",
+        "정치·선거",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "wsj",
       "country": "us",
       "title": "U.S. Energy Chief Urges Western Europe to Pivot to Power Expansion",
@@ -1012,6 +1527,31 @@
       ]
     },
     {
+      "source": "hindu",
+      "country": "in",
+      "title": "‘We are journalists, not reel makers’: independent reporters hit back at Delhi Police’s affidavit to Supreme Court",
+      "titleKo": "\"우리는 기자지 릴스 제작자가 아니다\"…독립 언론인들, 델리 경찰 대법원 진술서 정면 반박",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQWGIycFBISVZGWjYtb3JWc194cE9Dd2hoejJDaVU1aGxla0tKVXI0SHZKeXpHRlZSV29YZF9YRXpCOG1kcVc0ZFhZNV8zYnB0VlJlTUJRMUMyenEwOWhMbWROb0U3UW90T3ZQV1loN09ob1NFOWNqczFLUFcwWXV1SUp3Q2VOUTdrd3d4bGh3a0kxWWNTRGR0aElOZ3U2c2ZOQ1p6NjJtdzBYQkI5bVpHOWJ6OWRrTHpPRDdNalpqc1BvaXlHcVV0T0RKSzFVU2pzODRQd2dfT3N4eWhqTDhtd0V4ckhmWTFmcGpHSHlxTWppNS1pamstc3hadXp1Z1AtbHfSAYgCQVVfeXFMT21wWEdQLUR5R3dHMzgxOGJ2WG5VTTBfeGd2ZDZFQlV1N2sxYURMMEEzNFczdU82YUhONnBsbzB3NUs3RUwtZ1RldnBXcXNwSmZpMXRfRTYzdldqUnEyVkttMTFhT1NROVZtZVJrNU9xRi1iUmpoZVNxUWF6aGtaRmpZcDNjVEpyQVVhYjFwYUZpYkgwOHgzbVJMVjdndjVQM0h4QjdvMS1HSGxXdmxKOGZvMDJCM1RxSE9UYTZjRE9TdkNlT3A5RjhEMEhjUmVmbUkwbklZdzJUUXMxSUJJbVdpdXNndEQtVWtDSDlXRVB4RTI3cU0xUDhIdEROTjBkS3lFZUNuRXlp?oc=5",
+      "date": "2026-11-18T09:40:20.000Z",
+      "topics": [
+        "정치·선거",
+        "사회·생활"
+      ]
+    },
+    {
+      "source": "hindu",
+      "country": "in",
+      "title": "About 62 students of Keralam school hospitalised after suspected pollution from tar-mixing unit",
+      "titleKo": "케랄라 학교 학생 62명 입원…타르 혼합 공장 오염 의심",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMFd1UnotUm54WHJGai10TTZKdURBb0xWUmhCOUowZlFrOFFYOF9ZWFhzMEItTWJTZVo3RTIzV0NOZnVkX3dtbVBHcGp2SXF4V0hzN0dIaXdJMUpPVEdpMXhLWFBCWW9qM25ZVDRQYVlvb2dKQzhOUEZnN0JIZXlUSC00WGVwMG90cHh4SkFrczYyM3VKeEE3U3dRSTR2SlR6X2lYa1BiUHJiRDNtU3ptZF9EMGtQWlVzVjZnWTJndW45a25hV1ctZHFQYkFWVTR0VDBJRmhWQ0tSNFcwYnJFYTVJY2I1ZkVoMjFFS3RwaWMyd9IB-AFBVV95cUxPdnpFaUZxcFloN0FqZ0Y0ZGFJVDBvVktLVFZ5OWFOUy1pSUJIejRjSEhTcDRCMnllZG9jbE93X25TWmhoMmJOckhDX2FnZ25hT2JMaVBZeVlNUVRZdlZfdjE0YmFxaVhaYm0yLUFaVW1mM3RRM3otTDVDSjA2dTdfRGJyVU13RkF4aURUal9taFZJUDdGU2ZJOHZxWXJ2cHJQVmJIQnFYaXhIWk5EblRtV2tERXVCR3M5b2tpTDJiMXQ4RlRaSEVmQWh0Tlp1X2VLZGdTYnlfVm5zUHNpVXZFOVRPcldGVVM1TGc0cnFybHBLTzdEbjhvZA?oc=5",
+      "date": "2026-11-18T09:36:29.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "ft",
       "country": "uk",
       "title": "UK oil producer quits ‘high-tax’ North Sea",
@@ -1065,8 +1605,8 @@
       "source": "reuters_cn",
       "country": "cn",
       "title": "Nvidia stops shipping US-approved AI chips to China",
-      "titleKo": "엔비디아, 미국 승인 AI 칩 중국 배송 중단",
-      "tr": "google",
+      "titleKo": "엔비디아, 미국 승인 AI 칩의 중국 출하 중단",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
       "date": "2026-11-18T09:17:54.000Z",
       "topics": [
@@ -1163,6 +1703,20 @@
       "topics": [
         "정치·선거",
         "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "ft",
+      "country": "uk",
+      "title": "British energy price cap set to rise to over £2,000 in January",
+      "titleKo": "영국 1월 에너지 가격 상한선 2000파운드 넘게 인상 전망",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcWpVZ09iaVg2U3h3b3hwUjRjeFdKb3NXb1NIM2M2OENkSkJiMExmcUZuUWdlSVNoaDc5VElRMUNNQUI2QmxBU2NXT085N1ZiamM0S2tnYWFDVW9sUWRNRXJKUndIb09VT3Q5Y2Z3cTA5S21WS21wZGlIZkRCbmM3MU1fWk8?oc=5",
+      "date": "2026-11-18T08:50:59.000Z",
+      "topics": [
+        "에너지·원유",
+        "경제·물가",
         "산업·시장"
       ]
     },
@@ -1431,6 +1985,18 @@
       ]
     },
     {
+      "source": "guardian",
+      "country": "uk",
+      "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
+      "titleKo": "1000만 파운드 규모 '한 세대에 한 번' 연구…아동 소셜미디어 금지 효과 조사",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFNTQWZDcjlGQjduVHNab21ENWZsb0NoSnFGSlZhOVFGbnFUZUZtT2NkelVPYTByUW5yVUgwZnh3czMwZjRrU0xNWDI1YjVENExSRUhHNEFkWnotbDlTeF9sOUcwdG5vZ0E0WldNdTVNQUxnNmhOZ1dmT0JGdjRCVmNHQWcxWjRJRzVpVlo4ZndVd2NidXc?oc=5",
+      "date": "2026-11-18T07:00:00.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Michael Kosta Faults Trump for Shrugging Off Mass Tech Failures",
@@ -1566,6 +2132,20 @@
       "topics": [
         "정치·선거",
         "외교·안보"
+      ]
+    },
+    {
+      "source": "handelsblatt",
+      "country": "de",
+      "title": "Morning Briefing Podcast: Nvidia: Wachstum ohne Ende? / Deutsche Bank: Reputationsrisiko für Deutschland",
+      "titleKo": "[모닝 브리핑 팟캐스트] 엔비디아 성장 끝없나 / 도이체방크 \"독일 평판 리스크\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOaGZyMm1STnpYT05pWXE1U2JwX0ZBeFZabTdiSnRGa01nZFlNb05NMDhicXA5OTEwbnFVaHU2ZGxVczk2cV9vSlBaTGtkMVVPT2JxMFFWZklWR2dtUlA0OG1XajNaUTJOZEp1YmNnTm0yVzd1andlLTl4OFJKWTJ5RVRlU1ROdk5HT2tuSGxWQVVLZk8zVWxWOUVGSUJaWUtVUzNBSkh5LTQxSFI4VXM1eXV6b0JrQmZhdjVJUnRNVkpialNJZS1ZTXZoV2lqbEdBV1Q2TjBRbDJfS2t0cU9JazI0T3RDbnItamdrUDIyNHZVMFdxbU1ic1pNdm9nUzkwU04taG9BTQ?oc=5",
+      "date": "2026-11-18T05:09:44.000Z",
+      "topics": [
+        "AI·반도체",
+        "경제·물가",
+        "산업·시장"
       ]
     },
     {
@@ -1717,6 +2297,19 @@
       "date": "2026-11-18T03:06:00.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "bbc_cn",
+      "country": "cn",
+      "title": "Watch: Vladimir Putin lands in China's Shenzhen for Apec summit",
+      "titleKo": "[영상] 블라디미르 푸틴, APEC 정상회의 참석차 중국 선전 도착",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJU0djZ2g3VUVIbXdwVG5YN0ZLODlpRVhUbDVHQ21JdW1BTzl3b0t2R01YSkI1VFlVcExFZFk2Q0F4dTFCNTJCNWdWaElUaWFmMWNMWXpuY0o?oc=5",
+      "date": "2026-11-18T02:54:11.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
       ]
     },
     {
@@ -2345,6 +2938,18 @@
       ]
     },
     {
+      "source": "hindu",
+      "country": "in",
+      "title": "India needs a comprehensive doctrine on space security",
+      "titleKo": "인도, 우주 안보에 관한 포괄적 독트린 필요",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnBWVlU4a3VDT2JITXJtRW9Xa2VIREJDdWVKdEg0eWJZN1I5cFMtM2NxMUk2UUNtQXo5SDhsZ21Qd1NSeXV4RHRFZ3JqbVVoZlJ3ZkRzQWpIX25HRnF5WnlSVE5MR0J1bndaTVJ4VnhPY2thQmJMd0g2Z0VTX3FVSksybW1rR1Fyd3kxMHAyZXEzWXFyRmFzSld5d2dkYUJmUXp3Ny0wR0g0VDNlQ2t3TW9pa9IBugFBVV95cUxNcXNCUWo3Q1VVMmdCVGw2VDd3emNpamwzQllRdmd4TjJlTUNkTFBhc0JrcTJLZHVOMXhPYnFoWnlwb2xyVDNId3Z0eHAtNDJwUmpmeHpsLVdac2FsMlBoYzd0WnJyV0lJZ19OMlVtUkdwSXQ4WjRsMXlSOXZLS180WUVyckdJc3VRcjBYajBQXzhobWd1OW45clZaZkM4cFBRSHR1V1ptUDFteWFReTR3ZEk3SnEzRjRvU2c?oc=5",
+      "date": "2026-11-17T19:10:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "caixin",
       "country": "cn",
       "title": "JD Returns to Revenue Growth as New Business Losses Narrow",
@@ -2898,8 +3503,8 @@
       "source": "bbc_cn",
       "country": "cn",
       "title": "Carney eyes 'other options' for embattled Canadian auto sector on China trip",
-      "titleKo": "캐나다는 미국의 관세가 자동차 산업을 위협함에 따라 중국 투자에 무게를 두고 있습니다.",
-      "tr": "google",
+      "titleKo": "캐나다 자동차 산업, 미국 압박 속 카니가 중국에 눈 돌리는 이유",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tMXZoVmRZSWNNZFVXSS1GRzRjWVV3bDY5cENvMEstZ0tQQXZtWmZvWG1OS0kxdFpZUnAzS0pMMEN5eGxnU2hucmpxYWl5UFREUnA3U2lnT1o0UEk?oc=5",
       "date": "2026-11-17T15:17:49.000Z",
       "topics": [
@@ -2956,6 +3561,18 @@
         "AI·반도체",
         "외교·안보",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "wire",
+      "country": "in",
+      "title": "The Side of Public Auditing That Goes Beyond Scams and Corruption",
+      "titleKo": "사기와 부패를 넘어서는 공공감사의 다른 면",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWjJSblBnd1VCZFFZQTlhbjFtS1JtYk5yazZHOTVHQXA1WFlXYnN3YXZwU0ZDV1RHRkRVZ1hRU3dpb1VXakRfVF9fd1lQU2VheWZRSTZ3cHVCMnNtSFJ5XzBKUlp5YWVxOFlzM3NRR2NXS0h1NWlad0x6dVYzNVh2MG1xY1E4MGNBUWY1dmhkbE1wN1BEYXVvVnNQQlI2OEo5VVJR0gGoAUFVX3lxTE96Q0thLTdwYnpIUHVqTXU1M0N1X1Zjd0F6cU1EUERBRnpTUmJMenN4M1gwZGtrRmhwRUk3NDItODAyMEZyOFlQUEpkLXQ5bFNNcXlEQXFqbEhCZHo2X1REZnh2VXFKaE5peE1CYkNqMFh4VHE4eUpLOXdIZTBtdTk2ZUhJUmtrZFViVGdCZ3NIMWhTUGhEc0xiV1FJU0FYX1U4eTlZS1QyNg?oc=5",
+      "date": "2026-11-17T14:40:33.000Z",
+      "topics": [
+        "정치·선거"
       ]
     },
     {
@@ -3134,6 +3751,18 @@
       "date": "2026-11-17T13:52:24.000Z",
       "topics": [
         "산업·시장"
+      ]
+    },
+    {
+      "source": "xinhua",
+      "country": "cn",
+      "title": "China, Canada agree to 2-year extension of exemptions under preliminary arrangement: commerce ministry",
+      "titleKo": "중국·캐나다, 예비 합의에 따른 면제 조치 2년 연장 합의…상무부",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5BYW0yblN1VFJyLVM4LUNqTUJJeTR4WnBMWS1vR05DR05HTjN3ZGRKbnA1Mlk2X3lxWGpYcW1sZ2hicVNzbG5LMlRVT1F2c01MWGd2RlZEeTNiREFMa0FrdXc5dzZseFVrNVVzTlhPeVBFUmJsZm4zdS1Rc2E?oc=5",
+      "date": "2026-11-17T13:49:15.000Z",
+      "topics": [
+        "외교·안보"
       ]
     },
     {
@@ -3889,6 +4518,18 @@
       "date": "2026-11-17T09:15:02.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "faz",
+      "country": "de",
+      "title": "Brunnermeier als EZB-Chefvolkswirt? Diese Posten werden neu besetzt",
+      "titleKo": "브루너마이어 ECB 수석 이코노미스트 발탁? 새로 채워질 자리들",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRkV6NHVoZlA3bldCWUJIV1UyWndQMHltbk1xdmZRb0JUSHdoWGFRMEdTamZPOU5MRV9uWVRTbVZvMjIyMEFERjRkc2w2N1FtWjk2TkRSVk1WSXVFZkdQT3ktQkdtQlVHNDBQTXkyZkpnX05UYVdCRURKVVgwc25XelBrajFpUTlJTHR0dkFEOWFEUzJXTkFQT2RONWlEaE05SzFFZ0h2dHZfOVJXZEk3Mm5mbTBFU2NjNEVqTnN4ZXc?oc=5",
+      "date": "2026-11-17T09:13:00.000Z",
+      "topics": [
+        "금리·물가"
       ]
     },
     {
@@ -4901,6 +5542,20 @@
       ]
     },
     {
+      "source": "caixin",
+      "country": "cn",
+      "title": "CX Daily: The Promise and Risks of China’s AI Infrastructure Rush",
+      "titleKo": "[CX 데일리] 중국 AI 인프라 붐의 약속과 위험",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbGhMVmtvRktfRnVCNWt5OElIeU9EMzNBeUl1OHNjMjMwZWxLYzBMNGNOTUF0aDBkRVRheDNiVjUzbTZZcDJCdVQzeDNYS3pEMnQ1RklSSXpzVncxSnZZSnhCZ1RCRkl0SUVweGJZQjA3cnllMi1IN290bWl4aXliSzhLU0ozWXNYMXlxdFJvTzY1T3VaQU5WRDJXN1ZWdFhxMThyMGgtVnNPd1RzYndOT1FNVTgxaVRUaWc?oc=5",
+      "date": "2026-11-17T01:00:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Trump Administration Divide on China Policy Breaks Into Public View",
@@ -5746,6 +6401,18 @@
       "date": "2026-11-16T16:35:00.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "et",
+      "country": "in",
+      "title": "Top Losers Today - NSE Top Losers Stocks Live, BSE Top Losers Shares Today",
+      "titleKo": "오늘의 하락 상위 종목 - NSE·BSE 실시간 하락 주식",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pdllieG9walJtZS01eEV5TXozT2d4aHZtby1TSEJ2WHM2ZDVCVG5kOEk2V3VDemRWd0tqajBYOGlILTJncTV4eU1XSUVUU3ljOXNzOFBXUkx6TTN3cTRrTHh3aS1BRE5SUWM5RGxqZTBQQlk0?oc=5",
+      "date": "2026-11-16T16:35:00.000Z",
+      "topics": [
+        "산업·시장"
       ]
     },
     {
@@ -7508,6 +8175,19 @@
       "topics": [
         "에너지·원유",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "wire",
+      "country": "in",
+      "title": "Foreign Delegates Who Attended Bharat Summit Say They Were Held, Questioned Over Social Media Posts",
+      "titleKo": "바라트 정상회의 참석 외국 대표단, 소셜미디어 게시물 이유로 억류·조사당했다고 주장",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUDZNbm9rQXJHbk9ScFB6OG1nc1prYS0xSUtiMFU3SEpGRk04WUJmRjM0VzZMcklTcHlhaURqa2FDcFNXMmc0MnZGbUJfNml5alFpeC1VS3FZR0tJNmxZbVdlbXdaSmdyaWVNcGQ4M1pDX19NWE52TDlSVF9ibGpVWnZ2RjlTQ3hXeGVKMTlIYndDeFlIQ2hmMTl4MjhLQVVWRVo3NHdJOERBSXM4SkdIVTh5elVKaW5nNkRlblFlcnBIeEp4NndMdWNPTkJzNWNnVUHSAdcBQVVfeXFMTkdsQTRYSjJMREtUVnpYQ0w3QnQ4cHFyUVA4TWVLYmxCQ1F6NVJxN2NQWW1RcWpOZ0hRbnFBUXdkM2Y5M2lsX3pPbU8ybGJxNjF3NUNwUk11bXY2Z09kY0tQYlV2WjVMNVB1VWZFaTA3NEM2X2dtcmFkLUpxRjhVeG12dmZXRTVsYnBVLWF4RjREQzg5TnMxcktjTXhNazZXTnJzZnMzak9BNTRDQmJpREFRY3dsUjN0TjFGNm9JTXM0aXlIdDNCUWM0UlBWcW9CX3dETDRNZm8?oc=5",
+      "date": "2026-11-16T08:00:00.000Z",
+      "topics": [
+        "외교·안보",
+        "사회·생활"
       ]
     },
     {
@@ -10447,230 +11127,6 @@
       "date": "2026-11-15T01:25:00.000Z",
       "topics": [
         "경제·물가"
-      ]
-    },
-    {
-      "source": "aljazeera",
-      "country": "me",
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "titleKo": "스위스서 수백 명의 남성 행진… 여성 폭력 항의",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk5RNXl2aXRkUjFjR2ZfOTBxU2pUMm9yLU5MbldEODlFZ0JLZHNYT2RiWEhEcENwaUJtLVU3WTE1LVhSUXNMQnpaYi1Mdk9KWllQSXRFSHBmNkFmRHFkZHN5Z1RzZTc3bmV6bll0YzJpUFVMTk4xQk5lSWd0TU9SbjJvNW5vUGQ5UVBDbjBVU04yUV8tYUFNTkNDNnd6UWlVNmVhTzRMODFvZFMtZU1PRkpB0gG3AUFVX3lxTE5Sc09PWlBieHNjNTJPXzZ4YVAyNk52S1V6ZzJ2dmhBOGhFUmpsbUtuNG53TV9LVml0dzFHd3FkSEFJa25tNmh4WUJiRWExY0xGOHQ3Y18wQUFCb0tsNENJNTBCOW1KREJILXc5WW9QalZlNUtHUTJLaWZVQmd3OE5xNHBkYnB4ZzJ0dUY0QnZOU2hXVV9meWtJTXByWDc0bXowaXpxcDdCRVFDdHMtYk40RXNIWTRLVQ?oc=5",
-      "date": "2026-11-15T01:11:56.000Z",
-      "topics": [
-        "사회·생활"
-      ]
-    },
-    {
-      "source": "haaretz",
-      "country": "me",
-      "title": "Trump, Putin, Xi to Discuss Iran War at Unprecedented Trilateral Summit in China",
-      "titleKo": "트럼프·푸틴·시진핑, 중국서 이란 전쟁 논의 전례 없는 3자 정상회담",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPd0xCUHc5Y2pqUFYtQ05JallueEoxaXQ1Q1FnSXd1b2liWUZrVV9xM3V5b1hhSjZOX0FqemVRWXpBdGw0N05MZ0VGZWlEc0k4TTBLTEMwd1RRZUFnVmJybWYyejQweWpnbTJjaWdsbWVJQUVWbmIyMDZlb3FyckF5UktvQXVWWEVOOTQwYWE4OTF0ZlRXRmw3WkZYaEktMjBBUVdVLXZORnFHN0haVkZVckVlMG9pT1BjbmZwM0xoa3RUNmZERHUwY2xVczNEb0REQVhhVGllbzhPb3ZpM3pxZ0VMWjRfdHJLdVdrWlczbVRLZUw1WFlrNXhoejBIMkVYenc?oc=5",
-      "date": "2026-11-15T01:04:00.000Z",
-      "topics": [
-        "전쟁·휴전",
-        "정치·선거",
-        "외교·안보"
-      ]
-    },
-    {
-      "source": "reuters_cn",
-      "country": "cn",
-      "title": "China's COMAC electric plane completes first crewed flight: state media",
-      "titleKo": "중국 COMAC 전기 비행기, 첫 유인 비행 완료 — 국영매체",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjV01laUhKXzgtMENlMVB6QVo2cE1nQzdmR3lGQklKaV9YZDVrSkJ2b05PMU9vV2Z4MS1JQkJMZGRGcWdBSGdad0g2ZlBsNTc1STM5ZU5pQjUwRDZORW0tYjF0SEgzMEk?oc=5",
-      "date": "2026-11-15T00:41:50.000Z",
-      "topics": [
-        "사회·생활"
-      ]
-    },
-    {
-      "source": "nyt",
-      "country": "us",
-      "title": "Unlike Other Countries, America’s Government Funds Its Air Infrastructure",
-      "titleKo": "미국만 항공 인프라를 정부 예산으로 지원…다른 나라와 달라",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbEJFbHVZVmFGcW1qUlEtd0JsQmZPaHIwZm1mOGZ6MklVT0QzVGprZ1doeW1EaHJiN2hDeEF0bFVrcE1uSE9JZEtGR2tWTmFrN1ZkRXltaEROLU5pMnllNGdCTEg5TjlDMDZ5ZUF6Rm1vSnRHSnhfeHBqMEl3OFBKS0FuVFFLQTlTMnhpX1lhdFVDRE54aTRsd0JHV001b3ctSEJId2VNM3c1dEZfNTYxMm9FZ2c?oc=5",
-      "date": "2026-11-15T00:41:29.000Z",
-      "topics": [
-        "정치·선거"
-      ]
-    },
-    {
-      "source": "jagran",
-      "country": "in",
-      "title": "क्या बारिश से घटेगा दिल्ली-NCR का प्रदूषण? केंद्र सरकार सख्त; कनॉट प्लेस और इंडिया गेट पर AQI 300 पार - pollution in delhi ncr central government takes a strict stance aqi crosses 350 at connaught place and india gate",
-      "titleKo": "비가 델리-NCR의 오염을 줄일 것인가? 중앙정부는 엄격하다. AQI는 코노트 플레이스(Connaught Place)와 인디아 게이트(India Gate)에서 300을 넘었습니다. 델리 ncr 중앙 정부의 오염은 엄격한 입장을 취합니다. 코노트 플레이스(Connaught Place)와 인디아 게이트(India Gate)에서 AQI가 350을 넘었습니다.",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQ1NsTUV2UFhrTEJJbkFJUnFpTFF6cW5mcFlLbVdMQ2pDQWZneUV5OFZFUC1HTDVubVBWMDB0RjExZFg0c3hPRFBxeThSNW52SFB2Tm55cnNFNzc3TEx1bFhVNms2dmJCRFpFb3EwaE90VUVmUWdub0xIaU1IUnprRG9FRHJMa0c2S0hsZFVXOUhaTjJYLVJiNlhFUENvLVpQRVBxNHhtOTNzcTJaTUpkbmNWNHlZd0lla056cF9EYmRFem1wUHQxNGhqekRxSnIwdWRjbGFrbjNEajUxdjBYRENETE1DM1p6cW1VNkJ3OV9Sam5mSWww?oc=5",
-      "date": "2026-11-15T00:00:00.000Z",
-      "topics": [
-        "정치·선거",
-        "사회·생활"
-      ]
-    },
-    {
-      "source": "aljazeera",
-      "country": "me",
-      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-      "titleKo": "네타냐후 \"거국내각만이 이스라엘 안보 보장 가능\" 주장",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3RqZl9HSGl4emgtQlBGWWFvTkxwT2NMT3JGWWd3Y2NMT2FTMDdRa2VEbFNyRjVhb3NrY2FuMFBLUnJHYnRKV0JCaFp4RldXN2h5Mkl5VEVYenF4Mllyc0RpazNaTTEyQTFlS1Y2NFIzSTZudUtEeTQ4UVp6U0F3YVBGdFZhRURSSmNHUFhQdXhCZ2Nmc0U0SEo4ODNOcU1YMFNaZzNoRlF0X3FvOFpET9IBtgFBVV95cUxPc2dVNk9OUzZHSmFhVndvOW5NME9ZdHhHQU01WkJXWXBTTkV1UjYzdnI1VDctZzNYbl9tZ2J6WTZ1cUNrSU0xYTh1UUFzSENnckZqLUpkX1hrTEY4NW5aZXdlbG4tQlRBWmw2R2dKdVVDYzZkc1hLbmVQRVpES0xETlFRdGVxSHRaWUVVcE85ZGtxV0twQkJYT2ZCME1vLWFLSXpEampnMEFHRmZiUGZmMmhqbEdBZw?oc=5",
-      "date": "2026-11-14T23:13:16.000Z",
-      "topics": [
-        "정치·선거"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "fox",
-      "country": "us",
-      "title": "Kai Trump opens up about relationship with Tiger Woods, her mother's boyfriend: 'I love him so much'",
-      "titleKo": "카이 트럼프, 어머니 남자친구 타이거 우즈와의 관계에 대해 \"나는 그를 너무 사랑한다\"",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWFJfc28zNkZ6bzR6MjlLaEhNYnYyazlQaGFJVHNERGRwTkJuTHBaUHhfd2R6eW8xU2Z0Q216cUo4bUNKdnFtNDlUOXJkcGx4a0ZDNHlSMFdhc2NnTkJ5UE1rS0syRXBFZ1ZzdmRFcnExQzg4elBRcHdiem05UUhnMUMzMW00eGZaY3FTUXZpSHhPemR0S2pERktIM1I0aUFqWTNjZW9KS2ExREQ4LVc0OVlwVjU?oc=5",
-      "date": "2026-11-14T22:50:07.000Z",
-      "topics": [
-        "정치·선거"
-      ]
-    },
-    {
-      "source": "bbc_ru",
-      "country": "ru",
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "titleKo": "젤렌스키 \"미국, 나토 가입 대가로 우크라이나의 돈바스 양보 제안\" 언급",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5",
-      "date": "2026-11-14T22:37:25.000Z",
-      "topics": [
-        "전쟁·휴전",
-        "외교·안보"
-      ]
-    },
-    {
-      "source": "nyt",
-      "country": "us",
-      "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop",
-      "titleKo": "트럼프 모습 감춘 채 미 연방항공청(FAA), 이륙 금지 조치 발령",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5",
-      "date": "2026-11-14T22:10:43.000Z",
-      "topics": [
-        "정치·선거",
-        "사회·생활"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "nyt",
-      "country": "us",
-      "title": "Defense Contractor L3Harris Was Behind Upgrade That Led to Ground Stop",
-      "titleKo": "방산업체 L3해리스, 지상 운항 중단 사태 일으킨 업그레이드 작업 책임",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yOXU5b1dHZVlma295S1pOVWtPY0NQWG1ZYmxsUnhMWnpzaV9TamVoeGxUM0YxOEw1TGNuRFZEb0JfRFBTN1VxRVBxM2ZZQzc0RHl1Nl9IWDR0Uy1VUGtheUpkMHRKZWNRUzY5UWhpWXI?oc=5",
-      "date": "2026-11-14T22:08:07.000Z",
-      "topics": [
-        "외교·안보"
-      ]
-    },
-    {
-      "source": "reuters_cn",
-      "country": "cn",
-      "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
-      "titleKo": "새로운 '알타'? 트럼프·푸틴, 시진핑이 꺼리는 회담 추진",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNHV6OEE3TG9DMmR2b2N2OEpUX2IxMlZLTHUyc3FwaTRZbDZ1RWtPaUl3Q2N6c1JOYl9FQ1k4OGxFeTM1czMzV3R2TE5ueXdQdThyZXhWTHJPUEJVLXh4aVhRVGI5Ri1VcEhMREJWbGdtdVcxNjlBYjRsVHhkYktoU2JERjBmRUctUTkzdm9JcTZLdEpwSFM2TXV5WU5LbV9hZlhNMS1ZdXY4QQ?oc=5",
-      "date": "2026-11-14T20:23:56.000Z",
-      "topics": [
-        "정치·선거",
-        "외교·안보"
-      ]
-    },
-    {
-      "source": "echos",
-      "country": "fr",
-      "title": "Cyberattaque sur une filiale de La Poste : 22 millions de personnes touchées par un vol de données",
-      "titleKo": "라포스트 자회사 사이버 공격…2200만 명 개인정보 유출",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT215cUZWM3pQOV9jelA1V2ZYdmlLb0JHZlJwaHFlSWNHUHR5V0xXVGVYUVprNGdOZzJXVUdzbDNHclVNTkhobm9teU1KeVdTdnViSmg3aXdjUHA5cWJyYy1PQXhhYURrTENmNDlYOFpmVkxzNzhVOWpKUVdFRk5KM09aUHZ5MFExTzZySlc5V2txM2ZYQjJMaDJuU2VQQkxabExSRHRWa3hKaFZMQllIejdNMUdsbTVnclgxY2tLQnc4OE1QX0dpRkJJRzlmRnd4bm53bXpvNFowX1dQUkwxNWZRNA?oc=5",
-      "date": "2026-11-14T20:06:28.000Z",
-      "topics": [
-        "산업·시장"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "telegraph",
-      "country": "uk",
-      "title": "Copper wire upgrade blamed for US flights chaos",
-      "titleKo": "미국 항공편 대란, 구리 배선 업그레이드가 원인으로 지목",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjVIX3U2UDFwRTN5Y2lBSkZXSVhIaWZhSEswOVBmcWdNS3llRUdwU3FVcFYxYjdoR2VMUVhPRGNWeUdMYW1vbk9PelZxNk83WmZUNkVteWRDR0FYOGdnSUVYRUN4MUtua21zVjJjNHpXTDd2NEdOTjEzb3MycDQ0Yk5rdUlPck1yakZIZlhaUFhaMW16VWZrbkpWZm9rNTRu?oc=5",
-      "date": "2026-11-14T19:42:00.000Z",
-      "topics": [
-        "사회·생활"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "fox",
-      "country": "us",
-      "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
-      "titleKo": "알리토 대법관 \"국가 분위기와 무관하게 미국은 핵심 원칙 3가지 지켜야\"",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQWdDWkhBdkdoeC1LeTllMEhUdDAtTDFmQ3FLa2IzN0RCU0dabXc0RU1JMXU3N3ZVajFOTGdtT0NKRzBOYzdHdzFEUC1HazR1MFBoUnAyNDVfRTBweGktVjA4eDdhVV9lbWZOOGFIWGtFeUZXLTlZdFFxODV3WkhYRmNrdWp5U016S3lWVTBxa1BENGkzOWN0c1BMT1VDWTkwM0VBRU04eWVqWHFnS2dDWGxxeDkwSnIyY2fSAb8BQVVfeXFMTjB2VzNYUjhBWnNvSFhiUHRrUUdxSDdHX0tHb2pWRlpBZnRNaTVfcDAzR2g1TEFGY2EzWUsyQzRISkdzNUVTQk5WaVM5WlRXOGt4TFU1aXRja3lsOFlqaWtzemxtZWFZSTRFbHdGSnBabU1qZm5EOC1jRTRlQ0RLc210eEhBQVZid0R4U0laQUprTVFmOGJZWG94bElLN05NcEgtWWZRbi1sT3FPUFI3ODFIdTA4U2hkckRBOHF6Tmc?oc=5",
-      "date": "2026-11-14T19:29:34.000Z",
-      "topics": [
-        "전쟁·휴전",
-        "외교·안보"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "nyt",
-      "country": "us",
-      "title": "Trump Had Urged Nvidia’s Jensen Huang to Fight for His Job",
-      "titleKo": "트럼프는 Nvidia의 Jensen Huang에게 자신의 직업을 위해 싸울 것을 촉구했습니다.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMFhFdjVXUmFEeDhEemZrSmthRjRTdDVVOVQ5S0lWaVVVWXR4T2RiU25IN20xaTFTdHB0RDRNNU1CZ1dmYWVXWWI1MkpydU42bzJaSFlRTFBtZTJfbmM3c2Ezc2w3Uk05YnFGNFVrRXRZam9JTV9ERlRudU1XNHIzUkdtQQ?oc=5",
-      "date": "2026-11-14T19:20:00.000Z",
-      "topics": [
-        "AI·반도체",
-        "정치·선거"
-      ]
-    },
-    {
-      "source": "liberation",
-      "country": "fr",
-      "title": "Présidentielle : au salon du Made in France, Teddy Riner coupe le cordon avec Macron, mais ne donne toujours pas de programme",
-      "titleKo": "대선: '메이드 인 프랑스' 박람회서 테디 리네, 마크롱과 선 그었지만 공약은 여전히 미공개",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPMjVrQzNodDZRT0ViakZtQUdLUGRmV211V183MDlDVHppUGc0dGtGQ2JNRnBtOEpPek5YVzZDNDdkbjc1NnVkQTVGTlNSRWJvQjE3LTU5eDZsc1ZRbGtHLXczMGljbGNuMkM0aDk3RXFZQ0pNM0FyZTdfaTJxUTZmd3Q1b3F4WGVLczdOUEZIdzhmUXJoeEF6X0lCcHkzZDNoLVNJMi1NTEtNX1F4a2tGUXdxTjdreG1qOERVUGVUVExDdjNrYVdYdXR0cjdEWl9jSnFhd2R4RG9hdzBCWkNXc0tFTDdEVjBZdGhPV1RQTU1TUmxmcGpmempBTWk0Z3BZTWlJVlMxZjFvOHNacWZQcnAyZHhUQlVjdG9HVWlJbw?oc=5",
-      "date": "2026-11-14T19:05:00.000Z",
-      "topics": [
-        "정치·선거"
-      ],
-      "tr": "claude"
-    },
-    {
-      "source": "figaro",
-      "country": "fr",
-      "title": "Emmanuel Macron affirme que «ceux qui veulent rationner» l’aide à l’Ukraine veulent «l’obliger à une paix injuste»",
-      "titleKo": "마크롱 \"우크라이나 지원 축소하려는 이들, 불공정한 평화 강요하려 해\"",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOalVlQTNSVFdrNlRlLS13Zl9ZVjVUMmxhcGh6Rlc3bGFSMFNxSThyXzBFSXBjeC1GbmtMRWJKa2Z4MmM1NjkwTEdqTVExTEdQMi1Lb0ZDUXJkN1lZUEZIcXRob2dMNHNMNlk4T0dRek5rR1BnV3BDejFTWmIyM3BRcDVFLXNTV0hHMFFCdlg0QmlqN2RwUkYxZVZzZ1FiM0dyV1Rpem16elhIamlyVFZ4TUdWcXR2Qmo1dHl3OXlQRy1Qd3d1anJ4b1ltS3BqdDkycWJYVkFmSkFTdlZLVnhscTRUamhibk1zT2txNDZB?oc=5",
-      "date": "2026-11-14T19:01:24.000Z",
-      "topics": [
-        "전쟁·휴전",
-        "정치·선거",
-        "외교·안보"
-      ]
-    },
-    {
-      "source": "handelsblatt",
-      "country": "de",
-      "title": "Initiativkreis Ruhr GmbH: Wirtschaftsbündnis mit rund 80 Partnerunternehmen rückt Investitionen, Gründungen und Fachkräftesicherung ins Zentrum seiner Agenda",
-      "titleKo": "루르 이니셔티브 유한회사, 약 80개 파트너 기업 참여 경제동맹…투자·창업·인력 확보에 집중",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPR3VYQU81UjNOeUZuTUItQ0tNS1Z3cjRHc1V5ZUxLcGpJLXdYS25XRVM3TXlqOHhJZW1SSW5STGIzVGZWeE5meTZYNmF0eDRfOVZ0enlyX2xfWnkyWlVFblBReE9xeEFlSEpLZWZ4TlRqeUM5NFd3RWlJMGZHbjk3bTktcVlWeVdiVUhwLVJ0Um1teDhtUmZpQmZHeVlNcHd0Qnl5R2U1TU9yNDZQTzJjcEV5TW0tZ3RqUVVaLXVNOFhNaEQ5MjZWZnVMd3N1QXJuQWJaZ3BmUER2VkVzWnNHM3I4b2xtVllXY1YyVnhaT3h4QTg1ODZmZWJLZno1WHVMYjVHSHVCUHhWR3hUNmtsSk1UekFnSU1LTWFzNl9NY0xidFFlX0ZBTEVuaDBwWWljRHBweVpvSVhtWURkeGRDWEFB?oc=5",
-      "date": "2026-11-14T18:57:50.000Z",
-      "topics": [
-        "경제·물가",
-        "산업·시장"
       ]
     }
   ]
