@@ -27,12 +27,12 @@ button{cursor:pointer;background:none;border:0;padding:0}
 .brand{min-width:0}.brand>div:last-child{min-width:0}.brand small{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 @media(max-width:420px){.iconbtn{width:34px;height:34px}.mast .acts{gap:0;flex:none}}
 
-/* 나라 탭: 한 줄에 모두 */
+/* 나라 탭: 모바일 6열 두 줄, PC 한 줄. 높이는 setTH가 이동 위치에 반영한다. */
 .tabs{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line)}
-.tabs .wrap{display:flex}
-.tabs .wrap{justify-content:space-between}.tabs button{flex:none;min-width:0;padding:11px 2px 10px;font-size:15px;font-weight:600;color:var(--faint);border-bottom:2.5px solid transparent;white-space:nowrap}
+.tabs .wrap{display:grid;grid-template-columns:repeat(6,minmax(0,1fr))}
+.tabs .wrap{justify-content:space-between}.tabs button{flex:none;min-width:0;min-height:44px;padding:9px 2px 8px;font-size:14px;font-weight:600;color:var(--faint);border-bottom:2.5px solid transparent;white-space:nowrap}
 .tabs button.on{color:var(--ink);font-weight:800;border-color:var(--ink)}
-@media(min-width:760px){.tabs .wrap{gap:6px}.tabs button{flex:none;padding:13px 14px 11px;font-size:16px}}
+@media(min-width:760px){.tabs .wrap{display:flex;gap:2px}.tabs button{flex:1;padding:12px 6px 10px;font-size:15px}}
 
 /* 도구 줄 */
 .bar{display:flex;align-items:center;gap:6px;padding:12px 0 4px;overflow-x:auto;scrollbar-width:none}
@@ -181,7 +181,25 @@ details.src a b{color:var(--ink);font-weight:600}
 .bi{position:relative}
 .bi.hit{box-shadow:0 0 0 2px var(--green)}
 .share{position:absolute;top:12px;right:12px;font-size:12px;font-weight:700;color:var(--green);border:1px solid var(--line);border-radius:99px;padding:3px 10px;background:var(--card)}
-.bi h3{padding-right:52px}
+
+/* 최소 수정형: 나라별 읽기 폭·제목 줄바꿈·날짜 구분. 전체 목록 구조는 유지한다. */
+.country-brief{max-width:960px;margin:0 auto}
+.bhead h2{word-break:keep-all;overflow-wrap:anywhere;line-height:1.4}
+.bdate{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:10px;font-size:13px;color:var(--sub)}
+.bhead .bdate select{margin-top:0;min-height:40px}
+.bdate-note{font-size:13px;line-height:1.6;color:var(--sub);border-left:3px solid var(--green);padding:7px 11px;margin:10px 0 14px;background:var(--card)}
+.bglance .gt,.bi h3{word-break:keep-all;overflow-wrap:anywhere}
+.bglance li a{padding:9px 0}
+.bglance .ikeys{margin-top:3px;margin-bottom:1px}
+.bi h3{padding-right:0;line-height:1.5}
+.what{font-size:16px;line-height:1.8;word-break:keep-all;overflow-wrap:anywhere}
+.st div{min-width:0;word-break:keep-all;overflow-wrap:anywhere;line-height:1.7}
+.st .tag{flex-shrink:0}
+.bactions{display:flex;justify-content:flex-end;border-top:1px solid var(--line);margin-top:12px;padding-top:8px}
+.bactions .share{position:static;min-width:56px;min-height:40px;padding:6px 12px;border-radius:8px}
+@media(min-width:1000px){.country-brief .bglance{padding:12px 18px 8px}.country-brief .bi{padding:22px 26px 16px}}
+@media(max-width:759px){.bhead{padding-top:12px}.bhead h2{font-size:21px}.views button{min-height:44px}.bi{padding:16px 16px 12px}.bactions .share{min-height:44px}}
+
 .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--bg);font-size:13.5px;font-weight:600;padding:9px 16px;border-radius:99px;z-index:20;box-shadow:0 4px 16px rgba(0,0,0,.18)}
 .bnote{font-size:12.5px;color:var(--faint);line-height:1.6;padding:10px 2px}
 .topicnow{font-size:13px;padding:8px 0 0;color:var(--sub)}
@@ -289,8 +307,8 @@ dialog td{padding:6px 4px;border-top:1px solid var(--line)}
 </main>
 <dialog id="info"><button class="button close" id="closeInfo">닫기</button><h2>뉴스판 이용 안내</h2><p>신문·방송·통신·경제매체 43곳의 검색 RSS를 모읍니다. 매체의 공식 지면이나 편집 순서를 재현하지 않으며, 해당 국가·지역 관련 검색어로 최근 3일 내 검색된 기사 중 매체당 최대 8개를 수집합니다. 검색어 필터로 관련 기사가 누락될 수 있습니다. ‘전체’ 화면에는 매체당 3개, 나라 화면에는 8개까지 표시합니다.</p><p><b>제목 순서는 중요도순</b>입니다. ① 같은 주제를 다른 나라·다른 매체가 함께 다룰수록(파급력), ② 정치·외교·전쟁·거시경제 주제일수록, ③ 최신일수록 위에 놓입니다. 칼럼·분석은 뉴스보다 아래에 두고 쟁점 계산에서 뺍니다. 스포츠·연예 등은 제외하고, 경제매체는 경제·산업 제목만 수집합니다. 중국·러시아는 정부 공식 입장을 먼저 볼 수 있도록 국영 매체를 첫 칸에 둡니다. 인도는 북인도 힌디어권(다이니크 자그란)과 남인도(더 힌두)의 시각을 함께 싣습니다. 중요도는 이 매체들의 보도량으로 계산한 추정치이며, 각 매체의 실제 지면 배치와는 다를 수 있습니다.</p><p>수집 작업이 한국어 제목을 미리 번역합니다. 번역은 Claude(설정 시)가 매체·나라 정보와 용어집을 참고해 헤드라인 문체로 옮기고, 원문 숫자가 남았는지 검사합니다. 월 비용 한도에 닿거나 실패하면 Google 번역(무료)으로 넘어갑니다. GitHub Secrets에 DEEPL_API_KEY를 설정하면 DeepL을 우선 사용합니다. 두 서비스가 모두 막히면 MyMemory(일일 한도 내)로 보충하고, 그래도 안 되면 원문을 표시합니다. 제목만 번역하며, 기사 본문·유료 구독은 원문 사이트에서 확인합니다. 원문 제목은 번역 서비스에 전달됩니다. 번역 결과는 수집 캐시에 저장해 재사용합니다. 갱신 실패 시 마지막 성공본을 유지합니다.</p><p>성향은 매체를 이해하기 위한 대략적 설명입니다. 뉴스와 사설의 논조는 다를 수 있습니다. 중국 경제지를 반정부로 분류하지 않으며, 중동 매체 네 곳이 지역 전체의 관점을 포괄하지는 않습니다. 보도 누락·수집 오류·오역이 있을 수 있습니다.</p><table id="sourceTable"></table></dialog><script src="data/news.js"></script>
 <script>
-// 탭·전체 화면 순서: 미국·중국·영국·러시아·독일·프랑스·중동·한국·일본·인도 (고정)
-const COUNTRIES={us:['미국','US'],cn:['중국','CN'],uk:['영국','UK'],ru:['러시아','RU'],de:['독일','DE'],fr:['프랑스','FR'],me:['중동','ME'],kr:['한국','KR'],jp:['일본','JP'],in:['인도','IN']};
+// 탭·전체 화면 순서: 미국·중국·한국·일본·러시아·영국·독일·프랑스·중동·인도 (고정)
+const COUNTRIES={us:['미국','US'],cn:['중국','CN'],kr:['한국','KR'],jp:['일본','JP'],ru:['러시아','RU'],uk:['영국','UK'],de:['독일','DE'],fr:['프랑스','FR'],me:['중동','ME'],in:['인도','IN']};
 // 나라별 진영 칸 순서와 꼬리표 (l 진보·비판 / e 경제 / r 보수·친정부 / s 국영 / c 기타 / w 서방 매체가 본 이 나라)
 const LANES={
  uk:[['guardian','l','진보'],['ft','e','경제'],['telegraph','r','보수']],
@@ -456,6 +474,7 @@ async function loadBrief(date){
 function renderBrief(){
   const el=$('brief');
   if(state.view!=='brief'){el.hidden=true;return;}el.hidden=false;
+  el.classList.toggle('country-brief',state.country!=='all');
   const D=B.doc;
   if(!D){el.innerHTML='<div class="none">'+(B.err?'브리핑을 불러오지 못했습니다.':'아직 발행된 브리핑이 없습니다.')+'</div>';return;}
   const nm=id=>{const f=feedOne(id);return f?f.source.name:(RETIRED[id]?.[2]||id);};
@@ -464,7 +483,9 @@ function renderBrief(){
   const dates=(B.index?.dates||[]);
   const regions=(state.country==='all'?Object.keys(COUNTRIES):[state.country]);
   let h='<div class="bhead"><div class="k">ISSUE BRIEFING</div><h2>'+esc(D.title||'오늘의 이슈 브리핑')+'</h2><p>'+esc(D.window||'')+' · 기사 '+(D.articles||'')+'건 분석 · '+esc(D.author||'Claude')+' 작성'+(()=>{const a=(D.countries||[]).flatMap(c=>c.issues);const n=a.filter(x=>x.status==='new').length,m=a.filter(x=>x.status==='cont').length;return n+m?' · 新 '+n+' · 이어짐 '+m:'';})()+'</p>'
-   +(dates.length>1?'<select class="chip" id="bdate" aria-label="지난 브리핑">'+dates.map(d=>'<option'+(d===B.date?' selected':'')+' value="'+d+'">'+d+'</option>').join('')+'</select>':'')+'</div>';
+   +(dates.length>1?'<label class="bdate">브리핑 날짜 <select class="chip" id="bdate" aria-label="지난 브리핑">'+dates.map(d=>'<option'+(d===B.date?' selected':'')+' value="'+d+'">'+d+'</option>').join('')+'</select></label>':'')+'</div>';
+  const todayKst=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Seoul',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date());
+  if(D.date&&D.date!==todayKst)h+='<div class="bdate-note">'+esc(D.date)+' 브리핑을 보고 있습니다. 기사 갱신 시각과 다릅니다.</div>';
   const shown=regions.map(c=>[c,(D.countries||[]).find(x=>x.id===c)]).filter(([,C])=>C);
   h+='<div><div>';
   if(state.country==='all'&&D.headline?.length){const X=Array.isArray(D.headlineDetail)&&D.headlineDetail.length===D.headline.length?D.headlineDetail:null;
@@ -488,11 +509,11 @@ function renderBrief(){
     h+='<section class="bglance"><h3>'+COUNTRIES[c][0]+' 한눈에</h3><ol>'+C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b>'+'①②③④⑤'[i]+'</b><span class="gt">'+SB(it)+esc(it.title)+'</span>'+kk(it.keys)+'</a></li>').join('')+'</ol></section>';
     h+='<details class="bc" open id="b-'+c+'"><summary><h2>'+COUNTRIES[c][0]+'<span>'+COUNTRIES[c][1]+'</span></h2></summary>';
     C.issues.forEach((it,i)=>{
-      h+='<article class="bi" id="b-'+c+'-'+i+'"><button class="share" data-share="b-'+c+'-'+i+'" data-title="'+esc(it.title)+'" aria-label="이 이슈 링크 공유">공유</button><h3><b>'+'①②③④⑤'[i]+'</b>'+SB(it)+esc(it.title)+'</h3>'+kk(it.keys)+CH(it)+'<p class="what">'+esc(it.what)+'</p>'
+      h+='<article class="bi" id="b-'+c+'-'+i+'"><h3><b>'+'①②③④⑤'[i]+'</b>'+SB(it)+esc(it.title)+'</h3>'+kk(it.keys)+CH(it)+'<p class="what">'+esc(it.what)+'</p>'
        +(it.stances||[]).map(st=>{const [,side,tag]=SIDE_OF(st.source);return '<div class="st '+side+'"><span class="tag">'+esc(st.tag||tag)+'</span><div><small>'+esc(nm(st.source))+'</small>'+esc(st.text)+'</div></div>';}).join('')
        +(c==='kr'?(it.reactions?.length?it.reactions.map(r=>'<div class="st w"><span class="tag">'+esc(r.country)+' · '+esc(({official:'공식 반응',media:'언론 보도',expert:'전문가 평가'})[r.kind]||r.kind)+'</span><div><small>'+esc(r.actor)+'</small>'+esc(r.text)+' <a href="'+esc(r.url)+'" target="_blank" rel="noopener noreferrer">근거</a></div></div>').join(''):'<p class="bnote">확인된 별도 해외 반응 없음</p>'):'')
        +((it.links||[]).length?'<details class="src"><summary>근거 기사 '+it.links.length+'건</summary>'+it.links.map(l=>'<a href="'+esc(l.url)+'" target="_blank" rel="noopener noreferrer"><b>'+esc(nm(l.source))+'</b> · '+esc(l.title)+'</a>').join('')+'</details>':'')
-       +'</article>';
+       +'<div class="bactions"><button class="share" data-share="b-'+c+'-'+i+'" data-title="'+esc(it.title)+'" aria-label="이 이슈 링크 공유">공유</button></div></article>';
     });
     h+='</details>';
   }
@@ -595,7 +616,7 @@ function setToday(){try{if(state.feeds.length)$('footN').textContent=state.feeds
   const n=(state.feeds.length||27)+'개 매체',u=state.updated?new Date(state.updated):null;
   if(!u||isNaN(u)){$('today').textContent=new Date().toLocaleDateString('ko-KR',{timeZone:'Asia/Seoul',month:'long',day:'numeric',weekday:'long'})+' · 세계 '+n;return;}
   const k=new Date(u.getTime()+9*3600000),p2=x=>String(x).padStart(2,'0');
-  $('today').textContent='업데이트 '+(k.getUTCMonth()+1)+'.'+k.getUTCDate()+'('+'일월화수목금토'[k.getUTCDay()]+') '+p2(k.getUTCHours())+':'+p2(k.getUTCMinutes())+' · '+n;$('today').title='기사 목록을 마지막으로 모은 시각(한국 시간)';}
+  $('today').textContent='기사 갱신 '+(k.getUTCMonth()+1)+'.'+k.getUTCDate()+'('+'일월화수목금토'[k.getUTCDay()]+') '+p2(k.getUTCHours())+':'+p2(k.getUTCMinutes())+' · '+n;$('today').title='기사 목록을 마지막으로 모은 시각(한국 시간)';}
 setToday();setInterval(setToday,60*1000);
 render();load();
 if('serviceWorker' in navigator&&(location.protocol==='https:'||location.hostname==='localhost'))navigator.serviceWorker.register('sw.js').catch(()=>{});loadBrief();

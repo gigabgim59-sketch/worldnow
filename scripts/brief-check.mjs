@@ -3,10 +3,11 @@ import fs from 'node:fs';import assert from 'node:assert/strict';
 import { checkKoreaItem } from './korea-review.mjs';
 const f=process.argv[2];const B=JSON.parse(fs.readFileSync(f,'utf8'));
 const S=new Map(JSON.parse(fs.readFileSync('sources.json','utf8')).map(s=>[s.id,s]));
-const ORDER=['us','cn','uk','ru','de','fr','me','kr','jp','in'];
+const ORDER=['us','cn','kr','jp','ru','uk','de','fr','me','in'];
+const LEGACY_ORDER=['us','cn','uk','ru','de','fr','me','kr','jp','in'];
 assert.match(B.date,/^\d{4}-\d{2}-\d{2}$/);assert(f.endsWith(B.date+'.json'),'파일명과 date 불일치');
 assert(Array.isArray(B.headline)&&B.headline.length===3,'headline 3줄');
-assert.deepEqual(B.countries.map(c=>c.id),ORDER.filter(c=>!(c==='de'&&B.date<'2026-11-17')&&!(['jp','kr'].includes(c)&&B.date<'2026-11-19')),'나라 순서'); // 독일은 2026-11-17, 일본·한국은 2026-11-19 브리핑부터
+assert.deepEqual(B.countries.map(c=>c.id),(B.date<'2026-11-19'?LEGACY_ORDER:ORDER).filter(c=>!(c==='de'&&B.date<'2026-11-17')&&!(['jp','kr'].includes(c)&&B.date<'2026-11-19')),'나라 순서'); // 독일은 2026-11-17, 일본·한국은 2026-11-19 브리핑부터
 for(const x of B.headline)assert(typeof x==='string'&&x.length<=60,'headline은 한 문장(60자 이내): '+x);
 if(B.headlineDetail){assert(Array.isArray(B.headlineDetail)&&B.headlineDetail.length===3,'headlineDetail은 headline과 같은 3개');
  for(const d of B.headlineDetail){assert(Array.isArray(d.keys)&&d.keys.length>=2&&d.keys.length<=4,'keys 2~4개');

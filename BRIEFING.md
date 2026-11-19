@@ -12,16 +12,16 @@
 |---|---|
 | 미국 us | nyt 진보 · wsj 경제 · fox 보수 |
 | 중국 cn | xinhua 국영 · caixin 경제 · reuters_cn·bbc_cn 서방 |
-| 영국 uk | guardian 진보 · ft 경제 · telegraph 보수 |
+| 한국 kr | hani·khan 진보 · hankyung·mk 경제 · chosun·joongang 보수 · reuters_kr·ap_kr·nhk_kr·xinhua_kr 외국의 시선 |
+| 일본 jp | asahi 진보 · nikkei 경제 · yomiuri 보수 |
 | 러시아 ru | tass 국영 · kommersant 경제 · reuters_ru·bbc_ru 서방 · meduza 독립(망명 언론) |
+| 영국 uk | guardian 진보 · ft 경제 · telegraph 보수 |
 | 독일 de | sz 진보 · handelsblatt 경제 · faz 보수 |
 | 프랑스 fr | liberation 좌파 · echos 경제 · figaro 우파 |
 | 중동 me | aljazeera 카타르 · haaretz 이스라엘 · presstv 이란 국영 · asharq 사우디·경제 |
-| 한국 kr | hani·khan 진보 · hankyung·mk 경제 · chosun·joongang 보수 · reuters_kr·ap_kr·nhk_kr·xinhua_kr 외국의 시선 |
-| 일본 jp | asahi 진보 · nikkei 경제 · yomiuri 보수 |
 | 인도 in | jagran 북인도·힌디 · hindu 남인도 · republic 친정부 · wire 비판 · et 경제 |
 
-- 일본은 2026-11-19 이후 브리핑부터 인도 바로 앞에 넣는다. 과거 브리핑은 수정하지 않는다.
+- 2026-11-19 이후 브리핑·화면 순서는 미국→중국→한국→일본→러시아→영국→독일→프랑스→중동→인도다. 일본은 한국 다음·러시아 바로 앞에 넣는다. 과거 브리핑은 수정하지 않는다.
 - 일본도 원문 제목(`title`, 일본어)으로 판단하고, 진영별 시각은 asahi 진보 → nikkei 경제 → yomiuri 보수 순서로 쓴다. 이슈·3줄·알아둘 만한 소식의 형식과 검증은 다른 나라와 같다.
 
 ## 어제와 비교 (먼저 할 일)
@@ -69,7 +69,7 @@
    "stances":[{"source":"nyt","text":"…"}],
    "links":[{"source":"nyt","title":"…","url":"https://…"}]}]}]}
 ```
-- `countries` 순서: us, cn, uk, ru, de, fr, me, kr, jp, in.
+- `countries` 순서: us, cn, kr, jp, ru, uk, de, fr, me, in.
 - `public/briefing/index.json`의 `dates` 맨 앞에 날짜를 넣는다(최신순, 최대 90개).
 - 올리기 전 `node scripts/brief-check.mjs public/briefing/YYYY-MM-DD.json` 으로 검사.
 
