@@ -86,7 +86,7 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .know ol{margin:6px 0 0;padding:0;list-style:none}.know li{display:grid;grid-template-columns:52px 1fr;gap:6px;padding:9px 0;border-top:1px solid var(--line)}.know li:first-child{border-top:0}
 .know em{font-style:normal;font-weight:800;font-size:13px;color:#b57712;padding-top:2px}.know b{font-size:15px;line-height:1.45}
 .know p{margin:3px 0 0;font-size:13.5px;line-height:1.5;color:var(--sub)}.know small{color:var(--faint)}
-@media(min-width:1000px){.top2{display:grid;grid-template-columns:1.7fr 1fr;gap:14px;align-items:start;margin-bottom:16px}.top2>section{margin:0}}
+
 .bidx{margin:6px 0 18px}.bidx-h{font-size:13px;color:var(--green);font-weight:800;letter-spacing:.04em;margin:0 0 8px}
 .bidx-grid{display:grid;gap:10px}
 .bidx-c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px 6px}
@@ -194,6 +194,20 @@ details.src a b{color:var(--ink);font-weight:600}
 .t3photo a{text-decoration:underline;text-underline-offset:2px}
 .t3photo[hidden]{display:none}
 @media(max-width:759px){.t3photo{margin-left:0}.t3photo img{max-height:280px}.t3photo figcaption{font-size:12px}}
+
+
+/* 전체 브리핑: 설명을 먼저 읽고 사진은 오른쪽에서 확인한다. */
+.t3body{margin:0 0 14px 26px}
+.t3copy{min-width:0}
+.t3copy .t3desc{margin:0 0 14px;font-size:16px;line-height:1.8;color:var(--body);word-break:keep-all;overflow-wrap:anywhere}
+.t3copy .t3list{display:block;margin:0;background:var(--soft)}
+.three .t3copy .t3list li{border-right:0;padding:10px 12px;line-height:1.65}
+.three .t3copy .t3list li+li{border-top:1px solid var(--line)}
+.t3body .t3photo{margin:16px 0 0}
+.know{margin-top:20px}
+@media(min-width:760px){.know ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}.know li{display:block;border-top:0;padding:12px 18px}.know li+li{border-left:1px solid var(--line)}.know em{display:block;padding-top:0;margin-bottom:5px}}
+@media(min-width:1000px){.t3body.has-photo{display:grid;grid-template-columns:minmax(0,1.55fr) minmax(0,1fr);gap:28px;align-items:start}.t3body .t3photo{margin:0}.t3body .t3photo img{max-height:320px}}
+@media(max-width:759px){.t3body{margin-left:0}.t3copy .t3desc{font-size:15.5px}.t3body .t3photo{margin-top:16px}}
 
 /* 최소 수정형: 나라별 읽기 폭·제목 줄바꿈·날짜 구분. 전체 목록 구조는 유지한다. */
 .country-brief{max-width:960px;margin:0 auto}
@@ -484,7 +498,7 @@ function briefPhoto(date,i,headline){
  const link=u=>{try{return new URL(u).protocol==='https:'?u:'';}catch{return '';}};const source=link(p.sourceUrl),license=link(p.licenseUrl);if(!source||!license)return '';
  return '<figure class="t3photo"><img data-photo-src="'+esc(p.src)+'" alt="'+esc(p.caption)+'" width="'+(+p.width||640)+'" height="'+(+p.height||400)+'" decoding="async" referrerpolicy="no-referrer"><figcaption><span class="photo-kind">'+(p.kind==='archive'?'자료사진':'현장사진')+'</span>'+esc(p.caption)+'<span class="photo-credit">사진: '+esc(p.author)+' · <a href="'+esc(source)+'" target="_blank" rel="noopener noreferrer">Wikimedia Commons 원본</a> · <a href="'+esc(license)+'" target="_blank" rel="noopener noreferrer">'+esc(p.license)+'</a> · 촬영: '+esc(p.takenAt)+' · '+esc(p.changes)+'</span></figcaption></figure>';
 }
-function loadOpenPhotos(scope){scope.querySelectorAll('details.t3it[open] img[data-photo-src]').forEach(img=>{img.addEventListener('error',()=>{img.closest('figure').hidden=true;},{once:true});img.src=img.dataset.photoSrc;delete img.dataset.photoSrc;});}
+function loadOpenPhotos(scope){scope.querySelectorAll('details.t3it[open] img[data-photo-src]').forEach(img=>{img.addEventListener('error',()=>{const figure=img.closest('figure');figure.hidden=true;figure.parentElement?.classList.remove('has-photo');},{once:true});img.src=img.dataset.photoSrc;delete img.dataset.photoSrc;});}
 const SIDE_OF=id=>laneOf(id);
 async function loadBrief(date){
   try{
@@ -515,18 +529,18 @@ function renderBrief(){
   if(state.country==='all'&&D.headline?.length){const X=Array.isArray(D.headlineDetail)&&D.headlineDetail.length===D.headline.length?D.headlineDetail:null;
     if(!X)h+='<div class="three"><h3>오늘의 세계 3줄</h3><ol>'+D.headline.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ol></div>'; // 예전 브리핑
     else h+='<section class="three t3"><div class="thead"><h3>오늘의 세계 3줄</h3><button type="button" class="t3all" aria-expanded="false"><span class="t3ic" aria-hidden="true"></span><span class="t3lb">모두 펼치기</span></button></div>'
-      +D.headline.map((x,i)=>{const d=X[i]||{};return '<details class="t3it"><summary><span class="t3n">'+(i+1)+'.</span><span class="t3lead">'+SB(d)+esc(x)+'</span><span class="t3chev" aria-hidden="true"></span>'
+      +D.headline.map((x,i)=>{const d=X[i]||{},photo=briefPhoto(D.date,i,x);return '<details class="t3it"><summary><span class="t3n">'+(i+1)+'.</span><span class="t3lead">'+SB(d)+esc(x)+'</span><span class="t3chev" aria-hidden="true"></span>'
         +'<span class="t3keys">'+(d.keys||[]).map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>'+(d.status==='cont'&&d.change?'<span class="t3chg"><b>오늘 달라진 점</b>'+esc(d.change)+'</span>':'')+'</summary>'
-        +briefPhoto(D.date,i,x)
+        +'<div class="t3body'+(photo?' has-photo':'')+'"><div class="t3copy">'
         +(d.desc?'<p class="t3desc">'+esc(d.desc)+'</p>':'')
-        +((d.items||[]).length?'<ul class="t3list">'+d.items.map(it=>'<li><em>'+esc(COUNTRIES[it.c]?.[0]||it.c)+'</em><span>'+esc(it.t)+'</span></li>').join('')+'</ul>':'')+'</details>';}).join('')+'</section>';}
-  if(state.country==='all'&&Array.isArray(D.know)&&D.know.length){const w2=h.includes('<section class="three t3">');if(w2)h=h.replace('<section class="three t3">','<div class="top2"><section class="three t3">');
-    h+='<section class="know"><h3>알아둘 만한 소식 '+D.know.length+'</h3><ol>'+D.know.map(k=>'<li><em>'+esc(COUNTRIES[k.c]?.[0]||k.c)+'</em><div><b>'+esc(k.t)+'</b><p>'+esc(k.why||'')+(k.source?' <small>· '+esc(nm(k.source))+'</small>':'')+'</p></div></li>').join('')+'</ol></section>'+(w2?'</div>':'');}
+        +((d.items||[]).length?'<ul class="t3list">'+d.items.map(it=>'<li><em>'+esc(COUNTRIES[it.c]?.[0]||it.c)+'</em><span>'+esc(it.t)+'</span></li>').join('')+'</ul>':'')+'</div>'+photo+'</div></details>';}).join('')+'</section>';}
+  const knowHtml=(state.country==='all'&&Array.isArray(D.know)&&D.know.length)?'<section class="know"><h3>알아둘 만한 소식 '+D.know.length+'</h3><ol>'+D.know.map(k=>'<li><em>'+esc(COUNTRIES[k.c]?.[0]||k.c)+'</em><div><b>'+esc(k.t)+'</b><p>'+esc(k.why||'')+(k.source?' <small>· '+esc(nm(k.source))+'</small>':'')+'</p></div></li>').join('')+'</ol></section>':'';
   const kk=ks=>(ks||[]).length?'<span class="ikeys">'+ks.map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>':'';
   if(state.country==='all'){ // 전체: 나라별 이슈 제목만, 누르면 그 나라 탭의 해당 이슈로
     h+='<section class="bidx"><h3 class="bidx-h">나라별 주요 이슈</h3><div class="bidx-grid">'+shown.map(([c,C])=>'<div class="bidx-c"><h4><a href="#'+c+'" class="bjump" data-jc="'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a></h4><ol>'
       +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b>'+(it.status==='new'?'<span class="sb new sm">新</span>':'')+'<span'+(it.status==='cont'?' class="old"':'')+'>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
   }
+  if(state.country==='all')h+=knowHtml;
   for(const c of regions){
     if(state.country==='all')break;
     const C=(D.countries||[]).find(x=>x.id===c);if(!C){h+='<div class="none">'+COUNTRIES[c][0]+(c==='kr'?'은(는) 이 날짜 브리핑에 없습니다. 한국 기사와 원자료는 아침 검수 승인 후 표시합니다.</div>':'은(는) 이 날짜 브리핑에 없습니다. 새로 추가된 지역은 다음 아침 브리핑부터 실립니다. 지금은 <b>원자료 · 헤드라인</b>에서 기사를 볼 수 있습니다.</div>');continue;}
