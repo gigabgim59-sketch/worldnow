@@ -161,6 +161,102 @@
     "color": "#3a3a3a"
   },
   {
+    "id": "hani",
+    "country": "kr",
+    "name": "한겨레",
+    "label": "진보",
+    "domain": "hani.co.kr",
+    "lang": "ko",
+    "color": "#b63835"
+  },
+  {
+    "id": "khan",
+    "country": "kr",
+    "name": "경향신문",
+    "label": "진보",
+    "domain": "khan.co.kr",
+    "lang": "ko",
+    "color": "#b63835"
+  },
+  {
+    "id": "hankyung",
+    "country": "kr",
+    "name": "한국경제",
+    "label": "경제 전문",
+    "domain": "hankyung.com",
+    "lang": "ko",
+    "color": "#445347",
+    "economy": true
+  },
+  {
+    "id": "mk",
+    "country": "kr",
+    "name": "매일경제",
+    "label": "경제 전문",
+    "domain": "mk.co.kr",
+    "lang": "ko",
+    "color": "#445347",
+    "economy": true
+  },
+  {
+    "id": "chosun",
+    "country": "kr",
+    "name": "조선일보",
+    "label": "보수",
+    "domain": "chosun.com",
+    "lang": "ko",
+    "color": "#17447c"
+  },
+  {
+    "id": "joongang",
+    "country": "kr",
+    "name": "중앙일보",
+    "label": "보수",
+    "domain": "joongang.co.kr",
+    "lang": "ko",
+    "color": "#17447c"
+  },
+  {
+    "id": "reuters_kr",
+    "country": "kr",
+    "name": "Reuters · 한국",
+    "label": "외국의 시선 · 영국 통신사",
+    "domain": "reuters.com",
+    "lang": "en",
+    "color": "#e3701a",
+    "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
+  },
+  {
+    "id": "ap_kr",
+    "country": "kr",
+    "name": "AP · 한국",
+    "label": "외국의 시선 · 미국 통신사",
+    "domain": "apnews.com",
+    "lang": "en",
+    "color": "#3a3a3a",
+    "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
+  },
+  {
+    "id": "nhk_kr",
+    "country": "kr",
+    "name": "NHK · 한국",
+    "label": "외국의 시선 · 일본 공영방송",
+    "domain": "news.web.nhk",
+    "lang": "ja",
+    "color": "#3a3a3a",
+    "titleMust": "韓国|韓米|韓中|韓日"
+  },
+  {
+    "id": "xinhua_kr",
+    "country": "kr",
+    "name": "신화사 · 한국",
+    "label": "외국의 시선 · 중국 국영통신",
+    "domain": "english.news.cn",
+    "lang": "en",
+    "color": "#b63835",
+    "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
+  },
+  {
     "id": "asahi",
     "country": "jp",
     "name": "朝日新聞 · 아사히신문",

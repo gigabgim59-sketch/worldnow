@@ -17,6 +17,7 @@
 | 독일 de | sz 진보 · handelsblatt 경제 · faz 보수 |
 | 프랑스 fr | liberation 좌파 · echos 경제 · figaro 우파 |
 | 중동 me | aljazeera 카타르 · haaretz 이스라엘 · presstv 이란 국영 · asharq 사우디·경제 |
+| 한국 kr | hani·khan 진보 · hankyung·mk 경제 · chosun·joongang 보수 · reuters_kr·ap_kr·nhk_kr·xinhua_kr 외국의 시선 |
 | 일본 jp | asahi 진보 · nikkei 경제 · yomiuri 보수 |
 | 인도 in | jagran 북인도·힌디 · hindu 남인도 · republic 친정부 · wire 비판 · et 경제 |
 
@@ -68,6 +69,37 @@
    "stances":[{"source":"nyt","text":"…"}],
    "links":[{"source":"nyt","title":"…","url":"https://…"}]}]}]}
 ```
-- `countries` 순서: us, cn, uk, ru, de, fr, me, jp, in.
+- `countries` 순서: us, cn, uk, ru, de, fr, me, kr, jp, in.
 - `public/briefing/index.json`의 `dates` 맨 앞에 날짜를 넣는다(최신순, 최대 90개).
 - 올리기 전 `node scripts/brief-check.mjs public/briefing/YYYY-MM-DD.json` 으로 검사.
+
+
+## 한국: 국제적 파장·해외 주목 검수 (2026-11-19부터, 일본 바로 앞)
+
+- 한국에도 기존 작성·비교·웹 확인·문자 수 규칙을 적용한다. 단, 국내정치 다툼, 당내·당외 갈등, 국내에 한정된 사회·사건 이슈는 국내 비중이 아무리 커도 제외한다. 외신이 단순 소개했다는 이유만으로 넣지 않는다.
+- 외교·국방·무역·공급망·세계 경제와 연결된 경제·산업·기술 변화, 대외 관계에 영향을 주는 주요 정치 변화 등 **구체적인 국제적 파장과 같은 사안에 대한 실제 해외 주목을 모두 확인**한다. 제목의 한국 관련어는 후보 수집용이며 승인 근거가 아니다.
+- 원문은 국내 6개 매체는 한국어(`lang: ko`), Reuters·AP·신화사는 영어, NHK는 일본어다. 한국어 제목은 번역하지 않는다. 진보→경제→보수→외국의 시선 순서로 같은 사안을 비교하고 묶음 안에서도 실제 매체 이름을 밝힌다. Reuters는 영국, AP는 미국, NHK는 일본, 신화사는 중국 매체이며 그 보도가 각국 정부의 반응이라는 뜻은 아니다.
+- `public/data/history.json`의 한국 항목은 **미검수 후보**다. 아침 Claude가 원문과 웹 근거를 대조해 승인한다. 시간별 수집은 새 후보를 더하지만 한국 공개 원자료에는 마지막 승인본만 유지한다. 최초 승인 전에는 빈 대기 상태다. 시간별 유료 AI 검수·비용·예약 설정을 추가하지 않는다.
+- 적격 사안이 없으면 한국은 `{"id":"kr","issues":[]}`로 넣는다. 기사 수를 맞추려고 국내 이슈를 채우지 않는다. 이 검수본은 다음 수집 때 기존 한국 승인 기사도 비운다. 과거 브리핑은 수정하지 않는다.
+
+### 한국 이슈의 추가 필드
+
+기존 `title`, `what`, `stances`, `links` 등을 그대로 쓰고 아래를 추가한다. 한국 `know`를 선택할 때도 동일하게 `international`, `links`, `reactions`를 넣어 검수한다.
+
+```json
+"international": {
+  "reason": "이 사안이 어느 나라·산업·대외 관계에 어떤 영향을 주는지 기사에 근거한 설명",
+  "evidence": [
+    {"kind":"media","source":"reuters_kr","url":"history.json의 동일 기사 URL","title":"원문 제목","date":"기사 ISO 시각"}
+  ]
+},
+"reactions": [
+  {"country":"미국","actor":"발언한 기관·인물","kind":"official","text":"확인된 실제 반응","url":"https://공식-발표-주소","date":"발표 ISO 시각"}
+]
+```
+
+- `evidence`는 1개 이상. `media`는 reuters_kr·ap_kr·nhk_kr·xinhua_kr 중 같은 사안을 다룬 실제 비칼럼 기사이며 `links`에 동일 source·url로 넣는다. 국내 매체가 외신을 인용했다는 제목만으로 대신하지 않는다. 해외 공식 발표가 근거이면 `kind: official` 또는 `international-organization`, `actor`, `country`, `url`, `title`, `date`를 쓴다. 한국 정부 자체 발표만으로 해외 주목을 충족하지 않는다.
+- 해외 보도가 국내 갈등을 소개한 수준인지, 실제 국제적 파장과 연결되는지는 Claude가 판단하고 `reason`에 구체적으로 쓴다. 구조 검사 통과만으로 사실·의미 검수가 된 것은 아니다.
+- `reactions`는 나라별 실제 반응을 적는다. `kind`는 정부·국제기구의 공식 반응 `official`, 언론의 보도·논조 `media`, 발언자를 확인한 전문가 평가 `expert`를 구분한다. 보도하지 않은 나라의 입장을 추측하지 않는다. 확인한 반응이 없으면 `[]`로 두며 화면에도 확인된 별도 해외 반응 없음으로 표시한다.
+- **`links`의 한국 매체 기사 URL이 공개 원자료 승인 목록**이다. 인용한 원자료 URL을 그대로 쓰고, 해당 사안으로 검수한 기사만 넣는다. 수집기가 다음 실행에서 최신의 유효한 한국 브리핑을 읽어 승인 URL만 `news.json/news.js`에 반영한다. 후보 원문이 없거나 해외 근거가 칼럼이면 해당 검수본을 적용하지 않고 이전 승인본을 유지한다. 빈 검수본은 정당한 새 승인 상태다.
+- 한국의 `know`도 과거 7일 중복·다른 3개 나라 규칙을 따른다. 추가 검수 필드 없이 한국을 `know`나 3줄에 우회해 넣지 않는다. 3줄은 검수된 한국 본문에서만 가져온다.

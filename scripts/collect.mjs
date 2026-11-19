@@ -1,5 +1,6 @@
 import fs from 'node:fs/promises';
 import { getFeed, translate, googleBatch, claudeBatch, numbersOk } from './news-lib.mjs';
+import { publishKorea } from './korea-review.mjs';
 const root=new URL('../',import.meta.url);
 const read=async p=>{try{return JSON.parse(await fs.readFile(new URL(p,root),'utf8'));}catch{return null;}};
 const write=async(p,j)=>fs.writeFile(new URL(p,root),JSON.stringify(j,null,2));
@@ -31,7 +32,7 @@ const script=t=>/[\u0400-\u04FF]/.test(t)?'cyr':/[\u0600-\u06FF]/.test(t)?'ara':
 for(const f of feeds)f.items=(f.items||[]).filter(x=>!/^you searched for|search results? for/i.test(x.title));
 // 1) 캐시 재사용 (품질이 나쁜 예전 번역은 버리고 다시 번역)
 const todo=[];
-for(const [f,a] of jobs){if(!f.items.includes(a))continue;const key=f.source.lang+':'+a.title;if(cached[key]&&bad(cached[key],a.title))delete cached[key];if(cached[key]){a.titleKo=cached[key];a.tr='google';continue;}delete a.titleKo;todo.push([f,a,key]);}
+for(const [f,a] of jobs){if(!f.items.includes(a))continue;if(f.source.lang==='ko'){a.titleKo=a.title;a.tr='original';continue;}const key=f.source.lang+':'+a.title;if(cached[key]&&bad(cached[key],a.title))delete cached[key];if(cached[key]){a.titleKo=cached[key];a.tr='google';continue;}delete a.titleKo;todo.push([f,a,key]);}
 console.log('새로 번역할 제목: '+todo.length+' / 전체 '+jobs.length+' / 캐시 '+Object.keys(cached).length);
 // 1.5) Claude 번역 (ANTHROPIC_API_KEY가 있을 때). 비용 한도 세 겹:
 //   ① 월 한도 CLAUDE_MONTHLY_USD(기본 2달러) — 저장소 data/translation-spend.json에 누적 기록
@@ -50,7 +51,7 @@ let claudeRun={titles:0,usd:0,rejected:0,stopped:null};
 for(const [f,a] of jobs){if(!f.items.includes(a))continue;const k=ckey(f,a);if(ccache[k]&&!bad(ccache[k],a.title)){if(a.titleKo&&a.titleKo!==ccache[k])a.titleKoAlt=a.titleKo;a.titleKo=ccache[k];a.tr='claude';}}
 if(process.env.ANTHROPIC_API_KEY&&LIMIT>0&&PER_RUN>0){
   // 새 제목 먼저, 그다음 예전(Google) 번역을 Claude로 교체
-  const want=jobs.filter(([f,a])=>f.items.includes(a)&&a.tr!=='claude').sort((x,y)=>(x[1].titleKo?1:0)-(y[1].titleKo?1:0)).slice(0,PER_RUN);
+  const want=jobs.filter(([f,a])=>f.source.lang!=='ko'&&f.items.includes(a)&&a.tr!=='claude').sort((x,y)=>(x[1].titleKo?1:0)-(y[1].titleKo?1:0)).slice(0,PER_RUN);
   for(let i=0;i<want.length;i+=25){
     const chunk=want.slice(i,i+25);
     const list=chunk.map(([f,a],n)=>({id:n,title:a.title,outlet:f.source.name,country:f.source.country,lang:f.source.lang}));
@@ -97,10 +98,15 @@ try{usage.characters+=a.title.length;const r=await translate(a.title,f.source.la
 for(const [f,a] of jobs){if(!f.items.includes(a))continue;if(!a.titleKo)console.log('미번역 '+f.source.id+': '+a.title.slice(0,70));else if(bad(a.titleKo,a.title))console.log('의심 '+f.source.id+': '+a.titleKo.slice(0,70));}
 const result={schemaVersion:1,generatedAt:new Date().toISOString(),feeds,collector:{successful,total:sources.length,translated:feeds.reduce((n,f)=>n+f.items.filter(a=>a.titleKo).length,0),byClaude:feeds.reduce((n,f)=>n+f.items.filter(a=>a.tr==='claude').length,0),claude:{run:claudeRun,month:spend.month,monthUsd:+spend.usd.toFixed(4),limitUsd:LIMIT}}};
 // 브리핑용 누적 기록: 최근 4일 치 제목을 모두 모아 둠 (매시간 새로 들어온 제목이 쌓임)
-{const H=(await read('public/data/history.json'))||{items:[]};const seen=new Map(H.items.map(x=>[x.url,x]));
-for(const f of feeds)for(const a of f.items){const o=seen.get(a.url);if(o){if(a.titleKo){o.titleKo=a.titleKo;o.tr=a.tr||o.tr||null;}continue;}seen.set(a.url,{source:f.source.id,country:f.source.country,title:a.title,titleKo:a.titleKo||null,tr:a.tr||null,url:a.url,date:a.date,topics:a.topics||[],...(a.opinion?{opinion:true}:{})});}
+{const H=(await read('public/data/history.json'))||{items:[]};const historyKey=x=>x.country==='kr'?x.source+'\n'+x.url:x.url;const seen=new Map(H.items.map(x=>[historyKey(x),x]));
+for(const f of feeds)for(const a of f.items){const key=f.source.country==='kr'?f.source.id+'\n'+a.url:a.url;const o=seen.get(key);if(o){if(a.titleKo){o.titleKo=a.titleKo;o.tr=a.tr||o.tr||null;}continue;}seen.set(key,{source:f.source.id,country:f.source.country,title:a.title,titleKo:a.titleKo||null,tr:a.tr||null,url:a.url,date:a.date,topics:a.topics||[],...(a.opinion?{opinion:true}:{})});}
 const cut=Date.now()-4*86400000;const items=[...seen.values()].filter(x=>+new Date(x.date)>cut).sort((a,b)=>b.date.localeCompare(a.date));
 await write('public/data/history.json',{updated:new Date().toISOString(),count:items.length,items});console.log('누적 기록: '+items.length+'건');}
+// 후보는 history.json에만 보관하고, 공개 원자료는 아침 검수 승인 URL로 교체한다.
+const koreaCandidates=feeds.filter(f=>f.source.country==='kr').reduce((n,f)=>n+f.items.length,0);
+result.collector.korea={...await publishKorea(feeds,previous,read),candidates:koreaCandidates};
+result.collector.translated=feeds.reduce((n,f)=>n+f.items.filter(a=>a.titleKo).length,0);
+result.collector.byClaude=feeds.reduce((n,f)=>n+f.items.filter(a=>a.tr==='claude').length,0);
 // 문자 원고: 오늘(한국 시간) 브리핑이 있으면 바로 보낼 수 있는 문자, 없으면 빈 파일 (휴대폰 단축어가 비어 있으면 보내지 않음)
 // 카톡·문자 원고는 scripts/sms.mjs가 따로 만든다(수집이 전부 실패해도 만들어지도록).
 await write('public/data/news.json',result);await fs.writeFile(new URL('public/data/news.js',root),'window.WORLD_NEWS='+JSON.stringify(result).replace(/</g,'\\u003c')+';\n');await write('.cache/news-last-good.json',result);
