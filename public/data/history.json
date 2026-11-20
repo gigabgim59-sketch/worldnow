@@ -1,7 +1,20 @@
 {
-  "updated": "2026-11-20T21:27:31.913Z",
-  "count": 1145,
+  "updated": "2026-11-20T21:55:26.307Z",
+  "count": 1154,
   "items": [
+    {
+      "source": "chosun",
+      "country": "kr",
+      "title": "美증권위, 엔비디아 회계 조사…대중국 수출·반독점 이어 사법 리스크 확대",
+      "titleKo": "美증권위, 엔비디아 회계 조사…대중국 수출·반독점 이어 사법 리스크 확대",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkp2Z3E3RzJzS0tPYTBVa0Z0cWhMbGtERHVJRDZRVnA0VmlZYm1ybWtNLVR5SXNUSUxuSGkyZUZFeVhKWFEyUDZGcGl3VGFXVFhKUE1JN1pYcmlDQldKV3VuXzl2c2VZV0ZnTHMxVkdIUlNvRW5IamVlRnV3TUIxaFhCcEMtTFZOOTI2UF90Q0QyU2RWbWdWTmREYnlnUdIBsgFBVV95cUxONUJCT25QaVl0OTNQM1pDVVhZbzJEdndHQTRjdlFBNy16SDJrS29iakc3Skdwb0NlNy1jRzg2aEcyT3lKblhZYWVpU1VMV00wZVZzMFZhc1ZjZ3p2bXhFeF9jU1Y3Tl81TXdVT2FLWTllalpVZmNsbzB3UmxTdDR0X0haUXcxbUhWWlRuMmVQOFB0NHl2WlhUM05GaHdPVXZ1Z2ZPREtEZ1ZEWFN2RHRaZmhn?oc=5",
+      "date": "2026-11-20T21:42:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
+      ]
+    },
     {
       "source": "wsj",
       "country": "us",
@@ -13,6 +26,18 @@
       "topics": [
         "정치·선거",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "nyt",
+      "country": "us",
+      "title": "Fact-Checking Trump’s News Conference After His Asia Trip",
+      "titleKo": "트럼프 아시아 순방 후 기자회견 사실 확인 검증",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XdGhXd1E3aUpCRTlhR3AtNjFwMHJsZ0p0SExVY3BIZjNJcUhQRGNfN1dHYTdaYmVlOHY2aEZZZ2RtM2VBTVZLWW1Va0xIcDJJTmk5RnV3b293VXBpU19ZVUVPbmE3T1NqRXIxVngxVW96aTY2SThTRG1PckR1QWc?oc=5",
+      "date": "2026-11-20T20:38:24.000Z",
+      "topics": [
+        "정치·선거"
       ]
     },
     {
@@ -79,6 +104,19 @@
       ]
     },
     {
+      "source": "yomiuri",
+      "country": "jp",
+      "title": "原子力潜水艦の導入「検討に着手し結論得る」、安保３文書に記載で政府調整…「早期に結論」とする案も",
+      "titleKo": "원자력 잠수함 도입 \"검토 착수해 결론 낼 것\"…안보 3문서에 명시, 정부 조율 중…\"조기 결론\" 방안도",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93cnJYXzd3cXJVMENNSGdkSEpLOEhIT0NqanphU1l6Q2cxODdYcDIwME9QTmZrc1ltdFh6YnpSWVpuSWlFS2U2aWZ4dGY4SWxRYXVHSE8tdGpwVXl4cV9OMkNHR29qZw?oc=5",
+      "date": "2026-11-20T20:00:00.000Z",
+      "topics": [
+        "에너지·원유",
+        "정치·선거"
+      ]
+    },
+    {
       "source": "caixin",
       "country": "cn",
       "title": "Darers & Doers Podcast: Fixing Global Trade Payments for Businesses",
@@ -88,6 +126,19 @@
       "date": "2026-11-20T19:59:59.000Z",
       "topics": [
         "산업·시장"
+      ]
+    },
+    {
+      "source": "wsj",
+      "country": "us",
+      "title": "Trump Calls for Nvidia to Rehire Jensen Huang",
+      "titleKo": "트럼프 \"엔비디아, 젠슨 황 재고용해야\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFpjZTl5Ni1VV2k4MndkZFgxbG5sWVNfZ1R2bWpubThpOXZsaW9sMjdrR0JnU01rN0g4NV94WUtyWnU0TUZLSXJSTEJQQWJnTDFrQWxpQlVtOGgwNTlSNXZnZDMwbXkwZmhWSC1XZDhTZTFxQkZxUnpyOFV5cVY5dTFTRlZiMk9odnVTYUs1cDU4RjlzZ2FGUXJJbnZGNE9SS090OU9JeGRCb19O?oc=5",
+      "date": "2026-11-20T19:55:54.000Z",
+      "topics": [
+        "AI·반도체",
+        "정치·선거"
       ]
     },
     {
@@ -114,6 +165,19 @@
       "topics": [
         "금리·물가",
         "경제·물가"
+      ]
+    },
+    {
+      "source": "caixin",
+      "country": "cn",
+      "title": "Huawei Launches AI-Focused Smartphone Sub-Brand OSTA",
+      "titleKo": "화웨이, AI 중심 스마트폰 서브브랜드 '오스타' 출시",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQczlQcDl6YXlnZW1ZM1BkWUhSWFFETDZ4WEdscWoyUVhsZGZDUlM1REJUeFQ3Tkt3SXJQcmVKOGdkTTVLXzRyUFh4SUhXNzZOOXJoV3JSU2NhZE9VeWtobG1iTVAtWlc2TFFEMkl5amZDY0p0Wi1uMTVpNktqUzlfQ09wb1ZmT0R1cmNfbFBEZzJfS1RySUFzZlVmQzJESmlxV2ZEeFJTMndnUm8?oc=5",
+      "date": "2026-11-20T19:36:00.000Z",
+      "topics": [
+        "AI·반도체",
+        "산업·시장"
       ]
     },
     {
@@ -152,6 +216,19 @@
       "topics": [
         "정치·선거",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "figaro",
+      "country": "fr",
+      "title": "Pourquoi le gouvernement doit trouver d’urgence plus de 6 milliards d’euros d’économies supplémentaires",
+      "titleKo": "정부, 추가 절감 60억 유로 이상 긴급 확보 필요한 이유",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ3V1TGhwREhsT3FqQTlDS0NhZVR0akdsdnJxbDdaZF95cTNIMmpoRWduSjAzUEZmOUxrNjJIdTQ0TWU4TWROTENmcGZjQm9KRVVrb3dLZkx6RGpuMVg0VVRyaFBibU9OaEtWRlhqV1hHZTBDeWNrTG1yd0dQbVAyYnNYVW45dHBGTUtOejRoaURscUhGdS1SYTJSckd3elFwQWRFNE1vSEJVYXN2UGhIM2kzdGx3bk14YWRRT2lMZnVPSjMtbVZZSkFWblJPMGc0TDItcGFISV9JZ3hLbzNIbEtR?oc=5",
+      "date": "2026-11-20T18:45:00.000Z",
+      "topics": [
+        "정치·선거",
+        "경제·물가"
       ]
     },
     {
@@ -667,8 +744,8 @@
       "source": "kommersant",
       "country": "ru",
       "title": "«Газелям» протерли фары",
-      "titleKo": "가젤의 헤드라이트가 닦아졌습니다.",
-      "tr": "google",
+      "titleKo": "\"가젤\"들 헤드라이트 닦였다",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15QmxxR0p1TjE5c1JqcUhJS3dfcVIyRXpxYWZZR0lVd05OX0JSNVNYRzJYdHhncVNfY2ZZQTNhSTFxRGduTDBiNXY2b0llQQ?oc=5",
       "date": "2026-11-20T13:59:00.000Z",
       "topics": [
@@ -1461,6 +1538,18 @@
       ]
     },
     {
+      "source": "hindu",
+      "country": "in",
+      "title": "Supreme Court allows lighting of lamp on deepathoon at Thirupparankundram as limited one-time arrangement",
+      "titleKo": "대법원, 티루파란쿤드럼 사원 등불 점화 허용…일회성 한정 조치",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX3dYb3FBQmFxMVViLTlzWUlKVHM1WDROYVFHMVA0RXFGUVk0dXBxTGNxR1FfMzA4YzZ3SDZ3WmpXVmdib21wdDgycFZEVVdfRk01STVjLWp6U1lCVmo4TnpScHJTWHlHQ25qajBYS1IxMVJfNXJSRlBCVDg5RHNISExPWTRuek0wMkRwdlZNRE9yeUxtM0NHdl9aZ0ZFcC1XbmEtdXhNeU5RUWdDcG5rQXZndTNjTVFtV0ZGYWpRTC1PT1JLQjl4RjhlVEFSNC0wYkgwRFVNS0ZweFBPUzVtNlNoWExKYU9JMjFrSWZLMkzSAfcBQVVfeXFMUEVWWUVNR2hYUGxBNm9QbkR4MDg0S1AtYjQ2TjRSeGdVMFlTQnV6dTlwQmdMWWxhSzlDRXhpZEoteE83aFdUU3FfTlBiMWpwVGYzZ21BVGZRVnNEUWdTNkZGeElQQ0ZHSTF3dDlzd1p3aE9YWDZHQjc3RUJDYjNUdml1ZWpFZjN6UnRLLVgwOENwZGtEbE85VkRmWkVpR1d1Z0Q0ek03WG8wTEdSZ2FSQTlBQm9XRURUdFZCUWcydXZTWDBJX1QzOUNRTFl5aXZBa0h1a2N2cU84V2RrdkR1ZzdtRGViX0lKSmFDY1BacVZaZnpjcjVHRQ?oc=5",
+      "date": "2026-11-20T08:59:51.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "chosun",
       "country": "kr",
       "title": "수출 1조달러 기여한 중견기업인 격려…정부 포상 57점",
@@ -1639,6 +1728,18 @@
       "date": "2026-11-20T08:01:05.000Z",
       "topics": [
         "외교·안보"
+      ]
+    },
+    {
+      "source": "asahi",
+      "country": "jp",
+      "title": "「まるで代理人」原油・LNGの販路開く日本 脱・化石燃料はどこへ",
+      "titleKo": "\"사실상 대리인\"…원유·LNG 판로 여는 일본, 탈化석연료는 어디로",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52WWRFMHpJX2NJRlRIRlI3VWhEVGZlVnhmUkwtVEwtcVViN2FQd3pINEphU1MzcDQ1TW03WU9LdnU0NGtGSEFIRDdweDFmNGlqblNxb2c3U3B6bmJPek9vSkFCSmR4czg?oc=5",
+      "date": "2026-11-20T08:00:00.000Z",
+      "topics": [
+        "에너지·원유"
       ]
     },
     {
@@ -6863,6 +6964,18 @@
       ]
     },
     {
+      "source": "jagran",
+      "country": "in",
+      "title": "'खाओ पियो और मौज करो भारत का कल्चर नहीं', पीएम मोदी ने फिजूलखर्ची रोकने और सेविंग्स बढ़ाने पर दिया जोर",
+      "titleKo": "\"먹고 마시고 즐기기는 인도 문화 아니다\"…모디, 낭비 억제·저축 확대 강조",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT3BhSkMxeGFLNXhVbTczRHVKRzJKWm5oVW5VQkp4TmxkZVpqY042UGRJR1JYTWpZRzd0TlZ6WkZBUVczT3p6NnpXZUxUbkVUMVhSNTJ4VmRMWWlIZm1PY09kUlpLV01vYkRtVEt2dk0tcEJNLTVTR0V4ZzA0RDJQSWZaUU1NcVcyNmg0d2lvSnl5c3J0Nk5DU3FfczVrbWxHYWw0VV82S2k1aGIzNUpPZ2J6YWpxWVpNN19GU1JxcWs5aUNDUnpmemtzVERyQjNZSTZxag?oc=5",
+      "date": "2026-11-19T04:59:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "nikkei",
       "country": "jp",
       "title": "インド外相「日本企業は古いインド像の刷新を」 投資呼びかけ",
@@ -10573,6 +10686,18 @@
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObXZxYmdGRXBNUlJWbk05NmxKcG5lQzVzbmNLeVZZZ0lYQXllU0hrZFVNUHR3anl1TFZ2Z2hfZlZLaVNTLXhhejZ1SW1zY0JSMEhqMkFWS243WHRRVHYtak1pWlEyQU1VOUVnRVpVOWwyQ2J3M1Vaby1TYXk2d3dDdjV2Q0prMHBNZE96SE9rbXNTU0JVNGF5QTRpQ25IN0kyN3N4Tl95YWJLWWVxNDBvcjFSVXhSSmQ1ckJfMmN2NnBmQU4zUkJET2JSMUs?oc=5",
       "date": "2026-11-18T02:35:13.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Regierungsbildung in Berlin - Erste Weichenstellungen bei Koalitionsgesprächen erwartet - Politik - SZ.de",
+      "titleKo": "베를린 연정 협상 시작…첫 단추 끼우기 기대 - 정치 - SZ.de",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVmVMcnYxZTNWMTZVcXpoNEhQeGYzNFo2RWtod3p2VS1WTDRvVTZSaTBPV0Vmc1dTOGdZUkVEa1BmUDQ4cUpwZlA3WEZaUjVhaXk2VFg5OEV4cTZoMTZfVTJCdGhWN2JBb19LbEk0cFo1VTJ4MnAyUHJ6MmJRWVI4dy1ZV281MjV0VUxXdUZ0SE9NMERBY2MtUGt1c290TURwb0d2cmFJWkZMeWpBd2ZTcDZnVUxQOUFIOXBGMW55NEkxQ19FRS1SRTVkd3ZqeG5uanNwZi1RdXQwTThERVV5VGFxYTVxMkNlamJLNTU5OXBBQlVtTjFJaFlBN0lQbTR2?oc=5",
+      "date": "2026-11-18T02:30:06.000Z",
       "topics": [
         "정치·선거"
       ]
@@ -14436,19 +14561,6 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaUdudWQ2cG1tWG1PRUtkUWZuRkowWVc2azVRVFBHbDhfdlRmWmtLdGZ1SmpZN1g1ZjZZOTUxZU5MSmlFck1oZzBvX25ldGhmSGFXTFVKWmdsdUFUY0U4M2xKWGx4UG5hZUV2b2REOWl0UDhBVjZOMkJxbEYzOGNrQ3JGd3dZVmx5QTI5eXllejJ6U1c3?oc=5",
       "date": "2026-11-16T22:01:00.000Z",
       "topics": [
-        "산업·시장"
-      ]
-    },
-    {
-      "source": "wsj",
-      "country": "us",
-      "title": "U.S. Natural Gas Futures Settle Lower",
-      "titleKo": "미국 천연가스 선물 가격 하락 마감",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEQwdHNLc2RNT0Q3X3pSei1YakVrcnJxbk0yNC0tOWlxUXlsX0lLaTVjbExmNlFMbllHMGNZeUYtcTh2bXBMOUE2UW1Bd1V3TG4tdTdvMUFWVi1QdnlzcVZKOWItWnVMY2F2ZC1FemZzRElWR1pHeUFkdWl0U3ZncGdHQWUwbGpTRDRNVkdYOWRLcWZFamJoMjBzTU5DZw?oc=5",
-      "date": "2026-11-16T21:51:00.000Z",
-      "topics": [
-        "에너지·원유",
         "산업·시장"
       ]
     }
