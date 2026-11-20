@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-20T21:21:51.642Z",
-  "count": 1136,
+  "updated": "2026-11-20T21:27:31.913Z",
+  "count": 1145,
   "items": [
     {
       "source": "wsj",
@@ -91,6 +91,19 @@
       ]
     },
     {
+      "source": "guardian",
+      "country": "uk",
+      "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
+      "titleKo": "JP모건 CEO \"영국 은행세 인상은 부당, 상쇄 방법 찾겠다\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVXFYdVFvXzlBaVZqSTVCMkNHODYyZk9MLUZGZnpRM09IS1Z6NmZTTU9pVHo5aUNlNmJhek1xSEcwTDRoVkpsVUxuOGRxNkYwdjZUNnpSNjlEdlctUnR2ZmJrWVhMQ05JOGgzMS1USFA4YjJ3ZGlqc3g4dDNCNEROVmRxYlF2QTRSOEZMOXhlZHRzaGFhNGhLcjlzQU1hZw?oc=5",
+      "date": "2026-11-20T19:42:29.000Z",
+      "topics": [
+        "예산·재정",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "handelsblatt",
       "country": "de",
       "title": "„Der Begriff Faschismus findet zu inflationäre Verwendung“",
@@ -101,6 +114,19 @@
       "topics": [
         "금리·물가",
         "경제·물가"
+      ]
+    },
+    {
+      "source": "reuters_ru",
+      "country": "ru",
+      "title": "Denmark says it thwarted Russian plot to assassinate US-Ukrainian rapper",
+      "titleKo": "덴마크 \"미국·우크라이나계 래퍼 암살 러시아 음모 저지\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa3pnR2JQcmdEOFhWYVNRZDdPVG1jRktuenpJdThGbUV6Z3BQV3ZUTHo3Y2ZyY3ZwZ0UzblB0RkZzdExxeV9KaUZFZmEzNlZDSGxhOXFoeXVaSllkQ3ZFZTUzMU9IUGppQjhuSXBMQTlITEJfWTdlN3RCTU82dHNndGFQdGhCZWU1akZ0T2ljWUNTVmtWMmk5SDZHeE1feTZ1aUtTZFNGZU1OLUFFYXBRX2loR0dGZw?oc=5",
+      "date": "2026-11-20T19:19:49.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
       ]
     },
     {
@@ -347,8 +373,8 @@
       "source": "aljazeera",
       "country": "me",
       "title": "Iraqi forces deploy to Jurf al-Sakhar after deal with Iran-backed group",
-      "titleKo": "이라크군, 이란 지원 단체와 협상 후 주르프 알사카르에 배치",
-      "tr": "google",
+      "titleKo": "이라크군, 이란 지원 무장단체와 합의 후 주르프 알사하르 배치",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSDdELUI3RVJITHJubkdreVZyVEVNSGFjV0hZRnZ6WlMzRG03NXBOclVuaktKX2ZHTVBNSEJXeUpmOE13ejhxdE1WUXQ3bl9VckVBbkhBdUt2Y1JoLVpWSEtIQmNMcEpOY0QwTlFqdFhYTEt6bDh2RWdfelhQcWFsdEpYY1BHVVgtUXdCQ29jWGdQVEx4TlAwdWRMZW13bElkaFVtSVJMZGNzbXk5anBGSWxaQdIBuAFBVV95cUxPd1dodnduMjZCVVl6VWFCOElnZWRTeFpEbjBhSmlVWkFVeDR2M2pEVkNzOGxTYmVtcWp5OWxyX2M2OTRyUG1xaGsyTlNxZWV3VE1Sb2xrWFNzLTU0RnpGQXR1ZHZrTzRfYkdBdFZRS1BSWHkxeUNUdV9UUG1kQjFFTEdIbEs0TUEyZzN3YVFreG1nQVRkZVpUQWN1SVh5UHpXeDJuZnJCcXB5dzktZFg4TWZ3QU1jNVVG?oc=5",
       "date": "2026-11-20T16:43:36.000Z",
       "topics": [
@@ -638,6 +664,18 @@
       ]
     },
     {
+      "source": "kommersant",
+      "country": "ru",
+      "title": "«Газелям» протерли фары",
+      "titleKo": "가젤의 헤드라이트가 닦아졌습니다.",
+      "tr": "google",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15QmxxR0p1TjE5c1JqcUhJS3dfcVIyRXpxYWZZR0lVd05OX0JSNVNYRzJYdHhncVNfY2ZZQTNhSTFxRGduTDBiNXY2b0llQQ?oc=5",
+      "date": "2026-11-20T13:59:00.000Z",
+      "topics": [
+        "에너지·원유"
+      ]
+    },
+    {
       "source": "faz",
       "country": "de",
       "title": "Boris Rhein im Interview über AfD, Merz und Gen-Z",
@@ -823,8 +861,8 @@
       "source": "xinhua",
       "country": "cn",
       "title": "China-Africa economic, trade expo opens South Africa session",
-      "titleKo": "중국-아프리카 경제무역박람회, 남아프리카공화국 세션 개막",
-      "tr": "google",
+      "titleKo": "중국-아프리카 경제무역박람회, 남아공 세션 개막",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EZi1ZZ09wT0dFOGJkbllib01uLVdaVkxIRjZ1NmlXRUNFZ2NOeDl6OXNFTXlmQlpnd0EzY2pMUWdfTzhaVE54THJENnlid293aFQ5aXg1U244Z0FYWXQ0X1BHcjMxbVlNWVFZOWVmU2p2Yl9xVURMSVJyeGw?oc=5",
       "date": "2026-11-20T12:48:15.000Z",
       "topics": [
@@ -986,12 +1024,25 @@
       "source": "reuters_ru",
       "country": "ru",
       "title": "Russia accuses Estonia of erecting new 'Iron Curtain' with border closure, says it will respond",
-      "titleKo": "러시아는 에스토니아가 국경 폐쇄와 함께 새로운 '철의 장막'을 세웠다고 비난하며 이에 대응할 것이라고 밝혔습니다.",
-      "tr": "google",
+      "titleKo": "러시아 \"에스토니아, 국경 봉쇄로 새 '철의 장막' 세워…대응하겠다\"",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRDVRQW5RZGNBNU85SFFyWk5kaFNWZV9kZ2U1Nnp5VWlYTktJQ2daYmh1Si1aUlR1Y053SHM2cHV0RTktZFZacmQ1Y0tXX1ZmMTdIaFY2WVhkT0pSYnJVbEt2NzdZRWZ4OFYxMGl0TFp2TzViSmdXMFhQNm0zbzA1WTNJb2R5aDhIZ2RZWDBxSkpTYUMxNV9pSHBieWhLZzNwdFB4eXFYZlVsV015bTJ5SlhyU08wbkMwQTNnbTVvTEdfZ0E?oc=5",
       "date": "2026-11-20T11:50:09.000Z",
       "topics": [
         "이민·국경"
+      ]
+    },
+    {
+      "source": "wire",
+      "country": "in",
+      "title": "Canara HSBC Life Insurance Renews Association with Canara Bank Marathon 2026, Championing a Healthier and Financially Secure India",
+      "titleKo": "캐나라HSBC생명보험, 캐나라은행 마라톤 2026 후원 연장…\"더 건강하고 재정적으로 안정된 인도 지향\"",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRXY1OV9Nc0hPMzBCMUlBLTNsZHJFSDA0MjVyR2MzTTc3Z0tKeXRWc3BTMnZ2VW1QeGEzbDJGdVBVMHd1WFFUZ3BlRkNGRktZc1BWSGZoZWlZMGJVS0tvSWNKcndyeXFRR0FodzFkMTZ6M0V0RU1JS293QVN2MGhsbDhVRnBsdzNzdXNudWsxeXNzeE1PamhrbktNTmhueGF4ck1tZ3dQZXVOY0NmeEwxMl8tdUNLbl9jaUJYb01PYXltMGx5a3hYMms1WmtOc3IxN18zWlZ1Z1QxYzFoLVdCNjdBWWtEUEs1dzQ4bHVOTlVNT1pKcmdZSlJHSTPSAYICQVVfeXFMTjM4MDlLRDBBVTBJdTRBOWFMR2NVOHZTRWpVLVFhLUZDYlhkX1dkN0FGVGQyNVZta2xud3ItTU5QU3FDUHd4THNwcmVpdnNqVWhoWEdVaVRlVnF6cnQzNEZyc1NyU0w5UEpUbGZMV3NJbkI0U2FhUHlORDZPTHRYekpyY3hfc25fMmQ1UDNrSVhHVnBEaFMtYzhDOTNBTEdnNkZaSnhBZWREeF9kZXJwRGhaa1V6Y2J6TzFkZWxfWG9QTk5Rc0t2V194Z2NlZHVLZWp5YnJsS0p3OXZReF9WODFXWURESERSSHJaSC1uS0JwbmhGelB1blROeGZxeWg3YkJ3?oc=5",
+      "date": "2026-11-20T11:43:20.000Z",
+      "topics": [
+        "산업·시장",
+        "사회·생활"
       ]
     },
     {
@@ -1106,7 +1157,7 @@
       "source": "kommersant",
       "country": "ru",
       "title": "В Прикамье пять компаний уличены в занятии нелегальной финансовой деятельностью",
-      "titleKo": "프리캄예 지역 기업 5곳, 불법 금융 행위 적발",
+      "titleKo": "프리캄리에서 기업 5곳 불법 금융 행위 적발",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1jUElqMWhWemNKOVk3a1pzYXZhRHlkWEwybXJ5akdrUk5mcmMwSFlINlBYUzBIM3ZHRWdKcTFRdWMybU1rQjkxTHBiS3VZZw?oc=5",
       "date": "2026-11-20T10:58:38.000Z",
@@ -1118,8 +1169,8 @@
       "source": "jagran",
       "country": "in",
       "title": "पीएम नरेंद्र मोदी से मिलने के बाद बदल गए सूर्यकुमार यादव के दिन, एक के बाद एक मिली खुशखबरियां; खुद कबूली ये बात",
-      "titleKo": "Suryakumar Yadav의 나날은 Narendra Modi 총리를 만난 후 바뀌었고 좋은 소식이 연달아 들었습니다. 나는 이것을 스스로 인정했다.",
-      "tr": "google",
+      "titleKo": "모디 총리 면담 후 수리야쿠마르 야다브의 날들 바뀌어…잇따른 좋은 소식, 본인도 인정",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa3AyN1BvUDJYQjZMa3hlTjBOTFN2Ni1pZ3JlOTFxNlJGOE9DYkt0VjVfZkJOMmRrTzBMNHVncGNUMHZxVU9XLVNGWmFBbzZnN2pHSkZmOTZ2Tm5uRmpVNTB5UW80UmhCX3ZQbTRvdkR0OW1aSHpmMmxseDhFb0tLbnVjYW5VME1pSUFiSUN0QW85Y1o1ay1HRzZfejU5dkFya2VmSjVoYXZmWWJPRkZXaGp0SWZjM0FhTkJybmx4eGZ2cWYtaF9USy1jNWhudUZuLXRzVGdwUzJhd2tSSVFyQXo5cWw5WkxOdktHa2dzOEl2MFdMejFacjJPWm5NWEZR?oc=5",
       "date": "2026-11-20T10:40:00.000Z",
       "topics": [
@@ -1179,11 +1230,24 @@
       ]
     },
     {
+      "source": "tass",
+      "country": "ru",
+      "title": "Press review: China, Russia, US hold first summit as Washington backs EU in Ukraine talks",
+      "titleKo": "주간 언론 리뷰: 미중러 첫 정상회담, 워싱턴 우크라이나 협상서 EU 지지",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1PUFktTFpaTDZnc0pBbHlYODdsbGt3bVlVeUFVZzlaMThTY0NSSU5NdExFYjlXZ29fMV92SHVveDM0ZEVtQmxXV3E3SW_SAVJBVV95cUxPZTFTTTBwOWxPYnVibWNfczFQNGpaa2VVT09yUDM4WnJvMDBQN0xxck5ndlJhWkxhRzU4X3JROGN0cXV2TzZRdDdzYXo0OWNKaHVn?oc=5",
+      "date": "2026-11-20T10:08:37.000Z",
+      "topics": [
+        "전쟁·휴전",
+        "외교·안보"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Opinion | The Democrats’ Plan for Investigating Trump",
-      "titleKo": "의견 | 민주당의 트럼프 수사 계획",
-      "tr": "google",
+      "titleKo": "칼럼 | 민주당의 트럼프 조사 계획",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0NrTXZWcXJWZlNUQmQwVUVKUUlpQ2J4d3BTWHpKei1WNFpWT0xVRHV6bHc1X25KbXdCaUp5VTZZeEdHNFBPVjhNREVQNkRCa1VvY093b3dKbDNlV0hFWi1BTTlvOHE4RkhBMERLcG1KVXVzTUZhM1BCUDB5dUtWZDJITkFheHM?oc=5",
       "date": "2026-11-20T10:04:04.000Z",
       "topics": [
@@ -1296,6 +1360,18 @@
       ]
     },
     {
+      "source": "tass",
+      "country": "ru",
+      "title": "Russian Foreign Ministry on E3 representatives' visit preparations, security principles",
+      "titleKo": "러시아 외무부, E3 대표단 방문 준비 및 안보 원칙 언급",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5JbzNyUzBKVWRBRXh2ZUctdVNfY0otaC1rU1RXZWdmUlZIV2thVV9ZbENYT01LcTFYcWNta2ZFUTBYamRWRGtCMNIBTkFVX3lxTE9iRVVxdW9CRVM0UXNPcUJSZU5WUG9aWTRQVlZBZkhVN1AwOEt1TjBaR2NHWDhIOUQwODZLeWRHZW4xT3dpNzlJc3hVUXJUdw?oc=5",
+      "date": "2026-11-20T09:23:37.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
       "source": "wsj",
       "country": "us",
       "title": "British Bank Backed by Kushner’s Affinity Gets U.S. License",
@@ -1318,6 +1394,32 @@
       "topics": [
         "정치·선거",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "mk",
+      "country": "kr",
+      "title": "바커, 반도체 공동 패키징 광학(CPO)용 소재개발 정부과제 선정",
+      "titleKo": "바커, 반도체 공동 패키징 광학(CPO)용 소재개발 정부과제 선정",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VbE9OcF92aWpjTExuWmxRTDlYeGJvcHJYV2NGT1gwNkZwNmVseHJuYU5kcTRhdTRsU0hZTlBENE4ycHJjM3B3ajhZaGVrS0ZmQnpUbGln?oc=5",
+      "date": "2026-11-20T09:00:46.000Z",
+      "topics": [
+        "AI·반도체",
+        "정치·선거",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "asharq",
+      "country": "me",
+      "title": "مجلس الشيوخ الأميركي يقر تشريعاً لإصلاح منظومة تراخيص مشروعات الطاقة",
+      "titleKo": "미 상원, 에너지 프로젝트 허가 제도 개혁 법안 통과",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQR0VWMUk4MWhQSTNlelJLdzgyVkw2a1RHWV9ja0tWWkNWMEtfRVUtUGkzaFRiWHJpT1FnVUZFUnAzbk1RV1dJbnlXX3lMX2QyLWpCRHJEME5KNHNYQ3dUUWkxX0NmWkpvLUp2Yy1PcGQ1U0ZWcU1PWXlFbnM1Mko4Ym00ZEZNRnJLZE5oSzN5eEZyRS1wUnNVM190YUlSaS1LWml2VVZKazJLcUtmZTQzc281M1NiVG1IRng1UVg1a2RXYTBGSEZzZXI3M2ZZWXBJY2VPQTBmSVB2R0lBZUFFWHFWU1J1S0xLQVVRREt1alNRaG80RHdyVENRa2NYaW5ydWp0NTQ0SFlCMFpfVFl0WmNXYmhQZUlGQkVXSnltWUJsTU9LR0FpUzU3ZXYtVHh3ZHdISXRJNDhSakluYTRidjJtbmc4ckluQzlWSzZ4QlBYWEJwNFdzOVZ2YmRIWnZsSTlwd1BpUDZRUU5OWk1NTzRoenJzOVFPcEV1OURtU1o5cVR2eDVTXzUwQzRPTFZXRU5qeFFBOVJaTEJidjhOaWJFNWdnUXl0dmJIQ0VpX3FzT2JaakZzQllTQUtCVlNsOWxhdjI0V1B6UFFhN3VyVUh6dVFHRGFzMFE?oc=5",
+      "date": "2026-11-20T09:00:37.000Z",
+      "topics": [
+        "에너지·원유"
       ]
     },
     {
@@ -1919,8 +2021,8 @@
       "source": "republic",
       "country": "in",
       "title": "Countries Increasingly Seek Free Trade Agreements with India as Piyush Goyal Highlights Expanding Global Ties",
-      "titleKo": "Piyush Goyal이 글로벌 관계 확대를 강조함에 따라 국가들은 인도와의 자유 무역 협정을 점점 더 추구하고 있습니다.",
-      "tr": "google",
+      "titleKo": "인도와 자유무역협정 맺으려는 나라 증가…피유시 고얄 \"글로벌 연결 확대\"",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQjJkbEdBU01RU3ZpSE1DdEM3Uk9tWlhjQ0V6M1o3MlRJVF9yUW9OM3A5dXFqUkdHYVhqOGFJSy04OENZN0lIdS1vWDk3UlZleDZMTnAtclpxZDJDajVISXhOWFZBVFRVbDdWUUFjeFZCMlpiNnhYWS05cDhjX18xRjU1VVNHQ2l6ajhEZWNMVlY4Ym5hbzF5WERQblVjNWVYRHZwbjJYWnBPdGViMG5CTHNnSEl5cy1rWXZlNGpDUjJVajNURTJ1Ykktc001eGdxVVh6MFN5Q2dxRmlkQjRtQ0VOQlluN2dtdnZrZk4xY0pyUnJGM3fSAfsBQVVfeXFMT1J2cXlfdWdTT0k3V3U1WldWRDE2UVZiamFjbFlRaExjRW55bXdheHNvWDdSazFWV2pNMlBSWHNyLXBaRVU2TEtxamwxUUNKQXJoWTZ0RjlaUHVHcWZvUlhBYjF0R2V5MVRyTjI1MUo3bGdBUzhQSnZlTDdaYVcxSmdla21oMVpsSWloR3BVT2w0MkdOS0MxSjVpU1lYVkNPR3NuUi05b0RlRGFmVk9zYkJMa1dKUjZxR3RQX0RaQzdLY0pvcDRTQS1rWU5GeVVIaWtvSWFORjRuUXlnOFZfbGYyRGk5RDNMZnFUUmR4N0IyRldENUJPSklTR3c?oc=5",
       "date": "2026-11-20T05:18:24.000Z",
       "topics": [
@@ -2347,8 +2449,8 @@
       "source": "reuters_ru",
       "country": "ru",
       "title": "Eight killed in Ukraine as Russia hits back after Crimea bridge attacks",
-      "titleKo": "우크라이나, 크림반도 다리 공격에 러시아 반격으로 8명 사망",
-      "tr": "google",
+      "titleKo": "크림대교 공격 후 러시아 보복 공습…우크라이나서 8명 사망",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW5ZVDlLVDZMeWxSUU5VRnVsbVZja1A5bmhtTVd4OFBZWEZFSzFENVFIQUdaLV9JOHZVQjhGcGhqUHJtZ2JrTk5NX3FEV0NScmVwUWtrUmRqbkhGcThkMmp1bWw1SkRneVkzb2pVNzZqTmU0VnA2T1pCVlA3aGoyUEExU2xOSU1TcnpfaFRUa3hBRzNDZzlWOWxFR0RyeTZkeGRyMmtsbEJId3lMRUE?oc=5",
       "date": "2026-11-20T00:41:00.000Z",
       "topics": [
@@ -10268,6 +10370,20 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDVnaFdqZktfbkF0UE5wdlBUMGRVdlFWenZmSFp3ZDRFQVZINURYLVZTUmVZZlVlMUMtZzNmbmg2WjRFSThBMjk4Y2ZMbkctY004M21vNGEydTFtTlZKbGs2VTVjb01zYUVtVVlpV2p0SFd3Y1ZwMEdXTUtFdnBnN2RoQlc4bXBVWEpxcDFRci1pb2J4bjJoTDM4MnlFaE56OXJEdDdqTUdjUTQ5QzF1U1QxWHc0Tk0?oc=5",
       "date": "2026-11-18T05:01:00.000Z",
       "topics": [
+        "경제·물가",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "asharq",
+      "country": "me",
+      "title": "قطر تقلص انكماش الاقتصاد بالربع الثالث لكن القطاع غير النفطي يتراجع لأول مرة",
+      "titleKo": "카타르, 3분기 경기위축 폭 축소…비석유 부문은 처음으로 감소",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxONUpjS1AtTTRNOFZ2aWlpdURaemFXOTM5aTlCOFlDQW9uX2VvU3BiVzhOX3Y1a1d0cW5ZckdoYk95V2F2NkRwa1hJOHA3ZDFBdW9RM0p3RjVTejd1dFY4eGRkejE3bFVQb0FsOVpsN3huZ0h4enJ5SnVLZDBIcWNXTFlRd1NrcVUydmpEQjl3TmdyS0MwTjlSWXpnX0ZwR1FCaWtlaUJCd2xEcjZiOXJQWWJmRVEyYmE5MEtRN1l1Y0dlZjV1Q0hVOXFqSkRKekh0Q3NlRHRvSmJRVkhCTERIczBUSHdkVnEtQjBoMmg3Q0lRMGZJUnlQaWF3MndrWHNoYXVGWURtSnJ1WTBkY3BHelV3OTk1cUp3WFpXLVpuSHNpTndBSnJOSXlLSDlJU19VMC1laEdEblZLYmVUVEt3YzlwY1JWYS14Nk1YTGprbDFtcnRfSGc1N1JVR0s1V2JKRTUtaGxCbTlNdnhtSVdBcHhMNXo3aGZuQWxtZHJUTVJHTEd4S2xuV1BGS1Q0MzREcGZrd29Hb2ZEZkRiNjRxTWhkWVdiLUNMWU5qaThEYkNEeGVwTnUxZTM2enlNeVQwcWNYRkMxdTJ2cm1xUU1fOUtKOTNENnRaaXozN2YzTDJvbTN5Z054OUQzWG0?oc=5",
+      "date": "2026-11-18T05:00:54.000Z",
+      "topics": [
+        "에너지·원유",
         "경제·물가",
         "산업·시장"
       ]
