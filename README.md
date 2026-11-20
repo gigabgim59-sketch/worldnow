@@ -10,8 +10,6 @@
 
 ## 설치
 
-전체 탭의 세계 3줄은 펼침형 사진을 지원합니다. 무료 재사용을 확인한 Commons 사진만 저장하며, 사진은 줄을 펼칠 때 불러옵니다. 자료사진 표기와 촬영자·출처·라이선스를 함께 표시하고, 적합한 무료 사진이 없으면 텍스트만 유지합니다. 아침 작성자는 `BRIEFING.md`의 `headlineDetail.photo` 규칙을 따릅니다. 사진에 유료 검색·생성·추가 AI API는 사용하지 않습니다.
-
 1. GitHub에 `world-news` 등 새 저장소를 만듭니다. GitHub Free의 Pages는 공개 저장소가 필요합니다.
 2. 이 폴더 내용을 저장소 루트에 올립니다. **`.github/workflows/news.yml`도 포함**해야 합니다. 다른 프로젝트를 덮어쓰지 마세요.
 3. Settings → Pages → Build and deployment → Source를 **GitHub Actions**로 설정합니다.
