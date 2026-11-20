@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T22:01:13.275Z",
+  "updated": "2026-11-20T22:07:30.016Z",
   "count": 1162,
   "items": [
     {
@@ -363,8 +363,8 @@
       "source": "sz",
       "country": "de",
       "title": "Deutschland und Katar: Iran-Konflikt diplomatisch lösen - Panorama - SZ.de",
-      "titleKo": "독일과 카타르: 이란 분쟁을 외교적으로 해결 - 파노라마 - SZ.de",
-      "tr": "google",
+      "titleKo": "독일·카타르, 이란 분쟁 외교적 해결 모색",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1FOZHhCem5pTEU0aWFhODBHbHNyWkxBVTdBTnVEUHRvOTB2T0lpbVkxX2hQV0N0ZXdEZWtxWTR4Y25KbDhKMHc4eU54ekZTZ3k0Y19mbUV1eHRPTzZwc2JXWnRGTnRkcmJ5Z2c4MmJoZl8yRkRmdFkxbG5tX0JwX2dLc1Yyd01YSlBmTVgyTTQ4VmNBdzgyNlhucUljWmZWV3JCQ2lB?oc=5",
       "date": "2026-11-20T17:30:30.000Z",
       "topics": [
@@ -5544,6 +5544,18 @@
       "topics": [
         "정치·선거",
         "산업·시장"
+      ]
+    },
+    {
+      "source": "khan",
+      "country": "kr",
+      "title": "[속보] 트럼프, 3자 정상회담서 “우리는 지금 역사를 쓰고 있다”",
+      "titleKo": "[속보] 트럼프, 3자 정상회담서 “우리는 지금 역사를 쓰고 있다”",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzSGRTRU9oTWdoekxkaUtfQ3FhVGdBT1NpSjFGdlVTNUoycXRwOEtDNUtWQkp2bVdOa1paa09nR0RfeXh0X0xuUnI4RTUzX2d0WExvNHpPMWgyZ9IBX0FVX3lxTE0wbU14ZzVVelV1Um84NlVNeEIzRE4yMFpvTndVM1JVa01JazVqM0ZNdDNWUURkdkhVUEo4Q1hZdVVuTk9pRmh1NDM0X0Q2aXNWUGVoMmJIV3lsUVFMRGlv?oc=5",
+      "date": "2026-11-19T09:01:00.000Z",
+      "topics": [
+        "외교·안보"
       ]
     },
     {
@@ -14647,20 +14659,6 @@
       "date": "2026-11-16T22:11:00.000Z",
       "topics": [
         "AI·반도체",
-        "산업·시장"
-      ]
-    },
-    {
-      "source": "wsj",
-      "country": "us",
-      "title": "U.S. Stocks Extend Slide on Nvidia, China Fears",
-      "titleKo": "미국 증시 하락세 확대…엔비디아·중국 우려 겹쳐",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFF6T2tpa2JWRXltSGhKSThhb0FaSFJ4OUpfQko5N2IzRFBraDNmdjBtaGxnWkZaMTh3a2hmSm9tcmlHMjRMU0lPcTZScHFWRHo2d0pHZlZKMUhNVGphMURVTzNCRFdTMGt2TmpzRjZBaGdpZ1hLYk14X1RQSVFuV0VPS2dPdVVTWC02VmFlVVZzTTg?oc=5",
-      "date": "2026-11-16T22:06:00.000Z",
-      "topics": [
-        "AI·반도체",
-        "외교·안보",
         "산업·시장"
       ]
     }
