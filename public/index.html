@@ -29,8 +29,8 @@ button{cursor:pointer;background:none;border:0;padding:0}
 
 /* 나라 탭: 모바일 6열 두 줄, PC 한 줄. 높이는 setTH가 이동 위치에 반영한다. */
 .tabs{position:sticky;top:0;z-index:5;background:var(--card);border-bottom:1px solid var(--line)}
-.tabs .wrap{display:grid;grid-template-columns:repeat(6,minmax(0,1fr))}
-.tabs .wrap{justify-content:space-between}.tabs button{flex:none;min-width:0;min-height:44px;padding:9px 2px 8px;font-size:14px;font-weight:600;color:var(--faint);border-bottom:2.5px solid transparent;white-space:nowrap}
+.tabs .wrap{display:flex;overflow-x:auto;scrollbar-width:none;-webkit-overflow-scrolling:touch}.tabs .wrap::-webkit-scrollbar{display:none}
+.tabs .wrap{justify-content:space-between}.tabs button{flex:none;min-width:0;min-height:44px;padding:9px 11px 8px;font-size:14px;font-weight:600;color:var(--faint);border-bottom:2.5px solid transparent;white-space:nowrap}
 .tabs button.on{color:var(--ink);font-weight:800;border-color:var(--ink)}
 @media(min-width:760px){.tabs .wrap{display:flex;gap:2px}.tabs button{flex:1;padding:12px 6px 10px;font-size:15px}}
 
@@ -115,6 +115,7 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
  .bidx-c li a,.bidx-c li:first-child a{border:0;padding:0;min-height:0;align-items:baseline;gap:6px;font-size:14.5px;line-height:1.5}
  .bidx .no{display:inline;color:var(--green);font-size:14px;font-weight:800}
  .bidx-c li a i{display:none}
+ .bidx-c li a .sb.sm{align-self:baseline;position:relative;top:-1px}
  .bidx-c li a:hover{color:var(--green)}
 }
 .t3{padding:14px 16px 4px}
@@ -538,7 +539,7 @@ function renderBrief(){
   const kk=ks=>(ks||[]).length?'<span class="ikeys">'+ks.map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>':'';
   if(state.country==='all'){ // 전체: 나라별 이슈 제목만, 누르면 그 나라 탭의 해당 이슈로
     h+='<section class="bidx"><h3 class="bidx-h">나라별 주요 이슈</h3><div class="bidx-grid">'+shown.map(([c,C])=>'<div class="bidx-c"><h4><a href="#'+c+'" class="bjump" data-jc="'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a></h4><ol>'
-      +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b>'+(it.status==='new'?'<span class="sb new sm">新</span>':'')+'<span'+(it.status==='cont'?' class="old"':'')+'>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
+      +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b>'+(it.status==='new'?'<span class="sb new sm">新</span>':it.status==='cont'?'<span class="sb cont sm">이어짐</span>':'')+'<span>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
   }
   if(state.country==='all')h+=knowHtml;
   for(const c of regions){
@@ -562,7 +563,7 @@ function renderBrief(){
 function render(){
   document.querySelectorAll('[data-view]').forEach(b=>{b.classList.toggle('on',b.dataset.view===state.view);b.setAttribute('aria-selected',b.dataset.view===state.view)});
   $('rawUI').hidden=state.view!=='raw';renderBrief();
-  $('countries').innerHTML=[['all','전체'],...Object.entries(COUNTRIES).map(([k,v])=>[k,v[0]])].map(([k,n])=>'<button data-country="'+k+'" class="'+(state.country===k?'on':'')+'" aria-pressed="'+(state.country===k)+'">'+n+'</button>').join('');
+  $('countries').innerHTML=[['all','전체'],...Object.entries(COUNTRIES).map(([k,v])=>[k,v[0]])].map(([k,n])=>'<button data-country="'+k+'" class="'+(state.country===k?'on':'')+'" aria-pressed="'+(state.country===k)+'">'+n+'</button>').join('');try{const on=$('countries').querySelector('.on');if(on&&$('countries').scrollWidth>$('countries').clientWidth)on.scrollIntoView({block:'nearest',inline:'center'});}catch{}
   $('ecoBtn').classList.toggle('on',state.eco);$('ecoBtn').setAttribute('aria-pressed',state.eco);
   $('origBtn').classList.toggle('on',state.original);$('origBtn').setAttribute('aria-pressed',state.original);
   $('topicNow').hidden=!state.topic;$('topicNow').innerHTML=state.topic?'주제 <b>'+esc(state.topic)+'</b>만 보는 중<button id="clearTopic">해제</button>':'';
