@@ -87,6 +87,7 @@ select.chip{appearance:none;-webkit-appearance:none;padding-right:12px}
 .know em{font-style:normal;font-weight:800;font-size:13px;color:#b57712;padding-top:2px}.know b{font-size:15px;line-height:1.45}
 .know p{margin:3px 0 0;font-size:13.5px;line-height:1.5;color:var(--sub)}.know small{color:var(--faint)}
 
+@media(min-width:1000px){.top2{display:grid;grid-template-columns:1.7fr 1fr;gap:14px;align-items:start;margin-bottom:16px}.top2>section{margin:0}}
 .bidx{margin:6px 0 18px}.bidx-h{font-size:13px;color:var(--green);font-weight:800;letter-spacing:.04em;margin:0 0 8px}
 .bidx-grid{display:grid;gap:10px}
 .bidx-c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px 6px}
@@ -196,8 +197,6 @@ details.src a b{color:var(--ink);font-weight:600}
 .t3copy .t3list{display:block;margin:0;background:var(--soft)}
 .three .t3copy .t3list li{border-right:0;padding:10px 12px;line-height:1.65}
 .three .t3copy .t3list li+li{border-top:1px solid var(--line)}
-.know{margin-top:20px}
-@media(min-width:760px){.know ol{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:0}.know li{display:block;border-top:0;padding:12px 18px}.know li+li{border-left:1px solid var(--line)}.know em{display:block;padding-top:0;margin-bottom:5px}}
 @media(max-width:759px){.t3body{margin-left:0}.t3copy .t3desc{font-size:15.5px}}
 
 /* 최소 수정형: 나라별 읽기 폭·제목 줄바꿈·날짜 구분. 전체 목록 구조는 유지한다. */
@@ -515,12 +514,13 @@ function renderBrief(){
         +(d.desc?'<p class="t3desc">'+esc(d.desc)+'</p>':'')
         +((d.items||[]).length?'<ul class="t3list">'+d.items.map(it=>'<li><em>'+esc(COUNTRIES[it.c]?.[0]||it.c)+'</em><span>'+esc(it.t)+'</span></li>').join('')+'</ul>':'')+'</div></div></details>';}).join('')+'</section>';}
   const knowHtml=(state.country==='all'&&Array.isArray(D.know)&&D.know.length)?'<section class="know"><h3>알아둘 만한 소식 '+D.know.length+'</h3><ol>'+D.know.map(k=>'<li><em>'+esc(COUNTRIES[k.c]?.[0]||k.c)+'</em><div><b>'+esc(k.t)+'</b><p>'+esc(k.why||'')+(k.source?' <small>· '+esc(nm(k.source))+'</small>':'')+'</p></div></li>').join('')+'</ol></section>':'';
+  // 알아둘 만한 소식: 3줄 바로 아래(넓은 PC 화면에서는 3줄 오른쪽 옆)
+  if(knowHtml){const w2=h.includes('<section class="three t3">');if(w2)h=h.replace('<section class="three t3">','<div class="top2"><section class="three t3">');h+=knowHtml+(w2?'</div>':'');}
   const kk=ks=>(ks||[]).length?'<span class="ikeys">'+ks.map(k=>'<span>#'+esc(k)+'</span>').join('')+'</span>':'';
   if(state.country==='all'){ // 전체: 나라별 이슈 제목만, 누르면 그 나라 탭의 해당 이슈로
     h+='<section class="bidx"><h3 class="bidx-h">나라별 주요 이슈</h3><div class="bidx-grid">'+shown.map(([c,C])=>'<div class="bidx-c"><h4><a href="#'+c+'" class="bjump" data-jc="'+c+'">'+COUNTRIES[c][0]+'<small>'+C.issues.length+'</small></a></h4><ol>'
       +C.issues.map((it,i)=>'<li><a href="#b-'+c+'-'+i+'" class="bjump" data-jc="'+c+'" data-ji="'+i+'"><b class="no">'+'①②③④⑤'[i]+'</b>'+(it.status==='new'?'<span class="sb new sm">新</span>':it.status==='cont'?'<span class="sb cont sm">이어짐</span>':'')+'<span>'+esc(it.title)+'</span><i aria-hidden="true">›</i></a></li>').join('')+'</ol></div>').join('')+'</div></section>';
   }
-  if(state.country==='all')h+=knowHtml;
   for(const c of regions){
     if(state.country==='all')break;
     const C=(D.countries||[]).find(x=>x.id===c);if(!C){h+='<div class="none">'+COUNTRIES[c][0]+(c==='kr'?'은(는) 이 날짜 브리핑에 없습니다. 한국 기사와 원자료는 아침 검수 승인 후 표시합니다.</div>':'은(는) 이 날짜 브리핑에 없습니다. 새로 추가된 지역은 다음 아침 브리핑부터 실립니다. 지금은 <b>원자료 · 헤드라인</b>에서 기사를 볼 수 있습니다.</div>');continue;}
