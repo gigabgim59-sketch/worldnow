@@ -101,5 +101,6 @@
 - `evidence`는 1개 이상. `media`는 reuters_kr·ap_kr·nhk_kr·xinhua_kr 중 같은 사안을 다룬 실제 비칼럼 기사이며 `links`에 동일 source·url로 넣는다. 국내 매체가 외신을 인용했다는 제목만으로 대신하지 않는다. 해외 공식 발표가 근거이면 `kind: official` 또는 `international-organization`, `actor`, `country`, `url`, `title`, `date`를 쓴다. 한국 정부 자체 발표만으로 해외 주목을 충족하지 않는다.
 - 해외 보도가 국내 갈등을 소개한 수준인지, 실제 국제적 파장과 연결되는지는 Claude가 판단하고 `reason`에 구체적으로 쓴다. 구조 검사 통과만으로 사실·의미 검수가 된 것은 아니다.
 - `reactions`는 나라별 실제 반응을 적는다. `kind`는 정부·국제기구의 공식 반응 `official`, 언론의 보도·논조 `media`, 발언자를 확인한 전문가 평가 `expert`를 구분한다. 보도하지 않은 나라의 입장을 추측하지 않는다. 확인한 반응이 없으면 `[]`로 두며 화면에도 확인된 별도 해외 반응 없음으로 표시한다.
+- `stances`의 외국의 시선(reuters_kr·ap_kr·nhk_kr·xinhua_kr)에 이미 쓴 기사를 `reactions`에 `media`로 다시 넣지 않는다. `reactions`의 `media`는 stances·links에 없는 다른 나라 언론 보도만 쓴다. 화면도 stances와 같은 기사의 media 반응은 숨긴다.
 - **`links`의 한국 매체 기사 URL이 공개 원자료 승인 목록**이다. 인용한 원자료 URL을 그대로 쓰고, 해당 사안으로 검수한 기사만 넣는다. 수집기가 다음 실행에서 최신의 유효한 한국 브리핑을 읽어 승인 URL만 `news.json/news.js`에 반영한다. 후보 원문이 없거나 해외 근거가 칼럼이면 해당 검수본을 적용하지 않고 이전 승인본을 유지한다. 빈 검수본은 정당한 새 승인 상태다.
 - 한국의 `know`도 과거 7일 중복·다른 3개 나라 규칙을 따른다. 추가 검수 필드 없이 한국을 `know`나 3줄에 우회해 넣지 않는다. 3줄은 검수된 한국 본문에서만 가져온다.

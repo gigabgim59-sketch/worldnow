@@ -22,7 +22,7 @@ if(B.know){assert(Array.isArray(B.know)&&B.know.length===3,'know는 3개');asser
  for(const d of idx0.dates.filter(d=>d<B.date).slice(0,7)){try{const P=JSON.parse(fs.readFileSync('public/briefing/'+d+'.json','utf8'));(P.know||[]).forEach(k=>prev.add(k.t));}catch{}}
  for(const k of B.know)assert(!prev.has(k.t),'지난 7일 know와 같은 제목: '+k.t);}
 for(const c of B.countries){assert(c.issues.length>=(c.id==='kr'?0:1)&&c.issues.length<=3,c.id+' 이슈 수');
- for(const it of c.issues){assert(it.title&&it.what,'title/what');st(it,it.title);if(c.id==='kr')checkKoreaItem(it,S);
+ for(const it of c.issues){assert(it.title&&it.what,'title/what');st(it,it.title);if(c.id==='kr'){checkKoreaItem(it,S);for(const r of it.reactions)assert(!(r.kind==='media'&&(it.links||[]).some(l=>l.url===r.url&&it.stances.some(s=>s.source===l.source))),'한국: stances에 쓴 기사를 reactions media로 중복: '+it.title);}
   if(it.keys)assert(Array.isArray(it.keys)&&it.keys.length>=2&&it.keys.length<=4&&it.keys.every(k=>typeof k==='string'&&k.length<=12),'이슈 keys 2~4개(각 12자 이내): '+it.title);
   for(const s of it.stances){assert(S.has(s.source),'모르는 매체 '+s.source);assert.equal(S.get(s.source).country,c.id,s.source+' 나라 불일치');assert(s.text);}
   for(const l of it.links||[]){assert(S.has(l.source));assert(/^https:\/\//.test(l.url));assert(l.title);}}}
