@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T21:28:29.864Z",
+  "generatedAt": "2026-11-21T21:40:19.970Z",
   "feeds": [
     {
       "source": {
@@ -106,7 +106,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.363Z",
+      "fetchedAt": "2026-11-21T21:40:13.601Z",
       "status": "ok"
     },
     {
@@ -145,17 +145,6 @@
         },
         {
           "id": "telegraph-2",
-          "title": "How Joe Biden’s former aide sparked a $100bn stock market sell-off",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFV4OVZvT2pfd0pPR19mYTBDZ3h5ejhxX0tOVV9BdTlNWGFqX0RZV2pQREtIdVVPQXdlWk5Ka0o0MnhBM0hxcU0zTUpTY1dwNE9ZNUcyQnVidlVxWTJ4TnVPU2xiU1VVTEJsb0dhZHFuSmJlSF9DY1VJLVhqdWgxZkJrRXN4X1NsZXpUekFyUWJpMWQtSEhGb1h6ck5TcmY4UkJZZWF3VHhWM2VQ?oc=5",
-          "date": "2026-11-21T09:00:00.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "바이든 前 보좌관이 촉발한 1000억 달러 규모 주식시장 매도 사태 경위",
-          "tr": "claude"
-        },
-        {
-          "id": "telegraph-3",
           "title": "Trump officials release ‘evidence’ of Bigfoot",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUzgxRVhESWYxM0xYNlpfM3hiZnZDNFNLMTBnZHZBUWNuU3ZRd0dfR3hzTDRlLTBoSlpEcGY1NEpLeGJYS0FmMlF6OGlHcjU2SkVDa3VzZmUzdEE4YjZpMVE1czQ3Z0E0R3hQekNlM18zWWVNZ1hTRWZRaFlKT281RVpQWDdfOVpramUwWXdKc0ZoUQ?oc=5",
           "date": "2026-11-20T22:10:00.000Z",
@@ -166,7 +155,29 @@
           "tr": "claude"
         },
         {
+          "id": "telegraph-3",
+          "title": "How Joe Biden’s former aide sparked a $100bn stock market sell-off",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFV4OVZvT2pfd0pPR19mYTBDZ3h5ejhxX0tOVV9BdTlNWGFqX0RZV2pQREtIdVVPQXdlWk5Ka0o0MnhBM0hxcU0zTUpTY1dwNE9ZNUcyQnVidlVxWTJ4TnVPU2xiU1VVTEJsb0dhZHFuSmJlSF9DY1VJLVhqdWgxZkJrRXN4X1NsZXpUekFyUWJpMWQtSEhGb1h6ck5TcmY4UkJZZWF3VHhWM2VQ?oc=5",
+          "date": "2026-11-21T09:00:00.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "바이든 前 보좌관이 촉발한 1000억 달러 규모 주식시장 매도 사태 경위",
+          "tr": "claude"
+        },
+        {
           "id": "telegraph-4",
+          "title": "Migrants use zombie knives to slash HGV roofs",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmRmZUp2dFA2Mml0cnFrQnhhRWYzajhydlZVQUFtY2hwRG1sVTNkdHM4Y0wzT3R2ZDFzaDBXcWpFYVd1ME9IZjFvMHp0clh4UXFhOFlHb3NTdWZDbEpWWFRhNVRkVTFBM0RjdktzR2hNa0FDWHR1bmdsdlVyU3l5ZzNUT045Y1l1UDd4Q0taaF8xNDJt?oc=5",
+          "date": "2026-11-21T14:00:00.000Z",
+          "topics": [
+            "이민·국경"
+          ],
+          "titleKo": "이민자들, 좀비 칼로 대형 화물차 지붕 절단",
+          "tr": "claude"
+        },
+        {
+          "id": "telegraph-5",
           "title": "Russia fires cruise missile into Poland during British troop drills",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTjRjZFdRUEZiUFBtVGdWV29VaXhvS202eUo0a0E4SmpUZDlnVVhWX0xRdnUwZEhyc3N1d1QxdHRtald1N1pUeUdiUENmVHBnVHpLRExudGZxZllJN2VqbzZOcXBwUGJURGNtcC16eml5ZTZQZjV0ZUdWOEhkU0xFSmEwalU1SWw4aHMyWDNoMUlYXzVtTzRMMVJIUEl3MF9qNncwVVU0LXh2aVppZ3Z3?oc=5",
           "date": "2026-11-20T11:58:00.000Z",
@@ -177,7 +188,7 @@
           "tr": "claude"
         },
         {
-          "id": "telegraph-5",
+          "id": "telegraph-6",
           "title": "The £400m race to supply the British Army’s next rifle",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTllHNTduTW9GNUlnSXFIajJLMVpJOGhSOUUzczFwZERaZ2d2S0NlUzhfWEJCZzNmX3RIX2pmalV0Sm85UG5jYkRlX0dFS3NrSmFWWnRMOGI4UmI5dklrRlljNW5ZUzV3d3NOSFFjZm0zNUx6Ql95cGs1VGJYLUpxYXplLWxlRDJYNFhELTB3UWp0bXd6MjAzaEpnbTJ1UQ?oc=5",
           "date": "2026-11-21T06:00:00.000Z",
@@ -185,17 +196,6 @@
             "외교·안보"
           ],
           "titleKo": "4억 파운드 규모… 영국군 차세대 소총 공급 경쟁",
-          "tr": "claude"
-        },
-        {
-          "id": "telegraph-6",
-          "title": "Migrants use zombie knives to slash HGV roofs",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmRmZUp2dFA2Mml0cnFrQnhhRWYzajhydlZVQUFtY2hwRG1sVTNkdHM4Y0wzT3R2ZDFzaDBXcWpFYVd1ME9IZjFvMHp0clh4UXFhOFlHb3NTdWZDbEpWWFRhNVRkVTFBM0RjdktzR2hNa0FDWHR1bmdsdlVyU3l5ZzNUT045Y1l1UDd4Q0taaF8xNDJt?oc=5",
-          "date": "2026-11-21T14:00:00.000Z",
-          "topics": [
-            "이민·국경"
-          ],
-          "titleKo": "이민자들, 좀비 칼로 대형 화물차 지붕 절단",
           "tr": "claude"
         },
         {
@@ -210,7 +210,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.346Z",
+      "fetchedAt": "2026-11-21T21:40:13.595Z",
       "status": "ok"
     },
     {
@@ -227,15 +227,15 @@
       "items": [
         {
           "id": "ft-0",
-          "title": "Tourist tax leaves Scouts facing £1mn bill for camping trips",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFZZelRDSi0wUGhyQzlNSndSdUpUQlNMT09FbVhHcFFKREx1OXRqd0xHMzltOTZNdEI5cDAwUkJXX1paY0JXUXk4SHNNdGlkOUtoMENuMk9oT2l1eGd5eU84QmNjMEgwTXFLd1pqMGFRbERuR2std1c4RFEtaHBZQk5zckc?oc=5",
-          "date": "2026-11-21T05:04:45.000Z",
+          "title": "US companies turn to robots to ease labour shortage crisis",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWlYYW0zV1NQX1RndndLREcxeDlGZnY4cnFGTC1OMFJyQkwwZThLTXItOGlmM1pBSzdSeEJtOVd3blpCUHJGbmJmQmxwYTBhQ1lnOHR3eEVqT3NXd1gwaFA0Unh1NktHUG1mRUw1RjJXdWJMb2FSdExTSGFsem1KSHh5ejQ?oc=5",
+          "date": "2026-11-19T05:01:23.000Z",
           "topics": [
-            "예산·재정"
+            "정치·선거",
+            "산업·시장"
           ],
-          "titleKo": "관광세 부과에 스카우트 캠핑 여행 100만 파운드 부담 우려",
-          "tr": "claude",
-          "titleKoAlt": "관광세로 인해 스카우트들은 캠핑 여행에 대해 £1mn 청구서에 직면하게 되었습니다."
+          "titleKo": "미국 기업들, 노동력 부족 위기 해결 위해 로봇 도입",
+          "tr": "claude"
         },
         {
           "id": "ft-1",
@@ -262,15 +262,15 @@
         },
         {
           "id": "ft-3",
-          "title": "US companies turn to robots to ease labour shortage crisis",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYWlYYW0zV1NQX1RndndLREcxeDlGZnY4cnFGTC1OMFJyQkwwZThLTXItOGlmM1pBSzdSeEJtOVd3blpCUHJGbmJmQmxwYTBhQ1lnOHR3eEVqT3NXd1gwaFA0Unh1NktHUG1mRUw1RjJXdWJMb2FSdExTSGFsem1KSHh5ejQ?oc=5",
-          "date": "2026-11-19T05:01:23.000Z",
+          "title": "Sage maps out the attractions of the UK’s tech hinterland",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjBBNktoMXBZeGE0OUszZzVjZUV3SE55eUdSTDJoZFdacHowcTB1ZEoyeVMzVHhwV0hQbVZTeDdOOXkyRW1VMl9heklJNDI2RjBwdnlxTGlxemdoOHllcWV1V2NncGljM3BaRzZVcC1JeGlQOW1GbU41SnJ3a0E3eWllWEk?oc=5",
+          "date": "2026-11-19T18:44:09.000Z",
           "topics": [
-            "정치·선거",
             "산업·시장"
           ],
-          "titleKo": "미국 기업들, 노동력 부족 위기 해결 위해 로봇 도입",
-          "tr": "claude"
+          "titleKo": "세이지가 그린 영국 기술 배후지의 매력… 런던 밖 기술 거점 조명",
+          "tr": "claude",
+          "titleKoAlt": "Sage는 영국 기술 배후 지역의 매력을 지도로 보여줍니다."
         },
         {
           "id": "ft-4",
@@ -285,17 +285,6 @@
         },
         {
           "id": "ft-5",
-          "title": "The Milburn review is no substitute for an economic plan",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdDFVdkVyYlBZNUNfeXZ5dFJ6bkczYlJTY3FvcERBdmwyZGx3eXp5Z1B5aWlBdDUwSEdKOUN5Vk8tZTJJNWxZQnY2R0FieVpfY29KN0lfNmctV0ZTeUUteW15U2ZOQXYweWtDN0FHQTB6c2szY2ptU2ZpUWpiQ1FlbkZURng?oc=5",
-          "date": "2026-11-20T15:43:27.000Z",
-          "topics": [
-            "경제·물가"
-          ],
-          "titleKo": "밀번 보고서는 경제 계획을 대신할 수 없다",
-          "tr": "claude"
-        },
-        {
-          "id": "ft-6",
           "title": "FirstFT: US approved sale of advanced AI chips to Chinese companies",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeEFnbEotSkNBcWVHSFZuOWlRck1JOXVhUGp1R2tnTnhlUURqbVo4aEprdDhhbVdhSEdiVkgzcURHRVB3c1BrOXRlZ1hGeENoMVZCWW43b0dTaEJ2OXRlTzJTdktHejFwa3lMSXFUMjY4QUtBQkhzY19JV29mVTJpdGo2TzQ?oc=5",
           "date": "2026-11-19T21:50:06.000Z",
@@ -308,19 +297,31 @@
           "titleKoAlt": "FirstFT: 미국이 중국 기업에 고급 AI 칩 판매를 승인했습니다."
         },
         {
-          "id": "ft-7",
-          "title": "Sage maps out the attractions of the UK’s tech hinterland",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdjBBNktoMXBZeGE0OUszZzVjZUV3SE55eUdSTDJoZFdacHowcTB1ZEoyeVMzVHhwV0hQbVZTeDdOOXkyRW1VMl9heklJNDI2RjBwdnlxTGlxemdoOHllcWV1V2NncGljM3BaRzZVcC1JeGlQOW1GbU41SnJ3a0E3eWllWEk?oc=5",
-          "date": "2026-11-19T18:44:09.000Z",
+          "id": "ft-6",
+          "title": "Tourist tax leaves Scouts facing £1mn bill for camping trips",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRFZZelRDSi0wUGhyQzlNSndSdUpUQlNMT09FbVhHcFFKREx1OXRqd0xHMzltOTZNdEI5cDAwUkJXX1paY0JXUXk4SHNNdGlkOUtoMENuMk9oT2l1eGd5eU84QmNjMEgwTXFLd1pqMGFRbERuR2std1c4RFEtaHBZQk5zckc?oc=5",
+          "date": "2026-11-21T05:00:35.000Z",
           "topics": [
+            "예산·재정"
+          ],
+          "titleKo": "관광세 부과에 스카우트 캠핑 여행 100만 파운드 부담 우려",
+          "tr": "claude",
+          "titleKoAlt": "관광세로 인해 스카우트들은 캠핑 여행에 대해 £1mn 청구서에 직면하게 되었습니다."
+        },
+        {
+          "id": "ft-7",
+          "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaExwNlpHdV9JcXIzUVItTFRaazg5RHdDY0lReDFfbW5LcG5oRnlvcGpPNjk5anRrcXdkTml0WUs2aGtXaWotb0UxYl8wb0VXSGRuSnV0LTVJUkJUaHEtN1VqWEFjVldzcU5ldTRTdEJwMG9fT29yYUNuUHNuM0xFcWRFTE4?oc=5",
+          "date": "2026-11-19T00:03:25.000Z",
+          "topics": [
+            "AI·반도체",
             "산업·시장"
           ],
-          "titleKo": "세이지가 그린 영국 기술 배후지의 매력… 런던 밖 기술 거점 조명",
-          "tr": "claude",
-          "titleKoAlt": "Sage는 영국 기술 배후 지역의 매력을 지도로 보여줍니다."
+          "titleKo": "금융권, AI가 취약점 드러내자 사이버 방어 강화 지시 받아",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.358Z",
+      "fetchedAt": "2026-11-21T21:40:13.588Z",
       "status": "ok"
     },
     {
@@ -336,19 +337,39 @@
       "items": [
         {
           "id": "sz-0",
-          "title": "Deutsche Bank: Christian Sewing und das Datenleck – Wie lange hält der Chef? - Wirtschaft - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThNWlBabDRubFc0VUNySHlBRWxLaTcwU25OdkRBeXp3ZU9KSjhNRnpEWEtvRm9fRWtzNU1HLWxnNFJpZ1ZMRFdjZWZ0WG5BdnlGZUhKdmhGTGtualZPd1FHZG9ZSjF5ZTBDeGJyVlVCeU0xTnNlSi1feXNZNDFIVFZUTDk1aFFkRHp1aVVoNi14ZnRwaWhyRDF2WVRTT1VOblVGTjhNdVZBM1E?oc=5",
-          "date": "2026-11-20T12:14:16.000Z",
+          "title": "„Gen Z regelt“: Proteste in Berlin weitgehend friedlich",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUnBVcVFfVXlDeVZKTXFRWDRqZHF6Z1FndFFoelZlaHhtS0hxZDBZcEtGMnFZY3V5cWhzV2RHQ0dDdUlNT0tZSWIwYzBhS2h1LVBVclppYnJpZ2h4Tk5CMWV6WjZBb1BVMWxaeGpCSEgydWZWUTgzZnN1T2F2LUNXajdQc3FxN21CX0xlb0wwYkRYMGRiVld4UDJCaGxxSjB4QlFzNzE4WXV1ODZGcjhmZG1vNkRFMkZtRHdhNkNTUldMMWJwUVBIR3FDTjJ5ZmZkVVFzTno3TGJRNWlGWlNHeVNxcHlQZw?oc=5",
+          "date": "2026-11-21T13:25:28.000Z",
           "topics": [
-            "경제·물가",
-            "산업·시장"
+            "사회·생활"
           ],
-          "titleKo": "도이체방크 정보 유출과 제빈 회장 — 수장은 얼마나 버틸까?",
-          "tr": "claude",
-          "titleKoAlt": "도이체방크: 크리스티앙 재봉과 데이터 유출 – 사장은 얼마나 오래 지속되나요? - 경제 - SZ.de"
+          "titleKo": "\"Z세대가 바로잡는다\"…베를린 시위 대체로 평화적으로 진행",
+          "tr": "claude"
         },
         {
           "id": "sz-1",
+          "title": "Landesparteitag in Sachsen - Linke setzt nach Berlin auf Leipzig als „roten Leuchtturm“ - Politik - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObGNTLUlLN2oyUXJJRXFIeW8wbWRmRkhObmllTXV3M0ZoZExXazB0OF9LU2dlSFFXYmVGSnJNcmNQSE9Cb1RlUVBDMGctTWJRendscEFVMDBwRDRCYnBNZDlkY2F3cThBZkVQbjdQZDFLdFk5MVM3LTlVVFZUM0RYZTRsYk1ITmU3TmxsanFzM1JoN3dWR1hiRlB6XzVlR0tZWGNWT0ZVMW5RbGFCQ2o0UnRDb2V6VWxJcWgwbTl2X2Q0ZmRnWDZoNFFlNDRQOGJWN3F6TUxjUmxNWnBqRU9DYkh0c05oNnRlSHVEUjViczhYMk56Tl9Ob2Jib1c?oc=5",
+          "date": "2026-11-21T13:38:56.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "작센 주당대회 — 좌파당, 베를린 이어 라이프치히를 \"붉은 등대\"로 내세워",
+          "tr": "claude"
+        },
+        {
+          "id": "sz-2",
+          "title": "Verkehr - S-Bahnverkehr in Berlin am Wochenende unterbrochen - Wirtschaft - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNX3RhMlc5Y3FvLWlnanh6ejJ6YmFBRURrSlFyS1E2dzhkWjFKcGRnam04QWVfUEV0My1rWE9tYmQxUnRGc3BmMWV0UEt2bTFXRWxoSF9Sc01vQy1aa1FQN25pMm95aEhkVDI0SlFDdUgtMXduQ1dTWE9iTEUyMTBUQi1mNVJSOTJMcFRWSmZEZXdFb096SnctM3JBdFZrbHJqa1B6a0kwSE9xZ3NROEtMb1dyYWdLREZ4VWg5UWR3OUFwalhsM3BJbkNtal9EamhaUzZXNnNkWC1RU0dMejdj?oc=5",
+          "date": "2026-11-21T10:12:58.000Z",
+          "topics": [
+            "경제·물가"
+          ],
+          "titleKo": "주말 베를린 S반 운행 중단",
+          "tr": "claude"
+        },
+        {
+          "id": "sz-3",
           "title": "Commerzbank: Wie Deutschlands fünf große Privatbanken fast alle verschwanden - Wirtschaft - SZ.de",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdW0yTF9GczVRVXVSNHJ5ZV9vMWt3OVF1d0x6VFhqc1c1a0g2X0s3WUdPbHAta2FxVVlCdVA2TEpubE9NWXVhamRjZE9BZzJQcEtHN1NXWS1FcEw4UlA5bU1EaDltWlEyOEVqd3J3S3NZbEs1eEZkZ0VvUl80NUQ5eUpzMkxHcnhHTllELVRaNEpxUDdoU3VCN3M5ckszUTEtR0FsOWFKOTVrTTNPU1Nr?oc=5",
           "date": "2026-11-20T13:43:31.000Z",
@@ -361,43 +382,31 @@
           "tr": "claude"
         },
         {
-          "id": "sz-2",
-          "title": "Merz lockt Russland mit Sanktionslockerung - Panorama - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmRzSDZLU0RNX2E2U0Ixckd3eUVBejBmMVUwNGpRQW5KTnZERmtYcjMwSElQTWRYZ29Wb1FjajBBbVVZQkk1YjRWWTRyUW9wSFBvOGxMcmJfRnFqVERkOEMxNjNOWkVhcnFCLTNOQkV5empCXzNuSUROT0R1d2wxRFgtZVA0aDZDTW9mTTFTcHhrRV92?oc=5",
-          "date": "2026-11-19T18:34:54.000Z",
-          "topics": [
-            "정치·선거",
-            "외교·안보"
-          ],
-          "titleKo": "메르츠, 제재 완화 카드로 러시아 유인",
-          "tr": "claude"
-        },
-        {
-          "id": "sz-3",
-          "title": "Gipfel in China und Berlin: Putin sieht Europäer als Friedenshindernis, die helfen der Ukraine",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWJUWThIVnVXRC10anpyYUJwcnR3R3V4anpzQUprSnpOa3dpYnFkU1kwX3hIOXhCeVJMUkI1WS1FTmF4QldsTkMwZ0JPcGZ2TmVSMllXQUJJeTNxMkl1bTFfdDRkcHNmMVNRY3h5ay13UEtmU1ZiZmlMZEhkZkhkR2JRRExDelVTYjRiR2JSYnlxMzgzZGVhemY4Zw?oc=5",
-          "date": "2026-11-19T14:21:36.000Z",
-          "topics": [
-            "전쟁·휴전",
-            "정치·선거",
-            "외교·안보"
-          ],
-          "titleKo": "중국·베를린 정상회담: 푸틴 \"우크라이나를 돕는 유럽이 평화의 걸림돌\" 주장",
-          "tr": "claude"
-        },
-        {
           "id": "sz-4",
-          "title": "Olympia-Bewerbung: Bundesregierung setzt auf Unterstützung von Thomas Bach - Sport - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOczUxQ00xQWtjX2tWTXNIaHNraTNVWHpocE1FR2hEdXFDUF8zTk1QbmFGSzNBN0ZxZnpzckF4X0lKV3J3a3pRcWw1R1ZxOWRPdmtaUXJLRGkwaDJXTGJsZm9LN01jUjNWQVV1Q3VTeWduV0o4aGRLejdlN0ZyTjlTRFVxNE9YOXgxRW9GUVBxVzdrRDFudVZVUg?oc=5",
-          "date": "2026-11-19T12:11:43.000Z",
+          "title": "Regierungsbildung in Berlin - Linke-Vorsitzende: Emdes Ego-Show brauchen wir nicht - Politik - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNWRINThYa09BNHIzc2lWYk9sOGVuT3NEd1JEdzFzNU5LZmUzWjRaYXV2UXE5azdma3dwU1ZRbGNCM0RoX1ZwS0xLMXBUYzhPWG9VY3VsQlFndW9ZSHdaUGdWXzZ3SENkcHRjZ3hmLXZ5a05qc2M1bW5KQWdMUUdoTGFWYTNsT3RkZWk4MFlUVnVZTWdjcnRRUGt3eGp3UV9xM2VoaG1uZ3VkUE5XbUU0c1owOU9BMjhFM01LN1E1bkZZY01pT2hZTm05Vzl0alBhMllvQmhRbHR3QUwwdE9yR0lTS185ZHg4Mk5OOWtTeTBJbGRUTGRz?oc=5",
+          "date": "2026-11-21T16:14:15.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "올림픽 유치전: 독일 정부, 토마스 바흐 지원에 나서",
+          "titleKo": "베를린 연정 협상…좌파당 대표 \"에메데의 자기 과시 쇼는 필요 없다\"",
           "tr": "claude"
         },
         {
           "id": "sz-5",
+          "title": "Deutsche Bank: Christian Sewing und das Datenleck – Wie lange hält der Chef? - Wirtschaft - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUThNWlBabDRubFc0VUNySHlBRWxLaTcwU25OdkRBeXp3ZU9KSjhNRnpEWEtvRm9fRWtzNU1HLWxnNFJpZ1ZMRFdjZWZ0WG5BdnlGZUhKdmhGTGtualZPd1FHZG9ZSjF5ZTBDeGJyVlVCeU0xTnNlSi1feXNZNDFIVFZUTDk1aFFkRHp1aVVoNi14ZnRwaWhyRDF2WVRTT1VOblVGTjhNdVZBM1E?oc=5",
+          "date": "2026-11-20T12:14:16.000Z",
+          "topics": [
+            "경제·물가",
+            "산업·시장"
+          ],
+          "titleKo": "도이체방크 정보 유출과 제빈 회장 — 수장은 얼마나 버틸까?",
+          "tr": "claude",
+          "titleKoAlt": "도이체방크: 크리스티앙 재봉과 데이터 유출 – 사장은 얼마나 오래 지속되나요? - 경제 - SZ.de"
+        },
+        {
+          "id": "sz-6",
           "title": "Schwarz-rote Koalition: Erstaunlich, wie schlecht selbst in der CDU über Merz geredet wird - Politik - SZ.de",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDBYemh3NTYzbHdHTzgzaGJHZ3o0c0w2WFlDcTFDQUk4RTM4SjlHcElmaG9uaDV3ODZ1QU1iU3BNX1p2YnJtWTMtUS1vbFgzZ3Q3SHNObTk2bUdrb3ZlQmQ2X3BaalJCbGNSU21nOWlZT2ZMblQ3aUxmYnFkWXlOSnFPZEphSjhlaTRxZlhVckE5dw?oc=5",
           "date": "2026-11-20T14:00:29.000Z",
@@ -408,33 +417,19 @@
           "tr": "claude"
         },
         {
-          "id": "sz-6",
-          "title": "Commerzbank-Übernahme: Bundesregierung gibt bei Unicredit nach – was das bedeutet - Wirtschaft - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdW9Nby1rRmVMVVc4Ty1va3lpWWFLb0JzaU5YM1dKZlp2cEEzbE04LVNPV01vZ1dHRExKMGdWSFp0cjFDYTYxMVhERFA2R1Zra2ZMUS1PVVRHY3FTWGhhdDhHWDBVX2ZWWENaNU1RMGJxZl84OEwwZW5UY21KNG1iZ1IwTlNVZnFOZWx6NGI5cmhIZUpfdVlSSGJHeHhBblE?oc=5",
-          "date": "2026-11-19T11:23:48.000Z",
-          "topics": [
-            "정치·선거",
-            "경제·물가",
-            "산업·시장"
-          ],
-          "titleKo": "독일 정부, 유니크레디트의 코메르츠방크 인수 용인…의미는?",
-          "tr": "claude"
-        },
-        {
           "id": "sz-7",
-          "title": "Ukraine-Konferenz in Berlin: Europäer zeigen Einigkeit – dann ruft Trump an - Politik - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ1prNTh2V3BzNHNVOGNkS2dNQ2NSendiRmo3OUs3bHRMUlA5Vlo1bHk5dFlWanJXWTczZUNEZ0kyZ0hmTWt0a3drWDJSOEhWcEwxaVFETE1mZ2s4Q2Z3RE94alcweDlaOXo2SktRZmdVTlBvc2dleWdqZzRMZ3pCR3FMNkxsN1U2SHktbl9HaDhBTUtqbzRzNzNCSDZWbnpDRFZpMVVSeDhSUl9hUFl0ZW96TDNYSGNBRVhkVw?oc=5",
-          "date": "2026-11-20T12:00:00.000Z",
+          "title": "Protest - Bundeskanzler Merz beleidigt? Polizei erstattet Anzeigen - Politik - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWEpoNU9QUmx3QjZmZzV3RVg2Umt5SG45eXhzZmJLYVhzQXJNS1UtVkJkLW1OQWVzb0UzVDQ5QVcxYmxHdXh3TjJiWWlsYW9YSmMzQmI5RW9nWmktQ1pMUVhoUkRJUUd5ZGJQQUhJY3dPYUw5U2hxZGM0d0JndFE1TmIzT3BTR2RRSC1QT1lTQkFqZnJueFd2SzdDVnBxR1YtQVBaLUMyTU1fY2lXS2VuRHpZUk5rM1NJTm9KSGE1VUhBNzRrcG9iWHhmNUtfaS1GSk0zWjVva3N6Mmc1WkNoOS13?oc=5",
+          "date": "2026-11-20T17:29:50.000Z",
           "topics": [
-            "전쟁·휴전",
             "정치·선거",
-            "외교·안보"
+            "사회·생활"
           ],
-          "titleKo": "베를린 우크라이나 회의, 유럽 결속 과시 후 트럼프 전화 연결",
+          "titleKo": "메르츠 총리 모욕했나?…경찰, 시위 참가자 고소장 접수",
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.368Z",
+      "fetchedAt": "2026-11-21T21:40:13.570Z",
       "status": "ok"
     },
     {
@@ -548,7 +543,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.817Z",
+      "fetchedAt": "2026-11-21T21:40:13.943Z",
       "status": "ok"
     },
     {
@@ -564,17 +559,6 @@
       "items": [
         {
           "id": "faz-0",
-          "title": "Datenleck der Deutschen Bank: Döpfner, der brave Bürger",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaG9EUmM3Q2tvRHV4dC02cVFiaVRmSmNXbV9CbEN1NDg4dWxaNlpudlNlX0dzcjhpaEd0ZXF5OGtlcE5tYTMwbnFVS0phZUtfT1dMTXlvSnM4Mlg1Vk9pZl9sbGN3aXpKamx5bDFDNFFoYXlaMzNDNC1qNS1WMGpUcHpYWmh5NmFjdjJVV290OFNIek0zOUdRNzdBWVVLWXcyMjU2ZkE2YkFDY3dKMWk1bHZiR2VKaWl6MFN6V2NpdV9HOHpBMmhqdWFQSjl3UEdQeEVCOVBn?oc=5",
-          "date": "2026-11-20T14:24:37.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "도이체방크 정보 유출 사태…되팰너 회장은 \"성실한 시민\"?",
-          "tr": "claude"
-        },
-        {
-          "id": "faz-1",
           "title": "Livestream: Verfolgen Sie das Finale des Deutschen Pianistenpreises",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2JaY2tYNXcyOEgzWmxMRFU0QUVOTm9xc1RqdU1WOXFoclVPc2FmVWlDMjZZR19mc2ZqQ2YtcE8xTk4zVU1fQ0MtWmlxazU3UU8yLW9yWEJSN3JSeXQ1REI0STdiVlJKOWhfYzlrZ0dQTmt1di1IdE5za3kzVm55ZTFpRlUwcUJ0cmRGekZHMFdGUW5fV21sNDRlY3o?oc=5",
           "date": "2026-11-21T13:56:22.000Z",
@@ -585,7 +569,7 @@
           "tr": "claude"
         },
         {
-          "id": "faz-2",
+          "id": "faz-1",
           "title": "Lars Klingbeil und das Defizit: Tappt Deutschland in die Schuldenfalle?",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVElXemFWTnk3WE9sOXctelMtMXc2c3dyeWJhN0FtaTNnc2lMV2YwRzNnVXNKVk9BSW5RTnotV2xnOEZ6Tl9zUzI0UTNTTVBaS0w2dlNOZjI5RUVEX2o3OFZBRWIwanpCS0xJejJzS1JWeUtaUUhETTZublNKcTFXX3NldG5EZWtYZldDQ01LXzV4bHRBalF1ZTNMSDNEU2pUYWdBWFIzTUhhRmVWMk5tOVh6cWJQLWpnSVdWczFQYkxtYkZ2cUQ2aG9JcjlPRlJaMU9rbkdn?oc=5",
           "date": "2026-11-21T18:30:59.000Z",
@@ -593,6 +577,17 @@
             "예산·재정"
           ],
           "titleKo": "클링바일과 재정적자: 독일, 부채 함정에 빠지나?",
+          "tr": "claude"
+        },
+        {
+          "id": "faz-2",
+          "title": "Datenleck der Deutschen Bank: Döpfner, der brave Bürger",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaG9EUmM3Q2tvRHV4dC02cVFiaVRmSmNXbV9CbEN1NDg4dWxaNlpudlNlX0dzcjhpaEd0ZXF5OGtlcE5tYTMwbnFVS0phZUtfT1dMTXlvSnM4Mlg1Vk9pZl9sbGN3aXpKamx5bDFDNFFoYXlaMzNDNC1qNS1WMGpUcHpYWmh5NmFjdjJVV290OFNIek0zOUdRNzdBWVVLWXcyMjU2ZkE2YkFDY3dKMWk1bHZiR2VKaWl6MFN6V2NpdV9HOHpBMmhqdWFQSjl3UEdQeEVCOVBn?oc=5",
+          "date": "2026-11-20T14:24:37.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "도이체방크 정보 유출 사태…되팰너 회장은 \"성실한 시민\"?",
           "tr": "claude"
         },
         {
@@ -655,7 +650,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.806Z",
+      "fetchedAt": "2026-11-21T21:40:14.027Z",
       "status": "ok"
     },
     {
@@ -760,7 +755,7 @@
           "titleKoAlt": "2026년에도 수백 명의 어린이가 프랑스 학교에서 자고 있습니다. 정치적 인식은 언제 나타날까요?"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.722Z",
+      "fetchedAt": "2026-11-21T21:40:13.966Z",
       "status": "ok"
     },
     {
@@ -787,18 +782,6 @@
         },
         {
           "id": "figaro-1",
-          "title": "«Je veux le redire avec des mots humains» : quand Jensen Huang humiliait le patron français de Mistral AI",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek9jMkJ6ZU5mTVdXRG54aDFfMHNhZ1I0Q3pQWU43WHJ4TFdEZlpvRHpoTWQxb2tyV0cwUFlyenc5c21lZVdsRWZ5ZDRobUdGenVjY3dfTWNnT1VONlJmTUdNMHhCTVlsbkNBNUNXclp2NkJWc2pVdTVpUEI2cXhzNE9ZOXZQclRvMkRSWERTanFqSTF6QTB0dkJpS0daSnhEa29hYXBaT3RibzZLejRNZ0NWYm9obTdtLTc1WFpNZWx5LS1BS3c2dGg3UTJ1YmI1TGhmbDl6MEpwM0hkQUhJNHNRSUdIWGc?oc=5",
-          "date": "2026-11-21T16:28:20.000Z",
-          "topics": [
-            "AI·반도체",
-            "산업·시장"
-          ],
-          "titleKo": "\"인간의 말로 다시 말하고 싶다\"… 젠슨 황, 미스트랄 AI 프랑스 수장 면박 논란",
-          "tr": "claude"
-        },
-        {
-          "id": "figaro-2",
           "title": "Emmanuel Macron fustige le «discours de jalousie et de haine de la réussite»",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcEVLZEN6SjdsYlN5UFQtdzJXQTl3MVVDRTBJLWN3SnIyVW9naTQxbDlSaVd4aWlzVDF2eERQeUFVOGJNTV85bzJsQWxoUmd6QV9nUUd1Tk02dmlRdzVtOFdwa0dOMUh1c19ydzRDUzVkY3pMcVJydWF6WEhFbmtHUmRQTQ?oc=5",
           "date": "2026-11-20T17:46:57.000Z",
@@ -809,7 +792,7 @@
           "tr": "claude"
         },
         {
-          "id": "figaro-3",
+          "id": "figaro-2",
           "title": "Le gouvernement s’en remet au RN pour éviter la crise financière... Les indiscrets du Figaro",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ2VyRzdrVUYybF9zQUpfOEx2Y2FrXzc5akRvTnVMQVFJYWY3X29wa1F0OGRnYmR1MzlwYks2bkJxTU83bU1NX3FHcTZlZVhkVnBZR3F1clpBT0ZkYUk3Qm9XQ09IS1NrRXRSRnA2dWEzdnpTejhMNkpIWU9DUEpINnB0YXY5R01vX0tYMjlBT3VlZVg0dWJtd3VteVY0SjVxaEQ1cW5zRkt2OXNoWFlkRk93MXpfRmxFS0pMSnJINlZvSWJFX1RpNGtVaGs?oc=5",
           "date": "2026-11-20T19:00:00.000Z",
@@ -820,7 +803,7 @@
           "tr": "claude"
         },
         {
-          "id": "figaro-4",
+          "id": "figaro-3",
           "title": "Cdiscount propose des offres avantageuses aux entreprises du Made in France",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGR3VGlkaFVPWTROZXNwWjRMei1RU3haaUF0YW84Ynlfbkk1UkV2blVNVXZhNl9OS1VBdi1ZZGRUWkVpekVLUmVRY3R1U2RzZzJ4MWNKc211M1hZazNjd2R2S3FpNWxZOWMtYlU4Y1lHWUJTTUt5NDJacTI5MDVzS0hWbTBKZUFFYUptTmhhZEN5emNpcGRtNUVpTDNIVm4xY05xMlg3SVVPeGZQVkZONVVVclU1MXRa?oc=5",
           "date": "2026-11-21T08:40:24.000Z",
@@ -831,7 +814,7 @@
           "tr": "claude"
         },
         {
-          "id": "figaro-5",
+          "id": "figaro-4",
           "title": "« Pris en otage » entre La France Insoumise et le Rassemblement national, Jean Dujardin pourrait voter blanc à la présidentielle",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaS1KMnBhRnJ5SE5GblVLYm9KSE1hTnFobUxIckhEeHZwZHpnamFSbHFEOG92VlM3NUllZ0N3ZlBpem93UlRCenBsYTZiU2FyZFVKOHhCX21Zd2RVUUstRXNxbENzZDFhTG5wUlBjVFVqZDhpaE5IR1FSNy1xcHdtX0pKY19LOFRYeGhGeDc1aWx6RDVQQkdia3UzVTM1Y0dmcTVJTzdfaG4wLUNzTlNyYWpWc1RlWnZESUJ1c3VsRHVyWVlZSDBSNGdxQkRfa2hUN09nZjZXSTNlQjNQbF90bkRGcHA4bmhya1dNSWJsT2xTa0kxYkE?oc=5",
           "date": "2026-11-19T11:40:13.000Z",
@@ -842,7 +825,7 @@
           "tr": "claude"
         },
         {
-          "id": "figaro-6",
+          "id": "figaro-5",
           "title": "Pourquoi le gouvernement doit trouver d’urgence plus de 6 milliards d’euros d’économies supplémentaires",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ3V1TGhwREhsT3FqQTlDS0NhZVR0akdsdnJxbDdaZF95cTNIMmpoRWduSjAzUEZmOUxrNjJIdTQ0TWU4TWROTENmcGZjQm9KRVVrb3dLZkx6RGpuMVg0VVRyaFBibU9OaEtWRlhqV1hHZTBDeWNrTG1yd0dQbVAyYnNYVW45dHBGTUtOejRoaURscUhGdS1SYTJSckd3elFwQWRFNE1vSEJVYXN2UGhIM2kzdGx3bk14YWRRT2lMZnVPSjMtbVZZSkFWblJPMGc0TDItcGFISV9JZ3hLbzNIbEtR?oc=5",
           "date": "2026-11-20T18:45:05.000Z",
@@ -851,6 +834,18 @@
             "경제·물가"
           ],
           "titleKo": "정부, 추가 절감 60억 유로 이상 긴급 확보 필요한 이유",
+          "tr": "claude"
+        },
+        {
+          "id": "figaro-6",
+          "title": "«Je veux le redire avec des mots humains» : quand Jensen Huang humiliait le patron français de Mistral AI",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPek9jMkJ6ZU5mTVdXRG54aDFfMHNhZ1I0Q3pQWU43WHJ4TFdEZlpvRHpoTWQxb2tyV0cwUFlyenc5c21lZVdsRWZ5ZDRobUdGenVjY3dfTWNnT1VONlJmTUdNMHhCTVlsbkNBNUNXclp2NkJWc2pVdTVpUEI2cXhzNE9ZOXZQclRvMkRSWERTanFqSTF6QTB0dkJpS0daSnhEa29hYXBaT3RibzZLejRNZ0NWYm9obTdtLTc1WFpNZWx5LS1BS3c2dGg3UTJ1YmI1TGhmbDl6MEpwM0hkQUhJNHNRSUdIWGc?oc=5",
+          "date": "2026-11-21T16:28:20.000Z",
+          "topics": [
+            "AI·반도체",
+            "산업·시장"
+          ],
+          "titleKo": "\"인간의 말로 다시 말하고 싶다\"… 젠슨 황, 미스트랄 AI 프랑스 수장 면박 논란",
           "tr": "claude"
         },
         {
@@ -865,7 +860,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:24.746Z",
+      "fetchedAt": "2026-11-21T21:40:14.082Z",
       "status": "ok"
     },
     {
@@ -973,7 +968,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.063Z",
+      "fetchedAt": "2026-11-21T21:40:14.340Z",
       "status": "ok"
     },
     {
@@ -1059,7 +1054,7 @@
           "id": "nyt-6",
           "title": "Federal Court Halts Pregnant Workers’ Protection Law",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0NwZUxwOW9GN25jRTRWRF9OQkVsSzNYaTFPa282ei1SZGtJeDREd3hjRVFxb3RuVUgtMWdLbWFzU0E2YlB1M2Q5TW81MzhrbE1Gc3JmTlQtQVVzMEJHcExscUM3aUx4NkR5SWg0WmhfbjhJOGNod1VOb0Voc29jbmFlSlhwSllZRWNTaW9KOUQ1ZVZlS1JtUE5nV3dNdWVzMkZxcVhn?oc=5",
-          "date": "2026-11-21T05:53:09.000Z",
+          "date": "2026-11-21T05:17:30.000Z",
           "topics": [
             "정치·선거",
             "사회·생활"
@@ -1080,7 +1075,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.152Z",
+      "fetchedAt": "2026-11-21T21:40:14.375Z",
       "status": "ok"
     },
     {
@@ -1186,7 +1181,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.264Z",
+      "fetchedAt": "2026-11-21T21:40:14.442Z",
       "status": "ok"
     },
     {
@@ -1239,18 +1234,6 @@
         },
         {
           "id": "wsj-3",
-          "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
-          "date": "2026-11-21T21:15:43.000Z",
-          "topics": [
-            "AI·반도체"
-          ],
-          "titleKo": "단독 | SEC, 젠슨 황 CEO 사임 와중에 엔비디아 조사 착수",
-          "tr": "claude",
-          "titleKoAlt": "독점 | SEC는 Jensen Huang CEO의 퇴임으로 Nvidia를 조사하고 있습니다."
-        },
-        {
-          "id": "wsj-4",
           "title": "American State Capitalism Helped Produce the Nvidia Scandal",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcXNBZkpGWU1HSkdWRk55aHc3bjRCTE9YY2h6Tjhqc3Vha3EyZzYxVW9SeU9tNmRRdlRESzItdjN5R3dQNVQ3TDktNFhOZHZHbkx5WnpmNHVlSW5NZUFtNnRiaDlfS01jMnl1Qnl6T0FSWFZsZE82SkF4S3RQUXFOSHRFcUNNa3YxNk5DR3VYeE8zUHJaZWtXTXhrLVU?oc=5",
           "date": "2026-11-20T17:08:00.000Z",
@@ -1261,7 +1244,7 @@
           "tr": "claude"
         },
         {
-          "id": "wsj-5",
+          "id": "wsj-4",
           "title": "Fed Cuts Pay Raises for Regional-Bank Staff",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE9oYmJPLTJKZ3p5QzM1RWZ6WHZTc0g0M1dsdkl4czJFenpyWnRFdWJwX2dIR2F1a00xTFNIRUFFcFlYSUZRUlBENGVGV1VvYUtOWmVJNWlzcjBCVDd0aGRwR0x3WVdvQVVqU2xHTnFtU3hqZ21sV01ZcVlUdGtJUzg2VmlEc2d3c1pqdGRzTjJBaVhFRGdWWi1zVzM?oc=5",
           "date": "2026-11-20T00:26:00.000Z",
@@ -1272,7 +1255,7 @@
           "tr": "claude"
         },
         {
-          "id": "wsj-6",
+          "id": "wsj-5",
           "title": "Data Centers Are the Growth Engine of America’s Power Grid",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQckVVS1BIRGRPQms1bE9vNlpSYktYV1c5YnlLakQ4bld4T1k4eGRvckdBdDQ3MWN3Sko5NUs3QnpvY2p0VFNkRXptWklwRGNOdTdCVHY1M0VJOEwtSWlhdndoanNjZnotUFBVQXBJR1FYcDB4TFFpd25VVUtnMkFwbE9EODF5ZllrdmdkdnBxTFVmaDVIUUtuZzZ1UnBweERFclJzaml5Zw?oc=5",
           "date": "2026-11-20T11:25:00.000Z",
@@ -1283,7 +1266,7 @@
           "tr": "claude"
         },
         {
-          "id": "wsj-7",
+          "id": "wsj-6",
           "title": "U.S. Natural Gas Futures Rise With Support From LNG Exports",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkJrTDBNYnFzcFJodlQ2WHpLd2NtWkIzY29tTW5wSm1waXdDNUxlN3ZJckkzaVJJU0VNT1d6RHJPb00xMzZoTGFKMnNLNkp0Z0ZjZkl0NDE3TlYzUjlUdG5lUlVYZFVYT01yVVY0cS1BNnh3T251dWFmTmNxTWVkVlJzNXpBRFpNRUlKVWVxMjlLV3FlcDlIT0dvdXEwTUVIZFJQS21zN3Y?oc=5",
           "date": "2026-11-20T22:04:00.000Z",
@@ -1293,9 +1276,22 @@
           ],
           "titleKo": "미국 천연가스 선물 상승…LNG 수출이 지지",
           "tr": "claude"
+        },
+        {
+          "id": "wsj-7",
+          "title": "Trump’s Picks for Top Jobs Keep Running Into Trouble in Senate",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamtyWThfV2FOeWxqTG5xRm5NV1ExQjdVYWtsV1o4TlVNTmdkeTRTa09ldTFrWnhZTml2RmZlRVhpdHFYUnVOY2llYUZPc2pKS25ydmEtbVJtNWFLTUNtNWNtZWQyLUJSTTlqWDFtM1JGSUIzWmlsT3EwSjN6aDdTeC1tMzZmbElpX0xjRTJBazY3OTZIZHR4WDVtRGNuODRmblBpY0tXYzQ5UQ?oc=5",
+          "date": "2026-11-20T03:23:00.000Z",
+          "topics": [
+            "정치·선거",
+            "경제·물가"
+          ],
+          "titleKo": "트럼프 행정부 핵심 인선, 상원 문턱에서 잇따라 난관",
+          "tr": "claude",
+          "titleKoAlt": "트럼프가 선택한 최고 일자리가 상원에서 계속 문제를 일으키고 있다"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.223Z",
+      "fetchedAt": "2026-11-21T21:40:14.537Z",
       "status": "ok"
     },
     {
@@ -1405,7 +1401,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.365Z",
+      "fetchedAt": "2026-11-21T21:40:14.692Z",
       "status": "ok"
     },
     {
@@ -1521,7 +1517,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.429Z",
+      "fetchedAt": "2026-11-21T21:40:14.665Z",
       "status": "ok"
     },
     {
@@ -1571,7 +1567,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.578Z",
+      "fetchedAt": "2026-11-21T21:40:14.882Z",
       "status": "ok"
     },
     {
@@ -1590,7 +1586,7 @@
           "id": "reuters_ru-0",
           "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE?oc=5",
-          "date": "2026-11-21T19:58:53.000Z",
+          "date": "2026-11-21T21:01:49.000Z",
           "topics": [
             "전쟁·휴전"
           ],
@@ -1682,7 +1678,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.763Z",
+      "fetchedAt": "2026-11-21T21:40:15.004Z",
       "status": "ok"
     },
     {
@@ -1795,7 +1791,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:25.723Z",
+      "fetchedAt": "2026-11-21T21:40:15.120Z",
       "status": "ok"
     },
     {
@@ -1809,7 +1805,7 @@
         "color": "#b63835"
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:25.746Z",
+      "fetchedAt": "2026-11-21T21:40:15.054Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1826,7 +1822,7 @@
         "color": "#b63835"
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:25.970Z",
+      "fetchedAt": "2026-11-21T21:40:15.334Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1844,7 +1840,7 @@
         "economy": true
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:26.081Z",
+      "fetchedAt": "2026-11-21T21:40:15.402Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1862,7 +1858,7 @@
         "economy": true
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:26.075Z",
+      "fetchedAt": "2026-11-21T21:40:15.475Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1879,7 +1875,7 @@
         "color": "#17447c"
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:26.137Z",
+      "fetchedAt": "2026-11-21T21:40:15.533Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1896,7 +1892,7 @@
         "color": "#17447c"
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:26.292Z",
+      "fetchedAt": "2026-11-21T21:40:15.746Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1928,7 +1924,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:26.380Z",
+      "fetchedAt": "2026-11-21T21:40:15.779Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1946,7 +1942,7 @@
         "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:26.353Z",
+      "fetchedAt": "2026-11-21T21:40:15.859Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1976,7 +1972,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:26.391Z",
+      "fetchedAt": "2026-11-21T21:40:15.834Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -1994,7 +1990,7 @@
         "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
       },
       "items": [],
-      "fetchedAt": "2026-11-21T21:28:26.493Z",
+      "fetchedAt": "2026-11-21T21:40:15.969Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-22"
@@ -2013,18 +2009,6 @@
       "items": [
         {
           "id": "asahi-0",
-          "title": "【社説】安保の政府広報に「陰謀論者」起用の倒錯 今からでも見直せ [高市早苗首相 自民党総裁]",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0teVk4emZFR0hSZWlXUTc4NkFvSnp4NVdsM19ReV9hVldhRmVidlkxaHhqeGFXSmlHeEV2MDdMN0F2dUVtb1ZDZDktemVUOEVVMkxwMzI5TXU1bVJqODRHTG1lSkMteVE?oc=5",
-          "date": "2026-11-21T10:00:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "opinion": true,
-          "titleKo": "【사설】 안보 정부 홍보에 '음모론자' 기용한 도착(倒錯) 지금이라도 재고하라 [다카이치 사나에 총리·자민당 총재]",
-          "tr": "claude"
-        },
-        {
-          "id": "asahi-1",
           "title": "政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表 [情報漏洩・個人情報流出の最新ニュース]",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqTWE5dVRTWGxBV2RmTGFJNVlyVHBTYnZYS3M0aUFVWTZoazlZSl95S1dheWlPbGVILUdkYklsRENSb0owN2k2OUZXS2ItMk5BNFlWRThMclNob0ZYdk9WWXBVcUl6aDg?oc=5",
           "date": "2026-11-20T09:11:00.000Z",
@@ -2036,18 +2020,18 @@
           "tr": "claude"
         },
         {
-          "id": "asahi-2",
-          "title": "「まるで代理人」原油・LNGの販路開く日本 脱・化石燃料はどこへ",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52WWRFMHpJX2NJRlRIRlI3VWhEVGZlVnhmUkwtVEwtcVViN2FQd3pINEphU1MzcDQ1TW03WU9LdnU0NGtGSEFIRDdweDFmNGlqblNxb2c3U3B6bmJPek9vSkFCSmR4czg?oc=5",
-          "date": "2026-11-20T08:00:00.000Z",
+          "id": "asahi-1",
+          "title": "「陰謀論者」ユーチューバー起用 政府「過去発言チェックせず」 [高市早苗首相 自民党総裁]",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA2dnJTdlFyTWg1aXhCZHc4Ri02cFF6WlRGcUhJTEF5aV9mMzl3RElxdUNGbnZTY2dUcUJic3VlZUFjd1ZKRUJyV1JsVWZERFRZaWU5TFVKMnQ3TnJOM1ZPazJhZnVRZms?oc=5",
+          "date": "2026-11-19T10:34:25.000Z",
           "topics": [
-            "에너지·원유"
+            "정치·선거"
           ],
-          "titleKo": "\"사실상 대리인\"…원유·LNG 판로 여는 일본, 탈化석연료는 어디로",
+          "titleKo": "'음모론자' 유튜버 기용 논란… 정부 \"과거 발언 검증 안 해\"[다카이치 사나에 총리·자민당 총재]",
           "tr": "claude"
         },
         {
-          "id": "asahi-3",
+          "id": "asahi-2",
           "title": "トランプ氏、米中ロ会談の成果強調 日本など挙げて「少し疎外感」",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9leF9ncldUZWZiUzEwc3A5eUEyU0E0Z2Jpdy1NRWFraDNJWFE0blJnTXpLZHBCSzBiUHJxYlJrQW56eHhKX3MtOWg0V0lSdUFzOXhIWGV3RHpaLWRuMGxJNFUtdE1lWnc?oc=5",
           "date": "2026-11-20T21:28:00.000Z",
@@ -2058,31 +2042,7 @@
           "tr": "claude"
         },
         {
-          "id": "asahi-4",
-          "title": "高市首相の「約10秒間の握手」 大国主義の危機に問われる外交手腕",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MVWtROUJVME9XSVdRcVhNOXQ0NkVpUUFDVUdHM3hJc0JTN2JRN3ZSS0FabzZYbVNFVUk1TFJUaWdHaUFMcDRUODRfcnR3NDVEb3FKXzZsa0psM2l6angzNUxfRzBKWVE?oc=5",
-          "date": "2026-11-19T21:00:00.000Z",
-          "topics": [
-            "정치·선거",
-            "외교·안보"
-          ],
-          "titleKo": "다카이치 총리의 '약 10초간의 악수' 대국주의 위기 속 외교 역량 시험대에",
-          "tr": "claude"
-        },
-        {
-          "id": "asahi-5",
-          "title": "高市首相への「冷遇」、政権に広がる不満 日中両国の距離感が表面化",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iUEtLTDhJUUN2MkxiTWZfcVhkSG9DMmJmSFpPSmdKLTZMSHRLT2Z3RFpkZE1ESGItWlYtOXV1WHNPZ21ieGc3VzNBRXRTU0p5QUZsYzNWdUpWQkl1SnVVUHhXWnhXcE0?oc=5",
-          "date": "2026-11-19T11:08:10.000Z",
-          "topics": [
-            "정치·선거",
-            "외교·안보"
-          ],
-          "titleKo": "다카이치 총리 '냉대' 논란, 정권 내 불만 확산… 한중 거리감 드러나",
-          "tr": "claude"
-        },
-        {
-          "id": "asahi-6",
+          "id": "asahi-3",
           "title": "AIエージェントの法的責任 政府が本格検討へ 専門調査会を設置",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QWUdIemdCRm5Bc1JGcVktdFRBV3V2b0lhb0w1cllacWR6aWRxeWRRNWNNSzlmb0xydE0tVmZlcmlPcmpDWU1aX09MVE56Mmhjd01pTHdQVWkwa2xBSVByZmNlSVMtWlk?oc=5",
           "date": "2026-11-19T08:30:00.000Z",
@@ -2093,19 +2053,58 @@
           "tr": "claude"
         },
         {
-          "id": "asahi-7",
-          "title": "【詳報】米中ロ会談、習氏仕切る プーチン氏「我々は大戦の戦勝国」",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtNE9MSk9uWHJkM2hCemxVM1pmMVlEZS1UbDFnZWNYX0swd0RGc1MxNDA2Y3lsU2NyMkVjbzlzZVJOdzRZWXc0OWxIdDRkT2ljcUVZeDY4cmQ0XzNkYW9ENldLOVhNUk0?oc=5",
-          "date": "2026-11-19T13:14:08.000Z",
+          "id": "asahi-4",
+          "title": "「エンジンエックス」「PHP」に深刻な脆弱性 政府も対応呼びかけ [情報漏洩・個人情報流出の最新ニュース]",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zaDlMRV9nM0xtOWNYTVdFWmotWk02TTBsb3BYYTY1aWJwUXR0YmpROUJBUUlJN2IzdW1SZ1ctdGtsN0d1dlFlTEhfZ3R0d0ZuZ1pLYy1jbWQ5eEtuMjdOTnJ0WDBxMTg?oc=5",
+          "date": "2026-11-19T01:20:00.000Z",
           "topics": [
+            "정치·선거",
+            "산업·시장",
+            "사회·생활"
+          ],
+          "titleKo": "\"엔진엑스\", \"PHP\"에 심각한 취약점…정부도 대응 촉구 [정보 유출·개인정보 유출 최신 뉴스]",
+          "tr": "claude",
+          "titleKoAlt": "「엔진엑스」「PHP」에 심각한 취약성 정부도 대응 호소"
+        },
+        {
+          "id": "asahi-5",
+          "title": "（社説）大国支配と日本外交 孤立感深める首相の戦略不在",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ydEtUNEUtNkhCWHQtTnpNWkhHYW5HTlQzOHlyazNnbkNKN3E0YVRXLWpfbVdYSXZtNDAxV21oN3R1REFwSW1JUGplTWJlTHYyblRvc2RYU245WFJK?oc=5",
+          "date": "2026-11-20T20:00:00.000Z",
+          "topics": [
+            "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "[상세보도] 미·중·러 회담, 시진핑 주도… 푸틴 \"우리는 대전 전승국\"",
-          "tr": "claude",
-          "titleKoAlt": "【상보】미나카로 회담, 시진씨 나누는 푸틴씨 “우리는 대전의 전승국”"
+          "opinion": true,
+          "titleKo": "(사설) 대국 지배와 일본 외교, 고립감 깊어지는 총리의 전략 부재",
+          "tr": "claude"
+        },
+        {
+          "id": "asahi-6",
+          "title": "【社説】安保の政府広報に「陰謀論者」起用の倒錯 今からでも見直せ [高市早苗首相 自民党総裁]",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0teVk4emZFR0hSZWlXUTc4NkFvSnp4NVdsM19ReV9hVldhRmVidlkxaHhqeGFXSmlHeEV2MDdMN0F2dUVtb1ZDZDktemVUOEVVMkxwMzI5TXU1bVJqODRHTG1lSkMteVE?oc=5",
+          "date": "2026-11-21T10:00:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "opinion": true,
+          "titleKo": "【사설】 안보 정부 홍보에 '음모론자' 기용한 도착(倒錯) 지금이라도 재고하라 [다카이치 사나에 총리·자민당 총재]",
+          "tr": "claude"
+        },
+        {
+          "id": "asahi-7",
+          "title": "不正アクセス、警戒強いのは？ 年代、男女、政府評価は… 朝日世論",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FWkZSSDVERm1KeDloQldiZ25hU2ZrYXJsdDRZYUFjMG9JaVdNZXpaV01oS1k4MERvTVZZZUJDc3lNNGxfT2E3cVBrMHE2WEJOMEpVbFVKM3JZTHJVdzZCZjF2czR4Mk0?oc=5",
+          "date": "2026-11-19T22:00:00.000Z",
+          "topics": [
+            "정치·선거",
+            "산업·시장"
+          ],
+          "titleKo": "불법 접속, 경계심 가장 강한 층은? 연령·성별·정부 평가는… 아사히 여론조사",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:26.805Z",
+      "fetchedAt": "2026-11-21T21:40:16.189Z",
       "status": "ok"
     },
     {
@@ -2122,17 +2121,29 @@
       "items": [
         {
           "id": "nikkei-0",
-          "title": "デビット決済急増、Suicaなど電子マネー逆転 背景に銀行預金争奪戦",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YNFFQdjFUX3ByRjRSbjNfemRMd2tGVldULUlJdWNPcjM5WTV2UU82Q1hDQTFUMS1YUnlLd21Nd3dHU052cGRBSmhKOTNQRm9ZNjFxcjBiNUlXSkp0TS1nSExwY2V3TEx1dlJlOQ?oc=5",
-          "date": "2026-11-21T02:00:00.000Z",
+          "title": "アンソロピック、日本での調達額4700億円 JX金属のIPO超え",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95N3FzTWxCZ3NsbjBncGVZN0N2ZnNPVzBGWmgxQ0p4VURLemlVZjlXVEs4bmY1MVQ3MmJpNE1nTksyVzlnOVlsWFBNVlpPWllxWF9LcEpVV2h2ekFJbk5XSmZHb0k1Y2pJVThXVw?oc=5",
+          "date": "2026-11-19T00:41:27.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "체크카드 결제 급증, 교통카드 등 전자화폐 역전…은행 예금 쟁탈전이 배경",
+          "titleKo": "앤트로픽, 일본서 조달 규모 4700억 엔…JX금속 IPO 규모 넘어서",
           "tr": "claude"
         },
         {
           "id": "nikkei-1",
+          "title": "日銀・植田総裁、個人消費「先行きは回復」 利上げ路線は継続",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxV0F3R3V1ZkVrSWpwVS03aFZfaEtuNjFWV3h2d0hJSmhWOHFJUlhUV3NlUmNlbVllYlE0WngyZlpOd2QzWkFMaEt3RFFKSEljcmxHUndhaFJmYjVabWVLbDlvVXBMNnBOSk9WeA?oc=5",
+          "date": "2026-11-19T07:30:00.000Z",
+          "topics": [
+            "금리·물가",
+            "경제·물가"
+          ],
+          "titleKo": "일본은행 우에다 총재 \"개인소비 앞으로 회복\"…금리 인상 기조 유지",
+          "tr": "claude"
+        },
+        {
+          "id": "nikkei-2",
           "title": "NVIDIA、株価14%急落 米SECが会計処理を調査とロイター報道",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yaHNVeGpla3FzNVNST2pvV291VGtDcTdNQVBlYU92ZWYyVl9mT0d1OFQ4cHlWZmdrNVRNRFdDanhfWlpmeU9nWG15WlZ3NmxOaUtIOHBvdnA1Z041dXQ4M05DUC0zV1BiNUREMA?oc=5",
           "date": "2026-11-20T20:42:26.000Z",
@@ -2144,41 +2155,19 @@
           "tr": "claude"
         },
         {
-          "id": "nikkei-2",
-          "title": "インフレ打撃は高齢者に、話題の日銀リポート ｢処方箋は利上げ｣主張",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tRDZjNzllY21JZ1JuQVo4dk94RVBGMnBHMlI4TlY3LVpYbTdfbkUzZW5FQXZ4OW9HODZKZy1pR182RTVmN2tTTkN4c3haS3EyYjlYU215M19NSjNmNXlaNGtzM05XQVFmZWt4SQ?oc=5",
-          "date": "2026-11-20T20:00:00.000Z",
-          "topics": [
-            "금리·물가"
-          ],
-          "titleKo": "물가 충격은 고령층에 집중…화제의 일본은행 리포트 \"처방은 금리 인상\"",
-          "tr": "claude"
-        },
-        {
           "id": "nikkei-3",
-          "title": "「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tOWZ5dkdna29oY0dlWVMyYWQ1SlRDVkxLb1NCYkxGRkttb2xiYmw4UXhZcU5SNk5YUXltZVhZLWhxSDM4MFhQQ2tyYVNUVlp5UnFsSDZnZUN0NzVRUmY3SzVwM3k0OHFIUUlfMA?oc=5",
-          "date": "2026-11-20T19:04:40.000Z",
+          "title": "先端AIのサイバー攻撃、仮想空間で再現 政府が企業にデータ提供",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xdlljb0FjYnRZVFFoU01tUzh4WTZrZzQ0M0Q3aGJkNE50aV9SWWtmejFKcExDcFRHQ0FHc2ZWdkVXQXpNRHd6anNYMVU5d3E4Q1A5aksyYUJlUkQxNDlVYlBDM1dTWV9aQi1DNg?oc=5",
+          "date": "2026-11-20T09:00:00.000Z",
           "topics": [
-            "산업·시장",
-            "사회·생활"
+            "정치·선거",
+            "산업·시장"
           ],
-          "titleKo": "'패치 지옥'이 미국 IT 장애 유발… AI가 재촉한 취약점 수정, 은행·공항 기능 정지",
+          "titleKo": "첨단 AI 사이버 공격 가상공간서 재현…정부, 기업에 데이터 제공",
           "tr": "claude"
         },
         {
           "id": "nikkei-4",
-          "title": "サイバー攻撃で国内病院も被害 患者の病名流出、電子カルテが停止",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LdC0wYjV2UElCcnN4ZmVnUDk4TklwWXU4aDNUSmk5SWc1Q0s1aFZmOUh6NDE2NHNhVy0zbF90UHpyQkxYS2xkaFB6dlF4c1NQdmVoQ3ZtNEpMWG9TXzlsX01XNUlQUWZ1VER1aA?oc=5",
-          "date": "2026-11-21T02:00:00.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "사이버 공격에 국내 병원도 피해, 환자 병명 유출·전자의무기록 중단",
-          "tr": "claude"
-        },
-        {
-          "id": "nikkei-5",
           "title": "丸井G、顧客情報延べ1733万件が漏洩 委託先に不正アクセス",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9vbUlhYTlSQVdNeU1qVXp3UnZBOVB3dFNnd1o4aFd0d1RCblFXRWQ1a18yUEZwUGtsak14Y1oxQmV1YnN3WTNIc0RKRzZocjY5ajZTS3BlT0lsQ21VWnk5TTRZdFB6V0JyNWMxSg?oc=5",
           "date": "2026-11-20T10:20:27.000Z",
@@ -2189,30 +2178,40 @@
           "tr": "claude"
         },
         {
-          "id": "nikkei-6",
-          "title": "ケイコ・フジモリ大統領インタビュー「ペルーを南米の玄関口に」 日本企業を誘致",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ndGoyUUZESk92OURQMklWWHBTWklPRkFSZUZfdzg2N29CeWtEOEFYSFBIdG1CbkFQbzVzem82WkVJaVpZVmNxanB1eGJiUGJTR0dhY3RZVlY2a1BsNjBJVGVDYWVFQ2pmNS15eA?oc=5",
-          "date": "2026-11-20T20:00:00.000Z",
+          "id": "nikkei-5",
+          "title": "毎日新聞、14万人分の名字など会員情報漏洩 委託先に不正アクセス",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNjFndkpmbUtiWHJWVXotd2pZM0ZVVU4wVHlOUVZpZTFKeEk0dnIxSFpkUXVlUWl0V21PUVJWMHlraVY3N1dlVjd0aTBMQlpfNDZoT3dEd1ozV2VxQ3QwMDAtWDB4WEZSTGZNZA?oc=5",
+          "date": "2026-11-19T09:22:18.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "케이코 후지모리 페루 대통령 인터뷰 \"페루를 남미의 관문으로\"…일본 기업 유치 추진",
+          "titleKo": "마이니치신문, 14만 명분 성씨 등 회원 정보 유출…위탁업체 불법 접속 탓",
+          "tr": "claude"
+        },
+        {
+          "id": "nikkei-6",
+          "title": "JTが大幅下方修正 ｢短期株価にネガティブ｣｢成長見通し引き上げ評価｣",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SNUNISWdzWlZKWVJSaXRsMVVmU0syWHFBTjVpVzVKYjA2eEt1MWVHS2s1aGN3Y0h1NWd5dnhGc0swOGlnUGFqUGcwMGNUQ085dXp5TVZUTFp6ZnhGTVlxMGJnemZVTmVoUkhNcQ?oc=5",
+          "date": "2026-11-20T04:15:19.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "JT, 실적 대폭 하향 조정…\"단기 주가에 부정적\" vs \"성장 전망 상향 평가\"",
           "tr": "claude"
         },
         {
           "id": "nikkei-7",
-          "title": "キヤノンMJ、366万件の情報漏洩の恐れ 委託先への不正アクセスで",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE91Y2xkN0liX2owbXNDd01wOEJiN3dtZGZvM2lxQ1NxejJpVTdReU8tUV9YeTNxNzVhWjZ1bmQwd2k4YVZpU1NqM2NGV0pBQS1TbW1LeHduVHBiemhEcm1kaTAtNmt0Q3E5TmtrMg?oc=5",
-          "date": "2026-11-20T11:11:09.000Z",
+          "title": "デビット決済急増、Suicaなど電子マネー逆転 背景に銀行預金争奪戦",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YNFFQdjFUX3ByRjRSbjNfemRMd2tGVldULUlJdWNPcjM5WTV2UU82Q1hDQTFUMS1YUnlLd21Nd3dHU052cGRBSmhKOTNQRm9ZNjFxcjBiNUlXSkp0TS1nSExwY2V3TEx1dlJlOQ?oc=5",
+          "date": "2026-11-21T02:00:00.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "캐논MJ, 위탁업체 부정 접속으로 개인정보 366만 건 유출 우려",
-          "tr": "claude",
-          "titleKoAlt": "캐논 MJ, 366만건의 정보 유출의 우려 위탁처에 대한 무단 액세스로"
+          "titleKo": "체크카드 결제 급증, 교통카드 등 전자화폐 역전…은행 예금 쟁탈전이 배경",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:26.723Z",
+      "fetchedAt": "2026-11-21T21:40:16.224Z",
       "status": "ok"
     },
     {
@@ -2322,7 +2321,7 @@
           "titleKoAlt": "'전략 17분야' 관련 기술검정, 정부가 창설지원… AI·우주 등도 망라해 '인재육성'"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:26.748Z",
+      "fetchedAt": "2026-11-21T21:40:16.249Z",
       "status": "ok"
     },
     {
@@ -2427,7 +2426,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:26.876Z",
+      "fetchedAt": "2026-11-21T21:40:16.739Z",
       "status": "ok"
     },
     {
@@ -2536,7 +2535,7 @@
           "titleKoAlt": "'중국은 신도르 작전 동안 파키스탄을 지원했다': 미국 보고서는 중국이 인도의 성장하는 힘을 억제하는 것을 목표로 한다고 밝혔습니다"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.133Z",
+      "fetchedAt": "2026-11-21T21:40:16.567Z",
       "status": "ok"
     },
     {
@@ -2646,7 +2645,7 @@
           "titleKoAlt": "인도와 핀란드, 스타트업 협력을 통해 경제적 관계 심화 모색: Envoy"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.251Z",
+      "fetchedAt": "2026-11-21T21:40:16.638Z",
       "status": "ok"
     },
     {
@@ -2662,17 +2661,6 @@
       "items": [
         {
           "id": "hindu-0",
-          "title": "U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdnFhODM0VTJVOXZsblBzX0tPLVhfc0drSElTUXRhY3NzdGVHWENxT2pLSmNxeFlzczctS2ZMMnZ1cUJKUXNmMzgxU0RRck9vTmZPNklEdG04ZXNCbmlEUnBPcTg5QlVudW8zOEYxODcxRVE5SHRWSnhBV0piN0lxUS1DaVlfbS1MWjZ0eGNPNFFLOXdoVV83SU84bVpMZVgwckxYUlFDaG9xdDdDbTlDRmdjWG1TbFN0eVVnNkRZeGFmSmk1N25HaUVHVVVia2ZoOW9ielNQRUk2OFZPMnByZTNEbHNhdGfSAe4BQVVfeXFMUEV0ajlDdHhtcy10MmdiZWhWMUstUHRRSWNJSTJ1dmUwU3RpZllUeVBrZFJ6VjRVWENNakNSdkh3UldMTmFiUGcxY3VzRGh5QURBVUVYZkY0VjczNGJ3MXA2ckNJUkNsUUJNLUdRc0FGQ0JFN1pVNnowcDRCRm5lUy0zWHBoM2NtOE0yVTNpb0VNdnZNa3BVS0FOekdKOW9WTVpXVDY3N3hKRFdXcjBtT3l3YWlHMlBLM1d3Qk05UzRJU3FUZnRVM1Eza2Y5dG1kY1c1Y0xWWDljelMtZ2Q4bjJZMmZWRGM1WmtWNlBCQQ?oc=5",
-          "date": "2026-11-20T16:56:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "미 법원, 파눈 암살 모의 인도인 니킬 굽타에 징역 235개월 선고",
-          "tr": "claude"
-        },
-        {
-          "id": "hindu-1",
           "title": "‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth",
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdzB4OUVERUVFY081YkVlOGdkenBWeTYxdFYzY2ExVlhXTW1QbmhLNGt6MkNOTEN3Skh2UUFYVmU5YVdLV2pabzJDSURSXzh5c0JJM05ZUkVvWjBsQW5zVEhYUVpnSTNVaDlxOW14YWFuWkE2RzBEN0M3bnJQMHVhVXhtc1dZVG1RNmY0ekRHZXdELTNkQUZHQUxkb1d2NEpvSzRraWg5bXFHbENwM3VmdnZHb3VqbVpETEVsMm93cmZjVXRqYWt5MlpDbXhpdzgwcVBkTk5kTHJxcEh6R0ctLS02UFlMU3ZnZXNr0gHyAUFVX3lxTE82NzVUb0dpd2xrbmRXRTVlLS1ETUs1bVFNV0xMWU5sLXkzMmNQVUxLcmxHUTh1c3ZaUVJkcmlvV29LcVh4b2w1cG9fcDFybmNPcWpjRjhzNmJoTWptMWtDS0h6VHRCalBsc0V2WmpBQXIwUk14c1BfVFVjNWlLVTN0bVJ1elhDR0pXRHl5azV1bHplbjRhMEF1Mno4QjBGb192UldMdWFBU3VzaXl5Y2pXUTh4Qk54SFlFc2dPdkNSZHhRbGNMYmhDSkRmVEZlakdHU3pELVdFNm13N0lSSGZSZDJVRGFpZXJYMVBmNmhJMzBR?oc=5",
           "date": "2026-11-21T02:17:46.000Z",
@@ -2682,6 +2670,17 @@
             "경제·물가"
           ],
           "titleKo": "트럼프 \"인도 보라, 금리 낮다\"…미국 경제성장률 14~15% 달성 가능 주장",
+          "tr": "claude"
+        },
+        {
+          "id": "hindu-1",
+          "title": "U.S. court sentences Indian national Nikhil Gupta to 235 months in jail in Pannun murder plot",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOdnFhODM0VTJVOXZsblBzX0tPLVhfc0drSElTUXRhY3NzdGVHWENxT2pLSmNxeFlzczctS2ZMMnZ1cUJKUXNmMzgxU0RRck9vTmZPNklEdG04ZXNCbmlEUnBPcTg5QlVudW8zOEYxODcxRVE5SHRWSnhBV0piN0lxUS1DaVlfbS1MWjZ0eGNPNFFLOXdoVV83SU84bVpMZVgwckxYUlFDaG9xdDdDbTlDRmdjWG1TbFN0eVVnNkRZeGFmSmk1N25HaUVHVVVia2ZoOW9ielNQRUk2OFZPMnByZTNEbHNhdGfSAe4BQVVfeXFMUEV0ajlDdHhtcy10MmdiZWhWMUstUHRRSWNJSTJ1dmUwU3RpZllUeVBrZFJ6VjRVWENNakNSdkh3UldMTmFiUGcxY3VzRGh5QURBVUVYZkY0VjczNGJ3MXA2ckNJUkNsUUJNLUdRc0FGQ0JFN1pVNnowcDRCRm5lUy0zWHBoM2NtOE0yVTNpb0VNdnZNa3BVS0FOekdKOW9WTVpXVDY3N3hKRFdXcjBtT3l3YWlHMlBLM1d3Qk05UzRJU3FUZnRVM1Eza2Y5dG1kY1c1Y0xWWDljelMtZ2Q4bjJZMmZWRGM1WmtWNlBCQQ?oc=5",
+          "date": "2026-11-20T16:56:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "미 법원, 파눈 암살 모의 인도인 니킬 굽타에 징역 235개월 선고",
           "tr": "claude"
         },
         {
@@ -2744,17 +2743,17 @@
         },
         {
           "id": "hindu-7",
-          "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnlzdGtTMW1tdThzakxUdklIQjJCY3RDQUNNeUVQODlDM01HMm5TVU1YUGN2aWZlQWM4TGVaMnFiQU5DQUtWbldsdnFnd2NQMTVXMEZ3TmM3THBBRm9RV0luYjJ3U0JQNlhFcE5EMEtrN3hoVWt1QkZfSzY3VmhobEtMUlBrYXZaeEQ3Y2V3YVMzUjZ3RjBVYl96WlFFYVlUQzZMQnZJQno0M2swU24wT1Zxdm14TTRFX3V6YWFFYS00b3pQekHSAcwBQVVfeXFMTUZxRDR2UGhraDUzQVoyMHRGTXh4U2tKUUFXdHhoTzZxTGt5bUxUaWtfV0MyenYzekxpeGZOWkZpZHFtNVlMQkNVSVVXX05wX2EzQl9RTXp0Q3NCWU1jNE9hR21KTEpaOWZ3YU9wcmk5aHVaTWpicjJTWm9FYnowWjFMTGlJbVlxNFU5UHNIN1IxWGp2QjJ1eEpCbUFnN1JRQmJRTWZ6Rm9NVjA1dXJmeVZjc3lBNXRkRVZHZWh2ak0ycEdMaU1EaHlDcXAt?oc=5",
-          "date": "2026-11-21T11:38:08.000Z",
+          "title": "Female Literacy in India: Why Education Is Not Enough",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3Rfa1BndXllNW9TZVNWVmR1SXhFTlBrUFZSTXRWeXU2MHh0S19ZcUN3WG1LbXlCZ3hsRUZVSkR5alQ4SEp4c2lOWGlIZ1QtT2lTM0pCcldqbEhEcjhTS1ZQUXV3Q3d4TFpUM2VkVUxZOWJpU1RlNEY5eVNYNHFyaDUyZGZTMUd4QW1wMmVPUUFNVk9YUWJwTEh4Sk1zQlJFekdhc3JfSm9xdlIxeUFwRVZkWXlvc2FVRjZLYkZ30gHEAUFVX3lxTE1FbjdlNFRRTWw5T29ZTHMzcFcwNmx2LVpoT3RWX0lmQWtwWWF4aG9Zem45ZWRSSFRVU1Awa3lHbF9SMGVfWXpiaWkwNVlGSEIxU3VyYmRLakU2bkVyVWNBZ2RHYU5ybmZiQkE1ODlwMHVLeWkxYnVmb3pIQU1UazdPaUtxVWc2T2p6c2htdjNrcEs1a0lSVGYycXZzOHhnQ0lrWUhQV2FhendIemNYUzVEazdxWnMyTVU2LVJjMXh6UVhhNEs?oc=5",
+          "date": "2026-11-20T08:05:35.000Z",
           "topics": [
-            "외교·안보"
+            "사회·생활"
           ],
-          "titleKo": "이란 \"중국·러시아, 핵 교리 변경에 반대\" 입장",
+          "titleKo": "인도의 여성 문해율: 교육만으로는 부족한 이유",
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.266Z",
+      "fetchedAt": "2026-11-21T21:40:16.696Z",
       "status": "ok"
     },
     {
@@ -2857,7 +2856,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.263Z",
+      "fetchedAt": "2026-11-21T21:40:16.980Z",
       "status": "ok"
     },
     {
@@ -2964,7 +2963,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.456Z",
+      "fetchedAt": "2026-11-21T21:40:16.984Z",
       "status": "ok"
     },
     {
@@ -3079,7 +3078,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.435Z",
+      "fetchedAt": "2026-11-21T21:40:16.945Z",
       "status": "ok"
     },
     {
@@ -3192,7 +3191,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.725Z",
+      "fetchedAt": "2026-11-21T21:40:17.156Z",
       "status": "ok"
     },
     {
@@ -3304,7 +3303,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.623Z",
+      "fetchedAt": "2026-11-21T21:40:17.303Z",
       "status": "ok"
     },
     {
@@ -3391,17 +3390,6 @@
         },
         {
           "id": "aljazeera-6",
-          "title": "Mexico captures FBI-wanted cartel boss in military raid",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON19hNmVGN00yVzRMcGptTWg4OUppalJCdFdsNlpJOVNDTFg3Yk9IV3dEamVNTXhsZW5xT2I3M1ZyZk42RzFqQmpvblYzN2p5OTNkbUNXdk9FVDRwUk0yNGo2MFVLaFJrcmp5QjFETFBlVThiQWdoVTMtX1lmb1h6Q1Y4TFRHWXEtNWlyYzVQSnRaN0cxQmNRcHFBU2VTcWFkRUZ4RUZ6VjhsbmfSAbABQVVfeXFMUF9vZi1fU00wd1J2b29EdUxHWFFsNm1YWGdIWnh0MElzVzRfd3FYNktKUWZycFUtQ05GMVhoTVdLMUh6U3lzZ1MwMXZIWVB4ZTFEWWVSMnVVTVdENl9TSGdsVy1GeEVGVUJ1Z0lPWnZIU3owaG1tdDJZSjdGOEZ4d3RZZTZvVFBOUVlFQzJtVUxmWGlueHBJWWtWdnJibzlpVXY3YmdJM2daeFBCYXdkdVg?oc=5",
-          "date": "2026-11-21T11:54:10.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "멕시코군, 급습으로 FBI 수배 마약 카르텔 두목 체포",
-          "tr": "claude"
-        },
-        {
-          "id": "aljazeera-7",
           "title": "Migrants caravan in Mexico walks towards US border",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUXJaZjA3a2x5d2hnVFpydUZEX29LZlpkdTZ6enlHSEppWVdDb285UXc2OW5zVFdrN0I4UDFTZFhrYzZJNnFVUWdSaUN0bjBfZXI2ZGVIVmJMOXJ4LUluMVp4eGtmVWxaT3dTVnBWZ0U0UTRNQlJpay1xbTFDN3AtUEotNFhJVzNnT3JBRGNiTks3aTRJMTgzcjJWdnFXVmhRYWk3MtIBqgFBVV95cUxOUlBZR2dReGh2UzJXVUZ0R3p3c1EzbDNIVkExMnBNNjJvbC04UDdvSVNEX1dKLWpOTk1SMGRxT0xQRlFCMVNxUURMY2swWlhiNFNZRXM3MXhsQ3dtZFZiUGVGOUdoWVV5M25tVzFjYVhycFpkdVJUM01udVdZZmJMY2VDRkFNT1FIZER6QW5iVF9TaWV4dkhSV0VvamdMQ0VBNjZ3dUpOenlYUQ?oc=5",
           "date": "2026-11-21T11:11:13.000Z",
@@ -3410,9 +3398,20 @@
           ],
           "titleKo": "멕시코 이주민 행렬, 미국 국경을 향해 행진",
           "tr": "claude"
+        },
+        {
+          "id": "aljazeera-7",
+          "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3lHaHhSYllEUEg5NGFQdk4zdFhiTUw3SW9MRlNIUmtUSXprbEtlcWVfWkVrbjlxRl9uSmVIR3pYbVVmekZqX1VjSWQyLUFtWjR5bEZYNHMzWEVia0F2dUdxR1V6NGV5ZEhSeHNDeHJyRDBjZzgxODRTWDVIVm10cUg4bkF6dVk5NTNJWkwzbXNEOHpCbUU4bndmdEpFbHdBR1dnanIxaDIzbHFnVGV1LVNucWHSAboBQVVfeXFMTUlsbmVWa0VoNHlrdXQxRXZCUlFMU05zV1RITUUxbXprWkZjcm44TWdhVXlKVlljazhkb1ItNVJwZkd6VUxZWFBuZmZmbVprVGlGdzk3cmVzV1VacDI5Wl9wV3BFOWw4ekY3bXZEM0p1Q3B5MWNITFFqeE5MTzl0Y3FvZ2oxejNWMFFfQUsyajJYMG1Ha2RWNjJXVkRXWkEzcGpMc0kzYWdLRmFiSmlxVzZjRE4xZE1uWEF3?oc=5",
+          "date": "2026-11-21T01:44:29.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "COP31 합의 난항…각국, 기후 계획에 대한 이견 좁히지 못해",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.965Z",
+      "fetchedAt": "2026-11-21T21:40:17.422Z",
       "status": "ok"
     },
     {
@@ -3440,7 +3439,7 @@
       ],
       "fetchedAt": "2026-11-21T07:11:42.278Z",
       "status": "stale",
-      "lastAttemptAt": "2026-11-21T21:28:27.636Z",
+      "lastAttemptAt": "2026-11-21T21:40:17.186Z",
       "error": "이번 수집에 실패해 마지막 성공본을 표시합니다."
     },
     {
@@ -3550,7 +3549,7 @@
           "titleKoAlt": "삭발, 안경 없음: 이스라엘, 영상 청문회 후 팔레스타인 학생 구금 연장"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.985Z",
+      "fetchedAt": "2026-11-21T21:40:17.534Z",
       "status": "ok"
     },
     {
@@ -3664,7 +3663,7 @@
           "titleKoAlt": "사우디아라비아, 2027년 다국적기업 이익에 추가세 부과"
         }
       ],
-      "fetchedAt": "2026-11-21T21:28:27.991Z",
+      "fetchedAt": "2026-11-21T21:40:17.549Z",
       "status": "ok"
     }
   ],
@@ -3675,13 +3674,13 @@
     "byClaude": 254,
     "claude": {
       "run": {
-        "titles": 5,
-        "usd": 0.0003152,
+        "titles": 8,
+        "usd": 0.0004102,
         "rejected": 0,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.0863,
+      "monthUsd": 0.0867,
       "limitUsd": 2
     },
     "korea": {

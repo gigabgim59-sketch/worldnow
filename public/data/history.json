@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-21T21:28:30.326Z",
-  "count": 1113,
+  "updated": "2026-11-21T21:40:19.996Z",
+  "count": 1120,
   "items": [
     {
       "source": "wsj",
@@ -1459,6 +1459,18 @@
       ]
     },
     {
+      "source": "aljazeera",
+      "country": "me",
+      "title": "COP31 deal stalls as nations struggle to agree on climate plan",
+      "titleKo": "COP31 합의 난항…각국, 기후 계획에 대한 이견 좁히지 못해",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ3lHaHhSYllEUEg5NGFQdk4zdFhiTUw3SW9MRlNIUmtUSXprbEtlcWVfWkVrbjlxRl9uSmVIR3pYbVVmekZqX1VjSWQyLUFtWjR5bEZYNHMzWEVia0F2dUdxR1V6NGV5ZEhSeHNDeHJyRDBjZzgxODRTWDVIVm10cUg4bkF6dVk5NTNJWkwzbXNEOHpCbUU4bndmdEpFbHdBR1dnanIxaDIzbHFnVGV1LVNucWHSAboBQVVfeXFMTUlsbmVWa0VoNHlrdXQxRXZCUlFMU05zV1RITUUxbXprWkZjcm44TWdhVXlKVlljazhkb1ItNVJwZkd6VUxZWFBuZmZmbVprVGlGdzk3cmVzV1VacDI5Wl9wV3BFOWw4ekY3bXZEM0p1Q3B5MWNITFFqeE5MTzl0Y3FvZ2oxejNWMFFfQUsyajJYMG1Ha2RWNjJXVkRXWkEzcGpMc0kzYWdLRmFiSmlxVzZjRE4xZE1uWEF3?oc=5",
+      "date": "2026-11-21T01:44:29.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "nyt",
       "country": "us",
       "title": "Takeaways From Trump’s Post-Asia Trip News Conference",
@@ -1838,6 +1850,18 @@
       ]
     },
     {
+      "source": "joongang",
+      "country": "kr",
+      "title": "[단독] 단추 스티커, 와이파이 체크…네이버 출신 총리가 제안",
+      "titleKo": "[단독] 단추 스티커, 와이파이 체크…네이버 출신 총리가 제안",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0NU5PNXU0SEFGU1YzXzkwa3ZqQm5QYmh0SDFYaGdQZDl0TFVaNWFhNktfMTR1ME40cjFpYnlWOEJhYkJHMy0tMVRWZ1p4WHIxSjNyNjRR?oc=5",
+      "date": "2026-11-20T21:00:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "nikkei",
       "country": "jp",
       "title": "NVIDIA、株価14%急落 米SECが会計処理を調査とロイター報道",
@@ -2025,6 +2049,20 @@
         "산업·시장",
         "사회·생활"
       ]
+    },
+    {
+      "source": "asahi",
+      "country": "jp",
+      "title": "（社説）大国支配と日本外交 孤立感深める首相の戦略不在",
+      "titleKo": "(사설) 대국 지배와 일본 외교, 고립감 깊어지는 총리의 전략 부재",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8ydEtUNEUtNkhCWHQtTnpNWkhHYW5HTlQzOHlyazNnbkNKN3E0YVRXLWpfbVdYSXZtNDAxV21oN3R1REFwSW1JUGplTWJlTHYyblRvc2RYU245WFJK?oc=5",
+      "date": "2026-11-20T20:00:00.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
+      ],
+      "opinion": true
     },
     {
       "source": "caixin",
@@ -4163,6 +4201,18 @@
       ]
     },
     {
+      "source": "hindu",
+      "country": "in",
+      "title": "Female Literacy in India: Why Education Is Not Enough",
+      "titleKo": "인도의 여성 문해율: 교육만으로는 부족한 이유",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT3Rfa1BndXllNW9TZVNWVmR1SXhFTlBrUFZSTXRWeXU2MHh0S19ZcUN3WG1LbXlCZ3hsRUZVSkR5alQ4SEp4c2lOWGlIZ1QtT2lTM0pCcldqbEhEcjhTS1ZQUXV3Q3d4TFpUM2VkVUxZOWJpU1RlNEY5eVNYNHFyaDUyZGZTMUd4QW1wMmVPUUFNVk9YUWJwTEh4Sk1zQlJFekdhc3JfSm9xdlIxeUFwRVZkWXlvc2FVRjZLYkZ30gHEAUFVX3lxTE1FbjdlNFRRTWw5T29ZTHMzcFcwNmx2LVpoT3RWX0lmQWtwWWF4aG9Zem45ZWRSSFRVU1Awa3lHbF9SMGVfWXpiaWkwNVlGSEIxU3VyYmRLakU2bkVyVWNBZ2RHYU5ybmZiQkE1ODlwMHVLeWkxYnVmb3pIQU1UazdPaUtxVWc2T2p6c2htdjNrcEs1a0lSVGYycXZzOHhnQ0lrWUhQV2FhendIemNYUzVEazdxWnMyTVU2LVJjMXh6UVhhNEs?oc=5",
+      "date": "2026-11-20T08:05:35.000Z",
+      "topics": [
+        "사회·생활"
+      ]
+    },
+    {
       "source": "yomiuri",
       "country": "jp",
       "title": "ＪＴがロシア事業巡り「減配」、筆頭株主の政府の配当収入は予算額上回る見込み…片山財務相「支障全くない」",
@@ -4845,8 +4895,8 @@
       "source": "wsj",
       "country": "us",
       "title": "Trump’s Picks for Top Jobs Keep Running Into Trouble in Senate",
-      "titleKo": "트럼프가 선택한 최고 일자리가 상원에서 계속 문제를 일으키고 있다",
-      "tr": "google",
+      "titleKo": "트럼프 행정부 핵심 인선, 상원 문턱에서 잇따라 난관",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPamtyWThfV2FOeWxqTG5xRm5NV1ExQjdVYWtsV1o4TlVNTmdkeTRTa09ldTFrWnhZTml2RmZlRVhpdHFYUnVOY2llYUZPc2pKS25ydmEtbVJtNWFLTUNtNWNtZWQyLUJSTTlqWDFtM1JGSUIzWmlsT3EwSjN6aDdTeC1tMzZmbElpX0xjRTJBazY3OTZIZHR4WDVtRGNuODRmblBpY0tXYzQ5UQ?oc=5",
       "date": "2026-11-20T03:23:00.000Z",
       "topics": [
@@ -5521,6 +5571,19 @@
       "date": "2026-11-19T22:04:00.000Z",
       "topics": [
         "AI·반도체",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "asahi",
+      "country": "jp",
+      "title": "不正アクセス、警戒強いのは？ 年代、男女、政府評価は… 朝日世論",
+      "titleKo": "불법 접속, 경계심 가장 강한 층은? 연령·성별·정부 평가는… 아사히 여론조사",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FWkZSSDVERm1KeDloQldiZ25hU2ZrYXJsdDRZYUFjMG9JaVdNZXpaV01oS1k4MERvTVZZZUJDc3lNNGxfT2E3cVBrMHE2WEJOMEpVbFVKM3JZTHJVdzZCZjF2czR4Mk0?oc=5",
+      "date": "2026-11-19T22:00:00.000Z",
+      "topics": [
+        "정치·선거",
         "산업·시장"
       ]
     },
@@ -8119,6 +8182,18 @@
       ]
     },
     {
+      "source": "nikkei",
+      "country": "jp",
+      "title": "毎日新聞、14万人分の名字など会員情報漏洩 委託先に不正アクセス",
+      "titleKo": "마이니치신문, 14만 명분 성씨 등 회원 정보 유출…위탁업체 불법 접속 탓",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtNjFndkpmbUtiWHJWVXotd2pZM0ZVVU4wVHlOUVZpZTFKeEk0dnIxSFpkUXVlUWl0V21PUVJWMHlraVY3N1dlVjd0aTBMQlpfNDZoT3dEd1ozV2VxQ3QwMDAtWDB4WEZSTGZNZA?oc=5",
+      "date": "2026-11-19T09:22:18.000Z",
+      "topics": [
+        "산업·시장"
+      ]
+    },
+    {
       "source": "handelsblatt",
       "country": "de",
       "title": "Mistral: Deutsche Telekom steigt bei KI-Start-up ein",
@@ -10107,8 +10182,8 @@
       "source": "asahi",
       "country": "jp",
       "title": "「エンジンエックス」「PHP」に深刻な脆弱性 政府も対応呼びかけ [情報漏洩・個人情報流出の最新ニュース]",
-      "titleKo": "「엔진엑스」「PHP」에 심각한 취약성 정부도 대응 호소",
-      "tr": "google",
+      "titleKo": "\"엔진엑스\", \"PHP\"에 심각한 취약점…정부도 대응 촉구 [정보 유출·개인정보 유출 최신 뉴스]",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zaDlMRV9nM0xtOWNYTVdFWmotWk02TTBsb3BYYTY1aWJwUXR0YmpROUJBUUlJN2IzdW1SZ1ctdGtsN0d1dlFlTEhfZ3R0d0ZuZ1pLYy1jbWQ5eEtuMjdOTnJ0WDBxMTg?oc=5",
       "date": "2026-11-19T01:20:00.000Z",
       "topics": [
@@ -10239,6 +10314,19 @@
       "date": "2026-11-19T00:04:36.000Z",
       "topics": [
         "외교·안보",
+        "산업·시장"
+      ]
+    },
+    {
+      "source": "ft",
+      "country": "uk",
+      "title": "City firms told to tighten cyber defences as AI exposes vulnerabilities",
+      "titleKo": "금융권, AI가 취약점 드러내자 사이버 방어 강화 지시 받아",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaExwNlpHdV9JcXIzUVItTFRaazg5RHdDY0lReDFfbW5LcG5oRnlvcGpPNjk5anRrcXdkTml0WUs2aGtXaWotb0UxYl8wb0VXSGRuSnV0LTVJUkJUaHEtN1VqWEFjVldzcU5ldTRTdEJwMG9fT29yYUNuUHNuM0xFcWRFTE4?oc=5",
+      "date": "2026-11-19T00:03:25.000Z",
+      "topics": [
+        "AI·반도체",
         "산업·시장"
       ]
     },
