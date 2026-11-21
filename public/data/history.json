@@ -1,7 +1,19 @@
 {
-  "updated": "2026-11-21T21:21:18.545Z",
-  "count": 1109,
+  "updated": "2026-11-21T21:28:30.326Z",
+  "count": 1113,
   "items": [
+    {
+      "source": "wsj",
+      "country": "us",
+      "title": "Exclusive | SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+      "titleKo": "단독 | SEC, 젠슨 황 CEO 사임 와중에 엔비디아 조사 착수",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbjl2b0tzT1ROT2plV1p5RHhQd3hXOEJKRFhOZ1ItZExOQV9oVGkzTU9tcEEyTXhjNHRKQVExRTNRdEtlY24zUFhmS0h0c21FUVVrVVh0NGF2SXFmdm1wcmVRLUlCcG5CMGRIZklSdVBkVElkS3lwRF9LaGg4YzU5b0dsZXlveWxSNzhGYzJlZmRSRkhvUWZRTHB3?oc=5",
+      "date": "2026-11-21T21:15:43.000Z",
+      "topics": [
+        "AI·반도체"
+      ]
+    },
     {
       "source": "jagran",
       "country": "in",
@@ -93,7 +105,7 @@
       "source": "nyt",
       "country": "us",
       "title": "Donald Trump iffy on Barry Bonds, vouches for Roger Clemens’ HOF candidacy",
-      "titleKo": "트럼프, 배리 본즈에는 미지근…로저 클레멘스 명예의전당 후보 지지",
+      "titleKo": "트럼프 \"바리 본즈는 아쉬워, 로저 클레멘스 명예의 전당 후보 자격 옹호\"",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbEJDNUFkVTFjMzhCcnhrOVItQ2xHTFRSaExqSlMxTnE4N1Y1ZmRZTEJ3WVFEVGF3QWE1dlZJMVZPcHFJMktKanNwMWRmd0lyVDR0b0I2NTVzTUNVNFlEalJoNVM3RktyeksxVFZsWWZmeE81VHBlcWFva2Y0Wi0zTExHdndkMzZrZ1M4dUJOeHFLVE1aSjJJNGNGTG1YRk5Xam5DeWxUWExfSkZD?oc=5",
       "date": "2026-11-21T18:33:15.000Z",
@@ -145,6 +157,18 @@
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZnc2MTEyYXN2SFAwaHpkNTM3b0hsUTlDa3JvOWNWcGIzcEJWY0RHQTNtdEZ2LU5JQlFxa0lXRGdoelRIT3g5T0FyOVlMOVdsS0hiZmE2R3pzaU5YWkZubW42VFZBeXhqNEpKVDBybWJ3QjNWZkpJTFl2Y3ZuTjRfY1lzT1pjeUVFNGQ0TS1kNFhJdkIySzllZDdQcFVBUndyMTFpZEdMQUxwUzE5Z2N6OVRWWkpjei1KUlREOFhILWZWbk9aQXRJRkpobmV5RUtqeEtyNG1ENUVyWUw1NXdiLXJMbmt5RTh3NWVUeHRoV01Id2wyTVV4NDNRbVllWnZ2NG9OdlVtblZmSDA?oc=5",
       "date": "2026-11-21T18:19:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "University spied on student over pro-Israel views",
+      "titleKo": "대학, 친이스라엘 성향 학생 사찰 논란",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNblNvX3p0djlreUNvS05YX2lILUlFRnlJUzdDdnZqcUpBYllZWTdRTkZLZ01uMnVRclU5bm14LWRMYXg5MmVEN2JJaG8ta1dpVVZvRHFIWTBjREtiUEtINV9oOTRMMUZaYlE0eXhPa2RoV1hiM015STBQXzRpZ21NcHUxOGVrcnFXV0NqUWhiYlRnMzJGdHFfVDkzOUo2aHdMUmtKbA?oc=5",
+      "date": "2026-11-21T18:00:00.000Z",
       "topics": [
         "외교·안보"
       ]
@@ -314,7 +338,7 @@
       "source": "jagran",
       "country": "in",
       "title": "पीएम मोदी ने ITI के मेधावियों का बढ़ाया हौसला, बोले- यह कभी मत सोचना अकले हैं, मेरे साथ पूरे करें अपने सपने",
-      "titleKo": "\"이것만은 잊지 마세요, 혼자가 아닙니다\"…모디 총리, ITI 우수 학생 격려",
+      "titleKo": "모디 총리, ITI 우수 졸업생 격려 \"혼자가 아니니 나와 함께 꿈을 이루라\"",
       "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxON212Yng4ZEtMajRqSDVPYjRqNHBmU2NxbmtRMHpFSDhnVFB4d3pzdlZLQ2VSSUdQVU9JVXBHN3pfVmtsaEdQTVE0SXVZQzdrRW9IR3phUUhmU3Nqdm5vWEZ5cjR2ZXNmYnFfaG9HNXNSQ2dVaEFEOTYyZFQ4am1ncTVHbFpxNG9MZDVCSW5uajBXbTctXzVkZmpzT0M3QmdlaHlTOFk1UGd1MDhUeFhCTGtlVnJUYk9obTJzcG5pU3hldGEtV3VBX2VWNFZFYjljNWlOSkpaZXAzdHpWTE1RRk5fblA0a0hNTmdrWjNCMnFPS0JiTzVDY29DdDhUcTRTb0RfNHl0eGNTNGdyMnFfLXQweEVfcHhlX3VOTHh6UGF5X1BPMkJYWjRhREN4VTQ?oc=5",
       "date": "2026-11-21T14:18:00.000Z",
@@ -358,6 +382,18 @@
       "date": "2026-11-21T14:00:03.000Z",
       "topics": [
         "정치·선거"
+      ]
+    },
+    {
+      "source": "telegraph",
+      "country": "uk",
+      "title": "Migrants use zombie knives to slash HGV roofs",
+      "titleKo": "이민자들, 좀비 칼로 대형 화물차 지붕 절단",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmRmZUp2dFA2Mml0cnFrQnhhRWYzajhydlZVQUFtY2hwRG1sVTNkdHM4Y0wzT3R2ZDFzaDBXcWpFYVd1ME9IZjFvMHp0clh4UXFhOFlHb3NTdWZDbEpWWFRhNVRkVTFBM0RjdktzR2hNa0FDWHR1bmdsdlVyU3l5ZzNUT045Y1l1UDd4Q0taaF8xNDJt?oc=5",
+      "date": "2026-11-21T14:00:00.000Z",
+      "topics": [
+        "이민·국경"
       ]
     },
     {
@@ -688,6 +724,18 @@
       "titleKo": "미·중·러 ‘선전 정상회담’에 되살아난 100년의 악몽",
       "tr": "original",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wMVFDSmx0dnpjZG5kZkFhdHdsS2VYLUwyMTNZT3huNGo4VFlsZ2NsQjF0SmROSWtkQi1GbkhneE1Wcy1ZbVBJdXVuWl8xS19rVjlxS3ZqUEZubjRvU21Zb2pPWnM3Rk1pdTVn0gFuQVVfeXFMT21uVzI0YzVXSXhuaXNXb3FKa3hnc0hVNlY2T3VUcFNxUFI0VnphaDFYZ2tOZURRYU82UlVEVXIzSGFWb3RkU0xEOW5KSC1LelFlTG1Mc0syMEJGZGQ1UV81UFNabGEteE5JaDdPc3c?oc=5",
+      "date": "2026-11-21T11:00:00.000Z",
+      "topics": [
+        "외교·안보"
+      ]
+    },
+    {
+      "source": "chosun",
+      "country": "kr",
+      "title": "미·중·러 ‘선전 정상회담’에 되살아난 100년의 악몽",
+      "titleKo": "미·중·러 ‘선전 정상회담’에 되살아난 100년의 악몽",
+      "tr": "original",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPemdOLWJUTy0xZXVGN25PX0cwQnFJMXRmeGhhSnNIeF9kNWJBajI1VmJpamFoUXI5TlBBMGplYjl2Q2RwTlhINnhEQWFxdWJSNG53a1NDV1NaN3NuU3U0MW5ZOGNrLXUzZ1HSAW5BVV95cUxPbW5XMjRjNVdJeG5pc1dvcUpreGdzSFU2VjZPdVRwU3FQUjRWemFoMVhna05lRFFhTzZSVURVcjNIYVZvdGRTTEQ5bkpILUt6UWVMbUxzSzIwQkZkZDVRXzVQU1psYS14TkloN09zdw?oc=5",
       "date": "2026-11-21T11:00:00.000Z",
       "topics": [
         "외교·안보"
@@ -5971,6 +6019,19 @@
       "date": "2026-11-19T18:44:09.000Z",
       "topics": [
         "산업·시장"
+      ]
+    },
+    {
+      "source": "sz",
+      "country": "de",
+      "title": "Merz lockt Russland mit Sanktionslockerung - Panorama - SZ.de",
+      "titleKo": "메르츠, 제재 완화 카드로 러시아 유인",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmRzSDZLU0RNX2E2U0Ixckd3eUVBejBmMVUwNGpRQW5KTnZERmtYcjMwSElQTWRYZ29Wb1FjajBBbVVZQkk1YjRWWTRyUW9wSFBvOGxMcmJfRnFqVERkOEMxNjNOWkVhcnFCLTNOQkV5empCXzNuSUROT0R1d2wxRFgtZVA0aDZDTW9mTTFTcHhrRV92?oc=5",
+      "date": "2026-11-19T18:34:54.000Z",
+      "topics": [
+        "정치·선거",
+        "외교·안보"
       ]
     },
     {
@@ -13977,18 +14038,6 @@
       "date": "2026-11-17T21:55:37.000Z",
       "topics": [
         "정치·선거"
-      ]
-    },
-    {
-      "source": "presstv",
-      "country": "me",
-      "title": "CENTCOM chief, advisors to visit Saudi Arabia amid Yemeni reprisal, fears of Iranian retaliation: Report",
-      "titleKo": "미 중부사령부 사령관·자문단, 예멘 보복과 이란 보복 우려 속 사우디 방문 예정 - 보도",
-      "tr": "claude",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcU9LN00tNl9HVXdUeG51N3Q0X1h2VFc3a3N4Nmh6aGxSLUdGd080TzdOQnFGTGdNTjVrRHBRdHlpSlRJNVdiYWQyVk05cnp3V2tjWDRyRFdJdUpITjZlWTI2MkFOWVpBWEwtcXRxaXk2SnU2WXQ2NkdiZHNmWWZqSHFyam5tcS00SVNwS2FYWWRPaGRHdExWVW9GWUNOb3h2cWZQck45WGM1cFEwbTY0TllpMl9adXBjRFZLckR2aEVkSHdBZTJ2MklRVlVOcWU2Vms1OXMyWnBMbzdFeXRCd01B?oc=5",
-      "date": "2026-11-17T21:24:16.000Z",
-      "topics": [
-        "외교·안보"
       ]
     }
   ]
