@@ -1,0 +1,1334 @@
+{
+ "date": "2026-11-26",
+ "title": "11월 26일(목) 아침 이슈 브리핑",
+ "window": "11월 23~26일",
+ "articles": 875,
+ "author": "Claude",
+ "headline": [
+  "미국이 14개국 관세안을 내놓자 중국·일본·인도가 셈법에 들어갔다.",
+  "우크라이나의 러 본토 타격에 푸틴은 보복을, 미국은 협상 방식 전환을 택했다.",
+  "독일·영국·프랑스가 예산과 생활비 부담을 놓고 씨름했다."
+ ],
+ "headlineDetail": [
+  {
+   "status": "cont",
+   "change": "14개국 대상 관세안 공개, 인도 25%·일본 15% 상한",
+   "keys": [
+    "과잉생산 관세",
+    "14개국",
+    "15% 상한"
+   ],
+   "desc": "미국이 산업 보조금·과잉생산을 이유로 14개국 관세안을 내놓자 중국은 추가 20%, 인도는 25% 보도가 나왔고 일본은 15% 상한에 투자 조건이 붙었다.",
+   "items": [
+    {
+     "c": "us",
+     "t": "14개국 대상 과잉생산 신규 관세 공개"
+    },
+    {
+     "c": "cn",
+     "t": "중국 추가 20% 관세안 (신화는 농업 실무회의 보도)"
+    },
+    {
+     "c": "jp",
+     "t": "일본 15% 상한, 대미 투자 미이행 시 20%"
+    },
+    {
+     "c": "in",
+     "t": "인도 25%, 14개국 중 두 번째"
+    }
+   ]
+  },
+  {
+   "status": "cont",
+   "change": "우크라 공군기지 타격·푸틴 보복 예고, 미 대러 사업 구상 보류 보도",
+   "keys": [
+    "공군기지",
+    "보복",
+    "영토 대 평화"
+   ],
+   "desc": "우크라이나가 러시아 공군기지를 타격했다고 주장하고 푸틴이 보복을 예고한 가운데, 미국이 대러 사업 구상을 접었다는 FT 보도가 나왔다.",
+   "items": [
+    {
+     "c": "ru",
+     "t": "우크라 '공군기지 항공기 5대 파손', 푸틴 보복 예고"
+    },
+    {
+     "c": "ru",
+     "t": "러 공습에 우크라 5개 지역 정전"
+    },
+    {
+     "c": "ru",
+     "t": "미 대러 사업 구상 보류 보도 (타스 언급 없음)"
+    }
+   ]
+  },
+  {
+   "status": "new",
+   "keys": [
+    "예산",
+    "에너지요금",
+    "EU 예산"
+   ],
+   "desc": "메르츠가 '모든 걸 세금으로 할 수 없다'며 예산을 방어하고, 영국은 1월 에너지요금 26% 인상, 마크롱은 EU 예산 협상 중단을 경고했다.",
+   "items": [
+    {
+     "c": "de",
+     "t": "메르츠 '모든 것에 쓸 돈 없다', 역대 최대 예산 방어"
+    },
+    {
+     "c": "uk",
+     "t": "가계 에너지요금 1월 26% 인상"
+    },
+    {
+     "c": "fr",
+     "t": "마크롱, 12월 합의 불발 시 EU 예산 협상 중단 경고"
+    }
+   ]
+  }
+ ],
+ "know": [
+  {
+   "c": "jp",
+   "t": "반도체·첨단부품 안정 조달 계획, 기업에 의무화 검토",
+   "why": "정부가 경제안보 차원에서 기업의 부품 조달 계획을 의무로 만들려 한다.",
+   "source": "nikkei"
+  },
+  {
+   "c": "ru",
+   "t": "러시아 디지털부, '러시아판 깃허브' 구상 마련",
+   "why": "해외 개발 플랫폼을 대체할 국산 코드 저장 서비스를 정부가 설계했다.",
+   "source": "kommersant"
+  },
+  {
+   "c": "uk",
+   "t": "영국 연금감독당국, 연금기금의 AI 분야 노출 우려",
+   "why": "AI 기술주 매도세 속 연금 자산의 AI 쏠림이 감독 의제로 올랐다.",
+   "source": "ft"
+  }
+ ],
+ "countries": [
+  {
+   "id": "us",
+   "issues": [
+    {
+     "title": "트럼프 행정부, 14개국 대상 '과잉생산' 신규 관세 공개",
+     "status": "cont",
+     "change": "준비 보도 하루 만에 14개국 대상 관세안이 공개됐다",
+     "keys": [
+      "과잉생산",
+      "산업 보조금",
+      "14개국"
+     ],
+     "what": "트럼프 행정부가 불공정 관행과 산업 보조금을 이유로 중국 등 여러 나라에 대한 신규 관세안을 공개했다는 보도가 나왔다. USTR은 지난 3월 16개 교역국의 구조적 과잉생산을 겨냥한 301조 조사를 개시한 바 있다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "'불공정 관행'을 명분으로 든 '수십 개국 대상' 관세로 적용 범위를 강조했다."
+      },
+      {
+       "source": "wsj",
+       "text": "인상 준비를 단독 보도한 뒤 '산업 보조금'을 쟁점으로 중국을 맨 앞에 세웠다."
+      },
+      {
+       "source": "fox",
+       "text": "관세 발표는 제목으로 다루지 않고 엔비디아·2028 대선 구도 등 정치 기사에 집중했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "트럼프 행정부, 불공정 관행을 이유로 수십 개국 대상 신규 관세 공개",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "중국 등 여러 나라, 산업 보조금 문제로 미국 관세 인상 위기",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeU93UkxmWVRVMXpoeDk5S0tFbjAtRzZuZ3NVbUpyV0FaTUtCU2hTanFHM3lIU1kyMkxBZVFFNDlPQTFBVy1wQ0VZalpnLWJxRmtsckxjOVI3NGNXVGJCSGxEUHczYVJFQnY1TkJzXzNBMTg3QjRrRHJXZ3FNS2JMVlRoRjVldnZhOFpjRFNlSXRCVWZGM1dXUVp5TlZlbkNVUGswS2w4dmRJc1gzazluN3VYZ256OU5GRnpmSmt3?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "단독 | 미국, 중국 등 여러 나라 대상 관세 인상 준비",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "CIA 등 미 정보기관, 비기밀 정보 유출 사이버 침해",
+     "status": "new",
+     "keys": [
+      "CIA",
+      "ODNI",
+      "사이버 침해"
+     ],
+     "what": "미 정보기관 일부 비기밀 정보가 유출되는 사이버 침해가 발생했다는 보도가 나왔다. 뉴욕타임스를 인용한 외신은 CIA와 국가정보장실(ODNI)이 피해를 입었다고 전했다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "'일부 비기밀 정보' 유출로 피해 범위를 한정해 전했다."
+      },
+      {
+       "source": "wsj",
+       "text": "같은 기간 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "fox",
+       "text": "'소식통'을 인용해 CIA의 '정보분석망'이 뚫렸다며 기관명을 앞세웠다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "미 정보기관, 일부 비기밀 정보 유출 사고 발생",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0ZENzdyVk5TQkMwN05tS3VmQXVZOUo1c2g5LTRQenB1RzB1RFo4OTdTdDA3XzRPZEFpLS1PRUZRQWw1NXhmZlZZNWU2NkdJQWFEUlhOZkppQW9YRHFVUzNOVFBkNnlZdmpkVDNwTFRadG5Cd1I3RmR3VXNTYnZ6Yi15VEszSUxKVnZrenExMm1HekZf?oc=5"
+      },
+      {
+       "source": "fox",
+       "title": "CIA 사이버 침해, 정보분석망 비기밀 자료 노출 — 소식통",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2Z2ZEZmc0RDejRaVHVzVUZZLTNCdEljRDRGWm1xSFU4bGxnR0l2THpjYVJYOEd2ZTdqS0NIdmNXUDEtVnpkZVc2Sm1ydmxVVEpqUkh2SkJJMEMwM1FLZGpCZVJweUZnYlJEcWZmdHk2R3JUeXF2blpqd3ZjVGFXcnNVNGRMQmlyTUhNUVRNYk9Gak0yNV9QU3pJdGlIMjBIYlVSVC0yNEg3MzJjcWVjdC16RnJZZU800gG-AUFVX3lxTFBMbHhnZ3VhTXNSN2c2VzV4VzZoTTRFMGtJVUJjdE15ZWVSc0Judm5SOGllMTc1RTA3MHV2bXhuYVNCXzJNckVtT21ONm56eGpDOFo2Y3h1c0VpZDJNVEFXT0NlUDhlTkNxUTNIMERQazk2MmtFOVkxUmJERmlyV3lFT2VSMFlvMEF6b2hqTnNRRjN6ZWZQYkctakg3RGJRUmNUcVlGb2VRbFBxWjF5TEd1Z1IxNTZkNEVQQWF0Ymc?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "트럼프, 줄리아니에 대통령 자유훈장 수여",
+     "status": "new",
+     "keys": [
+      "줄리아니",
+      "자유훈장"
+     ],
+     "what": "트럼프 대통령이 루디 줄리아니 전 뉴욕시장에게 민간인 최고 영예인 대통령 자유훈장을 수여했다. 트럼프는 앞서 줄리아니에게 훈장을 주겠다고 밝힌 바 있다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "수여 사실과 함께 심야 토크쇼들의 조롱을 별도 기사로 다뤘다."
+      },
+      {
+       "source": "wsj",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "fox",
+       "text": "'수여 예정'이라는 사실 위주로 짧게 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "트럼프, 루디 줄리아니에게 대통령 자유훈장 수여",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUEluUUpneGFhUlFCa3l6TXJjQ1g5enFpTmpaMGdUaUttQWRnM2NSOGVMT2lkVEl5Q1lHNVZGdGJSNXVHOW93LS1uTFBoT0llLWRqV3R4RzNMRDhzejVBWTJfMzZyM0pXM2w0WlJxQzA3cGZMR0lsM0o5VXpIX3pDaWh4UTItVEtsUkNhc0RMYW9ZRVpCbl9SeWtpSExCaUZmd1ln?oc=5"
+      },
+      {
+       "source": "nyt",
+       "title": "레이트 나이트 쇼, 트럼프의 루디 줄리아니 추모 행사 맹비난",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2pUclVCUEhyZWF1NzlIQzZGVkwycWNSaV94LXBLZEUzZ1JFV3V4Q0FiaU03bnNfenJFRUVYRmxSTnlOZlZvVEYzbUVpd0l0c1VfalhKQll5NTZFdGhvOHZtMk54MkkxSGo2VHV5N0V5bXVFTjdQWXJrbXhKZDg2dFBCMUdPcUVlbHEzWnVwVGhmZ3J3bjY3OEo1bnFqeHNfejBiMDlOQlpoYVlUdnc?oc=5"
+      },
+      {
+       "source": "fox",
+       "title": "트럼프, 줄리아니에게 대통령 자유훈장 수여 예정",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzRiUnhPam9MRmViMEpLUW9GWHM4SWp2T2hDd2lEcFp6Wks2b0JTTjNkZ1hKbHJvSnB0OGQ1d2dpYlhWWm51RjJfTG1aemNwS1A1WlF6RTZrV2o1d1o5aV95VElvMm9mUllIRk5ValhBRE5uNzBuR0Z2b3FRZHRqNGg1aDRPR03SAYwBQVVfeXFMTzF6T3lLWEZwbTVyejA4UUpFSE45V05MWG1SY2dJajhFTTZ3eVhDM1h5aWUxR2tCMmN5Z1lIUG5ySHZ5VThZZUljYWhBUVZyMTF5V2VDejUtTmw4S0hHeGNMdlhfR2RfWWJWRWZ4UVJMZ3d3OUpSNUxEcTlaak4zOEN4T1c4Vm5oTjFrWU4?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cn",
+   "issues": [
+    {
+     "title": "미국, 무역 휴전 시한 앞두고 중국에 추가 20% 관세안",
+     "status": "cont",
+     "change": "미국 관세안 공개, 차이신 '중국 추가 20%' 보도",
+     "keys": [
+      "추가 관세 20%",
+      "무역 휴전",
+      "농업 실무그룹"
+     ],
+     "what": "차이신은 미국이 무역 휴전 시한을 앞두고 중국에 20% 추가 관세를 제안했다고 보도했다. 같은 날 신화사는 미·중 무역위원회 산하 첫 농업 실무그룹 회의가 열렸다고 전했다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "관세안은 제목에 올리지 않고 미·중 '첫 농업 실무그룹 회의' 개최를 보도했다."
+      },
+      {
+       "source": "caixin",
+       "text": "'휴전 시한 앞'과 '추가 20%'로 시점과 수치를 구체적으로 짚었다."
+      },
+      {
+       "source": "bbc_cn",
+       "text": "중국을 '여러 나라' 가운데 하나로 묶어 신규 관세 발표를 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "caixin",
+       "title": "미국, 무역 휴전 시한 앞두고 중국에 추가 관세 20% 부과 방안 제시",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRldCR0VsUzd6bmk5cGFKdm5xRUlFaTlJUjJUeTV0QmtTN3FwYmRMMXg1Z3JLaEpGUG1UdTdDSDZBYjNOaENtV1VyRGxNWUQtalRacUg0TXRLcmJ0SW9kbUlKTFdsZG1GS19lcFh0eUlxV3B0Mmt0TkVpeE02S0tGUV9qd3ZQRUdhQXhpSFZCQUd2MXU1Um5mM29jQ1ppc2Uwd1drLS1KVmlzeTFpdXZETlZ5dS1VN2w5NjgyU3hyUEpRUnFf?oc=5"
+      },
+      {
+       "source": "xinhua",
+       "title": "중국과 미국, 무역위원회 산하 첫 농업 실무그룹 회의 개최",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05aW5ta1JXZFhIbUc2VVNnSFJVUnJMbU9JX0xBeXFCXzZEQ3ZkSERrTDJyWnFyNWJBcWw1cEpzNjNDb1BkdkZtaWJJQ28xZ3BRZU5HTjBnbjdoRF9UcnZzMHlPV1ZCdkk1emM3bFhaUktxNmJ3bVJESlZIeEs?oc=5"
+      },
+      {
+       "source": "bbc_cn",
+       "title": "미국, 중국 등 여러 국가 대상 신규 관세 발표",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "화웨이, 미 형사재판서 영업비밀 절도 유죄…공갈은 무죄",
+     "status": "new",
+     "keys": [
+      "화웨이",
+      "영업비밀",
+      "이란 사업"
+     ],
+     "what": "화웨이가 미국 형사재판에서 영업비밀 절도 혐의로 유죄 평결을 받았다는 보도가 나왔다. BBC는 공갈(racketeering) 혐의는 무죄였다고 전했고, 로이터는 이란 사업과 관련된 대형 재판이라고 썼다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "제목에서 화웨이 평결을 다루지 않았다."
+      },
+      {
+       "source": "caixin",
+       "text": "제목에서 다루지 않았다."
+      },
+      {
+       "source": "reuters_cn",
+       "text": "로이터는 '이란 사업'을 둘러싼 '대형 형사재판' 유죄로, BBC는 '유죄지만 공갈은 무죄'로 나눠 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_cn",
+       "title": "중국 화웨이, 이란 사업 관련 미국 대형 형사재판서 유죄 평결",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5"
+      },
+      {
+       "source": "bbc_cn",
+       "title": "화웨이, 미국 영업기밀 훔친 혐의로 유죄 판결 받았지만 공갈 혐의는 무죄",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ob0RXbGVjVm9xcjdLQkl6UW9ndDFEcjViS0lpN1c4RW9BX1RBYzNzcmhyN0lVN3JnSU1nY1JDN2ZRemYyY2wzUm9GcjNsMC03cXlGSnRZWTgtTjQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "솔로몬제도, 중국 안보협정 끝내고 호주와 조약",
+     "status": "new",
+     "keys": [
+      "솔로몬제도",
+      "호주",
+      "안보협정"
+     ],
+     "what": "솔로몬제도가 2022년 중국과 맺은 안보협정을 끝내고 호주와 안보 조약을 체결했다는 보도가 나왔다. 솔로몬제도 새 총리는 지난 6월 중국과의 협정을 재검토하고 호주와 조약을 추진하겠다고 밝힌 바 있다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "제목에서 다루지 않았다."
+      },
+      {
+       "source": "caixin",
+       "text": "제목에서 다루지 않았다."
+      },
+      {
+       "source": "reuters_cn",
+       "text": "로이터는 '중국에 타격'이라는 표현을, BBC는 '논란의' 중국 협정이 끝났다는 점을 앞세웠다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_cn",
+       "title": "호주와 솔로몬 제도, 중국에 타격을 주는 안보 협정 체결",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG1oWFgtQ2pTYWVManFSTHhtZmk2UFl6VllsZFBkTWpHWUF0WGZ6LTNZaTZqTXJpeEhBWHVUallaaXhORWxVbmlaRUk0NkhPdEJXQ3puZHA4RFNIS01rdUVNS2MzdlcyalFTU0NNN2dUSFBuMy1rUmVDdWVFWlhTdGNpYVU2ZUc0bzRiZ0FWR3NiSG5hMEhF?oc=5"
+      },
+      {
+       "source": "bbc_cn",
+       "title": "솔로몬제도, 중국과의 논란의 안보협정 파기하고 호주와 조약 체결",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41YURyU182TkN6ekFXendrQlFUbWc2OEJ4bzRvTjZRa1JicUs2cmJ3RkFLNDFDcXI1VmVLa1hLb0l5SnczZUhrNEgwcmhfdG1tNUNJaWVLZnFfQlU?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr",
+   "issues": [
+    {
+     "title": "중국 전기차 공세 속 한국, 전기차 산업 지원책 예고",
+     "status": "new",
+     "keys": [
+      "전기차",
+      "중국 경쟁",
+      "관세 8%"
+     ],
+     "what": "로이터는 한국 정부가 중국과의 경쟁 심화에 대응해 전기차 산업 지원 방안을 내놓을 예정이라고 보도했다. 조선일보는 미국이 중국 전기차에 102% 관세를 매기는 것과 달리 한국은 8%에 그쳐 중국 전기차의 '열린 정원'이 됐다고 짚었다.",
+     "stances": [
+      {
+       "source": "hani",
+       "text": "한겨레·경향신문은 같은 기간 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "hankyung",
+       "text": "한국경제·매일경제는 제목으로 다루지 않았다."
+      },
+      {
+       "source": "chosun",
+       "text": "조선일보는 '102% 대 8%' 관세 격차를 대비해 중국 전기차에 문이 열려 있다고 강조했다."
+      },
+      {
+       "source": "reuters_kr",
+       "text": "로이터(영국)는 '중국 경쟁 심화'를 지원책의 배경으로 제목에 올렸다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_kr",
+       "title": "한국, 중국 경쟁 심화 속 전기차 산업 지원책 공개 예정",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVJPbmFFdHNoOWFvak9na2g4QjVyODdxSk9MTDFGYUtzWUhOVi1qOF9VaERvcUdqZ2tlRVNTU2Q4MEFlZ2padWVCOWF1NUNsbjV3V3ZIdjB3enA3Q29mTXMybGVnNUpIYzhYS2l1ZGJmQlJwLUNaNFQzWVM2dmpqdU1YTTN0bDdBVm9zNTVJUjBrZnpQcUZjWGQxNEtaOEphNVdFWk1VZlpfRmwzU3psM2NHVFhoMDZ4bFVXa3hRSEJWTVljWkdHZA?oc=5"
+      },
+      {
+       "source": "chosun",
+       "title": "美 102% 관세 빗장 쳤는데… 8% 한국은 中 전기차 ‘열린 정원’",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTjlOdTRlQmowRTFTbTE3V3dSOGFDZE9fLWVueDh4U1lOSUNQMU83VHkxNFA2c1RuZnI4YnpwWUh1N1Y2UGtXZ0ZVVzVLY2VyOXl5eWR6dmFUQkM2UFFIM2JZbzNicVdoR1NkeDgyNTRYc3ZrXzd6b2V5cGZRT3NDTUcxWDliR1dj?oc=5"
+      }
+     ],
+     "international": {
+      "reason": "미국이 중국 전기차에 고율 관세를 매긴 가운데 한국의 대중 전기차 관세·산업 지원 정책은 중국 전기차의 수출 경로와 한·중 자동차 교역에 영향을 준다. 로이터가 중국과의 경쟁을 배경으로 한국 정부의 지원책을 별도 보도했다.",
+      "evidence": [
+       {
+        "kind": "media",
+        "source": "reuters_kr",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVJPbmFFdHNoOWFvak9na2g4QjVyODdxSk9MTDFGYUtzWUhOVi1qOF9VaERvcUdqZ2tlRVNTU2Q4MEFlZ2padWVCOWF1NUNsbjV3V3ZIdjB3enA3Q29mTXMybGVnNUpIYzhYS2l1ZGJmQlJwLUNaNFQzWVM2dmpqdU1YTTN0bDdBVm9zNTVJUjBrZnpQcUZjWGQxNEtaOEphNVdFWk1VZlpfRmwzU3psM2NHVFhoMDZ4bFVXa3hRSEJWTVljWkdHZA?oc=5",
+        "title": "South Korea to unveil EV industry support measures as Chinese competition grows",
+        "date": "2026-11-25T04:29:00.000Z"
+       }
+      ]
+     },
+     "reactions": []
+    },
+    {
+     "title": "아람코·에쓰오일, 70억 달러 석유화학단지 준공",
+     "status": "new",
+     "keys": [
+      "아람코",
+      "에쓰오일",
+      "샤힌"
+     ],
+     "what": "로이터는 사우디 아람코와 에쓰오일이 한국에서 70억 달러 규모 석유화학 단지 준공식을 열었다고 보도했다. 이 사업(샤힌 프로젝트)은 2023년 3월 울산에서 착공했다.",
+     "stances": [
+      {
+       "source": "hani",
+       "text": "한겨레·경향신문은 같은 기간 제목으로 다루지 않았다."
+      },
+      {
+       "source": "hankyung",
+       "text": "한국경제·매일경제는 같은 기간 제목으로 다루지 않았다."
+      },
+      {
+       "source": "chosun",
+       "text": "조선일보·중앙일보는 같은 기간 제목으로 다루지 않았다."
+      },
+      {
+       "source": "reuters_kr",
+       "text": "로이터(영국)는 '70억 달러' 투자 규모와 아람코의 참여를 제목에 올렸다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_kr",
+       "title": "아람코·에쓰오일, 한국에 70억 달러 석유화학 단지 준공",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdC1LV09jNTg1TExDUjBUUDgyRWhmYk9xNFV6QmdfYUtRZXlERDF0aS1rZlpuLXh0eWpMZTJXMUM5c1dHMGJJZ2k1YlJjOUdaeUNmMmdFTk1Gc3JTUC1zX242dWxGVmV0NDBSR2VsTjhIU013bGZyWFc1Q2xNWWR1cHMtdjJ5bTlwME84S0Z5T0xRQnhKVmlGYUFrYjFaQnZXTWM2R1FqS0dHMi02d0h5UlZnZnlQdzVockxLMg?oc=5"
+      }
+     ],
+     "international": {
+      "reason": "사우디 국영 석유회사 아람코가 대주주인 에쓰오일의 대형 설비로, 사우디 원유의 한국 내 하류 공정 투자이자 한·사우디 에너지 협력 사업이다. 로이터가 준공을 별도로 보도했다.",
+      "evidence": [
+       {
+        "kind": "media",
+        "source": "reuters_kr",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdC1LV09jNTg1TExDUjBUUDgyRWhmYk9xNFV6QmdfYUtRZXlERDF0aS1rZlpuLXh0eWpMZTJXMUM5c1dHMGJJZ2k1YlJjOUdaeUNmMmdFTk1Gc3JTUC1zX242dWxGVmV0NDBSR2VsTjhIU013bGZyWFc1Q2xNWWR1cHMtdjJ5bTlwME84S0Z5T0xRQnhKVmlGYUFrYjFaQnZXTWM2R1FqS0dHMi02d0h5UlZnZnlQdzVockxLMg?oc=5",
+        "title": "Aramco, S-Oil inaugurate $7 billion petrochemicals complex in South Korea",
+        "date": "2026-11-25T08:42:39.000Z"
+       }
+      ]
+     },
+     "reactions": []
+    }
+   ]
+  },
+  {
+   "id": "jp",
+   "issues": [
+    {
+     "title": "미 신관세안, 일본 15% 상한…대미 투자 미이행 땐 20%",
+     "status": "new",
+     "keys": [
+      "신관세",
+      "15% 상한",
+      "대미 투자"
+     ],
+     "what": "아사히는 미 정권이 일본·중국·EU 등 14개국·지역에 신관세안을 내놓았고 일본은 최대 15%라고 보도했다. 닛케이는 대미 투자를 이행하지 않으면 20%가 적용될 수 있다고 전했다.",
+     "stances": [
+      {
+       "source": "asahi",
+       "text": "'14개국·지역'과 '일본 최대 15%'를 함께 제목에 올렸다."
+      },
+      {
+       "source": "nikkei",
+       "text": "'대미 투자 이행'을 조건으로 한 20% 가능성을 부각했다."
+      },
+      {
+       "source": "yomiuri",
+       "text": "제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "asahi",
+       "title": "미국 정권, 주간이나 EU 등 14개국·지역에 신관세안 일본은 최대 15% [트럼프 관세]",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNEdLajJkSFpuejVhcUgzc0ktM0YwNmRQTUhIR2RtZW5Fc044RnB2MVhZdlZLWllYNm5Gb0tacFVUMGl5MFRFR0xhQzg5RlU2aFVESGFZSzhEVFJ1QWxDV2VibFFLNkU?oc=5"
+      },
+      {
+       "source": "nikkei",
+       "title": "트럼프 행정부 추가 관세안 공개…일본 15% 상한, 대미 투자 이행 안 하면 20%",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40WVh5dnNFV21zMjM1X3dZaHRpY1JVNnFDV3NUSU9abUtzZF8zWE5udU43cHJCLVFlS1ZsWVhhazY4N2NQTmh6b3Vsb3MzVFE4THViT2NreXo0QldKb0tCOG5SZVltRlVoeEtIZA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "소비세 감세 뒤 지원금, 대상 상한 '평균 연수입 수준'",
+     "status": "cont",
+     "change": "대상 상한 평균 연수입 수준, 야당 주장 반영 보도",
+     "keys": [
+      "지원금",
+      "연 27만 엔",
+      "소비세 감세"
+     ],
+     "what": "정부가 소비세 감세 뒤 도입할 지원금을 맞벌이 부부·자녀 2명 가구 기준 연 최대 27만 엔으로 검토한다고 아사히가 보도했다. 요미우리는 대상자 상한을 평균 연수입 수준(2025년 487만 엔)으로 정해 야당 주장을 반영했다고 전했다.",
+     "stances": [
+      {
+       "source": "asahi",
+       "text": "가구당 '연 27만 엔' 지급액과 감세 편승 인상을 둘러싼 국회 질의를 다뤘다."
+      },
+      {
+       "source": "nikkei",
+       "text": "지원금은 제목에 올리지 않고 2027년도 세제개정 대강의 과세 강화안을 다뤘다."
+      },
+      {
+       "source": "yomiuri",
+       "text": "'야당 주장 수용'과 '대상 확대'를 제목에 넣었다."
+      }
+     ],
+     "links": [
+      {
+       "source": "asahi",
+       "title": "부부와 자녀 2명 가구에 연 최대 27만 엔 지원 검토…소비세 인하 후 지원금 제도",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGOFZxNXlMUGRHMm5UY0Y1Q0t3MXl2YVBLazhLYjRsazN3azhFY3ptSWM2bzY2NTNtMXR0Z2ZmVEpPSi1Jc1RUaXEtZVRDa3NxYUh4OU1qeDNjSTNDQ1lDa09jWE5rRlU?oc=5"
+      },
+      {
+       "source": "yomiuri",
+       "title": "'지원금' 대상자 상한은 '평균 연봉 수준'…2025년 487만 엔, 정부 야당 주장 반영해 대상 확대",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CVmtKRXFqZHU3QnNCeVRWS2Fibmo2LURIekJNcmxQZDhOaDF3ZzVWTGRhSDYzdXJLM1hUZDBFSmJOWG9LVHBCdVNrR290aUxEbHBXenVkSHBJb2xMUmVRVkpYVks?oc=5"
+      },
+      {
+       "source": "asahi",
+       "title": "소비세 감세 틈타 편승 인상? 라이프 사장 \"가능성 극히 낮아\" 국회서 해명",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IZ0N6Y0xtdUNrckJzdnp2SWFBTFhJUWlaOFM0Tk5IS3pDazRsdmtRYVNpU0hUSnZFd1dCaGpfMnZkZlRJLThxaERjeDJUZDZ4My1sVUNRd1lZNmxVeDUtZmxuT1c4LXM?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "안보 3문서 제언 원안, 재원 확보에 '국민 부담'도",
+     "status": "new",
+     "keys": [
+      "안보 3문서",
+      "재원",
+      "국민 부담"
+     ],
+     "what": "닛케이는 안보 3문서 개정을 위한 제언 원안이 안보 강화에 재정적 배려가 필요하다며 재원 확보에 '국민 부담'도 거론했다고 보도했다. 정부는 연말까지 안보 3문서 개정을 추진하고 있다.",
+     "stances": [
+      {
+       "source": "asahi",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "nikkei",
+       "text": "'국민 부담'이라는 표현을 따옴표로 제목에 넣었다."
+      },
+      {
+       "source": "yomiuri",
+       "text": "제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nikkei",
+       "title": "안보 강화 위해 재정 배려 필요, 재원 확보 시 \"국민 부담도\" 제언 — 3문서 제언 원안",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fR2RRX1dRX1ZGT1VfNWx0SjVOMXR0eFZRT0RWUjJIdDNXYmp6cGNpQnEtRlZfbFdjamVkX3NmYnhCWnQ0Y2R1dFFKS242a2VjOEhpUnJ6bnJZV0d1VVZSVVF5WUR6N21hbUZlRQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ru",
+   "issues": [
+    {
+     "title": "우크라 '러 공군기지 타격, 항공기 5대 파손'…푸틴 보복 예고",
+     "status": "cont",
+     "change": "우크라 공군기지 타격, 푸틴 보복 예고·우크라 정전",
+     "keys": [
+      "공군기지",
+      "보복",
+      "전력망"
+     ],
+     "what": "우크라이나가 러시아 주요 공군기지를 타격해 항공기 5대를 파손했다고 주장했다는 보도가 나왔다. 푸틴 대통령은 트럼프 대통령의 요청에도 우크라이나가 정유시설을 공격한다며 대응을 예고했고, 러시아의 공습으로 우크라이나 5개 지역 전력이 끊겼다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "'러시아는 대응할 것'이라는 푸틴 발언과 '지난주 민간인 65명 사망'을 앞세웠다."
+      },
+      {
+       "source": "kommersant",
+       "text": "공습 대신 노박 부총리의 '연료 시장 긴장' 발언 등 연료 수급 문제를 다뤘다."
+      },
+      {
+       "source": "reuters_ru",
+       "text": "공군기지 타격과 러시아 공습에 따른 우크라이나 정전을 나란히 보도했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_ru",
+       "title": "우크라이나, 러시아 주요 공군기지 타격…항공기 5대 파손 주장",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZm1PXzlrNXY0LXdObV93VWg5QnMzNk1rby1CSHNiMHYtcVpvYUpteDBGWi1GQS1tNjU4VTV6MmVBTXpxY3I2NTdfbzVvVTdBWS1LeVBMeGpCMkdUTDVpWE1nNzRld3NBbUtYRlRoTlhPLWp4ZjdsMmRCRUdycERtcVRDNGk5UjNxR3RRUTN3V2QyU1VDT29acWEtc096cjVkS0xtN0V2dURHTmUyM0ZIbnRvcndIRUZrRnBBWmlDNDRRSng1OHdFWg?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "러시아, 우크라이나 공습에 대응 - 푸틴",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zRTRlMWlOSUJMWEUzWmhCMEQ0dHJ2Ny0xTmxzcEtlVXNmMUdLanNkUmhpOHFtZVdmc1JuTFFfSWpGa0JFUmg1RtIBTkFVX3lxTE1DOGxRRFN3WEo1S052TDNub1JWVHlGTWJ0dC1nX3ppTUdkenVmUWFTbzhvb2dpdDRSWjJEUDYzSHpiZW54RVNfb21Ob0pnQQ?oc=5"
+      },
+      {
+       "source": "reuters_ru",
+       "title": "푸틴 \"트럼프 요청에도 우크라이나가 러시아 정유시설 공격…보복할 것\"",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5"
+      },
+      {
+       "source": "reuters_ru",
+       "title": "러시아의 공격으로 우크라이나의 에너지 및 가스 현장이 손상되고 5개 지역의 전력이 차단되었습니다.",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhyeUxrcS1sWnpSWnJPa1JGcXM0VDJ1U2FDamw1U2JxTm9May1fN1FPYmI2UjFqcTA0dmsxejlwS1NwRGpwR2RqQnN3cVJWU0VTcERHTzlhOHpzVmp6QUcwRUtNVzJQQjhmSTdmQ3h4YnptankzQ0RzRzZWWkk5LUNOTWRVT3dYUjhwZnh1NktRVjFpTGVadE5qTFZTb0xBU0lKbTdpdno1RmZrbzJHSDJxSHl6TzI0WDJqVml3?oc=5"
+      },
+      {
+       "source": "kommersant",
+       "title": "노박 \"러시아 연료 시장 상황 긴장\"",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TOW96RTY3c0NxVEZfeFlRb1NtVGtxN3l0OWdGeVRvRXluWnoyWmpSdTBhNXY4a1FpaDh4OFNIbHRJWHdCNTd5ZGZYNktxUQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "미국, 대러 사업 협력 구상 보류…'영토 대 평화' 회귀 보도",
+     "status": "new",
+     "keys": [
+      "영토 대 평화",
+      "FT",
+      "사업 협력"
+     ],
+     "what": "FT는 트럼프 행정부가 우크라이나 전쟁 종식의 유인책으로 검토하던 러시아와의 사업 협력 구상을 보류했다고 보도했다. 메두자는 미국이 '영토 대 평화' 접근으로 돌아섰다고 전했다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "FT 보도는 제목에 올리지 않고 크렘린의 리비아항 공격·유럽인 모스크바 방문 논평을 전했다."
+      },
+      {
+       "source": "kommersant",
+       "text": "제목에서 다루지 않았다."
+      },
+      {
+       "source": "reuters_ru",
+       "text": "FT를 인용해 '사업 협력 보류'를 전하고 메르츠의 '러시아는 우크라이나 이상을 원한다' 발언도 보도했다."
+      },
+      {
+       "source": "meduza",
+       "text": "'영토 대 평화'로의 회귀를 제목에 명시했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_ru",
+       "title": "FT \"미국, 우크라이나 전쟁 종식 위한 대러 사업 협력 방안 보류\"",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5"
+      },
+      {
+       "source": "meduza",
+       "title": "트럼프 행정부, 러시아 종전 유인책이던 사업 거래 포기…'땅과 평화' 접근으로 회귀 — FT 보도",
+       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVHZxNmZrYVlfZldVTTBMdnAyRV9ndC0tUFEzWFRUZ2hHQ2xYQ2F4U0RHRW13NncxSGdzTUpZclAwcE9HbHRCamJCbXl4dnlaV1p3NE5Tc0xGa3M2MWtKOGl4dWZ1RDF0UFB4ZmtDYkM5aWhDdHR0ZjlqcUJyYlBOaXdZSVVJMDVYWGxKd2kzODE1Sl9rR3QxcVVERHNDQ3dVdUNpQzB1M1l4YkFRXzNCX0p3QTY1V1VrTkxzeE44OEVFak1jeHBBSG45N1liUThYS2k5aG9ScWZNcVVwOW1ySG9IeG1qaFFBY1dwLU5QVkZmTkxYYWUtcDNZZDc4aU51eUxiRUhQNWTSAY4CQVVfeXFMTlVBVlM4Y1ZHTWdlVFl2XzJ6bWNOSFJlNWpNTkNkeFhIMTlrVDUzVzROeWxNY1dzUG84bWRSMDEyTHpQZjJHR19PLWlGZlJ1TXhjdGRQcGV5MlF5OVl2N3g5alB6aG5pbnMwSmk1RXZoQlJzQktDOWxnM0RKbW02OWdKODBaSlNIbzkwOG9YQzUwUFZNTW5XSUwtSGljZTNvSi1JWmgzQ0p6R21UbWUxSVRFWGc0V0lZalVxM1NOUEpqVVdqcEwzaW1Gb0p2dWxEVTBSdkw2NWlHUkZLYWNneWlvcmhtdGl4a3NINWI4cE9LNmpfZ20tTXFQZkNNV1FTa1lrcDBIWUduWnpsenBR?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "크렘린은 우크라이나의 리비아 항구 공격과 유럽인의 모스크바 방문 가능성에 대해 언급했다.",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ycnk1N1A3Ynd3R2ZyYzkza1daUnhBeXctMEdtNjIzSnlmVWpzUk1uX3VYTHZfai1DeGhxM1FGellBaVR5UzV4SdIBTkFVX3lxTE9qdVZJREpWVWZCZWRkdVVQWWM5czllR2MzY0lhMFZHSmNoSEs4aW5PUmJHM3VfZnNJZlltdzZnXzJSLVlHcU5tV3FTOUliQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "유출 통계로 본 러시아군 사망자 약 50만 명",
+     "status": "new",
+     "keys": [
+      "로스스타트",
+      "사망자",
+      "유출"
+     ],
+     "what": "BBC는 러시아 자체 통계로도 우크라이나 전쟁 사망자가 50만 명에 가깝다고 보도했다. 이달 초 러시아 연방통계청(로스스타트) 유출 자료를 근거로 전사자가 45만 명을 넘었다는 분석이 나온 바 있다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "제목에서 다루지 않았다."
+      },
+      {
+       "source": "kommersant",
+       "text": "제목에서 다루지 않고 지역 예산 흑자 등 재정 지표를 다뤘다."
+      },
+      {
+       "source": "bbc_ru",
+       "text": "'러시아 자체 수치'라는 점을 제목에 앞세웠다."
+      },
+      {
+       "source": "meduza",
+       "text": "통계청 유출로 전사자 규모 추정이 가능해졌다며 '그밖에 무엇이 드러났나'를 물었다."
+      }
+     ],
+     "links": [
+      {
+       "source": "bbc_ru",
+       "title": "러시아 자체 집계로도 우크라이나 전쟁 사망자 약 50만 명",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52ekxuU3VuendQQVpId1BlX21DeXpnMW9teFNfV1A3Nng0ODhEblNKSmRVd0dHcjFpY2xfVjh5cVg2bnd5LTRaaWNQQlF3bGVDbE9rUGw5My1lSE0?oc=5"
+      },
+      {
+       "source": "meduza",
+       "title": "러시아 연방통계청 유출 자료로 우크라이나전 군 사망자 추산 가능…그 밖에 드러난 내용은",
+       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNWDBtU0RDRFI5NzlhdHJ1WlVLeVpFcG1pMkUwNEN5SW4ycEgtT0JDdmdsYUNya0dIS0cyR01lcUgySnRkM19VRnQ5X2RVbWt1YTFwTnUwUjB5M2JWeDJPalR2Y0o3bG8weGtRT0hIWUtHSzNpWmF1NGh1eG5fYXFPbTFCQ1lQSmJsalVMT2o3VTUxOVZ6UmIyVk1rRUdQMFhGX1NJdGFlR3RHeVN4T2M0Q1FkemdOTUp2RXlHdGFlSERfczZ3Z2dBbmd0c1Y5cHdpTFFZTFBSS3ptRXY3YndVdWdLcHRnUVVmT21xZlF1OEg3VVpDZUFPdkRtR0JnSEZpSzFVZzZrc1VzTDNaTkpxdExtcU52Y3liTE90RXdzcEtTTWZ0cm5j0gGsAkFVX3lxTE4tbmZXSzVjT3VMM0Nha1JpcHVtWF83X0F1Vm43OUhJMFJ4QkU2M01PT0JYT2Q1VVN1cjJwRWhhVzUzUUVhWTlmdWtNRzJ4UGE4Xzcya2VSZldMM1NPMWRYM3RVbm1LSC1rNFQ2RDJIT0NZQ054Z1RDd1J3MDBSNDZYRnVnSGJ4TnU1UHJEWmdPeDlpako2bEk1MGZQdjVlaVY1TmpfZGRBMEp3bVYyWFlSUmxUUVZVb2hQSDRfaUdPbkNNRzJHZWV3bGQ5YmtrWFNHblNnUVpXWXowZnhaOFFHaFN2b0c4bm93LW5FSW1mUndRVGU0SGlPR2ZacllWYW5GZ2ZjaEdpYVQxR293djJnRFFwZ25oa0xEVl9KVGhTWWNHdDdka3hnRVpTZQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk",
+   "issues": [
+    {
+     "title": "영국 가계 에너지요금 1월 26% 인상",
+     "status": "new",
+     "keys": [
+      "에너지요금",
+      "26%",
+      "2000파운드"
+     ],
+     "what": "영국 가계 에너지요금이 내년 1월 26% 올라 연간 2,000파운드를 넘게 된다고 가디언과 FT가 보도했다. 사우디 매체 아샤르크는 인상 배경으로 이란 전쟁의 압박을 들었다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "'연간 2,000파운드 돌파'로 가계 부담 수치를 제목에 넣었다."
+      },
+      {
+       "source": "ft",
+       "text": "'급등(soar)'이라는 표현으로 인상폭을 전했다."
+      },
+      {
+       "source": "telegraph",
+       "text": "제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "guardian",
+       "title": "영국 에너지 요금 1월 26% 인상…연간 요금 2,000파운드 넘어",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTZHTXpyS1pnWWg3QXdBYlNfTmlTYjctQkxoUU1PSUNrU3NhdUplTjZXNjBobE1sOElJVmdURGxLQWRTeEFGcFdUNHdUdmNXc2tLMWpZdGtfeV9WM1BiMlBCemxyQ3JMbzlhRm5xQkw3akFtWk1iRllNWnNKd3dvbXRMel9OVEpONnFuR2xGNWlSQ1l2VkNzNkQ2dE1kdnY5?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "영국 가구 에너지 요금 내년 1월부터 26% 급등",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNamxuTERESnp4SVhnbUlPejBFMTBFUm5tcC1oME1Pd2JYckIwQ2Z2aEtkNk1lM0tFVUpWYVdub3d0YkV0NEFtRUh4c1ZaZndjd0FqQ0NwRGUycWxOTnlhREpJRTM2Ymp0Mnh2bFRZTmJWSk1uVmNWSWJEdEhPUWludjhoX3A?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "M&G 사장 '런던증시 이탈 막으려면 인지세 인하'",
+     "status": "new",
+     "keys": [
+      "런던증권거래소",
+      "컴퍼스",
+      "인지세"
+     ],
+     "what": "자산운용사 M&G 최고경영자가 급식업체 컴퍼스의 뉴욕 상장 이전 이후 런던 기업들의 이탈을 막아야 한다며 인지세 인하를 요구했다. 컴퍼스는 런던증시를 떠나 미국 상장을 택했다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "'컴퍼스 이탈 뒤 기업 유출 홍수'라는 표현을 썼고, 칼럼에서는 장관들이 위험을 깨달아야 한다고 했다."
+      },
+      {
+       "source": "ft",
+       "text": "'인지세 인하'라는 구체적 처방을 제목에 올렸다."
+      },
+      {
+       "source": "telegraph",
+       "text": "제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "guardian",
+       "title": "M&G 사장, 영국에 Compass 퇴출 이후 런던 증권거래소를 떠나는 기업의 홍수를 막을 것을 촉구",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHctSVZ4Z2lIalFrTlgxR3QtaDFpejlUUWNKbUdJLXNwSF9hX0xodDRUVXhhaW5sN2FmN0pwUzJqUnhCN3IwaElqNV9NWnlQOGM5YlBuMXJPUVV5YTJlcm5DWjJBVWJOS2dTenZJLWdyRVhCU1Z1VEczNXYwNU1yRV82VW9ZaTIzd2RKXzl4R3VYSlJFMjdZZWtiWXpYeVZ1VkFzeGFpak1Xdw?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "M&G 사장, 런던 기업의 뉴욕 진출을 중단하기 위해 인지세 인하 요구",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlNIaTlhSXZSRWJqRkMzTFo3TnhJMWhJdDVYcURqWlpPeW5aRmstamFnWGl3cE5mS3ZwRjE1Z3l2RkdweDIwclBuWmdNNFRhZVljRkQyTzF0VFg5WGs5N0IxSFVGWm5Qb2NfNkgwdEg5YVpUZndSbnl6Vkdnd0F6Yjc1Rlk?oc=5"
+      },
+      {
+       "source": "guardian",
+       "title": "[칼럼] 컴퍼스의 미국 상장 논리는 허술하지만, 영국 장관들은 FTSE 이탈 위험에 눈떠야 — 닐스 프래틀리",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmd4cVpNS3lMNUltcjlWeXAzN2NXM0NQeVZocU50ajZVX3B5RjZid1Vqb3MyTGFySEp3MW9aeUFkWGUyME5hVkFIUkp6ekZRb2swcDZYUjUxaXU2eEZucWNxMkptdmQwUHllYnB4ak5CSVZVREFfLTZvMHlub0xoeGVidXRKWGpfbE9GU1RDdElvR2lqeDhIUE4yVm9IYVJJclNQNTRXWnp6SXR0aWJv?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "노동당 복지 검토 '수급 쉽게'…버넘에 요건 완화 요구",
+     "status": "new",
+     "keys": [
+      "PIP",
+      "복지 수급",
+      "버넘"
+     ],
+     "what": "노동당 정부의 복지 검토가 수당 신청을 더 쉽게 해야 한다고 권고했다고 텔레그래프가 보도했다. 노동당 하원의원들도 버넘 총리에게 장애수당(PIP) 신청 요건 완화를 요구했다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "ft",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "telegraph",
+       "text": "'수급을 쉽게'라는 권고와 노동당 의원들의 요구를 잇달아 보도했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "telegraph",
+       "title": "노동당 검토위 \"복지 수급 절차 더 쉽게 해야\"",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkl1Y0lUdWdGTVN5MTJkX0wzR3RaVUE5RXlxWHRjWmR6ektxWUZwWnE1eG84cldWN1V6QmZ4X2FVUV9ILUtxd2NrRHNON0JSMFd1bTBFWUswLUgwWEIyVWpnVFltRUhPYkQ4MXpObWhnVUJGOXphaEhOU0RkeEU3bHd6RDlRcjJFV1J2ZEpvaVpkSlROMlM0?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "PIP 재검토 두고 노동당 하원의원들, 번햄에게 급여 신청 요건 완화 요구",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1VvRHFuajVfd1FxMC16RVkzSU1jdUo5ODMxWVBPYWowcEd6WnY4T1BZc2xEbDMwYnJmekk3WkxmdmNCeS1qUDNfSjdpVmN4a0dYMU5RMEdnaTdhQldKU3BJM3RHLVJSeTc4Z2N5Mm9yaW5pWnhTY0NIdHpMQmI5Wm1KMHdzcE9DcjNzNGNRLXZsRk83aExxeFVOSGNSa0x0eXRlNl9CM0ZJRERB?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de",
+   "issues": [
+    {
+     "title": "메르츠 '세금으로 모든 걸 감당 못 해'…역대 최대 예산 방어",
+     "status": "cont",
+     "change": "연방하원 일반토론서 메르츠 예산 옹호·실수 인정",
+     "keys": [
+      "일반토론",
+      "2027 예산",
+      "녹색당"
+     ],
+     "what": "메르츠 총리가 연방하원 일반토론에서 2027년 예산을 옹호하며 \"이제 모든 것에 쓸 돈이 없다\"고 말했다. SZ는 메르츠가 실수를 인정했고 녹색당은 그가 일을 '망치고 있다'고 비판했다고 전했다.",
+     "stances": [
+      {
+       "source": "sz",
+       "text": "'실수 인정'과 녹색당 비판, AfD의 날 선 공격 등 야당 반응을 함께 다뤘다."
+      },
+      {
+       "source": "handelsblatt",
+       "text": "'역대 최대 예산' 옹호와 '야당의 조롱'을 대비했다."
+      },
+      {
+       "source": "faz",
+       "text": "'모든 것에 쓸 돈이 없다'는 발언을 그대로 제목에 옮겼다."
+      }
+     ],
+     "links": [
+      {
+       "source": "sz",
+       "title": "2027년 연방예산: 메르츠 실수 인정… 녹색당 \"예산 망치고 있다\" 비판",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGdxd3JVWXExeC14Y2Mwb2RoWXp2eUEtSGgwSmNlRnFtNzhfRjlSQzhxUEpEYi04ZUhqLVdsRnVLR1JDTTluTVd4UWh1OWJkZTZMeDVlRUVaMDd1VTdNSmp4UzRJWmpCdVpsRzFaMHYyTjJUZmlpZHQ3UmkxTTlHRk9fUER0MTBCU2ExdmRTWHdyQ09sSTl0a19BSHZwWUFCQWJ3?oc=5"
+      },
+      {
+       "source": "handelsblatt",
+       "title": "연방하원: 메르츠, 역대 최대 예산 옹호…야당 조롱",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeHQ0cEhhZUpBdkpfUXEzazV3NWdyM2JsV0p5LUcyaTZsRG41NzQ2OTNYbTZDQzhudTRfS0lVVG1UT1dKb0MxZ0JoaXBLMUhTV0djU2tPWkY5VGYzT1hLamw0RGpVc25sX2ZxZjRJQ1ZFT3dkcFhSQ3hYdVYyVDVyYXo4aGlrbUhtcHNGdlp1Qk9zc1owa0RlejVDS3cxenJuSWZNV2dGNGdFdWRoaG5KYU9BR3NtTmoxS0dqTlFHWXVVYlQxbjBBb0t2RWs4dmdLVkNEZHpKeE9oZw?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "Merz: “우리는 더 이상 모든 것을 살 돈이 없습니다”",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2Y0UmJscUtkem81Q0R5Y0VuVzB0YVBrNWFnaUJkZ1l2NXFMYU12Q2tvVGFObnl0cVVOMklRczI5dFZXbDVuaUdjRGQ5TDZvVFdEY0xZUndCM2RYQUNGcWRYWUVkc0hjMFJkZGc3Nkk4cnNUNm1tbGNraTM5Tk5udkwxSVItUnJCS05tenh1LXZscE9YUkdlOWpEYWsyXzBiQnc4?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "전기세 인하·세제개혁 놓고 연정 교착",
+     "status": "new",
+     "keys": [
+      "전기세",
+      "50억 유로",
+      "해고보호"
+     ],
+     "what": "한델스블라트는 연정이 50억 유로를 들여 전기세 인하를 계획한다고 보도했다. SZ는 세제개혁과 해고보호 완화가 맞물리며 연정이 스스로 발목을 잡고 있다고 전했다.",
+     "stances": [
+      {
+       "source": "sz",
+       "text": "'세제개혁 대 해고보호' 구도로 연정이 '스스로를 막고 있다'고 썼다."
+      },
+      {
+       "source": "handelsblatt",
+       "text": "50억 유로 규모 전기세 인하 계획을 전했다."
+      },
+      {
+       "source": "faz",
+       "text": "SPD 예산 대변인이 연정의 '의회 무시'를 비판했다고 보도했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "sz",
+       "title": "독일 연방정부, 세제개혁 대 해고보호 대립…연정 스스로 발목",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2JGSWtocGNKTG5SSS1lU2NxekZkbjYycm50TDNHUW9Cc2I3SURGb2VsNTRfdFNyak9IWHd1RVVpbDA4QnZhSjA0eVJ1T1Y0cUdKTHo4LUxKeHpsQjZta1I0QnFTRzIxVW9oenAwdU1ER0dtWEJyWFhKN0hlLXVjR2oySnB1bzBEZE9ETnZwQzdjejRKY0pxYjF0WGlMX1hMaFppMHVoRklSc2pFaVRiTzhSNWc1Wm80dUlSRzY1Y3ozSUdxamxRRFUwZlU?oc=5"
+      },
+      {
+       "source": "handelsblatt",
+       "title": "연방정치: 연정, 전기세(Stromsteuer) 인하에 50억 유로 투입 계획",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYWxfcGpxeHVoZ1gxQ3V1OEJybFdJZXc0REIxVlRTYU1DaW1jUHhPUkN6Mk91bkxDN1ZmZko2QVV5NWg2NUdwZzB1dTBlWXZKUjZZM0NWUl9RMkhhZWwzWk1ESTVydkxEU2pidENEMEdUTkZiOGZQdmhZd21SR3dkcTBzbmZNVjE2eFpXYVJhWWpwVF9kdmtIVXNBS2ZNeUo2b2kzRnNNSGo1b2laZGk1bnlUQjVRSDdhWndXdWNyY3RRZ1A4Y3M3V2NxV1ZYMmstOVdrcnQ0X1N3eDg?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "전기세 인하 논란: SPD 예산 대변인 루돌프 \"의회 무시\" 연정 비판",
+       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTm5kS0ZfVUhCVkk3WGlDazFKZEh2Z1BCUXo0Z2hsUUc2RWJYQ1hQcjB4WUNQM0ZvTlRhUkhBaVB2cjFoVkMxVHJhcXlMQlcyZVhRaWNrN3kxNXBJVXVWOVRzLV83WTFXVy1MNU5YVnlubGZVODJ2QTY1c3hQM0ZNQkFIT3ZkWHVZcElaRXRsaHBkSlpKN3ZXU1ZvWkNRMDEwdXlGWnRjUnhPSEJDUlVfMEltOG9fQXdLRzd5R3dSLTBxenQ5QUxpN2NYbHF3c2oycVAxSFJ4UWczVzR2TXVGYUNnQXdFOFlvMUdTZEktTQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "독일 3분기 성장 예상 밑돌아…산업 재정난 경고",
+     "status": "new",
+     "keys": [
+      "3분기 성장",
+      "맥킨지",
+      "신규 관세"
+     ],
+     "what": "독일 경제가 3분기에 예상보다 다소 낮은 성장을 기록했다고 한델스블라트가 보도했다. FAZ는 맥킨지 보고서를 인용해 독일 산업이 재정난에 빠지고 있다고 전했다.",
+     "stances": [
+      {
+       "source": "sz",
+       "text": "'독일 산업, 전환점 앞에' 보고를 다뤘다."
+      },
+      {
+       "source": "handelsblatt",
+       "text": "'예상보다 낮은 성장'과 함께 '트럼프의 독일 경제 다음 타격'을 아침 브리핑 제목에 올렸다."
+      },
+      {
+       "source": "faz",
+       "text": "맥킨지 연구를 인용해 산업의 '재정난'을 부각했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "handelsblatt",
+       "title": "경기 동향: 독일 경제, 예상보다 다소 낮은 성장세",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWG9taWNXTnV6TWhwQWxVdWw3Y1lYYkpUR2FwbzNKMFczV2ozREFxVEI3eTF1aDU2emNtT2gzUTd5T2cycVpQdVhFdTFTTEdoTVVUbDE0U2NIR1FUQlBzVFkyVXBicTktcmVKMndLeWxRblRyRUZoalF3alpjVVdkcUFNU3hjbWVJVl80eVE2enhWbEVLOFVaTWc3M1Q2RzM2bS02UE9laFY2Mno2eFNzVnZQdEV1dDlVajZsRU80c2tnanc5MXJocw?oc=5"
+      },
+      {
+       "source": "handelsblatt",
+       "title": "메르츠 독일 경제 또 한 방 맞나? 트럼프 새 관세 우려 - 아침 브리핑",
+       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa3ZFbG1hRHlxeFpFbmJXR0psRWVSMnNsNWpLeVNhWTFHTzY5cVpteEhBNGVENXRNa3FZS3dHd2thQ2pZV20xbFpaZ1lld1JZWGwtbzhVUXh1S0NRSWRFTjJqS1RNZ2VCTFFaS2Y5eldMWUZMOUR3Y3J0c3hheVJINEpVX1VjRXRPZDZnSVJGQjhyUm9fZXlYZ3lOTnpfWHdXNmdncE1PRE1FSnplRDlGTElZSmp3VzA0Rk1Kc3pCSFRTdHEyQjFnYk9Qc1hYRHltQWJmNk1MY0FTSW1YeFE?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "맥킨지 보고서: 독일 산업, 재정난에 빠지다",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSUdmZG9XeXk1ak5ydjFYVl9scmduWm9DemM4Z0c3bWFteTdUQUQzalVLdU15MGZfUXZ6ZUwzNFBWdEpvd1RUYTJXc2p4dW5EbjdYdEhrM0tRQ1JmSm1TT2p5VE5nRGVYODVjV0J0SDVMRHczZnV1dFdTREQ3U2JTTTZQX0xzaE9BekdTU3dZOFJBVkxLTGxuMVQtbkFLb05OMlJtbUZ5dXd3QXhhZlJSdk1VdEVYcUk3QzNRM3MwYWZWNWEyWjVCVDJSU1FoaTl1U3c?oc=5"
+      },
+      {
+       "source": "sz",
+       "title": "독일 산업, 전환점 앞에 서다 (속보) | SZ 도시에",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVkl6SkRLZ3gxWkJEVnBLTV9JUERwdGNVTXhGWG9rVjE0dzV6aXl4UW16TTB2aDhEa1BkbllJbldLSVh6dmhsVGIwTDR3MGN5OGUybl9SdkVsRWRZa19HUkwzNGJvb0U0clZHSExFeVlWZTR4eF9JMG9uLTJVNjNpMlBMNk12QnRNbmtUSzMyT1g3UGFNTVVJ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fr",
+   "issues": [
+    {
+     "title": "마크롱, EU 예산 12월 합의 불발 시 협상 중단 경고",
+     "status": "new",
+     "keys": [
+      "EU 예산",
+      "공동농업정책",
+      "12월"
+     ],
+     "what": "마크롱 대통령이 EU 장기예산 협상에서 12월까지 합의가 안 되면 협상을 끝내겠다고 경고했다고 피가로가 보도했다. 그는 공동농업정책 예산을 '1유로도' 줄일 수 없다고 밝혔다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "echos",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "figaro",
+       "text": "협상 중단 경고와 '1유로도 안 된다'는 발언을 잇달아 보도하고 분담금 축소론도 다뤘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "figaro",
+       "title": "EU 예산: 마크롱, 12월 합의 불발 시 협상 중단 위협",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYjdDZTIxRkYxWGl5WFBESTFDcTBPY2V5aFQzMU00T0RCWmQtem9WaXFjb0V0d3V3cllKSTkwYVROcEwzWWZqR2x6eGxZQXBJbEFwSURjMlBTMzVyUnJVY1JfS2RPMjZsVXlROWllS3NQYUFoam01clRhQTdVM1hXdVpNN0RwNlJlR2tfWkdYcHBZVlRISWViY09SMlJsM1R5QXpqelhJeURtQUZpYWpmWnhxSS1NREUwc21wLXdJN1pWaV82MlRHYVA1bkJpdTY2SzRiMXByeldhZw?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "EU 예산: 마크롱 \"공동농업정책 예산 1유로도 줄일 수 없다\" 경고",
+       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQQ0FhZ29HQzlWZnRZSEV0RkFhX09hQjdyNTV1Tl95LXNfV29hVzFRVmkySWFGTkV6NTJ5OWdYOTU1b1FGbUZXdkhQNlpldU5FOHc2TW1jcnBMQ3haSFo4TVNjeG9XUl9UOXhSeG15NHB4V1BLWVZTRXR3ZHVGcEdCZlhXVEFvZmhYdHFDUjJWbEM2TktsakZwczduYlU3Z1pwdTVJWjdNWWdPd1IyZlhmSTVSUVFaa2V3N2J0X0VoRFdUa0hjczBnTnpMci1PR05ITk5ITE1tOE8xSmh3cDEyZGYwR09zNE4yRFpHZUlJNDJWQQ?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "프랑스, 유럽 예산 분담금 줄여야 하나?",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdmpwUFQzUkdTZ1A4NnNxQmFZd3RqZzlrbEkzUzVMUmdTZTcyNDVwaEljaUlPVGZGVnQ3Q25sS1FxMnBKel9EYkQ3aVVMWEExbHJXRWtVclU3dmJTZ0RPcXljUWV3OHk5VlFUWHZVc1VTYmdqWEM5TGM5cHdnaV9HSmhTb1FxSGxQLTVESFY0ampzZUpKOUZqUkZ2QTE5LWtydThtYWl3TQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "프랑스 예산 불확실성에도 브뤼셀은 '관대'",
+     "status": "new",
+     "keys": [
+      "예산 불확실성",
+      "EU 집행위"
+     ],
+     "what": "레제코는 EU 집행위가 프랑스 재정에 의외로 관대한 이유를 짚었고, 피가로는 프랑스 예산의 '상당한 불확실성'이 브뤼셀을 걱정시킨다고 전했다. 프랑스는 아직 내년 예산을 확정하지 못했다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "echos",
+       "text": "'의외로 관대한' 브뤼셀과 예산을 통과시키지 못한 스페인·벨기에 사례를 함께 다뤘다."
+      },
+      {
+       "source": "figaro",
+       "text": "'상당한 불확실성'을 따옴표로 인용해 브뤼셀의 우려를 부각했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "echos",
+       "title": "예산: 브뤼셀이 프랑스에 의외로 관대한 이유",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTm1TSWplVENEWm1SX2JsSG9Qc0ZlN0M2aFg4bzI3NHBJQkt3TW9SQTg1b0xRVEVTZFR5UllsT1ZUWExxekp6RGhKQmVBR2ZmYTZpWWhhT2F0RTU3anl4eUxhb1dKRjh2T2JqU0NaQ0wwUXJiZGxDdEFMZ3VJY3FhcmY3Zi03VVZyMEFyMDc5VTFMUmJ6TXJ1Mkt4ZzdaeUpjcW5Wa0JraWhjLWRhT3lLUy1IMVhLeEx5SDNObHRMbm1OaHVWTHpPc2Y0bEJDMjA?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "스페인·벨기에… 예산안 통과 못 시키는 나라들은 어떻게 버티나",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjRIdVowbmpkUUR0aFQzd0JnLVQyUzBTd0U4eHdUTGZ3bTdLV0dWU2tqcHNSQzhFZkpyb2ZES2tqeWlFbWVRd0w1WTJobWJFeG9zc18yTlVyMDNaT2xSQ2lHYkRQRzVQYnUtWnVlajdYSVZYRmRQVDdRa21GUEZaZmFZWGo3eDhRME1ENGpNYkhpQzJSOEstQnNCOG1Ib245d0E4M1liQ1hnNk5tZjFrckFCZFJLNHdPLWRDR1ZVUFBfSTRaLWc?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "프랑스 예산의 \"상당한 불확실성\", 브뤼셀 우려 원인은",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnhleHl2WkI2SFN2elF6bEFQQXFkOEhhWGRoZmpOVHgxR0xkZmdMYnFUQlJLSlhqUVBOcURQOXhkUlRhbGdCSFpGRmgzcEU5d0NGSzRENFRVMkd0QTJDekhJREtWaGg4VG1UV3Vta2c4RFRnLUNYcGRYWnlKUE1iM3d6UTNvdERlUG9UX2VPZDRRLVR3dFplRU03dHE4TE5IM1BvUGlKRkJ5UG02dk5YRnlMOFl4QW05T2pLVkVFcw?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "2027 대선, 엘리제 '날짜 변경 불가'…후보군 행보",
+     "status": "new",
+     "keys": [
+      "대선 날짜",
+      "리스나르",
+      "테디 리네르"
+     ],
+     "what": "리베라시옹은 엘리제궁이 대선 날짜를 바꾸지 않으려는 이유를 분석했다. 피가로는 프랑스 시장협의회장에 재선된 다비드 리스나르가 대선 행보를 이어가고, 출마 의사를 밝힌 유도 선수 테디 리네르가 \"우크라이나는 우리 전쟁이 아니다\"라고 말했다고 보도했다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "엘리제궁이 대선 날짜를 고수하는 '속내'를 파고들었다."
+      },
+      {
+       "source": "echos",
+       "text": "RN의 고위 공직 사회 공략과 프랑스 디지털 업계의 대선 제안을 다뤘다."
+      },
+      {
+       "source": "figaro",
+       "text": "리스나르 재선과 리네르의 발언 등 후보군 동향을 연이어 다뤘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "liberation",
+       "title": "대선 날짜 변경 불가를 고수하는 엘리제궁의 속내",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOTkxZXBGM2NYQ1B4TWx0T0dqZjRnd3NkdGdSTFVsdU5iSm41THI4UnNYOXNSV1RYempFSWROUzlKcjNkcGd1SGF3MEkwd1hkRTBPMXR3akZiWjJYYTZyNkVSVGtMX3pJZlN6ckllUi1xaktsRlRCSnNPQlU2LWprVWlMNXF3OFQycGRaeTFYNm9UWnB2TEs1LTNRYU9qYnkzenJlY1ZSb3RybTM2TnFQUHlIMWhGVEV5X09oX3kwb0RobGFqOTlaWlRtVDgwZGRFR1lZUzFB?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "2027 대선: 프랑스 시장협의회장 무투표 재선 데이비드 리스나르, 선거운동 계속",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ3c1REFOZFlBb0NBNFN5S0JqTjFvck1ieXhZZ2xUTFNWbVJpekwwWFVTaTZLWWpYaU9IOC1KRC1xT0ZfYk1Tc2NWaU1adE5wMXFBcE0tTzhlUnY1d3VjUWIzd1llcy1yNFV5bUNfQV9hUW1aSG9LdUtIdGZxWmg1OVh4YXFjY24yUGNnb3daWE9OQTFFeXBoZ0haZmpwRThoaS1VNVA2V2wtWjBVaGFaN3dpUnVDUHdOY3RfSnhnMnBXM1hjbm02aHNCeGtlbWwtNkxmbkVnemdLbUdwVmFIejBKc3YyTkswY1ppbXRFQVd6TzQ?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "테디 리너 \"우크라이나는 우리 전쟁 아니다\", 프랑스 시장총회에서 발언",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa2ZsTHFhQ2liU1AyTHliOVZjWU1RRkE4TFJ2TnFER2tQWm51T3BCZGVJUGhBdVhXX2NXWjVjVFNlSUNtaGQxUGQxUjZKVlN5VnlqZTBCZGFhd0VXWnl0MFlDNjVjbTE3UjVzU20zZ1RtdXd2QUdKNk04b3h6SVNGM19WRXNLVTRZTFhKUV9QMjd3VjRZSU1reWZLLUx4dGV5NXV6WDR5YXB3cUlTcnVyTjRIUGQ4d3RvdWdrbzk0YkI2VXNyUS1sbUc1Vmc4YXdQOXVNYUpaWEtZZw?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "\"차기 내각 구성보다 중요하다\": 국민연합, 고위 공무원 조직 공세",
+       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd0EtenRhYzNYUmowRHpuLTJPX3UwRUt3bnlXNW1BS01kNG9pVGRYeFl6aXlXTlFCdjZSeDh0THJNVUFXX193MVVmQjFPblJ3MWE4bl9pN0JRZUpZQmI2UmViWVAwNlEyX21iZFJiZ0c4Z0xlVjVtVzlvek1NSHduWlFvcVRHRlpSMF9XckstYTJhbWRERkhsbXdwTzhTX01pTHRmanNRWlVLNUFQX2h5YzYxYzMxQVA4OU9MZDktbktqUFVrRVZ4bk1JM2JZRjJmWjJEMEJEQU9RZ3ppZ1MtdEE3d1h0VWdUendydEU5aFI5V29ObXhFX252NjFaQQ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "me",
+   "issues": [
+    {
+     "title": "후티 공격에 리야드 타워 피해…11명 부상",
+     "status": "new",
+     "keys": [
+      "후티",
+      "리야드",
+      "사우디"
+     ],
+     "what": "사우디 민방위는 후티 반군의 리야드 타워 공격으로 11명이 다쳤다고 밝혔다고 알자지라가 보도했다. 후티는 이달 들어 리야드를 겨냥한 미사일·드론 공격을 이어왔다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "사우디 민방위 발표를 인용해 부상자 수를 전했다."
+      },
+      {
+       "source": "asharq",
+       "text": "공격 대신 사우디 2027년 예산의 성장률 10.9% 전망 등 경제 지표를 다뤘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "사우디 민방위 \"후티 반군 드론 공격으로 리야드 타워서 11명 부상\"",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5"
+      },
+      {
+       "source": "asharq",
+       "title": "사우디, 성장률 10.9% 전망…2027년 예산 5개 수치로 본 내용은?",
+       "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOSXhQNDNoN3NoLUhBZUYzbnVicHM2TmxHbTl6MzcxRW03RUlBa0xfazZ6Zm1sVFFzbWxLbWROYnBPMVZ5eXlfNU9jT3Q5SWV4VDBlZjhnM2V1NzZ0UFd3T2FoSUM5OXhiZWJBa1JKQ19NMFJBZjJxbkFlZHpzbzlfWXNucHZaNk9oSTctTlF5NlZoRWQ4R3NLRVVkcS1WNUNuZG90eTJPWkRzbldxaElZTm9ZSE9FOW0wYUIxMFhrbVZvampnYWxTSFJlN01qeGhJQTZsQlJxbHhZUkhLcnliSEpjZlQydElHdExISjNCZDlOQlVkWWxGbk1mR3M2Y0tkeWZ4eTJDWkNkUEFUVjk4N3diQnVRLTdqVlZyLXhYaVRKT3FENlFwcC0xS0VVeWJhUDJfWG5NWVg2VE9sSFd5NC1yMElvT2hBQlEtQjZ1RnFpLWdBeGZ3VUNaWWpoNmtyazBUNTU0MA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "호르무즈 봉쇄 속 이란 원유, 유조선에 묶여",
+     "status": "cont",
+     "change": "이란 원유 유조선에 묶이고 전력난 분석 잇따라",
+     "keys": [
+      "호르무즈",
+      "이란 원유",
+      "미군 주둔"
+     ],
+     "what": "아샤르크는 이란 원유가 유조선 안에 갇혀 있고 호르무즈 해협 항행이 제한되고 있다고 보도했다. 알자지라는 이란 전쟁이 중동 내 미군 주둔 태세를 바꾸고 있다고 분석했다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "'미군 주둔 태세 변화'에 초점을 맞췄다."
+      },
+      {
+       "source": "haaretz",
+       "text": "분석 기사에서 이란의 전력 고갈과 정권에 남은 시간을 물었다."
+      },
+      {
+       "source": "asharq",
+       "text": "'호르무즈 감시' 코너에서 이란 원유 수출이 막힌 상황을 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "asharq",
+       "title": "[호르무즈 감시] 이란 원유, 유조선에 갇혀…항행 제한",
+       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeDJZbVpEYUtzN0dzam96WHdIN2t3Rkw4NFhaTWNHcU9SeTR5U3lFNEhEZ3FySFVQZlRqNVNYeUJMd19XTzQ5Q09iS01naVU5by10YTZSN0djZzFURUo2bFlrcVp3bVI2TVJtMkxkTUo3M1BaNERZRVgyekNkdUlnUXVsVWtaNkliTVBKYnBsR21OZUROb1BvcDlsc05wZTJhMHY3Vm9XMTFfVHlfUlpXcG9JeHBtYU9vRkxtQTRaODh4Q2xsXy1wWUUwQ0poUTJwNC1oUWdvTGhSeWpwLTBtYTVjX1gzVjhIak51LXc3Y3pQRU9YVklhVmVPczYtME5QQzFob0hURGpTdUpKWkNuNGZTYnU1ZnhfdlRKWmI4ZHdHZERsRENDZGFHWkFkQnZiZU4yMnpn?oc=5"
+      },
+      {
+       "source": "aljazeera",
+       "title": "이란 전쟁이 중동 내 미군 주둔 태세를 어떻게 바꾸고 있나",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1lWbk8tVk1NdEplNmRSV2VFb1RGampOZmZQVy00VUUyRHZsYURmWFF6N3ZpRUI5MW45Y01oUUFxeW1vVkNEaXo3c1dqU0JuYmZEOXlVOXlZSlV6S200OEJZQXZTV1RHZ1RQRi1FcGROTTc5cFNkV084VHFfTWJ4dUhCbzgwSlZzUnZiVUYwVDZ3R3hHYVZ3b0F2Y3J1NDVSdmhMQWdfQTYwREE5UXFpeFZGd2J6d9IBuwFBVV95cUxPRzF3TWtNM1BFSFdlbV9wb1dyUjBPak0wUFlVYU1NSHRlVHhJNTRUT0x2bWhYT0g1NUlhTXRCMTM3aG9SLWZsd0FyMWxLRllNWnlXejZVYV9VY3pndkk3am1TaHRlNTFEdGhUM1FzR0k1RmZHc2FhemN2a3lJZHdnUUdrOVpvTGJkRmpVRzlMc2tMWWhuWjJPemJXc1RMaFFJYllzUTR0QXJHMi13aWkxeDJIb0JjMndreExr?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "분석 • 이란은 점점 어두워지고 있습니다. 하지만 정권은 살아남을 것이다",
+       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQN1NTYXhkbm45R0ExNEppNUJqWThLNEoxb3FoNjJ3cHpzZURub3cwS3AyZXRIYVMxWXFleXRPZFZNbjZNTl9DRy1kOXF4YUttLXhBVlppZVVlZVA1TGl0elBHVTdNTjRxb1pTa2FNbE5CYmtBaUpSMEdGd3pMdjRKM3YyNlhKajdfLUxpM3FQUXJ1ai03ZzM3NHpMeU1WaUYwVnpFT1VqbkNTeHNUVC13TFRVRlI1R010eWhFLW0wQi12ZDVXb2tKWmM5VWI4YlVSM0s4UTZVRFV0d1JQNGVjRFVJWmprTzhGOV8xUHhyR3U2bTRoajlxcnNIdEkwRjd1aXdxN1NpWDh3YVRuUzlZ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "아이젠코트, 첫 연정 파트너 확보…'미국 지지 상실' 경고",
+     "status": "new",
+     "keys": [
+      "아이젠코트",
+      "연정",
+      "미국 지지"
+     ],
+     "what": "이스라엘의 가디 아이젠코트가 정부 구성을 위한 첫 연립 파트너를 확보했다고 알자지라가 보도했다. 하아레츠는 미국 양당의 오랜 이스라엘 우방들조차 미국의 지지를 잃을 위험을 경고한다고 전했다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "아이젠코트의 연정 구성 진전을 짧게 전했다."
+      },
+      {
+       "source": "haaretz",
+       "text": "'양당의 오랜 우방'까지 경고한다며 미국 내 지지 약화를 부각했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "이스라엘 아이젠코트, 정부 구성 위한 첫 연립 파트너 확보",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZko5TURpc0NyWmNtX3F2LVpWZkRYQjQxNTdhYVlKRHhfRS0yOXN2V0ZON09NeEVwclpQR0lsTXRCcDQ3ekRueEZXTVd3ZGVUNWNMQXdOWkNYT0tsTHBoaTJHTWU3amlmLTJ3dFp6alJFeVdEelRZQkwzRzhjUmU0ZnhSMUpOYnY1QkpsZkk1OUJGTXg1aTlfNWVKVUkxdWFCcDNvZmxZYW56SjhXVnFEUkpSMVZTTzjSAbwBQVVfeXFMUE1vcDlDZUE5SDRBZ3FiN0pOTlczalZmZ1M1aW04YVRmT1RYTUpEbl9PVm5nZjRlMjZjaDk2b2xjQXdISHd4UzNReXFMMjVCUUwzeURLRVk2ZDRKQWQ1U0dXS0d4ZDZtUFRpTDFjaE0zQjBBeTZqS05LLUstS21CSFhBM0N4VFJHTV9IM0xZM2otS1FmTFFFQmJmTUhKcWN6NDMyeWN6WTJWRGJxRkt1RlZsY0JkZUpSd1JfM0Q?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "양당 내 이스라엘 장기 우방들도 \"미국 지지 상실 위험\" 경고",
+       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWHBsUnE5NTA4SU1MMDEybm43ZjJLTmJxRnFXVzNXR1ZaaHJQRkM3anViM0RqcTd5SlFiNnV3UF9nWmVyU3pIR0JfNDBucmptNE9xdkxZY3RXT0JPc0hRenV0Z1E5T3pFQWVCRk1QNDZ2QUVmVGhEMmhfeVBFZUwyUmhiWTF2WUU5YVlBZm1GcGR2M1BYV0JlZmt1cmxibkc5dk9jZkhWZjZSemVkdU54RmplU2JueEhkXzFWWWx5M2ZueG9KcjVSWERlc1RnaEtJNmdUQWpTanNWTW1xM2Y2R2FRWTNOenVaaXpKb2dHbFRSX0Vqa3BLRjdFVUc2aXpzNmx3MzlScXk?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "in",
+   "issues": [
+    {
+     "title": "미국, 인도에 25% 신규 관세…14개국 중 두 번째",
+     "status": "new",
+     "keys": [
+      "25% 관세",
+      "14개국",
+      "과잉생산"
+     ],
+     "what": "미국이 과잉생산 조사 결과에 따라 인도에 25% 신규 관세를 발표했으며, 이는 조치 대상 14개국 가운데 두 번째로 높은 수준이라고 힌두가 보도했다. 인도는 미국과 무역협정 협상을 이어오고 있다.",
+     "stances": [
+      {
+       "source": "jagran",
+       "text": "트럼프의 '새 위협'이 인도에 미칠 영향을 물었다."
+      },
+      {
+       "source": "hindu",
+       "text": "'14개국 중 두 번째로 높은' 수준이라는 점을 짚었다."
+      },
+      {
+       "source": "republic",
+       "text": "중국·인도 등에 대한 관세 인상 계획의 '이유'를 설명하는 방식으로 다뤘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "hindu",
+       "title": "미국, 인도에 25% 신규 관세 발표…조치 대상 14개국 중 두 번째로 높은 수준",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWFOY0thSEtyVEZhM0ZieEd1SllxLVBNVzVMdW1HTF9Zdjc5Sm5jcFBHU3Z6NWx1RlVjN0xZWWZqWjNJa1QwenVCTmFuOHRkN1hBYXlIRXpmalFKNERZYTdDLWl4ZmU0THBvTWRSdmNVQ3Z4Mjh0cFJTR19iYVdCRVROVmxObDdnbmpBdW9OOVVlNnpvRlA2S193QkZ3cHhwV1lIbnpUd3nSAa8BQVVfeXFMTTNEaFZldldFYTVqS21rYVBEUnVqa2pEWTZ6LUwwQm5YZnRvSHhRUFczSWp3WWx6SGxyajViWjRpYjdjdVNCM1hWQmxrWXk0cnpySUJFTVR5TDdkWEVadlUwZmZKZWJyVmFld0hVd0pLZ2RGUWx2S0U1MHI0ZVVjUE1DczRmOE50V3NYNWNBZWFtS3c5SEZaYW80WU4tOWxSZUp3T3lLZlBLbkFmbHQ3NA?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "미국, 인도에 25% 관세 방안 제시…트럼프 새 압박이 인도에 미칠 영향은?",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzRCV1N1UkRpN3dyaFlpMVlaZXBrN1p5R3hJSGk5YXJNT2I2UEVPVXZHbkYtUE92bE9DNWxsUDB4WExQZzlOaUx3cUtzaS1laUtfeVhtblIzRzNaUmltX25yQjdsblk0T3RSSWxCTS1ERXFmV2ExdHhrWXBwYWFaYTZhN0wzaDNTOWR1eWNzWW5Dc2I4bTZ0VjI4WjBiSHVadkFpYWxMS3AtbERE?oc=5"
+      },
+      {
+       "source": "republic",
+       "title": "미 행정부, 중국·인도 등 교역 상대국 대상 추가 관세 인상 계획 - 이유는?",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcnlXN0cteEE0NWd6Y1dNbTd3LWRHVU93RXJ1YU4yTVNnY3NpX2IxZTNFRGhhMkxSZEFKcHBQUFlfZ012VFBJUWRCUXB0blJ3SnFqSWRrUGRjTUJLUTZlbVJkUXJXNHAxdy1sTmdCckhxcFNzT2dGZU1vTm53VjZOcW9xWDNpM3lNNmYtQVdvMVZ2bWMtNnNKbmlfTng5MlNjN3ZzcFI4Ui1aLW95RFBFYnBZblEtTTlmWG4yQmRFTWZYZ3I5Zm9ZaHJhSjVhNGZtQkVLaWFKU2PSAd4BQVVfeXFMUHpCdXFXV3RGLXgyLXBPX056b3o3SnRSVFFwb0dXR1Y3cF9TMlpqTlBhamp1QWozVi1EZWp2ZDFzMDE5U2N4MTUwZTFlRnVQNFRSd0xrRHpndTJxcFBLQlZvb1BTZ1g2aG1yZ0VGajI5dmpwc1Zoam5BQzl3ZmpjbGZJZW42a0RkTno4Tk5XaHRFNmpEbllXbDZTMUltRVpzMEhiUkw2QXZRb3hYU19zR1dDM3UyVUtaR3hEQkhEbTR1c196NG0tcW5xanRRYXYxRHhpZV9DeUxMZGJzbXFn?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "중장비 중국 의존 탈피, 1만1천 크로르 지원책 승인",
+     "status": "new",
+     "keys": [
+      "중장비",
+      "중국 의존",
+      "1만1천 크로르"
+     ],
+     "what": "모디 내각이 중장비의 중국 의존을 끝내기 위한 1만1,000크로르 루피 규모 지원책을 승인했다고 자그란이 보도했다. 인도 정부는 터널굴착기 등 건설장비의 국내 생산을 늘리는 인센티브를 추진해 왔다.",
+     "stances": [
+      {
+       "source": "jagran",
+       "text": "'중국 의존 종식'을 목표로 내세운 내각 승인을 전했다."
+      },
+      {
+       "source": "hindu",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "et",
+       "text": "제목으로 다루지 않고 인도·EU FTA의 화학산업 효과를 다뤘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "jagran",
+       "title": "중국 의존 탈피 준비…모디 내각, 중장비용 1조 1000억 루피 계획 승인",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVRPMFNyb09tQ1RiQ05sc2R2UXpKbWVlLUVTZFI3WTQ0d3B1N0JrdE1TcjRYTTRQR3VCcXh0WEdlLV9iQkxtZ0I0QXBjYzdlMmd6am54XzdYMk1yMUFpQllaMDhxUllzbkpDOWowNnB4RW44TkxNUlN5U0d4cEcyanlMYjdIVTBZR1JGb1JsMlBDSHZINk1ySDFwME1YeldOaE9LTXgzdXBoajhkSThN?oc=5"
+      },
+      {
+       "source": "et",
+       "title": "인도-EU 자유무역협정, 화학 산업 촉진 기대…독일 투자가 인도 수출 잠재력 키울 수 있어",
+       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMl9HWjVwUThnUEsyQmhFUW5LYmRXWUZRT1JPMDRhaU84WUNQTXdOajg3cE16eHh3R2xvZVVHSU1oRlVaM2R2NTRfSmJSRlIyMU5yT3EzalphMGNGdDVGSEtUMWRpWHRSVklHWF9uWlFsTmxPUXVBRUc0NjQ3V3VDLW5Vd0VTbHR6WmMya3JOaE5rNjlWVHFpbEhxWnh4Q2djUWNQbWNBaEZCbF9fWmFFSjNKdkg2U0JUS0ZvOVBTT2hacDh6b0NzeFZUZmVMUUVoNzNBMGhwa2o2RDZGdkVESEMwTVhpbG1TRnhmUVJLdG1jRzd5dU5oSVhrWGFNZXZWX3o2aFJoZTBzSGdjNkHSAZMCQVVfeXFMTmNZUWQwbk4zWGRueHpzY1phUks1YjE4ZjR4ZWVYem1jREtZQ1JzSWRrcmljLUQyRi1TdWs4SWpHQlgzVFJrRTRycnpYYkRhdEp5QmdVN0N1Zl91V3k2YzhMUGJNaFZuTVllSmhPTWRvemRLa196akZzdl9nVVhDYVZfTl9VQ09iT1BNRE5KT0dpNHlsNmFDTEg3RmFfZ2tTeGtkV19jMlp1NEh6X2FkclJod3p4UmhYS1I4SW1yWm8wWkh3N1J5OGdlNnAwakV1bHRjQUZkbGo2bk1ZZGd6eEVpaW83WUt1MGRTNkVDS2dEMUlnWkFxbVZCRjZxcUFmbjVjNGp1bE5tbF95aFhSNGNlVW8?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "타밀나두 '디파툰' 갈등, 활동가 300명 입건",
+     "status": "cont",
+     "change": "BJP·힌두단체 활동가 300명 입건, 지도자 구금 계속",
+     "keys": [
+      "타밀나두",
+      "디파툰",
+      "BJP"
+     ],
+     "what": "타밀나두에서 '디파툰' 논란을 둘러싼 시위가 이어지며 BJP와 힌두 단체 활동가 300명이 입건됐다고 자그란이 보도했다. 리퍼블릭은 카르티가이 디팜 시위 중 BJP 지도자들이 구금됐다고 전했다.",
+     "stances": [
+      {
+       "source": "jagran",
+       "text": "300명 입건과 BJP의 '사나탄 다르마 무시' 비판을 다뤘다."
+      },
+      {
+       "source": "hindu",
+       "text": "제목으로 다루지 않았다."
+      },
+      {
+       "source": "republic",
+       "text": "BJP 지도자 구금을 연일 제목에 올렸다."
+      }
+     ],
+     "links": [
+      {
+       "source": "jagran",
+       "title": "'Deepathoon' 논란을 두고 타밀나두에서 시위, FIR은 BJP와 힌두교 단체의 노동자 300명을 상대로 등록",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3pxQ0k4OFFsNVNkcHJXQ3ZpYTVzMnBpUjMyM1VVNlZLbWxjRGEwWEFYYnREYkxrTjFHOV9CdllYU3lFcm1fRTR0VWRkUDZVbkxoXzJNZWJEQ0ZTWUN5MG5KV2lFbkJQWkhUM0laVlZkdWQzcGM4azNIMVhhV3JqVFlrMkp0V1VCS2dDZV90VXBQTHEtTkxQdHpxV1VULUtqYW9CQldYdnBpWWZLbkhvWmZhNHAya2s1T0ZBRWNaZnZEeDAySTgwSzhlZ2UtUkh3YzdMSURyMFZucVF5SzBEZFFPR3JKV3MzMFhnTDN3?oc=5"
+      },
+      {
+       "source": "republic",
+       "title": "타밀나두에서 카르티가이 디팜(Karthigai Deepam) 시위로 인해 BJP 지도자 구금",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWkxRdW5HbTJ6X2RQb1lWNjlndDdHdXl6b0Z5ZThwVUtrcUhCZXRpZFFSUU50dmpaX1RiNnloWnRvdFdrMHpoeGwzWE1Jakk4T0NQWmdGdUk2STNQdTZ3d0NqM294Z3lVeDFBYkNJNzhTUFA0blRZS21FeUZ0cXlvUnNJR1FySndnS2JycF9zNjdyUTBNMUtHQkpLS3otZU8yaVpNU1VPdVVGd21XMkpzczFHVENGdHgwREpQTmZ2alRPVE0?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "타밀나두 정부 겨냥한 BJP 공세…\"산타나 다르마 외면하고 표밭 정치\" 비판",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTDR5dWppS2FxRTRKbndqRHdnRVRwenFUUWFrOE5yajVCWG1ZNG0tX09idmpOQlVHMlVJYVZxMFFMckZ4ZmMzYzV3TlpWdGJacFhZQjN3Wmw2UUtXcWRpS0VCZGpaYnhHajR1anFQX0FscnNyNG8tX296ZVY3MWdOZWN4c2ttVTVDdklWZ3NFYmNxQWEyQTlfSWZiOEEyeURoalNySDJuZ01KQU5BNUdPV1ZuVFcyeXVWQjF3c0JhamV2VmVn?oc=5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
