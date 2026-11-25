@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T19:57:47.078Z",
+  "generatedAt": "2026-11-25T21:21:56.534Z",
   "feeds": [
     {
       "source": {
@@ -28,7 +28,7 @@
           "id": "guardian-1",
           "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVJmYzg2OGZMWjM5T3pWaURvWFpQZFNhUnd0d0ZwckFJbXhNSDUxbzVVUnU5ZDh4TVRPVzZqZ1phOEtHZEthbldyeUltek5zVUgwdnFtZXI4Y3FyZFpidXE5dWR4U2NXNEtwWUF4UXhhcTZEcGVFaDdndmI1dm5ONFFqRW4wQXRwMVgxNHJyOV81bmJMYTBqaXlUR29QNnZrODlqQ2tIWFlYdElEMUlYekhaeHZPaXpf?oc=5",
-          "date": "2026-11-25T17:26:00.000Z",
+          "date": "2026-11-25T19:29:00.000Z",
           "topics": [
             "정치·선거"
           ],
@@ -61,7 +61,7 @@
           "id": "guardian-4",
           "title": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3BIZDdGYUhiNC1TSXFNOElWMDl0LUh2U212NzU1UFRZZzBxVnlFR2dUOEljaWxSX2FsZVctNmprdExSNkZnZkpJTUltVTJINWRDSDI2c29pY1F3dU1nUHFyQ1ZRbUY1aE10ZHhhQmhaNlJhUW1nX0NkX2d0NW1iMEZKT0x2YUVmUVhVZC0wX3FJSkpzbjFsTW5hbVVmNXczNEUtbGdzYXpSNEs3UzE0MmRiNkpqZkhr?oc=5",
-          "date": "2026-11-25T17:22:00.000Z",
+          "date": "2026-11-25T18:50:00.000Z",
           "topics": [
             "정치·선거"
           ],
@@ -76,8 +76,9 @@
           "topics": [
             "이민·국경"
           ],
-          "titleKo": "스리랑카 망명 신청자, 영국에서 에스와티니로 이송된 후 스스로 목숨 끊음",
-          "tr": "google"
+          "titleKo": "스리랑카 망명 신청자, 영국이 에스와티니로 보낸 뒤 극단 선택",
+          "tr": "claude",
+          "titleKoAlt": "스리랑카 망명 신청자, 영국에서 에스와티니로 이송된 후 스스로 목숨 끊음"
         },
         {
           "id": "guardian-6",
@@ -87,8 +88,9 @@
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "여전히 인종차별적이고, 여성혐오적이며, 동성애혐오적입니다. 나는 영국의 가장 큰 경찰력에 통보할 예정입니다. 우리는 이것을 용납하지 않을 것입니다",
-          "tr": "google"
+          "titleKo": "\"여전히 인종차별·여성혐오·동성애혐오\" — 영국 최대 경찰에 경고 \"용납 못 해\"",
+          "tr": "claude",
+          "titleKoAlt": "여전히 인종차별적이고, 여성혐오적이며, 동성애혐오적입니다. 나는 영국의 가장 큰 경찰력에 통보할 예정입니다. 우리는 이것을 용납하지 않을 것입니다"
         },
         {
           "id": "guardian-7",
@@ -102,7 +104,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:14.692Z",
+      "fetchedAt": "2026-11-25T21:21:34.562Z",
       "status": "ok"
     },
     {
@@ -118,13 +120,13 @@
       "items": [
         {
           "id": "telegraph-0",
-          "title": "Record number of migrants land on Canaries tourist island",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1FyNHlYMnQyQjJybWhTenNFcFRZNUdVMGlqbEI0cDZIOS1LbWloWl9PQmh4cWtCMXZySWQyaXpWSjdFWHYxX01oQW9DX2ZHUDhXQ3hhMjB6TjBMNV9yazIyYWcybGMtYTFzNkZ5T3V0aVNqY2ZId3o5SFlaWE56eExYb3VkRmpGdFZzZk1ITWxBcnJJSXN2RWpqUQ?oc=5",
-          "date": "2026-11-25T11:18:00.000Z",
+          "title": "Employers risk unknowingly hiring sex offenders under Labour scheme",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNk9FX2V1M1VqcjhFMHcydVF4YnNvZDFWWVB2ZWJ1QmN4aUFoUDhOTkVINkJRSmVKWkhVc3pnbFZudmQxRFplUkp1WXFMdlc0aE10T2wweHdLVjJ0LXpDdXNiM1pOdGE2d2wxaGdkOU5MTXpSNWRGOEdSbFVUWVl1V2xua1Y1X0c0VVdqQUpuWTdVa0FWREZycUxlQVc?oc=5",
+          "date": "2026-11-25T17:05:00.000Z",
           "topics": [
-            "이민·국경"
+            "정치·선거"
           ],
-          "titleKo": "카나리아 관광섬에 이주민 역대 최다 도착",
+          "titleKo": "노동당 정부 제도 아래 고용주, 성범죄자 무심코 채용할 위험",
           "tr": "claude"
         },
         {
@@ -142,6 +144,17 @@
         },
         {
           "id": "telegraph-2",
+          "title": "Record number of migrants land on Canaries tourist island",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1FyNHlYMnQyQjJybWhTenNFcFRZNUdVMGlqbEI0cDZIOS1LbWloWl9PQmh4cWtCMXZySWQyaXpWSjdFWHYxX01oQW9DX2ZHUDhXQ3hhMjB6TjBMNV9yazIyYWcybGMtYTFzNkZ5T3V0aVNqY2ZId3o5SFlaWE56eExYb3VkRmpGdFZzZk1ITWxBcnJJSXN2RWpqUQ?oc=5",
+          "date": "2026-11-25T11:18:00.000Z",
+          "topics": [
+            "이민·국경"
+          ],
+          "titleKo": "카나리아 관광섬에 이주민 역대 최다 도착",
+          "tr": "claude"
+        },
+        {
+          "id": "telegraph-3",
           "title": "TikTok star: ‘My Burnham skit was Labour’s idea. I couldn’t believe he did it’",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb3E3VzM5R1hIdHN4SUpIcVlnekhIZ1ZhdVdhYWZ5QnFYLV9mWGFTczg2bDdCSi1lcFcxS0o0aEcxS3kzQU1tRG10bnFneTJoWC01SHAyRjF6WU1ERUJqcWFhblVaSTJINno3SkgtRTV3NWMxd2k4MU5HNjNCa09SZXBjWkFUczlrRmc?oc=5",
           "date": "2026-11-24T19:57:00.000Z",
@@ -152,10 +165,10 @@
           "tr": "claude"
         },
         {
-          "id": "telegraph-3",
+          "id": "telegraph-4",
           "title": "US army detonates five tons of unstable explosives",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMUpKQWtwR29QY2FXZUw4QW1taDJHSWZodDVrcnpJQzUwV1NiY1JxNW9MdElnRmhLS0p3ZWFkdGE5c3RpWFRMTzBJa3A1YXFNUmVGdFlRaEhRTFhnWk5oczlkMXIzQXNCeDhtdm8tNVgya2VEWmd6Ulg1UnlseWtfRVBfc2VOMllXbUE?oc=5",
-          "date": "2026-11-25T17:42:00.000Z",
+          "date": "2026-11-25T19:52:00.000Z",
           "topics": [
             "외교·안보"
           ],
@@ -163,7 +176,30 @@
           "tr": "claude"
         },
         {
-          "id": "telegraph-4",
+          "id": "telegraph-5",
+          "title": "Jared Kushner: Europe has no convincing plan for peace",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTnc3b2N0V2NxS3dtYzdFazNha2dGNFFMUjJlbWt0a05Nai1zay04ZnF6aFRSU2h4WkNLWGlQbGRVNVNnbzQxbndDVjBCWlFseW8wakNXRm1rSGlscXEtWVU4UTZYZ2lGTGNQZmNrRXJReEdrNEF1RF95Vk8ya04zcXNkT2s5dDhPVUxJbGl5MTYwa3ZmSkgyai1RcHRDVkFMYmtDeDBUbw?oc=5",
+          "date": "2026-11-25T19:00:00.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "제러드 쿠슈너 \"유럽, 설득력 있는 평화 계획 없어\"",
+          "tr": "claude"
+        },
+        {
+          "id": "telegraph-6",
+          "title": "PIP review: Labour MPs tell Burnham to make it easier to claim benefits",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1VvRHFuajVfd1FxMC16RVkzSU1jdUo5ODMxWVBPYWowcEd6WnY4T1BZc2xEbDMwYnJmekk3WkxmdmNCeS1qUDNfSjdpVmN4a0dYMU5RMEdnaTdhQldKU3BJM3RHLVJSeTc4Z2N5Mm9yaW5pWnhTY0NIdHpMQmI5Wm1KMHdzcE9DcjNzNGNRLXZsRk83aExxeFVOSGNSa0x0eXRlNl9CM0ZJRERB?oc=5",
+          "date": "2026-11-24T19:55:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "PIP 재검토 두고 노동당 하원의원들, 번햄에게 급여 신청 요건 완화 요구",
+          "tr": "claude",
+          "titleKoAlt": "PIP 검토: 노동당 의원은 Burnham에게 혜택 청구를 더 쉽게 하라고 지시합니다."
+        },
+        {
+          "id": "telegraph-7",
           "title": "The 26-mile queue that shows crushing pressure building on Iran",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTjlFTmh6a3RSZzdjOU5zVzN2QngtN1JRaVRHMUZ3OFJJR1lRNXlQbVEzZ0xWR2hzODcwWVJEUnMwUWRJUVZsQzVuVGNMM2ZVOTlDLXh2M1Q3dU9LbFIzSzBaUFcxTXBpNEdiZlp6WVdRNmpEUGdYLUVHZmdpWlJEZEFOVEI1RmRVMHdHSlRXd3lydEhfMlVWN3h2YWFMdHQtaXNlYXRVQVF6SGhFaHdR?oc=5",
           "date": "2026-11-23T17:35:00.000Z",
@@ -172,43 +208,9 @@
           ],
           "titleKo": "이란을 짓누르는 압박의 신호, 26마일(약 42km) 길이 행렬",
           "tr": "claude"
-        },
-        {
-          "id": "telegraph-5",
-          "title": "PIP review: Labour MPs tell Burnham to make it easier to claim benefits",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd1VvRHFuajVfd1FxMC16RVkzSU1jdUo5ODMxWVBPYWowcEd6WnY4T1BZc2xEbDMwYnJmekk3WkxmdmNCeS1qUDNfSjdpVmN4a0dYMU5RMEdnaTdhQldKU3BJM3RHLVJSeTc4Z2N5Mm9yaW5pWnhTY0NIdHpMQmI5Wm1KMHdzcE9DcjNzNGNRLXZsRk83aExxeFVOSGNSa0x0eXRlNl9CM0ZJRERB?oc=5",
-          "date": "2026-11-24T19:55:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "PIP 검토: 노동당 의원은 Burnham에게 혜택 청구를 더 쉽게 하라고 지시합니다.",
-          "tr": "google"
-        },
-        {
-          "id": "telegraph-6",
-          "title": "Vance aligns himself with the tech bros",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOU1tZUpFdEtfOEctRFdhalRGQ0dxdlZOV1QwV2FxNUVHYm5zOXNGWVFiRzZqQ2xUU0tKUFpYT2xBanNkSl9VTHZZUjJFM21zTlJHazFlbnFnTkFndS1NRHVXTXduWkRYemxjaFltUlBPRzFCbndjZHlNVjlyLXNQOFVOYzgySmYycGpoNG5FQ0R2R01PSWFOVExB?oc=5",
-          "date": "2026-11-25T12:00:00.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "Vance는 기술 형제들과 협력합니다.",
-          "tr": "google"
-        },
-        {
-          "id": "telegraph-7",
-          "title": "Top US intelligence agencies hit by cyber security breach",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlkzb3lDTVYwVDcxejZjWHlrSDNJTFNSUk10TldkbEtEdEpHdG84Uk5jTU9UV0ZHRHgxODRqSndmS3FhdkdYbm1UTlVoWFZ3QUdvc0txVkZTUVpnRkFYQXJ6MXdfTjZRVlI2X1FtMGx2eG1uMWJkUjFRc2l0ZE5tbDhFSUdReHI3aXlaeXJtR3luQ0sxNW5ETDBvLW9Ja0hnQXhmbw?oc=5",
-          "date": "2026-11-24T22:40:00.000Z",
-          "topics": [
-            "외교·안보",
-            "산업·시장"
-          ],
-          "titleKo": "사이버 보안 침해로 타격을 입은 미국 최고 정보 기관",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:14.689Z",
+      "fetchedAt": "2026-11-25T21:21:34.546Z",
       "status": "ok"
     },
     {
@@ -311,7 +313,7 @@
           "id": "ft-7",
           "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlNIaTlhSXZSRWJqRkMzTFo3TnhJMWhJdDVYcURqWlpPeW5aRmstamFnWGl3cE5mS3ZwRjE1Z3l2RkdweDIwclBuWmdNNFRhZVljRkQyTzF0VFg5WGs5N0IxSFVGWm5Qb2NfNkgwdEg5YVpUZndSbnl6Vkdnd0F6Yjc1Rlk?oc=5",
-          "date": "2026-11-25T05:01:50.000Z",
+          "date": "2026-11-25T05:02:09.000Z",
           "topics": [
             "산업·시장",
             "사회·생활"
@@ -320,7 +322,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:14.675Z",
+      "fetchedAt": "2026-11-25T21:21:34.558Z",
       "status": "ok"
     },
     {
@@ -385,6 +387,18 @@
         },
         {
           "id": "sz-4",
+          "title": "Bundestag - Merz: „Wir haben das Geld nicht mehr für alles“ - Politik - SZ.de",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWVZtRjkzd19OUnJHSnFONFVzTDhSa0lrTHFBaVc5S3FhZ3JIUVNEX0lWcW14RnhhWFNiS0lpSXRqdk5VTUFxZ1pOX2xOS2dpTG5SU2hYT0VtZV9nTlVPYmFpNE9wM0Qybm9WaVYxN0ZZdlBvOGU5SjBxaHhRazNndnNYeHBlbThVaV90OG4xY1lsSUIweWRmYW0wZFo0NzhLaGQ4dW9PY3VtX3Y4RURNbTMzUTBLbnBxV0Y2MHZ1OUlWYkFKMTh6cVg5ZHI1ei11bFFsZWJ6QQ?oc=5",
+          "date": "2026-11-25T11:07:51.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "메르츠 \"이제 모든 것에 쓸 돈이 없다\" — 연방하원 발언",
+          "tr": "claude",
+          "titleKoAlt": "Bundestag - Merz: “우리는 더 이상 모든 것을 살 돈이 없습니다” - 정치 - SZ.de"
+        },
+        {
+          "id": "sz-5",
           "title": "Deutsche Bahn und Flixtrain: Ticketkauf in der DB-App wird möglich – doch es gibt Grenzen - Wirtschaft - SZ.de",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakJqSWVRWEdVRzdmUDRRbmVHNmduVld1X09HdzZUSWFXdGwtSFhPVHZ0VjhVSmY4OW1LUkpGdkM5N1FZczNZTW4wWHRCaVNnMUIxUkJrUVIzSjdFU3FuN0xQSlFwRFN5ZVE5aWYxb0NLbmFFdF9SODhlRUo0U0NrdWMzcEY5d0Z0d3V0cnY4eUxVR1ZVNFVXTGRIYUFEUlhLTHNDajg5RVg?oc=5",
           "date": "2026-11-25T07:16:52.000Z",
@@ -396,7 +410,7 @@
           "tr": "claude"
         },
         {
-          "id": "sz-5",
+          "id": "sz-6",
           "title": "Bundeshaushalt 2027: Merz räumt Fehler ein – Grüne werfen ihm vor, es \"zu vermasseln\" - Politik - SZ.de",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGdxd3JVWXExeC14Y2Mwb2RoWXp2eUEtSGgwSmNlRnFtNzhfRjlSQzhxUEpEYi04ZUhqLVdsRnVLR1JDTTluTVd4UWh1OWJkZTZMeDVlRUVaMDd1VTdNSmp4UzRJWmpCdVpsRzFaMHYyTjJUZmlpZHQ3UmkxTTlHRk9fUER0MTBCU2ExdmRTWHdyQ09sSTl0a19BSHZwWUFCQWJ3?oc=5",
           "date": "2026-11-25T10:05:26.000Z",
@@ -404,19 +418,9 @@
             "예산·재정",
             "정치·선거"
           ],
-          "titleKo": "2027년 연방예산: Merz가 실수를 인정 - 녹색당은 그를 \"망쳤다\"고 비난 - 정치 - SZ.de",
-          "tr": "google"
-        },
-        {
-          "id": "sz-6",
-          "title": "Bundestag - Merz: „Wir haben das Geld nicht mehr für alles“ - Politik - SZ.de",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWVZtRjkzd19OUnJHSnFONFVzTDhSa0lrTHFBaVc5S3FhZ3JIUVNEX0lWcW14RnhhWFNiS0lpSXRqdk5VTUFxZ1pOX2xOS2dpTG5SU2hYT0VtZV9nTlVPYmFpNE9wM0Qybm9WaVYxN0ZZdlBvOGU5SjBxaHhRazNndnNYeHBlbThVaV90OG4xY1lsSUIweWRmYW0wZFo0NzhLaGQ4dW9PY3VtX3Y4RURNbTMzUTBLbnBxV0Y2MHZ1OUlWYkFKMTh6cVg5ZHI1ei11bFFsZWJ6QQ?oc=5",
-          "date": "2026-11-25T11:07:51.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "Bundestag - Merz: “우리는 더 이상 모든 것을 살 돈이 없습니다” - 정치 - SZ.de",
-          "tr": "google"
+          "titleKo": "2027년 연방예산: 메르츠 실수 인정… 녹색당 \"예산 망치고 있다\" 비판",
+          "tr": "claude",
+          "titleKoAlt": "2027년 연방예산: Merz가 실수를 인정 - 녹색당은 그를 \"망쳤다\"고 비난 - 정치 - SZ.de"
         },
         {
           "id": "sz-7",
@@ -430,7 +434,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:14.697Z",
+      "fetchedAt": "2026-11-25T21:21:34.567Z",
       "status": "ok"
     },
     {
@@ -496,17 +500,6 @@
         },
         {
           "id": "handelsblatt-4",
-          "title": "Dax aktuell: Dax notiert unverändert – AMS-Osram-Aktie steigt zweistellig",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbnNiZ1Vzc0l5ZnNXU3ZzaFBzQXROcTJZdU1ad3VFeDlwZ1dERFZOR3d6YWJUZjVSTi1DZFptRGhYNm9hTGd2UHk0UUdkLWZBanR1eVZaV2tub1hWWGs3WWtqS0R5dXRBZS1JNzdfQm4zQWhHaEVSVFRUOUFBY250bzhJMlNLX2dtcm81Rm90dGdyVlctSTFBUXlrVWNBZ2lxeV9XTTB4ejFNNXdYSmlCa1U1WTF3d29KanhBSDdpY09iWHVNT0NtWXNYQXlyNGYtQThQb0M5NmNudXBUX0Y0?oc=5",
-          "date": "2026-11-25T08:31:34.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "닥스 지수 보합 마감… AMS-오스람 주가 두 자릿수 상승",
-          "tr": "claude"
-        },
-        {
-          "id": "handelsblatt-5",
           "title": "Bundespolitik: Generaldebatte – Merz verteidigt Haushalt im Bundestag",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON3Y4bU5lMGR6VkNtdnVOYzA2dE9SNW9Sb1pRRHh1LVhRdXJFTTVxbG9rYnNZX0hlTEhwNkFxR2JlMTVRTVAtTnFaV0l2blN4Ni1zc3VhZVJwVi1kaWUwVmV3Q1BwbVJMblFJMXhoUGFMZTZtS0NPVjFRQUZRb01XaVZ1YWdMX05Vd0JzTDlCS1FBRUh2d29TRkFXaVBaNmZRTlFRNEZBQVp6cmFZeml6aVJlN1VjbXdybEtPMEw4MV9ZcUkyQUg3b3dB?oc=5",
           "date": "2026-11-25T09:13:49.000Z",
@@ -514,22 +507,24 @@
             "예산·재정",
             "정치·선거"
           ],
-          "titleKo": "연방 정치: 일반 토론 – Merz는 Bundestag에서 예산을 옹호합니다.",
-          "tr": "google"
+          "titleKo": "연방정부 일반토론… 메르츠, 연방하원에서 예산안 옹호",
+          "tr": "claude",
+          "titleKoAlt": "연방 정치: 일반 토론 – Merz는 Bundestag에서 예산을 옹호합니다."
         },
         {
-          "id": "handelsblatt-6",
+          "id": "handelsblatt-5",
           "title": "„Wir werden aus Steuermitteln nicht mehr alles leisten können“",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVlJMd0M3c2N1UVRFMmdlWEZ3U0oxdHBWbDBuYkVPTGRPNFJoWmN6Zk1Vb2RLdHhYaVRMWU9WZTg4NkpsQmlxc1ZtT2ZsTkFQbWxoTHJGZ3BzeFM2RFkxa29LVHBVZkwzZjdRQUc1eXM1dVgzY1RXTFVnbWszM3o1Ym43YzJ4LXN1SnFIdURieXh5Wm5kck1qXy1ncURBQW1Gdy1VT1hTUkVkSDY5dDBHdm53TnZlNkpoN2F4VjlPMUptelNHYWx5YlBiZTVlNWc?oc=5",
           "date": "2026-11-25T12:50:00.000Z",
           "topics": [
             "예산·재정"
           ],
-          "titleKo": "“더 이상 세금으로 모든 것을 할 수는 없습니다”",
-          "tr": "google"
+          "titleKo": "\"세금으로 모든 걸 감당할 수는 없게 될 것\" — 독일 재정 압박 경고",
+          "tr": "claude",
+          "titleKoAlt": "“더 이상 세금으로 모든 것을 할 수는 없습니다”"
         },
         {
-          "id": "handelsblatt-7",
+          "id": "handelsblatt-6",
           "title": "Konjunktur: Deutsche Wirtschaft wächst im dritten Quartal nur langsam",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdFVaMWxuRzZVaWFxa1l3b2RLMWNTZ1QySlg1Y0Y5ZGU4aHlFbFNrLWN2Z1dFVFhIQXNsOU9UWmhhdUlQeFd1V0dvTm1ZY0RaQXpjbUJtLTdvMzk1bGVKWVY0bWk2Zk1TZDFtSkdxd2x2dkFNd0hHdnFoQVF0NHZPd3hRZ182OUNDV3hpUlVhMGhJTTFTcTdMa3NGTFNxRENLY0tvbFh3dmpidUZscXZIRWJWN0VvX2VpdzFUbFNSbERpOXhUdTdnMzR0czI?oc=5",
           "date": "2026-11-25T07:23:06.000Z",
@@ -538,9 +533,20 @@
           ],
           "titleKo": "독일 경제 3분기 성장세 둔화… 더딘 회복",
           "tr": "claude"
+        },
+        {
+          "id": "handelsblatt-7",
+          "title": "Lebensmittel: Einzelhandel-Honig ist häufig nicht aus Deutschland",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQ1FRbktSVXJyX3BHSnF4WVJmR3BvaElTd25ucDdMZTd6ejdqemx3d1BuQVJwNTUyOWNhLVVFd1NXX1hQR0FpT0VsUnk2N1BBbnRQaEhLZFp3OGFMSTJfbmUtREp4R1ljMHpyQ0tTc3kxWFBiWkRjVklOMDNBVDFUaWdpRkVkLUtWR0RDX3BDLTRITmRVU1lTWmhkcjFmRFVEaXN0ekxvYTJqdlliUmJteWhkVkd4M1JRUU5qdC1HNHJIalFGcjJqNA?oc=5",
+          "date": "2026-11-25T04:00:05.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "식품: 소매용 꿀은 독일산이 아닌 경우가 많습니다.",
+          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.136Z",
+      "fetchedAt": "2026-11-25T21:21:35.055Z",
       "status": "ok"
     },
     {
@@ -622,33 +628,35 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "우크라이나의 NATO 가입: 프리드리히 메르츠(Friedrich Merz)는 실제로 얼마나 개방적입니까?",
-          "tr": "google"
+          "titleKo": "우크라이나 NATO 가입, 메르츠의 입장은 얼마나 열려 있나",
+          "tr": "claude",
+          "titleKoAlt": "우크라이나의 NATO 가입: 프리드리히 메르츠(Friedrich Merz)는 실제로 얼마나 개방적입니까?"
         },
         {
           "id": "faz-6",
-          "title": "Airbnb in Deutschland: Wachstum kommt vom Land",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEFBbmVWWHZoczdrU2kwSEVzaHJ1dnRNTUVTRmR5ZnNjQ2Mwd1RpUmE3bzIzU2FRaERaZjNzTzhwNVE5ZE1CUUMtWjBxTzdxZUc3MU5FejZZMmdXbGxYaE1lMzdRaDVKWGllNTZ4T0puVHp6eE9YZ3Zia3MtMUdCb2JlZjF1TXl0VmhLckE5ajZLZGcxekVxa0s5OG5WbHdFZ1pqOXUwZW9Xb1FLQ0NqTA?oc=5",
-          "date": "2026-11-25T17:39:56.000Z",
-          "topics": [
-            "경제·물가"
-          ],
-          "titleKo": "독일의 에어비앤비: 시골에서 성장이 옵니다",
-          "tr": "google"
-        },
-        {
-          "id": "faz-7",
           "title": "Juwelier-Überfall im Ring-Center Berlin: Polizei fahndet nach Tätern",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd0U1aDNFSGNuN0pqQXY0R1FaMlU2V0IwTndPc2VBa2FjbFNDZ1hXdGNFeE5HM1BLYk8xNU5lSnNlM3RoRlFPZVhreHZpMkZBTTdfcjZNVUVYanBWQmpwMDB1dnhFUVJobXIta19Jd2pzNVNKNW9TTVVYaHZsS3VveXhDUzA0NWQtMkxNeXFKQnhqcXhnOW5ReVVzcXhlVWc2WTg5anNNMFR1Y2ktSTVpZlZVemJrbXphVHV6RWZMNTdlalNHc1VOejItNkNGTUxfdEhPRlV6bHVoWXhJ?oc=5",
           "date": "2026-11-25T12:54:00.000Z",
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "링 센터 베를린의 보석상 강도 : 경찰이 가해자를 찾고 있습니다",
-          "tr": "google"
+          "titleKo": "베를린 링센터 보석상 강도 사건… 경찰, 용의자 추적",
+          "tr": "claude",
+          "titleKoAlt": "링 센터 베를린의 보석상 강도 : 경찰이 가해자를 찾고 있습니다"
+        },
+        {
+          "id": "faz-7",
+          "title": "Merz trifft auf Heino: Ehrung des Sängers im Kanzler-Tipi",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNFB6MFlhakxIY3dFM1ZjUVd2RlZoMmVfQXE5ZUhUWG5YN2xibUF3ZGVTbUpodm5zNW4ydzFPQ2Z5OUNLMExPenpRelFKNUczczRpMEg0ek84b0JCc2dDTDZ3Y3NvZXRGMmh3RzBxNnVHajFoLXZHTnM3Wk5MaEdtNkt1a2VsM2Ftc3JhM09YOHYtVkQzU1EyVllxOFVlaWpUeVJlWmlERm9CNjRnRmVrWHM0eDh2UHR5UXgxXzhRVC1DU1FhSFE?oc=5",
+          "date": "2026-11-25T12:28:48.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "메르츠, 가수 하이노 만나…총리 티피서 가수 공로 기려",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.129Z",
+      "fetchedAt": "2026-11-25T21:21:35.061Z",
       "status": "ok"
     },
     {
@@ -666,7 +674,7 @@
           "id": "liberation-0",
           "title": "«Pétain a sauvé les juifs français» : Eric Zemmour définitivement condamné par la Cour de cassation pour «contestation de crime contre l’humanité»",
           "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOblREdmRLUHBIcFdJMXRpY3Y3VHN6NGdzd2g1UXVsN1oxb0Vyd1Iwa3NwUFlvZTFNZW9rMk00WGpmN3luNU1SN1dodVQ3amN0b1NLVmdtdW9fUjcxY0ZhYTZxcFA0SFJ5ZVpISnM0ZUV2ZTJPa3hrdVFzd2hYSlJjdXhFUTZveFNzb1VEMVItN3V0cjhnLUNOS2ZpU2tuaUdpel9uaEYyRFBuX0lGWk5SZzFnNEtjUEp4cW9uckgxdXlkWmpGT3V6MF9IbmFJZ2RhMUZOU2dUb1hGMW8tVmw3LWVQTi1Jam45V0hzd1BaR3BZU3lGVE5LRWgtX2tDVENHVWU3cWJyM3gxcTBrUVFqR0pxMlRpS1ZYWWdYaGdKTnNDUHB4MFExdVpoX1l0UFRUdERteTBucEhlYWNGUlh3WHVKTnhoMDBZ?oc=5",
-          "date": "2026-11-24T16:48:00.000Z",
+          "date": "2026-11-24T16:49:28.000Z",
           "topics": [
             "사회·생활"
           ],
@@ -675,6 +683,18 @@
         },
         {
           "id": "liberation-1",
+          "title": "Dix ans après l’évacuation de la jungle de Calais, ils sont restés en France : «C’est grâce à votre pays que j’ai pu reconstruire une nouvelle vie",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPR1ZoekhMQ2V0Z0lOMHlobS1KN2RQOGpMSmtheEUwbnVQbGY5US0wem1wQmJaTVpfZ1ZTR0Rwa2d6NnhyeWlHdzVKRldkc25mRUtmcVZXd0Z5UEJMQ0xKS0ZXeWZDeWpfNEtfNHNQV3EyaElGLWh5UmtHYkY2aW84cE1xcUNNNzhlRDVySm5LSlhUS1RwaFBIQWc4MTVxeXBKWHJkTldfdDN6TXh6MU50T1IxcWlvZzZtem02a2ozdnctdWQ2WFg1NzI0M0ljR3VRY0hQa1BzcnpiQ2hKOUEtY0NsRjkyWDNhTFA0V1Awak5qd3BybW05YkswLTRwVWtvbGtNVGVTb0dJMVR1cmdMblB0T0RxVGlNV3prX2lSMWpXa0lrSkx6WFZEWmtKbHk0R2VYSDlnWUM1cXhiSWFvYUFHa24?oc=5",
+          "date": "2026-11-25T14:35:12.000Z",
+          "topics": [
+            "AI·반도체",
+            "산업·시장"
+          ],
+          "titleKo": "칼레 정글 철거 10년 뒤 프랑스에 남은 이들: \"당신 나라 덕분에 새 삶을 일궜다\"",
+          "tr": "claude"
+        },
+        {
+          "id": "liberation-2",
           "title": "Pourquoi l’Elysée ne veut pas bouger les dates de l’élection présidentielle",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOTkxZXBGM2NYQ1B4TWx0T0dqZjRnd3NkdGdSTFVsdU5iSm41THI4UnNYOXNSV1RYempFSWROUzlKcjNkcGd1SGF3MEkwd1hkRTBPMXR3akZiWjJYYTZyNkVSVGtMX3pJZlN6ckllUi1xaktsRlRCSnNPQlU2LWprVWlMNXF3OFQycGRaeTFYNm9UWnB2TEs1LTNRYU9qYnkzenJlY1ZSb3RybTM2TnFQUHlIMWhGVEV5X09oX3kwb0RobGFqOTlaWlRtVDgwZGRFR1lZUzFB?oc=5",
           "date": "2026-11-25T09:35:47.000Z",
@@ -682,18 +702,6 @@
             "정치·선거"
           ],
           "titleKo": "대선 날짜 변경 불가를 고수하는 엘리제궁의 속내",
-          "tr": "claude"
-        },
-        {
-          "id": "liberation-2",
-          "title": "Dix ans après l’évacuation de la jungle de Calais, ils sont restés en France : «C’est grâce à votre pays que j’ai pu reconstruire une nouvelle vie",
-          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPR1ZoekhMQ2V0Z0lOMHlobS1KN2RQOGpMSmtheEUwbnVQbGY5US0wem1wQmJaTVpfZ1ZTR0Rwa2d6NnhyeWlHdzVKRldkc25mRUtmcVZXd0Z5UEJMQ0xKS0ZXeWZDeWpfNEtfNHNQV3EyaElGLWh5UmtHYkY2aW84cE1xcUNNNzhlRDVySm5LSlhUS1RwaFBIQWc4MTVxeXBKWHJkTldfdDN6TXh6MU50T1IxcWlvZzZtem02a2ozdnctdWQ2WFg1NzI0M0ljR3VRY0hQa1BzcnpiQ2hKOUEtY0NsRjkyWDNhTFA0V1Awak5qd3BybW05YkswLTRwVWtvbGtNVGVTb0dJMVR1cmdMblB0T0RxVGlNV3prX2lSMWpXa0lrSkx6WFZEWmtKbHk0R2VYSDlnWUM1cXhiSWFvYUFHa24?oc=5",
-          "date": "2026-11-25T14:30:00.000Z",
-          "topics": [
-            "AI·반도체",
-            "산업·시장"
-          ],
-          "titleKo": "칼레 정글 철거 10년 뒤 프랑스에 남은 이들: \"당신 나라 덕분에 새 삶을 일궜다\"",
           "tr": "claude"
         },
         {
@@ -738,8 +746,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "알리 O. 사건: 서안지구에서 이스라엘인을 공격한 혐의로 프랑스에서 기소된 36세 팔레스타인인 구금, 법원에 의해 연장",
-          "tr": "google"
+          "titleKo": "아리 O. 사건: 프랑스에서 서안지구 이스라엘인 공격 혐의로 기소된 36세 팔레스타인인 구금 연장 결정",
+          "tr": "claude",
+          "titleKoAlt": "알리 O. 사건: 서안지구에서 이스라엘인을 공격한 혐의로 프랑스에서 기소된 36세 팔레스타인인 구금, 법원에 의해 연장"
         },
         {
           "id": "liberation-7",
@@ -753,7 +762,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.119Z",
+      "fetchedAt": "2026-11-25T21:21:34.974Z",
       "status": "ok"
     },
     {
@@ -769,14 +778,13 @@
       "items": [
         {
           "id": "figaro-0",
-          "title": "Présidentielle 2027 : Emmanuel Macron, impôts, roi du Maroc… Les mises au point de Teddy Riner",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObERXR0dFZ29VYzg0OW5PckpvVm1JV0JRVzBlajdnbFpQNWZfX1NHUE9xdXp0LW01N3prb0ZERjB1eWJManoyaFlZWUNxREF2RjJ1aW13ME9fR1N0MW1TSmp6YlpQWFdyQzJGM3M3ME84RU02MkIwOFlJQUMtbC1kbkM5LUVJaW9MWkZXN0FDTnZLdUdfYkZWekgyMGl6OHBUT3FtaTE0cml3V1JiUzBkMEVoTlRod2VlQ3QzOG5IUGdsM3FHdUJESWhyUGZNak44VFRJTVdsYlF4OFNrbVJGRWxFd2p2UmlhOHVhWmJXcw?oc=5",
-          "date": "2026-11-25T07:01:47.000Z",
+          "title": "Présidentielle 2027 : réélu sans appel à la tête des maires de France, David Lisnard poursuit sa campagne",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ3c1REFOZFlBb0NBNFN5S0JqTjFvck1ieXhZZ2xUTFNWbVJpekwwWFVTaTZLWWpYaU9IOC1KRC1xT0ZfYk1Tc2NWaU1adE5wMXFBcE0tTzhlUnY1d3VjUWIzd1llcy1yNFV5bUNfQV9hUW1aSG9LdUtIdGZxWmg1OVh4YXFjY24yUGNnb3daWE9OQTFFeXBoZ0haZmpwRThoaS1VNVA2V2wtWjBVaGFaN3dpUnVDUHdOY3RfSnhnMnBXM1hjbm02aHNCeGtlbWwtNkxmbkVnemdLbUdwVmFIejBKc3YyTkswY1ppbXRFQVd6TzQ?oc=5",
+          "date": "2026-11-25T17:22:06.000Z",
           "topics": [
-            "예산·재정",
             "정치·선거"
           ],
-          "titleKo": "2027 대선: 마크롱·세금·모로코 국왕…테디 리네르의 해명",
+          "titleKo": "2027 대선: 프랑스 시장협의회장 무투표 재선 데이비드 리스나르, 선거운동 계속",
           "tr": "claude"
         },
         {
@@ -794,13 +802,14 @@
         },
         {
           "id": "figaro-2",
-          "title": "Présidentielle 2027 : réélu sans appel à la tête des maires de France, David Lisnard poursuit sa campagne",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZ3c1REFOZFlBb0NBNFN5S0JqTjFvck1ieXhZZ2xUTFNWbVJpekwwWFVTaTZLWWpYaU9IOC1KRC1xT0ZfYk1Tc2NWaU1adE5wMXFBcE0tTzhlUnY1d3VjUWIzd1llcy1yNFV5bUNfQV9hUW1aSG9LdUtIdGZxWmg1OVh4YXFjY24yUGNnb3daWE9OQTFFeXBoZ0haZmpwRThoaS1VNVA2V2wtWjBVaGFaN3dpUnVDUHdOY3RfSnhnMnBXM1hjbm02aHNCeGtlbWwtNkxmbkVnemdLbUdwVmFIejBKc3YyTkswY1ppbXRFQVd6TzQ?oc=5",
-          "date": "2026-11-25T17:22:06.000Z",
+          "title": "Présidentielle 2027 : Emmanuel Macron, impôts, roi du Maroc… Les mises au point de Teddy Riner",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObERXR0dFZ29VYzg0OW5PckpvVm1JV0JRVzBlajdnbFpQNWZfX1NHUE9xdXp0LW01N3prb0ZERjB1eWJManoyaFlZWUNxREF2RjJ1aW13ME9fR1N0MW1TSmp6YlpQWFdyQzJGM3M3ME84RU02MkIwOFlJQUMtbC1kbkM5LUVJaW9MWkZXN0FDTnZLdUdfYkZWekgyMGl6OHBUT3FtaTE0cml3V1JiUzBkMEVoTlRod2VlQ3QzOG5IUGdsM3FHdUJESWhyUGZNak44VFRJTVdsYlF4OFNrbVJGRWxFd2p2UmlhOHVhWmJXcw?oc=5",
+          "date": "2026-11-25T07:01:47.000Z",
           "topics": [
+            "예산·재정",
             "정치·선거"
           ],
-          "titleKo": "2027 대선: 프랑스 시장협의회장 무투표 재선 데이비드 리스나르, 선거운동 계속",
+          "titleKo": "2027 대선: 마크롱·세금·모로코 국왕…테디 리네르의 해명",
           "tr": "claude"
         },
         {
@@ -849,22 +858,23 @@
             "정치·선거",
             "경제·물가"
           ],
-          "titleKo": "EU 예산: 프랑스는 공동 농업 정책에 대해 \"1유로\" 감소를 원하지 않는다고 Emmanuel Macron이 경고했습니다.",
-          "tr": "google"
+          "titleKo": "EU 예산: 마크롱 \"공동농업정책 예산 1유로도 줄일 수 없다\" 경고",
+          "tr": "claude",
+          "titleKoAlt": "EU 예산: 프랑스는 공동 농업 정책에 대해 \"1유로\" 감소를 원하지 않는다고 Emmanuel Macron이 경고했습니다."
         },
         {
           "id": "figaro-7",
-          "title": "Dépenses de santé : la France 4e d'Europe en part de PIB, 10e en dépenses par habitant",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLUZMX2p6NVFjRzA5TTN6eFFZTE5DM0xOVzVZZERLdnVXTlRURkF3OWxJZXFFa2JubVBlQVVkOFd6RGswRG03aFlHZzBtTXoxLXpNMWZXc3BjSzl6Z0QzeXFtOW1ISXpXOEoyX29zR3lYallCVmVLUXRJRTMtUHRHN2VxUXBFODVhRGhhem52dGE5NUptSzBSM1VMSFljeXRHR2V0RGxmUEhEUldjZHhIZVZjaVdwQ3dLcm9yc1F4T2E?oc=5",
-          "date": "2026-11-25T14:23:23.000Z",
+          "title": "Le mouvement sportif français s’organise pour peser dans la campagne présidentielle de 2027",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORFZLS0xObGtKYW5SWGFxMTlTVExhR3JjZHVSbllSamxmU3JuUVFITVktb1k1MnVmRFJwWWVOOXBVdEtod1lXUEVCamUxdUdMRVRYcW1GdDFBN3NEcVg5b01XdEhjTnVNaDVYdUlpNFBQcGc2bDhEODV5SDJwc0pVaTVWZDBueXRSZVI2TnRTQnE5UEw5WHlPa1NZbFhjYndyWGlPN0ozWEdVRG1UYng5TWZwUUNLeV81OXJhYVdTQnJCNjdnMGp5aHJHWnpHekZpT25WaGdGLUdyYTlXeXc?oc=5",
+          "date": "2026-11-25T14:10:47.000Z",
           "topics": [
-            "사회·생활"
+            "정치·선거"
           ],
-          "titleKo": "의료비 지출: 프랑스는 GDP 점유율에서 유럽 4위, 1인당 지출에서는 10위",
-          "tr": "google"
+          "titleKo": "프랑스 스포츠계, 2027년 대선 판에서 영향력 키우려 조직화",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.184Z",
+      "fetchedAt": "2026-11-25T21:21:35.026Z",
       "status": "ok"
     },
     {
@@ -960,8 +970,9 @@
             "예산·재정",
             "경제·물가"
           ],
-          "titleKo": "스페인, 벨기에… 이 국가들은 예산 투표를 할 수 없을 때 무엇을 합니까?",
-          "tr": "google"
+          "titleKo": "스페인·벨기에… 예산안 통과 못 시키는 나라들은 어떻게 버티나",
+          "tr": "claude",
+          "titleKoAlt": "스페인, 벨기에… 이 국가들은 예산 투표를 할 수 없을 때 무엇을 합니까?"
         },
         {
           "id": "echos-7",
@@ -977,7 +988,7 @@
           "titleKoAlt": "황금률? “프랑스는 긴급성에 따라 예산을 책정하는 것에서 진정으로 구속력 있는 다년간의 전략으로 전환해야 합니다."
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.564Z",
+      "fetchedAt": "2026-11-25T21:21:35.808Z",
       "status": "ok"
     },
     {
@@ -993,73 +1004,76 @@
       "items": [
         {
           "id": "nyt-0",
-          "title": "Late Night Rips Into Trump for Honoring Rudy Giuliani",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVXpSclM5cmF5WFZSZXRfVmlGeUs5UlZUaDV6Q1pnanQ5b01tQVZsdDZ3TElydkdJQ0tOc2FPZHJ5Rk1JSnpXMEtSR1JtdFVoUE9WcllVenotTTFwYnhzd1BxQ2dlMElnTml6UFJpaWdRNmc3THcxcllodl9lUWRGN210WXdhRHRK?oc=5",
-          "date": "2026-11-25T06:31:34.000Z",
+          "title": "Trump Wanted Nvidia’s Chief Reinstated. Here’s How He Succeeded.",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41T3Z1VnJLSk9LLURuSVhPYVJEdHZmUXIwQzYteGVERktDYm55NEpKNU1jMEFpbzgtTmVURzlzU2drN0Juc19HR0tCREl2MUJRWjFaTGFCd3FJWVEwNUwwalc3RktTcHVLMDVfMnZCVU9DLUZMaWZ1dnd3?oc=5",
+          "date": "2026-11-23T16:51:55.000Z",
           "topics": [
+            "AI·반도체",
             "정치·선거"
           ],
-          "titleKo": "레이트 나이트 쇼, 트럼프의 루디 줄리아니 추모 행사 맹비난",
+          "titleKo": "트럼프, 엔비디아 최고경영자 복귀 추진…성사 과정은",
           "tr": "claude"
         },
         {
           "id": "nyt-1",
-          "title": "Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkN05tSHVLN1V3cFRSaUY1d0l6MGkyY1dhRnN6R08tWW5uSm91eXlXQ1VHXzhnMEZpNHQtR0QzYWI5NHlFcjg4bFBhN0ZyMXZZQU9oQUJlVzNwUERxRFFWQThTOXMzM1laQjQzSXNjeXNlUnNGT3Zv?oc=5",
-          "date": "2026-11-25T13:17:38.000Z",
+          "title": "Trump’s Extraordinary Nvidia Intervention Sidelines National Security Concerns",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3A4YXNjbWpURzZIbVp4YTkwUTh0V0V3ekhXbmpjU2RlSzZEV053Zk1NTXFENk5lNDc4TjJWb040em10bzFvU2hvUUpiaFY2TXB3czgzTFpsYk5PeUs4M3VRNy1DUXBKWXd3T2JGNUd6bHMxdTJfSFhQWGxyamlPdjFReEgzS1RoWGc?oc=5",
+          "date": "2026-11-24T00:55:56.000Z",
           "topics": [
+            "AI·반도체",
             "정치·선거",
-            "산업·시장"
+            "외교·안보"
           ],
-          "titleKo": "트럼프 행정부, 불공정 관행을 이유로 수십 개국 대상 신규 관세 공개",
+          "titleKo": "트럼프의 엔비디아 이례적 개입, 국가안보 우려 뒷전으로 밀려나",
           "tr": "claude"
         },
         {
           "id": "nyt-2",
-          "title": "Trapped on the Tarmac: 3-Hour Flight Delays Spike Under Trump",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvSGp1M1ZOUXBwYTVCbTRIWE53UDV5d056dmlGUW13WTJMcE1rcFlWNnhyelkzX3NWX1BmdGVOR3RzQjFnb29ZdGg0NEl0NGdkM0pMSDQ1NngxX1MyVEE3MkJvNC1uazZzcy05N3FGT0Npck5SSExJUVc5U211dDg?oc=5",
-          "date": "2026-11-25T10:03:47.000Z",
+          "title": "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ0ZENzdyVk5TQkMwN05tS3VmQXVZOUo1c2g5LTRQenB1RzB1RFo4OTdTdDA3XzRPZEFpLS1PRUZRQWw1NXhmZlZZNWU2NkdJQWFEUlhOZkppQW9YRHFVUzNOVFBkNnlZdmpkVDNwTFRadG5Cd1I3RmR3VXNTYnZ6Yi15VEszSUxKVnZrenExMm1HekZf?oc=5",
+          "date": "2026-11-24T19:30:16.000Z",
           "topics": [
-            "정치·선거",
-            "사회·생활"
+            "외교·안보"
           ],
-          "titleKo": "활주로에 발묶인 승객: 트럼프 집권하에 3시간 이상 항공 지연 급증",
+          "titleKo": "미 정보기관, 일부 비기밀 정보 유출 사고 발생",
           "tr": "claude"
         },
         {
           "id": "nyt-3",
-          "title": "Opinion | Here’s How Democrats Should Investigate Trump’s Corruption",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQa19kZVEtRFJwbDJES1VJcXhmN1FTMzNUUFlCQ1VnMllIaGFIazVlNlBLMkY0VXZieFgzbmpuQnhfSDktcWZaX2VUUFZxd1dacS0zSDQxYTdocTZkQzdfTFk5Vkc4ZmhBc3EwYmVkdGwxeWZOYTI3M0REN1NzNG95WE9MTmZrYk9LWGNjTVlpRQ?oc=5",
-          "date": "2026-11-25T10:01:46.000Z",
+          "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzVyaXo0aXJLT2VuWXdDRlJIWEw1RDBlTWtxcG9RN2ZydEN0T2U5dnlCRnJXWFVKeVZ2X2JXUmpHUTQ5d0tCNHFGc0VKZHE4TFdVQXFId1k5YkRGU29pdF9VM3FES1ZDbEItTW9rQWRYQTVTakxtMG1uVnZwV1ZTRmc4XzV0MmtVX2NWYUhvWHM?oc=5",
+          "date": "2026-11-23T00:05:50.000Z",
           "topics": [
-            "정치·선거"
+            "AI·반도체",
+            "외교·안보"
           ],
-          "opinion": true,
-          "titleKo": "칼럼 | 민주당은 트럼프의 부패를 어떻게 수사해야 하나",
+          "titleKo": "NYT \"미국, 엔비디아 스캔들 중 앨리스 황의 중국 정보기관 접촉 추적\"",
           "tr": "claude"
         },
         {
           "id": "nyt-4",
-          "title": "Meet the Incoming Members of Congress",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbmp0aUhDbXVzanc3VFoyZ3oyd0dpYXZWRTZFc19tVjZ1Sm5VZmF0RWJMbUtfaXVjU2FMWjdiS202dGxOQmEzOUFhNk5GY3BqaFNpUDNWalNIOU1qTUt5U25ncXlOcG9LZ25aTy1aOFRHV1pvWjVVdWI5WGg5TkJqX2dRZG5IZk91ZmtlTkRremtCZHk2V19RZm9B?oc=5",
-          "date": "2026-11-25T02:20:50.000Z",
+          "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTDFUcXJ0QmJqOHJ2V0tOUE5hTUgtTy01cnBiY0swakpXM1FQektvVGpmNDZVSTdkeFhpQ3dNVEpJUkcwYXlWRjViVUM3cENGZk9wb3NRZS1BV0lzVEJfZDVnVk9pYy0xVU9fYUZuTjZXQjllc1ZsRklOODZJS3NKNGlIM2lyUQ?oc=5",
+          "date": "2026-11-23T16:18:37.000Z",
           "topics": [
+            "AI·반도체",
             "정치·선거",
-            "외교·안보"
+            "산업·시장"
           ],
-          "titleKo": "새로 선출된 미 연방의원들을 만나다",
+          "titleKo": "트럼프 개인 주식 포트폴리오, 엔비디아 상승의 덕 봤을 가능성",
           "tr": "claude"
         },
         {
           "id": "nyt-5",
-          "title": "With Lead Tests Underway After Iowa Detonation, Army Seeks to Ease Fears",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
-          "date": "2026-11-25T19:03:01.000Z",
+          "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWm9jVEROR3RZdWh6UkVjTzJ5cjl3M3A0c1ZxME43YUk4WUpqeE1BMlo4MGRtZVVGbENDeUxBUVdtRDFyeWRHNU9NeE1VeVpqdm1DS011ZDRvNzRWemVOVmtoNXBMRVpWZFJTczdrNGZvUWE1cEtIQ0Z3U1o4VGxvRGtOa0xCQTB5TEE?oc=5",
+          "date": "2026-11-23T21:26:52.000Z",
           "topics": [
-            "외교·안보"
+            "AI·반도체",
+            "정치·선거"
           ],
-          "titleKo": "아이오와주 폭발 사건 이후 납 테스트 진행 중, 육군, 두려움 완화 노력",
-          "tr": "google"
+          "titleKo": "젠슨 황 CEO 복귀로 트럼프, 엔비디아 이사회 뜻 사실상 뒤집어",
+          "tr": "claude"
         },
         {
           "id": "nyt-6",
@@ -1074,18 +1088,19 @@
         },
         {
           "id": "nyt-7",
-          "title": "Student Who Lost Eye During ‘No Kings’ Protest Sues Federal Government",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOHhvR2R1bG1fV2FiQzBnUjRNaURoYWlOT2tOcHUzUXpvazN4NUMwaXEtVmdBRUFmRWJIcGdoYVJGUEtyelRMR0lGVzRjWm8wWmNESWgzMzhDRkdxZUZEOEgwZ2J4VDBkUVAtcmRlaktFd05uN1h5NlNWak9LYjM0ZF9DWmdTZw?oc=5",
-          "date": "2026-11-25T03:03:26.000Z",
+          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+          "date": "2026-11-23T21:07:02.000Z",
           "topics": [
+            "AI·반도체",
             "정치·선거",
-            "사회·생활"
+            "외교·안보"
           ],
-          "titleKo": "'노 킹스' 시위 중 눈 잃은 대학생, 연방정부 상대 소송",
+          "titleKo": "트럼프 행정부, 엔비디아 스캔들 중심 싱가포르 기업 메가스피드 제재",
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.554Z",
+      "fetchedAt": "2026-11-25T21:21:35.519Z",
       "status": "ok"
     },
     {
@@ -1101,17 +1116,6 @@
       "items": [
         {
           "id": "fox-0",
-          "title": "Federal grand jury hears evidence in Ilhan Omar investigation, as court records use 3 versions of her name",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFhGMFJ5SzBxTklfRkFIcmlrWXVZcnY1a1BMX01DaHlmekxNYzVFSlRjNEN5YkFxcjJtTEhQblFYcm5WQ3RCNVhFSHQ5eDcwcElYdXZCRVJPVmZMSXRKNTdta1dvUEtPdktjLVhpWkJJbDZyQjZhN0hSOEdSc09ITHB4UU9nRjJaLTRQSmFzUFFfRm1SUm80djJSbFJ1TjBsR05HOGZzenhXaWt4YXVjOWVrbjdfeS1fWkdzLWhhR2pJaWRZaU5FaA?oc=5",
-          "date": "2026-11-25T16:40:20.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "연방대배심, 일한 오마르 수사 증거 청취…법원 기록엔 그의 이름 3가지 표기",
-          "tr": "claude"
-        },
-        {
-          "id": "fox-1",
           "title": "Trump officials reportedly at odds over tech titan's comeback as national security concerns linger",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWNpNG4tUlNfOWx3WTN1a2gzUkhKSTBSMWtoUkluNzNEel90YjFZdGpkN3drbUFteTdOVEpneXBLSXI5dTNQU1FuUl91Uk9WY3F4RXBUYTdPSnl2NEd1T0dxZ191ZG1pTDVfU0F2ODY3WFdleUtGWmJIVldQSjNYZWkyaHNrVGYwU2xjT2U1QVV5VzZEM1RfX1ZBUFFmV2J3UnVGR3dNaW1CRkXSAbABQVVfeXFMTkVZYVRCSmFiaUxmRDRzaC1NeTVlMHR1V1dUY0YwRThYYlBpLWpxWmZUbzN3TjVyWUFjUHp1dnVVQmRiX21FeGdUSlJCZ2IxMmV6OGEyTGZGY1RmV2s4NHdhTVNMcXFvT0xjOXI4M0RZQmxvQUlzU0tfMDNRR1RIWGZ5Rl9WR1pOWDdiYlVpTzZRc2FUSjBQVmJmeEhRdWVnS3B2Sy01aXo2OGhUSFNTX1c?oc=5",
           "date": "2026-11-25T17:43:04.000Z",
@@ -1121,6 +1125,17 @@
             "산업·시장"
           ],
           "titleKo": "트럼프 측근들, 국가안보 우려 속 기술 거물의 복귀를 두고 이견 보도",
+          "tr": "claude"
+        },
+        {
+          "id": "fox-1",
+          "title": "Federal grand jury hears evidence in Ilhan Omar investigation, as court records use 3 versions of her name",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFhGMFJ5SzBxTklfRkFIcmlrWXVZcnY1a1BMX01DaHlmekxNYzVFSlRjNEN5YkFxcjJtTEhQblFYcm5WQ3RCNVhFSHQ5eDcwcElYdXZCRVJPVmZMSXRKNTdta1dvUEtPdktjLVhpWkJJbDZyQjZhN0hSOEdSc09ITHB4UU9nRjJaLTRQSmFzUFFfRm1SUm80djJSbFJ1TjBsR05HOGZzenhXaWt4YXVjOWVrbjdfeS1fWkdzLWhhR2pJaWRZaU5FaNIBzgFBVV95cUxPX3JRUFRhQ1hiYW9fRDJvSDR3aXRaclkxVmxLa09GbTZnSHFmSVo1Q3Q2bnU0SzdGbTl3OVhPSHFXbGxfOFhVbVF6bnUxQ1lSTThrSUxHREJLYnVVcm41aTgwR1BZeFFSWXVYTUIxM2RTZkFpeGQ3TXFYSWVxU01jZHF4dGxxMEt2WVlNaTFGZ1pRREs5b0N2SmVGdTBvemVrUEQyU29hQTJhb09ySEtfWl96RnhkZWFScEJyR2FNcnltSjJ0bHVwbHVlWWxyUQ?oc=5",
+          "date": "2026-11-25T16:40:20.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "연방대배심, 일한 오마르 수사 증거 청취…법원 기록엔 그의 이름 3가지 표기",
           "tr": "claude"
         },
         {
@@ -1173,20 +1188,6 @@
         },
         {
           "id": "fox-6",
-          "title": "Trump's Nixon-to-China moment: There's an immigration move only he can make",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNGtmR21HYTZ0VktST1FybHQ4bGEzel9Vb2lJR1BtRzV6VVljTmhqOTlyMzJ3NXR4VmJKclpiR28xRUxFbEtSMnRmaXVQaE96NHVDUElqWnBnZkRFT1l4TDF1R2NhYWFUQjhxd0thV1NHSXZCWEx6MzczRzl5ck55aGN4bjBKSjkwdFZ3aWl2ak94UWUwVHNHNEtn0gGfAUFVX3lxTE9ZUXJWWTlIanQ5MmI1Y3U0TkJ5aE5YQi1VUkNlNm1saDJXVW03Rm9nSWUyUm9hR0UzRmZPNTUtUHpVN1NpUE5HYlRlUERnRHVsQzBhYVBoc2p1TW1YNUtaNmVocWlsQlJIbVl5RWFGVGFUal91alVydHVqOEwyN1diTWZoVUltS2RrUHZpdnFEd3kxSjUwTm0yTUxpSDVjUQ?oc=5",
-          "date": "2026-11-24T05:06:19.000Z",
-          "topics": [
-            "이민·국경",
-            "정치·선거",
-            "외교·안보",
-            "사회·생활"
-          ],
-          "titleKo": "트럼프의 닉슨-중국 순간: 트럼프만이 할 수 있는 이민 움직임이 있다",
-          "tr": "google"
-        },
-        {
-          "id": "fox-7",
           "title": "Trump's NVIDIA power play opens Pandora's box Democrats could weaponize, analyst warns",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQckF0SlFTRFhmODNzeTFZaDRHcUF5YWlQa3ZFUXAwa0QxQ2puV2tkTG85NUk0MkNMV2VpU1pBZjNIMGExUEgwd1FqcElhYXBraWdvcmZwRTJhd18ydmN6NEJIb3JXT3FhX29vMmFhcHZ2SFBLb0ctRkg3RjJvX1B4RGl3NzNxWWQwaDNOSFowaHp0Wm5CXzMxMWNlc2loYUl4UUZYYVZfSkEwNk5JM090Rko4ci1Ock3SAbwBQVVfeXFMTi1IWlRKM1ZjM0JTTXFZWjdYbnpXZU9oYVIyRDNCbENGTFdXbFg5bVRKZ3FYelp0V1F3aWVOZUdTeDdhTXFwZ3RYN0NjbWxrNW1TZDZFaGFhSDU2d2wxSlg1Z2NkY3l1dEtyZHBHRzVxaVRndEkyM1pLaGMxRXpqTXFjaGQzTVdmVXBhYXl0aHJwaDgwMVhnR3R2NDhnbjRmcXF1Q2tJem1yZDI2U2xxLTJrRDRpakp6ZHByRlU?oc=5",
           "date": "2026-11-25T11:00:17.000Z",
@@ -1194,11 +1195,23 @@
             "AI·반도체",
             "정치·선거"
           ],
-          "titleKo": "트럼프의 엔비디아 파워 플레이로 민주당이 무기화할 수 있는 판도라의 상자 열었다고 분석가 경고",
-          "tr": "google"
+          "titleKo": "트럼프의 엔비디아 카드, 민주당이 무기로 쓸 수 있는 판도라의 상자 열었다 — 분석가 경고",
+          "tr": "claude",
+          "titleKoAlt": "트럼프의 엔비디아 파워 플레이로 민주당이 무기화할 수 있는 판도라의 상자 열었다고 분석가 경고"
+        },
+        {
+          "id": "fox-7",
+          "title": "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2Z2ZEZmc0RDejRaVHVzVUZZLTNCdEljRDRGWm1xSFU4bGxnR0l2THpjYVJYOEd2ZTdqS0NIdmNXUDEtVnpkZVc2Sm1ydmxVVEpqUkh2SkJJMEMwM1FLZGpCZVJweUZnYlJEcWZmdHk2R3JUeXF2blpqd3ZjVGFXcnNVNGRMQmlyTUhNUVRNYk9Gak0yNV9QU3pJdGlIMjBIYlVSVC0yNEg3MzJjcWVjdC16RnJZZU800gG-AUFVX3lxTFBMbHhnZ3VhTXNSN2c2VzV4VzZoTTRFMGtJVUJjdE15ZWVSc0Judm5SOGllMTc1RTA3MHV2bXhuYVNCXzJNckVtT21ONm56eGpDOFo2Y3h1c0VpZDJNVEFXT0NlUDhlTkNxUTNIMERQazk2MmtFOVkxUmJERmlyV3lFT2VSMFlvMEF6b2hqTnNRRjN6ZWZQYkctakg3RGJRUmNUcVlGb2VRbFBxWjF5TEd1Z1IxNTZkNEVQQWF0Ymc?oc=5",
+          "date": "2026-11-24T20:53:34.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "CIA 사이버 침해, 정보분석망 비기밀 자료 노출 — 소식통",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.652Z",
+      "fetchedAt": "2026-11-25T21:21:35.495Z",
       "status": "ok"
     },
     {
@@ -1241,7 +1254,7 @@
           "id": "wsj-2",
           "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVzhmUDdZT0JqSVhGX0lxazBhcUFaM2pIS2I0UHJOMVVUa1JOWFhVeGVrREVocmdyRWhQVzlGOEVpWDJXSGZxU1hkcEJ1TElmbXFXZXZnZVk5RmdBeEl2WGljdG1GTFl4SHVraWZfdjRsVFcxMWlBUWpCM2JaSHBhZ2wxRV9hSHk1R0hQcmRhNzAwcmEtYmc4bUtpOU9jbG10?oc=5",
-          "date": "2026-11-24T20:09:00.000Z",
+          "date": "2026-11-24T19:46:32.000Z",
           "topics": [
             "AI·반도체"
           ],
@@ -1273,6 +1286,18 @@
         },
         {
           "id": "wsj-5",
+          "title": "U.S. Crude Oil Stockpiles Rise for Third Straight Week",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmNaUEswZFFHWkVEYVY0NUZVU0xoTVdwcEU3cDd1Z1RWRnN0RnRIeExlbEtrNXNUSHhoQ1ZjU0VEWVZ4Um5FSjMtcmNuXzM1ZTRodnJ6Ti1tUFA1U2VRbEJ3UEZ0VHNkVmJoM1psMnF1ZGZScndxa0l6bElITFpoM1k5MV9FSHpCclB1TmtOZ3BPeWt4V3R1SXBkRmFMYU0xbmxHeA?oc=5",
+          "date": "2026-11-25T16:29:00.000Z",
+          "topics": [
+            "에너지·원유",
+            "산업·시장"
+          ],
+          "titleKo": "미 원유 재고 3주 연속 증가",
+          "tr": "claude"
+        },
+        {
+          "id": "wsj-6",
           "title": "Exclusive | U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaDNLV040WjYxakp4SFpkLW1ZSWo1M3dJOE8xV3pZTmRDZ0EwclVFclVWQlZpazJiRTJwNWtCdmZGeTZkcmJqQUlWbVo5ME92cFZXSUFFOUkyUmp3SldOYmR5S2xXZUVHR1lSZXgzSEFWdHhkTm5HeEM4NVEyc0djNFNrTW9GTFh5WW1j?oc=5",
           "date": "2026-11-24T00:00:00.000Z",
@@ -1284,7 +1309,7 @@
           "tr": "claude"
         },
         {
-          "id": "wsj-6",
+          "id": "wsj-7",
           "title": "Opinion | Nvidia and Trump’s State Capitalism",
           "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kcy1iQnVwZXNxZXEtQ1VEUDJxNm41cmh2bUtxcGg0ZC1TUlhFbE1PeVNPVzJ0azI1QzQ2cVFIWnRsS0duZXhvRndmcDFkY2pKWTBKdzdCQ3lfQXFqbEVVZ3pmQmYxUWUwQ3pUQkpsU0xjWEs5a0w5eQ?oc=5",
           "date": "2026-11-23T23:00:00.000Z",
@@ -1295,21 +1320,9 @@
           "opinion": true,
           "titleKo": "칼럼 | 엔비디아와 트럼프의 국가자본주의",
           "tr": "claude"
-        },
-        {
-          "id": "wsj-7",
-          "title": "Trump Asked Vance to Help Persuade Nvidia to Bring Back Jensen Huang",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dnMndEdDdHRWJZaTZTUENvVEZwWlBpZ05MMnVwNFl1b0F4dnJ5VXRpdHZqODBySWMwcTg2b2Z6TG84OGtNQ2U3dENoMVVDeFlCV19IaEhDVzlaU2pfUmJTdUQxbkhrYjhid25kWWlENzdlMkZDV1NOa3JGZWY1c0ZtS0diWFU?oc=5",
-          "date": "2026-11-23T19:46:00.000Z",
-          "topics": [
-            "AI·반도체",
-            "정치·선거"
-          ],
-          "titleKo": "트럼프는 Vance에게 Nvidia가 Jensen Huang을 다시 데려오도록 설득하도록 도와달라고 요청했습니다.",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.624Z",
+      "fetchedAt": "2026-11-25T21:21:35.557Z",
       "status": "ok"
     },
     {
@@ -1325,18 +1338,28 @@
       "items": [
         {
           "id": "tass-0",
-          "title": "Ukrainian strikes on Russia in past week leave 65 civilians dead — diplomat",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LRDJTYXZUMDJ4Q2x2ZWFKR24tQ3lZV3gxalpCZ1o2T3NpbDlXV1lsTEJUU2MzamJJZGJpaTViWWJZTWQxSmRZStIBTkFVX3lxTE5wTjNHUzAxNjFzQVIxUmREQUw1OVNaY19jaW5rNWpxTm1kWkRncW16Vkg5NU54T3RudnVudjhVaWM3NlZidE1vMW5fUk5MZw?oc=5",
-          "date": "2026-11-24T16:42:05.000Z",
+          "title": "Bulgarian PM could represent EU in talks with Russia — US analyst",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5NdmZPSU0tOVVnWUdBcndWS05aOUluWUhaTW51VGk4UV83VVR4RDREVllKR0xTYzNnSkR3RHlZVzdZVUw30gFKQVVfeXFMUGc3TFB5b2I0Tm1pMmpZUGk3UlJ6ZEJlT0FwY1pGV2JsYkpuZzM0RGhhVzFZMFFwWDJYVTl6bm56bE81cmRfaGRSWlE?oc=5",
+          "date": "2026-11-24T06:53:16.000Z",
           "topics": [
-            "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "지난주 우크라이나의 러시아 공격으로 민간인 65명 사망…러시아 외교관 주장",
+          "titleKo": "불가리아 총리, 대러 협상서 EU 대표 역할 가능성 — 미국 분석가 주장",
           "tr": "claude"
         },
         {
           "id": "tass-1",
+          "title": "Brazil to urge Russia, US and China to maintain trilateral contacts — source",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05d0xBdl9yZW85Y09XZ054N1p0eTRvTHVNbVNmZ2Y4WGFDV2ZUa2JqODI3T2RDSm9QR01JOWQ4VDBfUHFM0gFKQVVfeXFMUE56b3RTbnpReVZDdDJHWlA5YTQzS1dlem85NnU1RERidm51SXZINGk4TWhDd3BHQWJpUVN5cUdKdlA1SWFsYmh0cnc?oc=5",
+          "date": "2026-11-23T02:23:03.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "브라질, 러·미·중에 3자 접촉 유지 촉구 — 소식통",
+          "tr": "claude"
+        },
+        {
+          "id": "tass-2",
           "title": "Lavrov to attend joint meeting of Russian, Belarusian foreign ministries boards in Gomel",
           "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9NUHBLcWs2TTVPdEpabUFXTHlaRVZUV3BnQ3ZjUUFPcjRqQjk1UVNSVjdlVXNSb0ZOZTloaE1obGxTXy10cDFWZNIBTkFVX3lxTE5jYWtzN2JBZjFjTURnUS1MLVVQV1k2TUlMWDVLRkw5eHhFV2t5ZUl5eFQ3TzFwT2h3RU5YOFhBdm9iUDlFS1lpUndYSUlDdw?oc=5",
           "date": "2026-11-24T23:26:56.000Z",
@@ -1347,55 +1370,7 @@
           "tr": "claude"
         },
         {
-          "id": "tass-2",
-          "title": "Putin’s attendance at G20 summit still undecided — Kremlin",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XSlVoc0d1THBnMHg1d3JBNG9WV2VzaFNVSy1UVFRtSHBaUWQtcUx3bW8wT1ZtejkyaEc2M25MSXYzcEw2NmxRQ9IBTkFVX3lxTE9BX2tXaFNEaGZsTms3dHhkcklyemJWOXh1UTVDM1hpQWxiS0s5dUtvM1FacEpXdUc1dTJmRXNpRDgxZ3Q4VEJHbWdIcVFDZw?oc=5",
-          "date": "2026-11-24T01:05:42.000Z",
-          "topics": [
-            "정치·선거",
-            "외교·안보"
-          ],
-          "titleKo": "G20 정상회의 푸틴 참석 여부 여전히 미정 — 크렘린",
-          "tr": "claude"
-        },
-        {
           "id": "tass-3",
-          "title": "Russia leads in availability of energy resources for superintelligence — Dmitriev",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBZHpfT2JHNjVIT2pxb0Nic3RTbE00ZTFIYkxsVGoySDNCYklhTnpkMDhLT3l2WllIWDhaOE8xc1N4RmpfY0p30gFMQVVfeXFMTV9DcmhJS1k3ZWNMOC11Uld4VUlqd0kzLXhHT2ZaeXNuRHdlLTFNMDVNUl9CMFA0V21WakxkUGNuS3ZycFpwY29RTERHaA?oc=5",
-          "date": "2026-11-25T00:41:38.000Z",
-          "topics": [
-            "에너지·원유",
-            "산업·시장"
-          ],
-          "titleKo": "러시아 \"초지능 시대 에너지 자원 확보에서 앞서\" - 드미트리예프",
-          "tr": "claude"
-        },
-        {
-          "id": "tass-4",
-          "title": "Russia so far sees no added value in EU participation in Ukraine talks — Kremlin",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNdFdmUUpQZXBNTlV6QmItN21qNlQzdC1nbFN0MFB0Z1RuSWJTNGNnV05GOWpHbnRPcDRZUXpfbjcwNmVDeXNON9IBTkFVX3lxTE1zRklIYUdWcmViWWtSa1ctS1NKQ3VLakEwU0FNc29iRDM4dHlzakN3OWZvTU5UQnJSYzhnSVVSeHZiVXRjY21BS2x0d0lmQQ?oc=5",
-          "date": "2026-11-24T11:11:21.000Z",
-          "topics": [
-            "전쟁·휴전",
-            "외교·안보"
-          ],
-          "titleKo": "크렘린 \"EU의 우크라이나 협상 참여, 아직 실익 없다\"",
-          "tr": "claude"
-        },
-        {
-          "id": "tass-5",
-          "title": "Gasoline prices stabilized, Putin says",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xTzZtWVBpUG5qVXpkNTlvbEMxM19HVUNUdFV2OE54YzA2V1BSYmZxOXhQcDNpQjAyWjlObGEyTkVmWFZIYUxpeNIBTkFVX3lxTE9CRW5VMnB1eUVsbnpBMWpuOUZJVVM2aDNiTHZCMXFxLWRGTzlJcDZqWW5ObzU1RmhQMVh6MHA1S01zcHRkQTNON1lfbkZXZw?oc=5",
-          "date": "2026-11-24T18:29:43.000Z",
-          "topics": [
-            "정치·선거",
-            "경제·물가"
-          ],
-          "titleKo": "푸틴 \"휘발유 가격 안정세\"",
-          "tr": "claude"
-        },
-        {
-          "id": "tass-6",
           "title": "Russia’s Svod system keeps troops informed — deputy defense minister",
           "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ldGpTLXFBWGIweko4RVZSM2ZwOURCdGFuUTB5bDdsTGxVWUNYZjJHSWMyekFmWUkybUZJZVdBSFhCc1FsN0530gFMQVVfeXFMUG1STW04RV9HbDF6WndNNXZVempYbHNneEJKdXhMYTNjcC1fdTRxclZ2Z0pydEw5ZEpyOFU2ZFktLWF2VEtmZnVyMW13TA?oc=5",
           "date": "2026-11-24T13:42:14.000Z",
@@ -1408,19 +1383,55 @@
           "tr": "claude"
         },
         {
-          "id": "tass-7",
-          "title": "Kremlin comments on Ukrainian attack on Libyan port, potential Moscow visit by Europeans",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4ycnk1N1A3Ynd3R2ZyYzkza1daUnhBeXctMEdtNjIzSnlmVWpzUk1uX3VYTHZfai1DeGhxM1FGellBaVR5UzV4SdIBTkFVX3lxTE9qdVZJREpWVWZCZWRkdVVQWWM5czllR2MzY0lhMFZHSmNoSEs4aW5PUmJHM3VfZnNJZlltdzZnXzJSLVlHcU5tV3FTOUliQQ?oc=5",
-          "date": "2026-11-25T11:53:24.000Z",
+          "id": "tass-4",
+          "title": "Russia leads in availability of energy resources for superintelligence — Dmitriev",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBBZHpfT2JHNjVIT2pxb0Nic3RTbE00ZTFIYkxsVGoySDNCYklhTnpkMDhLT3l2WllIWDhaOE8xc1N4RmpfY0p30gFMQVVfeXFMTV9DcmhJS1k3ZWNMOC11Uld4VUlqd0kzLXhHT2ZaeXNuRHdlLTFNMDVNUl9CMFA0V21WakxkUGNuS3ZycFpwY29RTERHaA?oc=5",
+          "date": "2026-11-25T00:41:38.000Z",
+          "topics": [
+            "에너지·원유",
+            "산업·시장"
+          ],
+          "titleKo": "러시아 \"초지능 시대 에너지 자원 확보에서 앞서\" - 드미트리예프",
+          "tr": "claude"
+        },
+        {
+          "id": "tass-5",
+          "title": "Putin’s attendance at G20 summit still undecided — Kremlin",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1XSlVoc0d1THBnMHg1d3JBNG9WV2VzaFNVSy1UVFRtSHBaUWQtcUx3bW8wT1ZtejkyaEc2M25MSXYzcEw2NmxRQ9IBTkFVX3lxTE9BX2tXaFNEaGZsTms3dHhkcklyemJWOXh1UTVDM1hpQWxiS0s5dUtvM1FacEpXdUc1dTJmRXNpRDgxZ3Q4VEJHbWdIcVFDZw?oc=5",
+          "date": "2026-11-24T01:05:42.000Z",
+          "topics": [
+            "정치·선거",
+            "외교·안보"
+          ],
+          "titleKo": "G20 정상회의 푸틴 참석 여부 여전히 미정 — 크렘린",
+          "tr": "claude"
+        },
+        {
+          "id": "tass-6",
+          "title": "Russia so far sees no added value in EU participation in Ukraine talks — Kremlin",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNdFdmUUpQZXBNTlV6QmItN21qNlQzdC1nbFN0MFB0Z1RuSWJTNGNnV05GOWpHbnRPcDRZUXpfbjcwNmVDeXNON9IBTkFVX3lxTE1zRklIYUdWcmViWWtSa1ctS1NKQ3VLakEwU0FNc29iRDM4dHlzakN3OWZvTU5UQnJSYzhnSVVSeHZiVXRjY21BS2x0d0lmQQ?oc=5",
+          "date": "2026-11-24T11:11:21.000Z",
           "topics": [
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "크렘린은 우크라이나의 리비아 항구 공격과 유럽인의 모스크바 방문 가능성에 대해 언급했다.",
-          "tr": "google"
+          "titleKo": "크렘린 \"EU의 우크라이나 협상 참여, 아직 실익 없다\"",
+          "tr": "claude"
+        },
+        {
+          "id": "tass-7",
+          "title": "Gasoline prices stabilized, Putin says",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xTzZtWVBpUG5qVXpkNTlvbEMxM19HVUNUdFV2OE54YzA2V1BSYmZxOXhQcDNpQjAyWjlObGEyTkVmWFZIYUxpeNIBTkFVX3lxTE9CRW5VMnB1eUVsbnpBMWpuOUZJVVM2aDNiTHZCMXFxLWRGTzlJcDZqWW5ObzU1RmhQMVh6MHA1S01zcHRkQTNON1lfbkZXZw?oc=5",
+          "date": "2026-11-24T18:29:43.000Z",
+          "topics": [
+            "정치·선거",
+            "경제·물가"
+          ],
+          "titleKo": "푸틴 \"휘발유 가격 안정세\"",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.907Z",
+      "fetchedAt": "2026-11-25T21:21:35.905Z",
       "status": "ok"
     },
     {
@@ -1462,6 +1473,17 @@
         },
         {
           "id": "meduza-2",
+          "title": "Russia’s Transport Ministry published instructions on how to get to Crimea now. The bridge pictured in them has one arch (not two).",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMmJIaGtqelNBeVQwU0hnaXdaWE1UR01wblN0MlVFMVN6M2M5Sm94Y1JUMXQ4TUtndS1OYTVpLXNvZEpuZlNQUVhicWVRakVHU2cyWDMtLUhMbWo5Y2p1aXhBSnU0UVVHajF2SzFnVWp4LV9FaEZBTEVTbzdmRW04RUtMdTdvSW53M2tGZ3ZzcC0zTWZoNzU1cERqdnNFVlNlQmRET3pLRXhMRXhXX2FLS3dvbFZadDZ6N3E5X3Q0VDBWMHlxR19LeURKbVRaU2dwdk9pQzN3NWtsX25kQ01CNFQtUEgtdzdmMjF4UGhXVDFuaFhPb0xF0gH8AUFVX3lxTFBFYk4xX2ViLUhjTjh0N2Jac3QxMk1vQlkwX2d4ak5FM0pvZzNKNmRHc2wyaVFUTzNjVjYzY3hpUVNCSzJWZE1Uc21FelBNLTdFcE1na0tFVnhVbUtTMWxYcXFDQXZ5V0s4UkNwMThJd1VDeC1MNERCdDZEOWlzWER4dmtxYWVGNHBSZ29SSUlRaEFmWlBDZGJ6Z29XNjdSc1dOV2Q3OHpJQmZWbGt4S3hSX21CRjlMR25kdzdCZkI0cTZpRl9QdEFvaUswaEI1RXEwNldZWkY3dF95N3hEQktmTkhXUVlBVlhTS2theGlsNDhic0V6N2c2SFBVbw?oc=5",
+          "date": "2026-11-25T16:00:00.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "러 교통부, 크림반도 가는 길 안내 공개…사진 속 다리는 아치 두 개 아닌 하나",
+          "tr": "claude"
+        },
+        {
+          "id": "meduza-3",
           "title": "Nearly 6,000 people receive Russian military pensions in Latvia. Moscow warns the payments could stop.",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdWZ1U09mOExXQkJZTW82ZnloTWF4LXM0QzZTM3VzMEJMdENlM0RnVUF5WXVsVnk1eWpPSjNEZXI4RVpJVE5qVktkUVVTeGRUQ0oxLTdFdWlfZVlmYW9WR2x1dGdoT00xS0FzXzF1UGNtMmtPR0VWQWZ3UDMxQzRmbWI4WHFrbERoSnA5bGpJVkg3bUVKand2V2w0Z0NQdFBXX0szSW81a001WGM0dDJaV1RhYURYcE8tYU1nQ0NkMU9OQ3E5QmVvMzRUZFNkY3FDQ3o00gHYAUFVX3lxTFBvYVBVcHFNN3YzWklJNDkzSFA1RjNHYVVubG9VU1lIMTE2QWhjQ2EzT3pTOEtyb1NaSDd0NVJIcEJuSHZWYXR0S0ljZWlhaGpvSTVpNXRTZ3dpVUljNUlzNG1tN3pYZGg1MExwT3ZKVk5fWWNmSHFuZ2YwV2E1a2VhZEpQbGJBTjFwck44Ykc4dy1QSFFiSHpnWC16ZTlMZGpueFZrY1o0TE1ySVl2ZmpPNWtZeDFwYmVXR1VPcGlpUm52RHRwRlU2djJ1aWRRLTdzNVN3VnlLSw?oc=5",
           "date": "2026-11-24T21:27:00.000Z",
@@ -1472,7 +1494,7 @@
           "tr": "claude"
         },
         {
-          "id": "meduza-3",
+          "id": "meduza-4",
           "title": "Ukraine invokes U.N. Charter in defense of its strike on Russian warship in Libya",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeklSczBFSENPc3laNksyOEZaNmE1U21zMTQ5a2ktWm5HM3I4cjUzQ0NOSUh5N1EzaFB1M1JTWXdaRU5jZ1BmcmVCVDlyZXpXVXlSb2E0UmFLb2dkUE9SYkxSbV9LclJyaFFIckg2S3R0WWJYSzdMeTNjQnBXeGpHX3hFSHdOTkdkYVdXMXIydDNrc1RXSjBwOGR0QlRtNVYwUXJ4b1o5ck5lNXA5RFpXWllKZ2NTdUFyS3RPdtIBwgFBVV95cUxQcUJtcnhPNkNpbFBvOE9aODZ3eHkyVzVjVUJCMGdYSWwwVDVUQmR3NTNJQVdNcEE0SjFNZGxaUzFwRkF6VVU5MDJ3OC1RcTM4U0tKMVg5em1TMnVFN1V4eGg1WnlZYkQtdVV4Qkp3WUNVRjEwY1dTQS1vREt2V2ZpSzI3bGF3b0VSZGV6eUhQNG9iT1ZFcWlMamZYUjBqMHd0T1Vsd19wOS12OTFXMkFoU2dNOS1GR2FjalFLOVpvWW56dw?oc=5",
           "date": "2026-11-24T15:52:00.000Z",
@@ -1484,7 +1506,7 @@
           "tr": "claude"
         },
         {
-          "id": "meduza-4",
+          "id": "meduza-5",
           "title": "Russia to spend 47 billion rubles on ferries to Kaliningrad amid fears of transport blockade",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbENvOE1fdThtUjJTZ3JKVjlWbVpXNVRLSUFSYVVlcTVXWHN2WU9MbXV1a2swSF9Ec3RvREtTSGV1YmVjSzhDNllfUDVka1BnelUySGJkTVZjNWtoUUdxOUVlR2VkdkZDaDktVE95NGxjaERzeUc0RUxwUVlCVy1tSFp3RG1CVnUzeDF4d09NdDFVcS15N19WNUo3X3F4UDlfckkwYlE2RVNJSHg2ZURwVXdBU0ZmcHJRanlIa2NwRGdKSDVmZG54etIBzgFBVV95cUxPN01VcHk1VWZKNGktZnotTEdlQm1ESGZTWUJ6TS1lak1MTl9jMEMzUUQ3STNHVG42ZVZ3QjJzZWV6ZV9wZ2ZhT1M1Tm5sRWdfVDY1cUlYRW9heU1qRU9UTGRVdl9QcUFCMS1wOU5Ub2U2YnR4ZWw3UmhlZ05YTzJNLWdBb3A2WGN1ZVZvenVoSDZVRVpRckRybTlwLUxOdDZ2Ny1xQlNTSWhXSkt3V2EtUnJUeTdKNlJEN3p6ZWM3bURFY1NYTVNGVXJiemVIdw?oc=5",
           "date": "2026-11-23T16:00:00.000Z",
@@ -1495,7 +1517,7 @@
           "tr": "claude"
         },
         {
-          "id": "meduza-5",
+          "id": "meduza-6",
           "title": "At least 720,000 Russian soldiers killed in Ukraine by fall 2026, Meduza and Mediazona estimate in new analysis that includes missing troops for the first time",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQXzRiSVQ4ZGc0Tzl5TThqR2wzY2RTbDJIaXE0WDlucXg1UU94V3JuZGsyUW00U0JRYjd5UE5CSXhzNTRhdXhHY2M4eWNRNWpvRGIyaWNKTnVEVFRKUDQxMTUtc2hkcTVDTXlmS284YnloUmllVkJDTFJsaTloS3R5RTZQcmRmclZ1ckRmNV90UE9zdlByTFhXd3lidTQ5QUpIVzJHV2VoREJvLW9HZkNSZmxrZXZyREV2RW00LVZfUHVucThVSjcxMFRmNnpySVZubzA0ZXE1b2VFZUxaR09sRk5ISVY5RFItT1BVWFZncl9UUzNVQW9LN2NoNjMxZERiUzBlTEFQYlA3ZmVNVU4zZDBWZnZLMXA0NTZJR1pkbFPSAaYCQVVfeXFMUFYybDV0eEpBRmhDMTd3NVpld19JVm42S0J2cGp0WG5ZQmRVYll4UlhIOUMtOWlORWRncjIzenBrVVdYTTBhblVzZDNNb1drRW5nVWd1QkFTYWVyeHRjcjdzTTFmOHp5RURtZnYzV0p5VV9kQVlNQ1RDbmxVRGd1Z3g2dkdIaWhKaEUwbVFVWERUWG1aTzlFaG0zNGstcVlra1ZuNVNneWNCMlNyc0RPZEl4UVl5WTUzQUJOd1JOOU5CTHBoaW1LcThtODlCSHEwUnVKWnBzOUdvUmxqV2dseGZXZEg1X3pGRHFJQ2hUcjB6bHh0Zzk0NEQ2TWhtM1Q0dmkxSkdBSVVseF9kbVpZanc4SVpEOHBybTVORzBDNy1YYTFyUnFR?oc=5",
           "date": "2026-11-23T16:29:00.000Z",
@@ -1507,7 +1529,7 @@
           "tr": "claude"
         },
         {
-          "id": "meduza-6",
+          "id": "meduza-7",
           "title": "Russian news agencies and TV channels ignore Ukraine’s sinking of a Russian warship off the Libyan coast",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeE1MVjZHeVI2cE9SRmdOZEpMV1p4Z1NyRGRTelZPNXFHRzZTTkU4MlZucGQ5NjVKYU93NGRlVnhkQmZQb1lwZzUtaUpXZ24yV1U0WlFBcFRYa0RxLVJ2cXJCYkNZOTFuZnVVYUJBdTIyTk1kMmtDalNCSVdEYlhTV0VNQWlYcWRyZzRXU3FyWFhKcFlESC1DdDBBd29RamVIWGpjZzVoSmVZenRsVDh6UWRMTTJtR1dXcEh3M2xnby1vcW1nWnpxRWMzSDJRU2J3M25TVkJhSkbSAd4BQVVfeXFMT2U2Ni11dGM2LVhoaFk5Uy05a2dWWElJQlF4R0J2d05vdExLTW9CSmV3dnFPRS1nc1RYU0FGaDFsVFRJWmlBeWVQeGNuS2pZRndXdFI1VFBJeGZ2LWhBWUl5RmhITXFIampZSzNtUVBRVFRvcGwxRzJ6Y3c0TkxXa2pvRUdYWU9PSjNYQktkcXlZRWZxOUVDaDUxTFdyeW1qRlB5Vkh5NHA4dkZ3RV9WMF9BcGJ2bjdqLUNISHlmekZvVUZVcVZJYmxLd05SN0RlUEUzanlfS2MtQlJyOFF3?oc=5",
           "date": "2026-11-23T22:51:00.000Z",
@@ -1517,20 +1539,9 @@
           ],
           "titleKo": "러시아 통신사·방송, 리비아 해안서 러시아 군함 침몰 보도 외면",
           "tr": "claude"
-        },
-        {
-          "id": "meduza-7",
-          "title": "Al Jazeera: Russians, Libyans killed in explosion aboard Russian Navy corvette at Benghazi port",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNekk1UFFEUmJ4d1QzOFp6UlZkRDc3eUFVS09wNjd0RFBrOTBpcGZTUVN1N2NGbTY3cEtEcmJXdTJBQzViUWtBQjBRYzdVeVVnei1JZFYwenBBNWFVUkZJU0FHSXdnRGRMRE5sQXk2UXcwWnQtZUt1dHJuejEtOF9IRlgyby1qRzVFSGxLcHcyNExRM3JDYU5JaFQzNWNrckNnRVJKUmhDYmVmNy1KeHNKZ0VVUko5czNxaUpLa01WdTJkMU54WEREVU9R0gHPAUFVX3lxTE50aElVbXctMHVyeUhEc0RKemJWeG1kb1lLMHZBVmswVWN3Mk1iNkhaSFdndnRzSXFYWXR0SnduSXBlUGhfODRFYUVTZ21KVFR2SVlzRTlKcHpLWUFfY0NmUF9nWVFXOC1sMWVYbXNRemVSZ3JrTEZveUR1cjUyNHJGRWZVNEhFb3FCMHJFRzZrYjViaTJSV0xWelRQNmVKUmM2ZWJwQXpxR0ppdFppSWQ5ckcxdlhRMTFxaEVRVWNkeVZSSU1MYWI5aDFTdUxHOA?oc=5",
-          "date": "2026-11-23T10:09:00.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "알자지라: 벵가지 항구에서 러시아 해군 초계함 폭발로 러시아인·리비아인 사망",
-          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:15.938Z",
+      "fetchedAt": "2026-11-25T21:21:35.893Z",
       "status": "ok"
     },
     {
@@ -1569,6 +1580,29 @@
         },
         {
           "id": "kommersant-2",
+          "title": "Минцифры разработало концепцию российского аналога GitHub",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrMnl4S2Zabzg0ZkVFRTRYMTRGVEhLaUZFZjV6cEstcUt0bmFXVWhsTjNHNFN6QzNZUHVPX0owRFFyY2VVVzl5MjMzQU40Zw?oc=5",
+          "date": "2026-11-25T20:49:01.000Z",
+          "topics": [
+            "예산·재정"
+          ],
+          "titleKo": "디지털부, 러시아판 깃허브 개념 설계",
+          "tr": "claude"
+        },
+        {
+          "id": "kommersant-3",
+          "title": "Путин и Токаев посетят конференцию AI Journey",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXVDFieDBMQ2lBdEFqV1lESDFKblJzVktoTGNLcFBPOU9YRFpXUm1ZdUdVeXhVVVZhWm9Ra2dBZDVONFFPaGFDZzI1RUFTUQ?oc=5",
+          "date": "2026-11-25T11:49:38.000Z",
+          "topics": [
+            "AI·반도체",
+            "산업·시장"
+          ],
+          "titleKo": "푸틴·토커예프, AI 저니 콘퍼런스 참석",
+          "tr": "claude"
+        },
+        {
+          "id": "kommersant-4",
           "title": "ЕС ввел экспортные ограничения для 15 компаний из-за связи с российским ВПК",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tN2FqY2Z4NUdvYktQLV9MX2kwZHdjZnlTZ1N4UEk5MU5hU0RMVlQ4MGZLV0ZWcHdJZTByaEJkT1ExS25fYUMxbXZrVnpLUQ?oc=5",
           "date": "2026-11-25T11:42:45.000Z",
@@ -1579,7 +1613,7 @@
           "tr": "claude"
         },
         {
-          "id": "kommersant-3",
+          "id": "kommersant-5",
           "title": "Индия сократит импорт российской нефти до минимума с февраля",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45YUo3Nlo0VFgwblN5cDlKSVdLSXc0eHpNdXZScFozbXZENV9jeVdlT0hNSXVaWVFibG1lOE5ZVmRtTHZqcVVRcHN6YzRGQQ?oc=5",
           "date": "2026-11-25T09:56:11.000Z",
@@ -1591,30 +1625,19 @@
           "tr": "claude"
         },
         {
-          "id": "kommersant-4",
+          "id": "kommersant-6",
           "title": "Почти две трети участников рынка ЦОД в России столкнулись с нехваткой мощностей",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBPcXlub2lFSEw5RFZWNnk0V25iME1jQUwtOXNDdWdWYzdMRlNTMWdPNjdfb214OXdBSklCZElSTFROeERNbHU1a0VZQjZUZw?oc=5",
           "date": "2026-11-25T11:19:35.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "러시아 데이터 센터 시장 참여자의 거의 3분의 2가 용량 부족에 직면해 있습니다.",
-          "tr": "google"
+          "titleKo": "러시아 데이터센터 시장 참여자 3분의 2 가까이 \"용량 부족\" 직면",
+          "tr": "claude",
+          "titleKoAlt": "러시아 데이터 센터 시장 참여자의 거의 3분의 2가 용량 부족에 직면해 있습니다."
         },
         {
-          "id": "kommersant-5",
-          "title": "Бюджеты российских регионов исполнены с профицитом в 28,5 млрд рублей",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRQXp0ekpvdkJYYTc4Mk1hX0ZfMlBVbHRkSGFGZ1d5eG90UnBuQU1VUTFLX1lreWRrczFRMDNKU2NzUkZoTkEwS3J4WG9NUQ?oc=5",
-          "date": "2026-11-25T12:54:03.000Z",
-          "topics": [
-            "예산·재정",
-            "경제·물가"
-          ],
-          "titleKo": "러시아 지역의 예산은 285억 루블의 흑자로 집행되었습니다.",
-          "tr": "google"
-        },
-        {
-          "id": "kommersant-6",
+          "id": "kommersant-7",
           "title": "Путин назвал непростой ситуацию на российском рынке нефтепродуктов",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wMHlDM0V4SENZRlgwS1AzUHpLN2RDZUVyZlZJdU5wMVNRUkEwZVFHTnZPUXdFaTNVampPdkgxRnVBZXlOQ0QwRTRjWXl4QQ?oc=5",
           "date": "2026-11-24T16:01:06.000Z",
@@ -1626,7 +1649,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:16.048Z",
+      "fetchedAt": "2026-11-25T21:21:36.058Z",
       "status": "ok"
     },
     {
@@ -1668,6 +1691,18 @@
         },
         {
           "id": "reuters_ru-2",
+          "title": "Ukraine battles to keep lights on in Odesa as Russia strikes grid",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGJvOF9wRjhlNk1Kd1FkTTR0U0NOdVdIU2RJUVV3NG5KbEtraC1IcVNQUU1DWmlrZ1dxM0MxS1kzS3FvNGNPU3VmNGRBVERlYlNBbEJhbThVTmowZG04b3RYa20xcFRZa2hJU0c0X2Z4Vy1CRGJlOUs1enFNRUllNXJKdmFDNlhndVd4VEhmUzhBTjJoenFmN2R1RjhqUGhmN1hPTzBGYTA?oc=5",
+          "date": "2026-11-25T13:20:43.000Z",
+          "topics": [
+            "전쟁·휴전",
+            "외교·안보"
+          ],
+          "titleKo": "우크라이나 오데사, 러시아의 전력망 공습 속 정전 막기 사투",
+          "tr": "claude"
+        },
+        {
+          "id": "reuters_ru-3",
           "title": "Russian government official warns of Ukrainian drone attacks on utility infrastructure this winter",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjNMRXE5WTZCS3ZELXItUXNCbjVVTU5NeVFxNHNZdG1kYnRNSGs1dzRYVlY1TWE0UTBYem8yRTBoNEtoS21uQ1NTSjhJejNDYW5PUHQ3RDVaV2tRZTM0Q2FmY3JZZkhpYXRzUXdqUTc0WHZJNGhncUltbGpPcEFoOUdxNk1LeEtOV0xqT0ZvTnJGLUQzVURmekZneEdkcG1DLXlIWEh6ZGF3blpGVmlvNkN1LUI2QzB1X2xQeXdNaw?oc=5",
           "date": "2026-11-25T15:21:43.000Z",
@@ -1680,19 +1715,19 @@
           "tr": "claude"
         },
         {
-          "id": "reuters_ru-3",
-          "title": "Ukraine battles to keep lights on in Odesa as Russia strikes grid",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGJvOF9wRjhlNk1Kd1FkTTR0U0NOdVdIU2RJUVV3NG5KbEtraC1IcVNQUU1DWmlrZ1dxM0MxS1kzS3FvNGNPU3VmNGRBVERlYlNBbEJhbThVTmowZG04b3RYa20xcFRZa2hJU0c0X2Z4Vy1CRGJlOUs1enFNRUllNXJKdmFDNlhndVd4VEhmUzhBTjJoenFmN2R1RjhqUGhmN1hPTzBGYTA?oc=5",
-          "date": "2026-11-25T13:20:43.000Z",
+          "id": "reuters_ru-4",
+          "title": "Dozens of countries call on Russia to halt alleged use of riot agent in Ukraine war",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVFLRmpLV05rVWloZTZ2X1V3M3dsRVE2U1ZhZHloWElnNkpMN1hSanhjV0RzMnU2QnNqcmxpZmphVjhobS1PMG05NUx1cWh6MUVsbkdCd05OWE45MFhzS2gwRWYxNWVFLWZRdGNpdTdLbHN1YVNWSU5ITVlqVEt1RmpSOVpFZkk2dFRHRjkxa1pRQ1RIQkRrVjh3aVdmcFNEajJhYk96QnJaV1lWRk13?oc=5",
+          "date": "2026-11-25T19:09:43.000Z",
           "topics": [
             "전쟁·휴전",
             "외교·안보"
           ],
-          "titleKo": "우크라이나 오데사, 러시아의 전력망 공습 속 정전 막기 사투",
+          "titleKo": "수십 개국, 우크라이나전 폭동진압제 사용 의혹 중단 촉구 — 로이터·러시아",
           "tr": "claude"
         },
         {
-          "id": "reuters_ru-4",
+          "id": "reuters_ru-5",
           "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
           "date": "2026-11-25T05:16:00.000Z",
@@ -1704,7 +1739,21 @@
           "tr": "claude"
         },
         {
-          "id": "reuters_ru-5",
+          "id": "reuters_ru-6",
+          "title": "Ukrainian drones attacked industrial facilities in Russia's Syzran, authorities say",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbTlITFFXWWRkdlF3THc1WXhJTWxOWEJBSWhLdFZIWnN5WkR3UmRiVC1WX19hUk9FRG9BaFp0WmdpNEEtVlM2TG5NUDFRSGlyWldZSmF2MWstbDZiUS1ROGMydkdoRUV6UVBGMGFHVm9TSndYajcyejVIdW54VktMcVZ4YWNINXM1aHU1cmR4VFVUM3NxSFh5NnNrSFZuNWpCMHZSYkRvckFnMXRVME9BZGpCcjJIaDl2bjA4Q1NfN1VtNnF4Uk00Tk5sMHVxX1E?oc=5",
+          "date": "2026-11-25T09:51:46.000Z",
+          "topics": [
+            "전쟁·휴전",
+            "외교·안보",
+            "산업·시장"
+          ],
+          "titleKo": "우크라이나 드론, 러시아 시즈란의 산업 시설 공격… 당국 발표",
+          "tr": "claude",
+          "titleKoAlt": "우크라이나 드론이 러시아 시즈란의 산업 시설을 공격했다고 당국이 밝혔습니다."
+        },
+        {
+          "id": "reuters_ru-7",
           "title": "Russian attack damages Ukraine's energy and gas sites, cuts power in five regions",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhyeUxrcS1sWnpSWnJPa1JGcXM0VDJ1U2FDamw1U2JxTm9May1fN1FPYmI2UjFqcTA0dmsxejlwS1NwRGpwR2RqQnN3cVJWU0VTcERHTzlhOHpzVmp6QUcwRUtNVzJQQjhmSTdmQ3h4YnptankzQ0RzRzZWWkk5LUNOTWRVT3dYUjhwZnh1NktRVjFpTGVadE5qTFZTb0xBU0lKbTdpdno1RmZrbzJHSDJxSHl6TzI0WDJqVml3?oc=5",
           "date": "2026-11-25T13:02:14.000Z",
@@ -1716,37 +1765,9 @@
           ],
           "titleKo": "러시아의 공격으로 우크라이나의 에너지 및 가스 현장이 손상되고 5개 지역의 전력이 차단되었습니다.",
           "tr": "google"
-        },
-        {
-          "id": "reuters_ru-6",
-          "title": "Ukrainian drones attacked industrial facilities in Russia's Syzran, authorities say",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbTlITFFXWWRkdlF3THc1WXhJTWxOWEJBSWhLdFZIWnN5WkR3UmRiVC1WX19hUk9FRG9BaFp0WmdpNEEtVlM2TG5NUDFRSGlyWldZSmF2MWstbDZiUS1ROGMydkdoRUV6UVBGMGFHVm9TSndYajcyejVIdW54VktMcVZ4YWNINXM1aHU1cmR4VFVUM3NxSFh5NnNrSFZuNWpCMHZSYkRvckFnMXRVME9BZGpCcjJIaDl2bjA4Q1NfN1VtNnF4Uk00Tk5sMHVxX1E?oc=5",
-          "date": "2026-11-25T09:51:46.000Z",
-          "topics": [
-            "전쟁·휴전",
-            "외교·안보",
-            "산업·시장"
-          ],
-          "titleKo": "우크라이나 드론이 러시아 시즈란의 산업 시설을 공격했다고 당국이 밝혔습니다.",
-          "tr": "google"
-        },
-        {
-          "id": "reuters_ru-7",
-          "title": "Putin says Ukraine hits Russian oil plants despite Trump's requests, promises retaliation",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmpVNVoyQi1td29TalNHby02a0tSU1ZBMng2Y1BTemxZWkExU2VPLXdTeUpURUtrd1BremtnTG53eDhzeXlwMndrRWdNa1dDTVE5VExXLVpBY251X205UVhSU28xeDc2bjBfMFBiYU5ubGN6NU5YdTJlX1J5amtqaVNEX0VKb1dzaWhqaGNNazZXTkVpOWVBOVFQZXBlX0U1dGx3d1ZBdFptaXZJQmNuc2pFUTRncG9oRndTZTU2WUFIdDhqLUE?oc=5",
-          "date": "2026-11-24T19:41:02.000Z",
-          "topics": [
-            "전쟁·휴전",
-            "에너지·원유",
-            "정치·선거",
-            "외교·안보",
-            "산업·시장"
-          ],
-          "titleKo": "푸틴 \"트럼프 요청에도 우크라이나가 러시아 정유시설 공격…보복할 것\"",
-          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:16.102Z",
+      "fetchedAt": "2026-11-25T21:21:36.192Z",
       "status": "ok"
     },
     {
@@ -1787,18 +1808,6 @@
         },
         {
           "id": "bbc_ru-2",
-          "title": "Watch: How the Russia-Ukraine war tore my family apart",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SUp4aWdiU3pqSGtQQzFENGZLamgwdlVTSXlLemJDczlDdkdjZnVkTF9IWnBKQS1ZcWtRdWIyVVFwSGJrYkdjTWpPaG9qelNHLVN2aEx2a00?oc=5",
-          "date": "2026-11-25T13:27:36.000Z",
-          "topics": [
-            "전쟁·휴전",
-            "외교·안보"
-          ],
-          "titleKo": "영상: 러시아·우크라이나 전쟁이 우리 가족을 갈라놓은 과정",
-          "tr": "claude"
-        },
-        {
-          "id": "bbc_ru-3",
           "title": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qbHhRaVRPVzFQWmtWbS1Dc1RHSE9hSmJxVnhaR0tKREtLYXdicDBmTjZqU0lpUElRTnNjSFZGUmZhY1hVdFF2QzMxVFdJV0d6Y2xyZFdnbl8wUWs?oc=5",
           "date": "2026-11-24T17:39:32.000Z",
@@ -1810,7 +1819,7 @@
           "tr": "claude"
         },
         {
-          "id": "bbc_ru-4",
+          "id": "bbc_ru-3",
           "title": "South African court convicts Zimbabwean of trying to fight in Russia-Ukraine war",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0xsTzVtcGdvTV9nWTlqVVVhV2RIZUd3ZmlqcmxqVnBsQUxwNGk2a2Y0T0lsMXFTWkJXSmE2djE5X0FrVXdvUTV6Z2N0b2JRQTlmWVVjVFR3RVk?oc=5",
           "date": "2026-11-24T17:04:00.000Z",
@@ -1820,6 +1829,18 @@
             "외교·안보"
           ],
           "titleKo": "남아공 법원, 러시아·우크라이나 전쟁에 참전하려던 짐바브웨 국적자 유죄 선고",
+          "tr": "claude"
+        },
+        {
+          "id": "bbc_ru-4",
+          "title": "Watch: How the Russia-Ukraine war tore my family apart",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11SUp4aWdiU3pqSGtQQzFENGZLamgwdlVTSXlLemJDczlDdkdjZnVkTF9IWnBKQS1ZcWtRdWIyVVFwSGJrYkdjTWpPaG9qelNHLVN2aEx2a00?oc=5",
+          "date": "2026-11-25T13:27:36.000Z",
+          "topics": [
+            "전쟁·휴전",
+            "외교·안보"
+          ],
+          "titleKo": "영상: 러시아·우크라이나 전쟁이 우리 가족을 갈라놓은 과정",
           "tr": "claude"
         },
         {
@@ -1858,7 +1879,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:16.331Z",
+      "fetchedAt": "2026-11-25T21:21:36.254Z",
       "status": "ok"
     },
     {
@@ -1872,7 +1893,7 @@
         "color": "#b63835"
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:16.302Z",
+      "fetchedAt": "2026-11-25T21:21:36.320Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -1889,7 +1910,7 @@
         "color": "#b63835"
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:16.490Z",
+      "fetchedAt": "2026-11-25T21:21:36.798Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -1907,7 +1928,7 @@
         "economy": true
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:16.494Z",
+      "fetchedAt": "2026-11-25T21:21:36.590Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -1925,7 +1946,7 @@
         "economy": true
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:16.746Z",
+      "fetchedAt": "2026-11-25T21:21:36.648Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -1942,7 +1963,7 @@
         "color": "#17447c"
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:16.861Z",
+      "fetchedAt": "2026-11-25T21:21:36.759Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -1971,7 +1992,7 @@
           "tr": "original"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:16.996Z",
+      "fetchedAt": "2026-11-25T21:21:37.061Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -1989,7 +2010,7 @@
         "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:16.837Z",
+      "fetchedAt": "2026-11-25T21:21:37.725Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -2019,7 +2040,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:16.964Z",
+      "fetchedAt": "2026-11-25T21:21:36.933Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -2045,15 +2066,17 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "러시아 군용기, 한국 방공식별구역 진입…한국 정부 항의",
-          "tr": "claude"
+          "tr": "claude",
+          "titleKo": "러시아 군용기, 한국 방공식별구역 진입…한국 정부 항의"
         }
       ],
       "fetchedAt": "2026-11-25T19:57:17.134Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
-      }
+      },
+      "lastAttemptAt": "2026-11-25T21:21:37.921Z",
+      "error": "이번 수집에 실패해 마지막 성공본을 표시합니다."
     },
     {
       "source": {
@@ -2067,7 +2090,7 @@
         "titleMust": "south korea|south korean|seoul|samsung|hyundai|sk hynix"
       },
       "items": [],
-      "fetchedAt": "2026-11-25T19:57:17.078Z",
+      "fetchedAt": "2026-11-25T21:21:37.140Z",
       "status": "approved",
       "koreaReview": {
         "date": "2026-11-25"
@@ -2086,40 +2109,19 @@
       "items": [
         {
           "id": "asahi-0",
-          "title": "関文科相の問責の行方は「今国会、一番の山場」 60日ルールも浮上",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YSmZMRnRUbS1rV1BBQXZ5NUFyaGphSXlWQUpoc090aWQ4c09iVUJnYWRqQlg4TXQxRF9uNmEzQzVRMGo5VXl2TWRRSXZrUEpBUllrN1NseHA4MXpyWXdjYUhQMlRkclE?oc=5",
-          "date": "2026-11-25T11:14:25.000Z",
+          "title": "AI株安・消費低迷でも利上げ確率は高水準 日銀、12月の判断は？",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xZ1ZQRTRrQ0E0ZUNvZjFzanYxa0FCOFNqblUyekhvTzBZcklxMlJ1NXhPMThqVlRlck5TMzYwQmt5Tm41dkZZTHdTYVpkZ0xfX05mMUlwQWY5eDdmWEVLZlA0eUd6bDA?oc=5",
+          "date": "2026-11-25T07:16:02.000Z",
           "topics": [
-            "정치·선거"
+            "금리·물가",
+            "경제·물가"
           ],
-          "titleKo": "세키 문과상 문책 결의안 향방은 \"이번 국회 최대 고비\"…60일 규칙도 부상",
-          "tr": "claude"
+          "titleKo": "AI 주가 하락·소비 침체에도 금리 인상 확률 높아…일본은행, 12월 판단은?",
+          "tr": "claude",
+          "titleKoAlt": "AI 주안·소비 침체에서도 금리 인상 확률은 고수준 일은, 12월의 판단은?"
         },
         {
           "id": "asahi-1",
-          "title": "行動経済学で変わる子どもの勉強法（下）――ご褒美は逆効果？ 勉強を無理なく続ける仕組みと親の関わり方",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OVWFMWFFIeWp1bkUtVzhDeC1XdVZ1bTc0YVhQT19zXzRFVWpZdHNaNk43SlZoTGZ0dXJSdEloN2NwYWtBdUlqRFZBZG12Szh6LUNaVGxR?oc=5",
-          "date": "2026-11-24T22:38:11.000Z",
-          "topics": [
-            "경제·물가"
-          ],
-          "titleKo": "행동경제학으로 본 아이 공부법(하): 보상은 역효과? 무리 없이 공부를 지속하는 구조와 부모의 역할",
-          "tr": "claude"
-        },
-        {
-          "id": "asahi-2",
-          "title": "夫婦と子2人世帯で最大年27万円給付検討 消費減税後の支援金制度",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGOFZxNXlMUGRHMm5UY0Y1Q0t3MXl2YVBLazhLYjRsazN3azhFY3ptSWM2bzY2NTNtMXR0Z2ZmVEpPSi1Jc1RUaXEtZVRDa3NxYUh4OU1qeDNjSTNDQ1lDa09jWE5rRlU?oc=5",
-          "date": "2026-11-24T11:00:00.000Z",
-          "topics": [
-            "예산·재정",
-            "경제·물가"
-          ],
-          "titleKo": "부부와 자녀 2명 가구에 연 최대 27만 엔 지원 검토…소비세 인하 후 지원금 제도",
-          "tr": "claude"
-        },
-        {
-          "id": "asahi-3",
           "title": "米国、新関税の意向表明 日本や中国、EUなど14カ国・地域が対象 [トランプ関税]",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Pb0trNkJ6R2JlbVdWWE5od29CemQxMnhkdl9sZkJzNXVsR1FkMkpYWjZ1NEd3SzZ2WXhRbm5oeFV2bFl0eXhNWmxqS2hrZzM2NW1RRGg5cGJpalVtZHMzVHI3ZGVsN28?oc=5",
           "date": "2026-11-25T06:23:00.000Z",
@@ -2131,18 +2133,56 @@
           "tr": "claude"
         },
         {
-          "id": "asahi-4",
-          "title": "定数削減、識者4人全員が否定的 衆院特別委、自民などの推薦者も",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oRGVpMkVsSXByOEY4dGJtUmYydjZGUHJ5MHJqLXd3YmhPRmtkNkloTmZCMEpUaVZjb1F4Y1lVSm5NUV9seWYzbWE2cU15QWk5Zjl1Z0hXeDg1ZXBzdjBtZ3dpTTNFVUU?oc=5",
-          "date": "2026-11-24T11:50:00.000Z",
+          "id": "asahi-2",
+          "title": "政府システムへ相次ぐ不正アクセス デジタル相「重く受け止める」 [情報漏洩・個人情報流出の最新ニュース]",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91UEVDU21Lcml6WEVKVjhpaXhaNzZCTW1HbVlfTmRPUXhpdGFVem51ekJHMTlkLTN5VGJKRzRyemtqWHQtdFd4THUzSFk1X250NGJGR1QzV19jVVMxUi10aTgtbDNpLTA?oc=5",
+          "date": "2026-11-24T02:09:49.000Z",
           "topics": [
-            "정치·선거"
+            "정치·선거",
+            "산업·시장"
           ],
-          "titleKo": "중의원 정수 削減에 식자 4명 전원 부정적 의견…자민당 추천 인사도 포함",
+          "titleKo": "정부 시스템 잇따른 부정 접속…디지털상 \"무겁게 받아들인다\" [정보 유출·개인정보 유출 최신 뉴스]",
           "tr": "claude"
         },
         {
+          "id": "asahi-3",
+          "title": "関文科相の問責の行方は「今国会、一番の山場」 60日ルールも浮上",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YSmZMRnRUbS1rV1BBQXZ5NUFyaGphSXlWQUpoc090aWQ4c09iVUJnYWRqQlg4TXQxRF9uNmEzQzVRMGo5VXl2TWRRSXZrUEpBUllrN1NseHA4MXpyWXdjYUhQMlRkclE?oc=5",
+          "date": "2026-11-25T11:14:25.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "세키 문과상 문책 결의안 향방은 \"이번 국회 최대 고비\"…60일 규칙도 부상",
+          "tr": "claude"
+        },
+        {
+          "id": "asahi-4",
+          "title": "消費の持ち直し「足踏み」 政府の景気判断、約3年ぶり下方修正",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90OGNpY2FIc2JKdGt2Y0c2VUtnSmh1RUJNdXlPbFY1ZUpyZ1BFLUpsRVZFOG1lZ3g0U0JBU0xqREJvXzRTakdlSnBhcFlYamg2NmhLRTJEUS04a21KNk40REhOcWFUZFE?oc=5",
+          "date": "2026-11-24T08:54:06.000Z",
+          "topics": [
+            "정치·선거",
+            "경제·물가"
+          ],
+          "titleKo": "소비 회복 \"주춤\"…정부, 약 3년 만에 경기 판단 하향 수정",
+          "tr": "claude",
+          "titleKoAlt": "소비 회복 '부진'; 정부 경제전망, 3년 만에 하향조정"
+        },
+        {
           "id": "asahi-5",
+          "title": "関西経済同友会、次期代表幹事に三井住友銀行の道岡俊浩副頭取",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1DQWFIaWFVcTkyb3AweF9PaU5sN0RjZXNrb0Y2aHB5ZEZiTFI5bW5HVFJTUmV3ZFowUTRrNDVzYTdXaWZWSFZjRjVxUnBxVTczN3hOdHc4bGZ2TFdMQkNrallmempqdXc?oc=5",
+          "date": "2026-11-25T05:03:08.000Z",
+          "topics": [
+            "경제·물가",
+            "산업·시장"
+          ],
+          "titleKo": "간사이경제동우회 차기 대표간사에 미쓰이스미토모은행 미치오카 도시히로 부행장",
+          "tr": "claude",
+          "titleKoAlt": "간사이 경제 동우회, 차기 대표 간사에 미쓰이 스미토모 은행의 미치오카 슌히로 부두"
+        },
+        {
+          "id": "asahi-6",
           "title": "「日本に被害生じさせない」 EU域内産業保護法案で、次期大使見解",
           "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtN0N6OWxOczdNU2dDUmJGVDJXNkQyYTdneGlaRjhFQWtLRVV4SnJrdHZsLUhyVmI0QzFvUFhPYkUxLVRuSkd1M1ZVT1FIdk5sQ1hxWlc1b2ZNSkFtNGZLRmJhZjdpLWc?oc=5",
           "date": "2026-11-25T12:45:00.000Z",
@@ -2150,35 +2190,23 @@
             "정치·선거",
             "산업·시장"
           ],
-          "titleKo": "「일본에 피해 발생시키지 않는다」 EU역내 산업보호법안에서 차기 대사견해",
-          "tr": "google"
-        },
-        {
-          "id": "asahi-6",
-          "title": "AI株安・消費低迷でも利上げ確率は高水準 日銀、12月の判断は？",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xZ1ZQRTRrQ0E0ZUNvZjFzanYxa0FCOFNqblUyekhvTzBZcklxMlJ1NXhPMThqVlRlck5TMzYwQmt5Tm41dkZZTHdTYVpkZ0xfX05mMUlwQWY5eDdmWEVLZlA0eUd6bDA?oc=5",
-          "date": "2026-11-25T07:16:02.000Z",
-          "topics": [
-            "금리·물가",
-            "경제·물가"
-          ],
-          "titleKo": "AI 주안·소비 침체에서도 금리 인상 확률은 고수준 일은, 12월의 판단은?",
-          "tr": "google"
+          "titleKo": "\"일본에 피해 주지 않겠다\" — EU 역내 산업보호법안 두고 차기 대사 견해",
+          "tr": "claude",
+          "titleKoAlt": "「일본에 피해 발생시키지 않는다」 EU역내 산업보호법안에서 차기 대사견해"
         },
         {
           "id": "asahi-7",
-          "title": "米政権、日中やEUなど14カ国・地域に新関税案 日本は最大15% [トランプ関税]",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNEdLajJkSFpuejVhcUgzc0ktM0YwNmRQTUhIR2RtZW5Fc044RnB2MVhZdlZLWllYNm5Gb0tacFVUMGl5MFRFR0xhQzg5RlU2aFVESGFZSzhEVFJ1QWxDV2VibFFLNkU?oc=5",
-          "date": "2026-11-25T15:56:21.000Z",
+          "title": "政府、核禁条約再検討会議のオブザーバー参加を見送り 茂木外相表明 [高市早苗首相 自民党総裁]",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40M3dqNjRZSjRCNENWTXNldnFpQ2R5dGNmUzR3Y2JRc3pNWk16dXRuSHhZUGJsYXN2enZWWEJ6X3otWTVuelFqdE9zTzJNUkNuTV9vOVh4Y1drR0ltSkRjNVZNeXVJb2s?oc=5",
+          "date": "2026-11-24T10:18:57.000Z",
           "topics": [
-            "외교·안보",
-            "산업·시장"
+            "정치·선거"
           ],
-          "titleKo": "미국 정권, 주간이나 EU 등 14개국·지역에 신관세안 일본은 최대 15% [트럼프 관세]",
-          "tr": "google"
+          "titleKo": "정부, 핵무기금지조약 재검토회의 옵서버 참석 見送り… 모테기 외무상 발표 [다카이치 사나에 총리·자민당 총재]",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.346Z",
+      "fetchedAt": "2026-11-25T21:21:37.481Z",
       "status": "ok"
     },
     {
@@ -2291,7 +2319,7 @@
           "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.420Z",
+      "fetchedAt": "2026-11-25T21:21:37.585Z",
       "status": "ok"
     },
     {
@@ -2353,17 +2381,40 @@
         },
         {
           "id": "yomiuri-4",
+          "title": "【本庄東】日本の文化・伝統を理解することが国際理解教育の基礎になる＝中学受験特集",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVklSUlh0U3Q0UFpFY2dZN1Rib00tdHdZQ0F0Q2t3d1hNc1B6bU9NcWQ2a0V5OU40U2Y3MkFDQXE3YjVLdm40eTNQdEJubEZvWnJLQkxJUEVQUFRLQngxX1dEZmVWQUVZYjJhenlRMXRjZ1VZcU4xbTNkcVNzeHhIYkZYajBsWDk3X1E?oc=5",
+          "date": "2026-11-25T20:01:00.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "【혼조 히가시】일본 문화·전통 이해가 국제이해교육의 기초 ＝ 중학 입시 특집",
+          "tr": "claude"
+        },
+        {
+          "id": "yomiuri-5",
+          "title": "「支援金」対象者の上限は「平均年収並み」…２５年は４８７万円・政府、野党の主張取り入れ対象拡大",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CVmtKRXFqZHU3QnNCeVRWS2Fibmo2LURIekJNcmxQZDhOaDF3ZzVWTGRhSDYzdXJLM1hUZDBFSmJOWG9LVHBCdVNrR290aUxEbHBXenVkSHBJb2xMUmVRVkpYVks?oc=5",
+          "date": "2026-11-25T20:00:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "'지원금' 대상자 상한은 '평균 연봉 수준'…2025년 487만 엔, 정부 야당 주장 반영해 대상 확대",
+          "tr": "claude"
+        },
+        {
+          "id": "yomiuri-6",
           "title": "米国で生産し「逆輸入」するトヨタ「カムリ」、３年ぶりに日本国内で発売へ…価格は税込み４３０万円から",
           "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9CczlrczZqUFl5R3l1cmRTby1zenhHMTBpalhSUXl0Vk1IcFJfVjB6STJ0LWo2Q01XSGRVN1RmMVo1OUJ4aFdsRHlCY01oS3ZuamlDai0zaDI4ZGgzaFktS2xBOGM?oc=5",
           "date": "2026-11-25T09:28:00.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "미국에서 생산해 「역수입」하는 도요타 「캠리」, 3년만에 일본 국내에서 발매에… 가격은 부가세 포함 430만엔으로부터",
-          "tr": "google"
+          "titleKo": "도요타, 미국 생산 '역수입' 캠리 3년 만에 국내 출시…세금 포함 430만 엔부터",
+          "tr": "claude",
+          "titleKoAlt": "미국에서 생산해 「역수입」하는 도요타 「캠리」, 3년만에 일본 국내에서 발매에… 가격은 부가세 포함 430만엔으로부터"
         },
         {
-          "id": "yomiuri-5",
+          "id": "yomiuri-7",
           "title": "インドは世界経済の「最後のフロンティア」、日本の製造業企業の有望投資先で４年連続１位…安川電機など生産強化",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xUGxpdEUxRjBFR3g5ODlCek51bWFGeVN6bWVDNzZYY01vUnp6cE52SkxPVDJHcHhrSFVjeVQ4bXdsVFNHUmlKbnAyQkR5eXZES2lhLTNrMXlRWVBsYTl2azItcjRiQlNyakdFZkdlaDRDUQ?oc=5",
           "date": "2026-11-25T02:05:00.000Z",
@@ -2373,33 +2424,9 @@
           ],
           "titleKo": "인도는 세계 경제의 '마지막 프론티어', 일본 제조업 기업의 유망투자처로 4년 연속 1위… 야스카와 전기 등 생산 강화",
           "tr": "google"
-        },
-        {
-          "id": "yomiuri-6",
-          "title": "関西経済同友会の次期代表幹事に三井住友銀行の道岡俊浩副頭取が就任へ…同行の在阪トップ",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5weHNzU0NyUWcwV1l4UXBpYlJocXdMTDNfZDJWVnAtUlZYc1RHNU13UzNnX0hUbGxIbk1ibTVWNVJ2T3ZKUTFPWnJtWDZ0emVkTVdLbEl4Q012aXotT2dxb2JvMWI?oc=5",
-          "date": "2026-11-25T03:30:00.000Z",
-          "topics": [
-            "경제·물가",
-            "산업·시장"
-          ],
-          "titleKo": "간사이 경제 동우회의 차기 대표 간사에 미쓰이 스미토모 은행의 미치오카 슌히로 부두취가 취임에… 동행의 재사카 톱",
-          "tr": "google"
-        },
-        {
-          "id": "yomiuri-7",
-          "title": "インドで第一交通産業の「日本流」ハイヤー急拡大、特徴は…車間距離とる・むやみにクラクション鳴らさない",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VVElLZ2xwcUFLRmF1cUpGRVlmT1pXNTgyVnZXdHpKTWh4LWJTUUVqMEx0QTBBbzJqMVlYREVoZE0zOU9SWVhJVmotbl9IM2NHbkF4eE1abVR2dURDUU1vQi1RYWpvLTJlcU94NEZWbGdYQQ?oc=5",
-          "date": "2026-11-25T01:01:00.000Z",
-          "topics": [
-            "산업·시장",
-            "사회·생활"
-          ],
-          "titleKo": "인도에서 제일교통산업의 「일본류」하이어 급확대, 특징은…",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.516Z",
+      "fetchedAt": "2026-11-25T21:21:38.044Z",
       "status": "ok"
     },
     {
@@ -2456,8 +2483,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "Bizom, SquadStack.ai와 파트너십을 맺고 인도 Kirana 매장에 음성 AI 주문 제공",
-          "tr": "google"
+          "titleKo": "Bizom, SquadStack.ai와 제휴…인도 동네 식료품점에 음성 AI 주문 도입",
+          "tr": "claude",
+          "titleKoAlt": "Bizom, SquadStack.ai와 파트너십을 맺고 인도 Kirana 매장에 음성 AI 주문 제공"
         },
         {
           "id": "wire-4",
@@ -2491,8 +2519,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "혁신에서 시장까지: SRMIST, SHREEVARMA 박사에게 특허받은 폴리허브 기술 라이선스 제공 Wellness",
-          "tr": "google"
+          "titleKo": "SRMIST, 특허 받은 폴리허벌 기술 Dr. SHREEVARMAs 웰니스에 라이선스 이전",
+          "tr": "claude",
+          "titleKoAlt": "혁신에서 시장까지: SRMIST, SHREEVARMA 박사에게 특허받은 폴리허브 기술 라이선스 제공 Wellness"
         },
         {
           "id": "wire-7",
@@ -2506,7 +2535,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.556Z",
+      "fetchedAt": "2026-11-25T21:21:38.049Z",
       "status": "ok"
     },
     {
@@ -2575,8 +2604,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "'인도 예술 및 문화계의 자랑스러운 순간': 인도관, 베니스 미술 비엔날레 최고의 국립관 – 방문자 라이온상 수상",
-          "tr": "google"
+          "titleKo": "\"인도 예술·문화계의 자랑스러운 순간\"… 인도관, 베네치아 비엔날레 최우수 국가관 수상",
+          "tr": "claude",
+          "titleKoAlt": "'인도 예술 및 문화계의 자랑스러운 순간': 인도관, 베니스 미술 비엔날레 최고의 국립관 – 방문자 라이온상 수상"
         },
         {
           "id": "republic-5",
@@ -2587,8 +2617,9 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "인도-조지아, 연결성 및 에너지 분야 협력 확대 방안 논의",
-          "tr": "google"
+          "titleKo": "인도·조지아, 연결성·에너지 협력 확대 방안 논의",
+          "tr": "claude",
+          "titleKoAlt": "인도-조지아, 연결성 및 에너지 분야 협력 확대 방안 논의"
         },
         {
           "id": "republic-6",
@@ -2598,8 +2629,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "Shahnaz Husain, 델리 무역 박람회 2026에서 새로 출시된 7단계 페이셜 키트 공개, Sparks Fan Frenzy",
-          "tr": "google"
+          "titleKo": "샤흐나즈 후사인, 델리 무역박람회 2026서 7단계 페이셜 키트 공개…팬 열광",
+          "tr": "claude",
+          "titleKoAlt": "Shahnaz Husain, 델리 무역 박람회 2026에서 새로 출시된 7단계 페이셜 키트 공개, Sparks Fan Frenzy"
         },
         {
           "id": "republic-7",
@@ -2614,7 +2646,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.726Z",
+      "fetchedAt": "2026-11-25T21:21:38.411Z",
       "status": "ok"
     },
     {
@@ -2648,42 +2680,44 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "인도의 제약 수출은 FY27에 330억 달러를 넘을 것으로 예상됩니다: Pharmexcil DG",
-          "tr": "google"
+          "titleKo": "인도 제약 수출, 2026~27 회계연도 330억 달러 넘을 전망 — 파마엑실 사무총장",
+          "tr": "claude",
+          "titleKoAlt": "인도의 제약 수출은 FY27에 330억 달러를 넘을 것으로 예상됩니다: Pharmexcil DG"
         },
         {
           "id": "et-2",
-          "title": "BASF-IMCD partnership highlights growth opportunities for India’s specialty chemicals distribution sector",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdzVpaDIwcHdpOGxNeUZVd0FhYWdhMEtwVzdKcUUyN3VCQmU1Ulh5ejFralFKcTJMMDhSa2NGYkh3UXpjOGVDT19tSVBqZ0RZV0hEbDZVMXBOeUtVUDhmYzFrV3hnU2VQN29WYUczVG5jTU5IV2s5WndVZjYxOU9vRmNMZV90dFdGbTg1dVhvQjNuMFdMSjFKZWlIdU9Xay1TeXdWaUZBOFZkUmVReHlyaUdMbjlRbTJHRllVVVdMSFI0UEFMRzN4M2NmaHdCc0VPelN6TG9VaWo0aDVaVkZWa015SFBqcFNSSVdVbWZzbUEwOWtoVVk4UmdpekJwVkJZQmVQTXp4NC10UUNCN2d6TFR2Q1B4NnEw0gGYAkFVX3lxTE53NWloMjBwd2k4bE15RlV3QWFhZ2EwS3BXN0pxRTI3dUJCZTVSWHl6MWtqUUpxMkwwOFJrY0ZiSHdRemM4ZUNPX21JUGpnRFlXSERsNlUxcE55S1VQOGZjMWtXeGdTZVA3b1ZhRzNUbmNNTkhXazlad1VmNjE5T29GY0xlX3R0V0ZtODV1WG9CM24wV0xKMUplaUh1T1drLVN5d1ZpRkE4VmRSZVF4eXJpR0xuOVFtMkdGWVVVV0xIUjRQQUxHM3gzY2Zod0JzRU96U3pMb1VpajRoNVpWRlZrTXlIUGpwU1JJV1VtZnNtQTA5a2hVWThSZ2l6QnBWQllCZVBNeng0LXRRQ0I3Z3pMVHZDUHg2cTA?oc=5",
-          "date": "2026-11-23T09:22:14.000Z",
-          "topics": [
-            "경제·물가",
-            "산업·시장"
-          ],
-          "titleKo": "BASF-IMCD 제휴, 인도 특수화학 유통 분야의 성장 기회 부각",
-          "tr": "claude"
-        },
-        {
-          "id": "et-3",
           "title": "ABNAH bets on talent, technology and experience to scale India’s evolving dining-out market",
           "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUXNlSlZBSkpoTXFqTl9jejBNWDJjTW1oSGtwV0ZneEJNeUZ0bEtadW1lLUdRbmZ1azRXa08xZS03V3Z4NF9FVldyaERuaWxYZ0puN0xoUTEyVkRHd1V3ZWp4dk9XOXg5ZE5HQnZ5U0RBQ3pEbWVILW5sUkhVYzNoOHdXZldlWTV3NU4wYXJYNUxJSXp2aHYyT211NVhFcnlsZmVEZTVtVFZsUTgtLWFzYko1THBfU2c4NmVfMW9UY21UX0Y1OTVVU3VnVm4tWlhBdENSZ1d6azVxOGQ0WTdOOWp0MFRlY0c0S0VrTUZYYmxVSEU2bGFNatIB_gFBVV95cUxQWU13VFV5UjdnSENTRVc1NEtfMUJEeTBweEV5Z2Y2NWloMFpPWGFYS1FHa0w5S00xQ01oTUtpaVRGeEZ1aW5RWVlLcmQ3bkZWbW4zczE0NlZvbVJ1aEE1bDFSQ1FTZkc1elI5dlNDU0Y1bFJUdDRWenZrMHJRekdNQ29idmtOSExRc1VhQi1PTG50TEdWSy1zVzVNVWFzdUxFa1dIb2w5aVRXVDNyNUZFNzlaRENvdS1Vekc1akc4MDVZblhIU0lKRlJYVHFRaFdaMnJLRkhJY3B5NjBuZUlERG5ubEcyTUhlM3owVUpueGxYRTdSZ3dRbTh5OVViQQ?oc=5",
           "date": "2026-11-24T20:15:10.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "ABNAH는 진화하는 인도 외식 시장을 확장하기 위해 재능, 기술 및 경험에 투자합니다.",
-          "tr": "google"
+          "titleKo": "ABNAH, 인재·기술·경험으로 인도 외식 시장 확대 나서",
+          "tr": "claude",
+          "titleKoAlt": "ABNAH는 진화하는 인도 외식 시장을 확장하기 위해 재능, 기술 및 경험에 투자합니다."
         },
         {
-          "id": "et-4",
+          "id": "et-3",
           "title": "India-EU FTA to boost chemical industry: German investments could strengthen India's export potential",
           "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPMl9HWjVwUThnUEsyQmhFUW5LYmRXWUZRT1JPMDRhaU84WUNQTXdOajg3cE16eHh3R2xvZVVHSU1oRlVaM2R2NTRfSmJSRlIyMU5yT3EzalphMGNGdDVGSEtUMWRpWHRSVklHWF9uWlFsTmxPUXVBRUc0NjQ3V3VDLW5Vd0VTbHR6WmMya3JOaE5rNjlWVHFpbEhxWnh4Q2djUWNQbWNBaEZCbF9fWmFFSjNKdkg2U0JUS0ZvOVBTT2hacDh6b0NzeFZUZmVMUUVoNzNBMGhwa2o2RDZGdkVESEMwTVhpbG1TRnhmUVJLdG1jRzd5dU5oSVhrWGFNZXZWX3o2aFJoZTBzSGdjNkHSAZMCQVVfeXFMTmNZUWQwbk4zWGRueHpzY1phUks1YjE4ZjR4ZWVYem1jREtZQ1JzSWRrcmljLUQyRi1TdWs4SWpHQlgzVFJrRTRycnpYYkRhdEp5QmdVN0N1Zl91V3k2YzhMUGJNaFZuTVllSmhPTWRvemRLa196akZzdl9nVVhDYVZfTl9VQ09iT1BNRE5KT0dpNHlsNmFDTEg3RmFfZ2tTeGtkV19jMlp1NEh6X2FkclJod3p4UmhYS1I4SW1yWm8wWkh3N1J5OGdlNnAwakV1bHRjQUZkbGo2bk1ZZGd6eEVpaW83WUt1MGRTNkVDS2dEMUlnWkFxbVZCRjZxcUFmbjVjNGp1bE5tbF95aFhSNGNlVW8?oc=5",
           "date": "2026-11-25T10:49:29.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "화학 산업을 활성화하기 위한 인도-EU FTA: 독일의 투자로 인도의 수출 잠재력이 강화될 수 있음",
-          "tr": "google"
+          "titleKo": "인도-EU 자유무역협정, 화학 산업 촉진 기대…독일 투자가 인도 수출 잠재력 키울 수 있어",
+          "tr": "claude",
+          "titleKoAlt": "화학 산업을 활성화하기 위한 인도-EU FTA: 독일의 투자로 인도의 수출 잠재력이 강화될 수 있음"
+        },
+        {
+          "id": "et-4",
+          "title": "Birla Carbon’s Thailand expansion strengthens India’s global chemical industry presence",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWE1xb3pwRnFtT2VBRDRvM1ItTFctRlMxOEtSSXRJWTFKMFA4NGkxcERUMDNGclR0WUk5Q2dNbEo0di1GWng0QVFKMWZZUTZvclRnY0xjcnRtQjBOM2tmaUZQZktZbHJIQWxELXY2Y3dMcW5heVkyZVhlTllWRmlhMEp1bTRlWE5jeUh3R2VWMVdHY2VZLVhKLVNkVDNnRjB4WFU5MUcxNTNZc1U2VGFkb3Q3UmlFRUl2czdUcFM2R09QYThvTEdvQ1VzZzZXemRUNEJtV1ZSOWFQX0JueDFfeFZRVUpPcWhyeXFoeWF5d1h0OFBYWkJETzNsZ9IBgAJBVV95cUxPNnl2TWxwOExuNUR5UjFBQWoxWGN1cUlDeER3TU00MmhwVkVhTlFoc3ljMlJJOUZPN3BJUE1FWFlIWHA2aS1yRlp5eTZBZklVbzhhdm9VOW1jM2kzSjJCTVlBMFVjSkRiQTNRY3pVQnVfYm5HWjhUMzFVeVhjeFRvdWZZaDlLZmR4OTJGX2VzYlFaYl8yQjY1ZWJTQVJ5ZDB3MFhTODVKbXo5RS03bEZXby05bGNwVFhDaGFzczEybWZqOGNOWDluRnFHSW1nS3NDY0djM25zdm1XZlpaQWZBSEJpclFnVWI4SWtpZ3Z6UEtIMWUtT0EteFJxcHEzckRM?oc=5",
+          "date": "2026-11-24T02:00:29.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "비를라 카본 태국 확장…인도 화학산업 글로벌 입지 강화",
+          "tr": "claude"
         },
         {
           "id": "et-5",
@@ -2693,8 +2727,9 @@
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "Odisha CM은 Paradip Port가 주요 산업 허브로 부상할 것이라고 밝혔습니다.",
-          "tr": "google"
+          "titleKo": "오디샤 주총리 \"파라딥항, 주요 산업 거점으로 부상할 것\"",
+          "tr": "claude",
+          "titleKoAlt": "Odisha CM은 Paradip Port가 주요 산업 허브로 부상할 것이라고 밝혔습니다."
         },
         {
           "id": "et-6",
@@ -2705,8 +2740,9 @@
             "경제·물가",
             "산업·시장"
           ],
-          "titleKo": "인도의 수출 붐: FTA가 아닌 국내 제조업이 성장을 주도하고 있습니다.",
-          "tr": "google"
+          "titleKo": "인도 수출 붐, FTA가 아닌 국내 제조업이 성장 견인",
+          "tr": "claude",
+          "titleKoAlt": "인도의 수출 붐: FTA가 아닌 국내 제조업이 성장을 주도하고 있습니다."
         },
         {
           "id": "et-7",
@@ -2721,7 +2757,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.906Z",
+      "fetchedAt": "2026-11-25T21:21:38.335Z",
       "status": "ok"
     },
     {
@@ -2794,17 +2830,29 @@
         },
         {
           "id": "hindu-5",
+          "title": "World Chess championship: Gukesh, Sindarov sign peace treaty in quick time",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVmdjSUQwN2NlZnBQclBIcW5QMUJnSjQxZnRrd05Jd0EwOXJIdFlRS1c1RFpreVBWaWRGNDBVVDlaQnQzWHJkVTcwX3FCSklxYi1BOExQeWdQQXlJVHRmY3F3VzB4QmJHcE16S3pGeUwxM2xvb0R0bFFFU0RUa25YMWRMSGhSM21EcEN3a2tyVDBxMjRDUWFWNHZ0RGYzT01HZ3lqejQ1UTdvN1hUdk9EU3JqeENibkJvS3F0U2lON2jSAccBQVVfeXFMTllPR3hWelVZdUhvd2c2UkoxTGFMYzBudTBzelFWM3l5YnJaWm9ZV3E0SDVtYW83VTQtcGJPcTdqVm03WjRNYWhFNVpHdFR1ZkNNYjhob01rUno4aHhIZkxrWURiWlNONG51cmxtWVhVcmU1VnJkMHNHaS11QklWcU1wN0hfM1A3U3dOWkhYNDlIbVNBeTJHRHhaOXVveEQwM0FFR2ZRczV6VGdtN3NObkpHdzRmUGo1MWh5QkY4NU9fWmcyVjRCUQ?oc=5",
+          "date": "2026-11-25T18:47:23.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "세계 체스 챔피언전: 구케시·싱다로프, 빠른 속도로 평화 협정 체결",
+          "tr": "claude"
+        },
+        {
+          "id": "hindu-6",
           "title": "Who pays for climate change is a federal question",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRXhOUmVJUUppWmRnTEZYanBITFRGaEhjWnR2X2xacW9fOWpRWTFaaVZFNDZWSEhKNUp0WmMwUUMwVGVIMEJfM1EzbWNJR1E5R3RjQU1qVXZ1NEpvall4Z3FiT2xBSi1TWGR5OTlCLURPWDFaWTV5UXk5dWpnVU9yOC1vS21LSjNHS2R6ZjhNbUxCTV96S3FxNFVYbVBMSjFITkdaOWlEWEZBVGvSAbIBQVVfeXFMUEhzZ1VuMnp1Z2k4NXBFTzRUNzlyczdHX1lhNVM1MmxTN2UzS1RRcEZEY3VISE1BaWVpRVVFVWlaaTNmcU5mRHJwTW5tdllGQXVDejN4cFNJSlVqWnN2dThmcFBVMWloZ2F5X0NqOURLeFNJcFlrVjh5Vk1pMF9DcDE3TktScHFwSTJBb3JLQ0N3NjEtYmtMNXBCRXQtMlVsT0JHVVdya3hmWkt3OW5ObEx0UQ?oc=5",
           "date": "2026-11-24T18:46:00.000Z",
           "topics": [
             "사회·생활"
           ],
-          "titleKo": "기후 변화에 대한 비용을 누가 지불하는가는 연방 정부의 질문입니다",
-          "tr": "google"
+          "titleKo": "기후변화 비용 부담 누가 지나…연방 차원의 문제로 떠올라",
+          "tr": "claude",
+          "titleKoAlt": "기후 변화에 대한 비용을 누가 지불하는가는 연방 정부의 질문입니다"
         },
         {
-          "id": "hindu-6",
+          "id": "hindu-7",
           "title": "Price rise, KSRTC fare hike trigger BJP protests in Mysuru",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3RCWmVJZkx3RXJBTk10V2lwY0RSZFJmeFA1YnN3SWNJM0g5LWJFS1BVU0hXaTE4TU5kZWJDRzNGZHdVeXhMSW1VdGdCWHNhRnhCU2F2Um5wcktZampJMXM3cGYxLVMtVFJkMmFQUlcyNWFkaUJqc3BkM29nN1hfOTU5RF8yNGdCVTY1Ul9IMnA5c3ViS041Uy1vbENDRHI2TGpUbTdobURNLTdNaHdLQVNFYVMzLUFaQXdEdG9KQzhBRUxE0gHLAUFVX3lxTFByUFFaalpLeDY3RXZnVXlQM0thcmVIczdiWVpLMm5uRlFfSEM4UEJ4SjNBQXJvVDFnb2JobFhZemNPTmhBNEZLR0pUT2dWenVybDN3ZjhTX1FrZWFZaDNjNHIxSThYcFpNY2Y4aHlYVHFNR3JqYzdkZ2kwTlhZMFhZT3RKSG9JOVVEYld2Skc5SUdmU0FUTG1HbDViNmNtcldnVzFpOS1lcDNtdGxJSDlEX0Q2clI2WW9jdU5PVDIyR243eG1ZazBrUHA4?oc=5",
           "date": "2026-11-25T14:57:12.000Z",
@@ -2814,21 +2862,9 @@
           ],
           "titleKo": "가격 인상, KSRTC 요금 인상으로 인해 마이소루에서 BJP 시위가 발생함",
           "tr": "google"
-        },
-        {
-          "id": "hindu-7",
-          "title": "APSCHE to hold 10 regional workshops on All-India Survey on Higher Education data",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVkRZZmczbmF6RTNSUmgwREdQVWJBY1o2YVQyaEczLWRwWHZWVmNwQXlzeEczTzNVSDgxNDZGU2xUbUxqSXczQWpXczBRNnY5UEo0ZjJkd2lqRmNiQU5oU3JKRG9nU0ZYUHF6NjE4bnVrQmhKWFRJSkp4SWhHSC01NE1SdjJ1VWsyN2loQW8zTHFSbXBCZC0xdURIZTVoUTNOYk04bzlkVTA1bjRYWW5aMGJqbXAyMmhnTmlmejV5aTJKa25EdWVMel9pRVFpWUZKV2JHWE0tWTk1SF9taXp5a0dndVRFSG95RDdJ0gHyAUFVX3lxTE1VcHN5X0R3RjVqZlVyalFkVU1vRE5Rb3JRbzZPSE1EM2g2bnZ3RXhhOXVCczVhYllHeU1ZdG9IRlRsT0RQTlFfQnpmdGh0UUZSZ3pITG5qMEtFZzBSZ05pdDZxbWFWNEdWQkw3WUdjNHNtaTdGSUdZdFN2cTJBS0tFeHQ5S1dYUngwV2ZFdFFQajVBZS1QRGVXdDhud2w4YUwxQjROOS1ydFhXX29XcUxmc1VaUlBmMU82VzYzRkFiS0RjX2RHckpSUG0zTzlKaDFCRFZyeF9SbUtmRGFDSkprcWhOcktRbEJPSGVTSTV5YzZ3?oc=5",
-          "date": "2026-11-24T10:46:23.000Z",
-          "topics": [
-            "사회·생활"
-          ],
-          "titleKo": "APSCHE, 전국고등교육조사(AISHE) 데이터 관련 지역 워크숍 10회 개최",
-          "tr": "claude",
-          "titleKoAlt": "APSCHE, 고등 교육 데이터에 대한 전인도 조사에 대한 10개의 지역 워크숍 개최"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:17.959Z",
+      "fetchedAt": "2026-11-25T21:21:38.679Z",
       "status": "ok"
     },
     {
@@ -2844,6 +2880,17 @@
       "items": [
         {
           "id": "jagran-0",
+          "title": "अमेरिका ने भारत पर 25 प्रतिशत टैरिफ का रखा प्रस्ताव, ट्रंप की नई धमकी का देश पर क्या होगा असर?",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzRCV1N1UkRpN3dyaFlpMVlaZXBrN1p5R3hJSGk5YXJNT2I2UEVPVXZHbkYtUE92bE9DNWxsUDB4WExQZzlOaUx3cUtzaS1laUtfeVhtblIzRzNaUmltX25yQjdsblk0T3RSSWxCTS1ERXFmV2ExdHhrWXBwYWFaYTZhN0wzaDNTOWR1eWNzWW5Dc2I4bTZ0VjI4WjBiSHVadkFpYWxMS3AtbERE?oc=5",
+          "date": "2026-11-25T17:34:00.000Z",
+          "topics": [
+            "산업·시장"
+          ],
+          "titleKo": "미국, 인도에 25% 관세 방안 제시…트럼프 새 압박이 인도에 미칠 영향은?",
+          "tr": "claude"
+        },
+        {
+          "id": "jagran-1",
           "title": "भारी मशीनरी के लिए चीन पर निर्भरता खत्म करने की तैयारी, मोदी कैबिनेट ने दी 11,000 करोड़ की स्कीम को मंजूरी",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVRPMFNyb09tQ1RiQ05sc2R2UXpKbWVlLUVTZFI3WTQ0d3B1N0JrdE1TcjRYTTRQR3VCcXh0WEdlLV9iQkxtZ0I0QXBjYzdlMmd6am54XzdYMk1yMUFpQllaMDhxUllzbkpDOWowNnB4RW44TkxNUlN5U0d4cEcyanlMYjdIVTBZR1JGb1JsMlBDSHZINk1ySDFwME1YeldOaE9LTXgzdXBoajhkSThN?oc=5",
           "date": "2026-11-25T17:25:00.000Z",
@@ -2852,17 +2899,6 @@
             "외교·안보"
           ],
           "titleKo": "중국 의존 탈피 준비…모디 내각, 중장비용 1조 1000억 루피 계획 승인",
-          "tr": "claude"
-        },
-        {
-          "id": "jagran-1",
-          "title": "अमेरिका ने भारत पर 25 प्रतिशत टैरिफ का रखा प्रस्ताव, ट्रंप की नई धमकी का देश पर क्या होगा असर?",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzRCV1N1UkRpN3dyaFlpMVlaZXBrN1p5R3hJSGk5YXJNT2I2UEVPVXZHbkYtUE92bE9DNWxsUDB4WExQZzlOaUx3cUtzaS1laUtfeVhtblIzRzNaUmltX25yQjdsblk0T3RSSWxCTS1ERXFmV2ExdHhrWXBwYWFaYTZhN0wzaDNTOWR1eWNzWW5Dc2I4bTZ0VjI4WjBiSHVadkFpYWxMS3AtbERE?oc=5",
-          "date": "2026-11-25T17:34:00.000Z",
-          "topics": [
-            "산업·시장"
-          ],
-          "titleKo": "미국, 인도에 25% 관세 방안 제시…트럼프 새 압박이 인도에 미칠 영향은?",
           "tr": "claude"
         },
         {
@@ -2878,14 +2914,15 @@
         },
         {
           "id": "jagran-3",
-          "title": "15 दिसंबर से पहले संसद सत्र की तैयारी, पीएम मोदी ने मंत्रियों को दिया यह निर्देश; परिसीमन समेत कई विधेयक पर सबकी नजर",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3V4eFZadHYzaHdnc2ZaWFlPdWlrOHN6a1V3Ti1CSEFqVml4MXdyWDJGbzlqYUNheHd4ZWQ4bGxMNjQyRWdtVVZSSGFpVnJQVjBjWVNkbVIzWG42R2dRT1k2dDBVOUFOVkdqejZEbmZad2FNMWEzaVlCNkFmWEVFcHNvTXhQc0xpNzNINklLZzJFbXk1d0VLbmV6ZTJIOHZPYnF2WGE5eDUxMnZwUVdXWHM0R2FmZm5zclc5QVloVQ?oc=5",
-          "date": "2026-11-25T17:07:00.000Z",
+          "title": "लखनऊ एयरपोर्ट पर अब मिलेंगी PM मोदी के जीवन पर आधारित किताबें, टर्मिनल-3 पर उपलब्ध होगा साहित्य का खास कलेक्शन",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzdhM0JrYUZNTlJjZXlXaTNVYWlyVklxczNjVURyRk9MYkxiMnVuQ3NQY09IRzFIcjEySWJlOEEyYmQweWpTS0dkZU53RnZvUU5SU1FOX0tsSFFsT2VPeWZ2QjFCdE5GN2FMU0trVDd5M2xCT3NoMkdMOE84Q0xyaTM1UHE3OXN6bFpwRGRpNzA2ajg2dzA0Nko4ZDBqT1dGUUphWmVqQUozYUQ4SnpxWTFUWG11aFVxdVA5Tk8ycjhLLVZOdXc?oc=5",
+          "date": "2026-11-25T14:14:00.000Z",
           "topics": [
             "정치·선거"
           ],
-          "titleKo": "12월 15일 이전 국회 회기 준비, 모디 총리 장관들에게 지시… 선거구 획정 등 법안에 주목",
-          "tr": "claude"
+          "titleKo": "러크나우 공항서 이제 모디 총리 삶 다룬 책 판매…터미널 3에 전용 도서 코너",
+          "tr": "claude",
+          "titleKoAlt": "PM Modi의 삶을 바탕으로 한 책은 이제 러크나우 공항에서 구입할 수 있으며, 특별 문학 컬렉션은 터미널 3에서 구입할 수 있습니다."
         },
         {
           "id": "jagran-4",
@@ -2895,22 +2932,12 @@
           "topics": [
             "예산·재정"
           ],
-          "titleKo": "LG India는 TV부터 냉장고, 에어컨까지 모든 것을 만듭니다. 이제 2% 지분이 매각될 예정입니다. 거래는 오픈마켓에서 진행됩니다!",
-          "tr": "google"
+          "titleKo": "TV부터 냉장고·에어컨까지 생산하는 LG 인디아, 지분 2% 매각… 공개시장 거래 예정",
+          "tr": "claude",
+          "titleKoAlt": "LG India는 TV부터 냉장고, 에어컨까지 모든 것을 만듭니다. 이제 2% 지분이 매각될 예정입니다. 거래는 오픈마켓에서 진행됩니다!"
         },
         {
           "id": "jagran-5",
-          "title": "लखनऊ एयरपोर्ट पर अब मिलेंगी PM मोदी के जीवन पर आधारित किताबें, टर्मिनल-3 पर उपलब्ध होगा साहित्य का खास कलेक्शन",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSzdhM0JrYUZNTlJjZXlXaTNVYWlyVklxczNjVURyRk9MYkxiMnVuQ3NQY09IRzFIcjEySWJlOEEyYmQweWpTS0dkZU53RnZvUU5SU1FOX0tsSFFsT2VPeWZ2QjFCdE5GN2FMU0trVDd5M2xCT3NoMkdMOE84Q0xyaTM1UHE3OXN6bFpwRGRpNzA2ajg2dzA0Nko4ZDBqT1dGUUphWmVqQUozYUQ4SnpxWTFUWG11aFVxdVA5Tk8ycjhLLVZOdXc?oc=5",
-          "date": "2026-11-25T14:14:00.000Z",
-          "topics": [
-            "정치·선거"
-          ],
-          "titleKo": "PM Modi의 삶을 바탕으로 한 책은 이제 러크나우 공항에서 구입할 수 있으며, 특별 문학 컬렉션은 터미널 3에서 구입할 수 있습니다.",
-          "tr": "google"
-        },
-        {
-          "id": "jagran-6",
           "title": "'जनता कांग्रेस को कभी नहीं करेगी स्वीकार', राहुल गांधी की विदेश में टिप्पणियों पर भाजपा ने साधा निशाना",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMWRBUnhKQldkWThndVp2T1dtSWx1LUNycENUS0dqWGVRQ0dwVFBVcmNwWFZUTGRtdXRFUGIxend3NERBNXJJb0FEUTVpR2dNMGQxS1hYS1AyaTE4elVtQklMWUd3dDdvM0FXMEhILW1lTndvNUs2aEJyeGJLVmIyaE5FZk4tcFpKUzZOTkgtd083UHhEeUlUcXJMdGpVbUZFbFF3cDRB?oc=5",
           "date": "2026-11-24T20:30:00.000Z",
@@ -2919,6 +2946,17 @@
             "외교·안보"
           ],
           "titleKo": "\"국민이 의회를 절대 받아들이지 않을 것\": 라훌 간디 해외 발언 두고 BJP 공격",
+          "tr": "claude"
+        },
+        {
+          "id": "jagran-6",
+          "title": "15 दिसंबर से पहले संसद सत्र की तैयारी, पीएम मोदी ने मंत्रियों को दिया यह निर्देश; परिसीमन समेत कई विधेयक पर सबकी नजर",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3V4eFZadHYzaHdnc2ZaWFlPdWlrOHN6a1V3Ti1CSEFqVml4MXdyWDJGbzlqYUNheHd4ZWQ4bGxMNjQyRWdtVVZSSGFpVnJQVjBjWVNkbVIzWG42R2dRT1k2dDBVOUFOVkdqejZEbmZad2FNMWEzaVlCNkFmWEVFcHNvTXhQc0xpNzNINklLZzJFbXk1d0VLbmV6ZTJIOHZPYnF2WGE5eDUxMnZwUVdXWHM0R2FmZm5zclc5QVloVQ?oc=5",
+          "date": "2026-11-25T17:07:00.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "12월 15일 이전 국회 회기 준비, 모디 총리 장관들에게 지시… 선거구 획정 등 법안에 주목",
           "tr": "claude"
         },
         {
@@ -2933,7 +2971,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.011Z",
+      "fetchedAt": "2026-11-25T21:21:38.592Z",
       "status": "ok"
     },
     {
@@ -2971,6 +3009,17 @@
         },
         {
           "id": "xinhua-2",
+          "title": "Shanghai Party chief Chen Jining under investigation",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBfXzdRTFI2VkpHd1FlVFpDR1dVMk95a19pQm9lV3AtNW9lX1I0NnczQUd2SnVNUEwwLS01dDh2ejJNZmJXbU15V3RxOUNFLW1mNFcyYUVFaHNEdnhSOS01eWVfY3htaDVlaW1zMDZhVlE4cmRCREdZWU5iV1I?oc=5",
+          "date": "2026-11-24T11:36:15.000Z",
+          "topics": [
+            "정치·선거"
+          ],
+          "titleKo": "상하이 당서기 천지닝, 조사 대상 됐다",
+          "tr": "claude"
+        },
+        {
+          "id": "xinhua-3",
           "title": "China unveils Shenzhou-24 crew for space station mission, including first foreign astronaut",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zbUNWYzlKNGI5ckltNndwTWxMbUdWdFc3aUhtTHAyUjRjZU41OHNHZ19FLXRRdEhpTWJrLXEwOWEtUU4xcUhkZ0d4OHIwSThrb2laSG9MNER5WjQyaGpsTWZSWlBKZThRYU94cjA3T29KWktHaVJ3M3U1R1Y?oc=5",
           "date": "2026-11-24T01:27:30.000Z",
@@ -2981,29 +3030,43 @@
           "tr": "claude"
         },
         {
-          "id": "xinhua-3",
+          "id": "xinhua-4",
+          "title": "Xi extends congratulations on Int'l Day of Solidarity with Palestinian People",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWOVJVZDN5MzdPSTgyTG9kdGlIWVIzaU5BZDU3QkhydVoxZUozaGlJMHpOZzJVOExldW1sRFA1S2psb3RQTWdoY3U5ak1WZG1OZEtsb001RFM5c1VUbXhxckt6U3NmUWI5bWhIcDNDTmlvMVFnMVN1THZldVM?oc=5",
+          "date": "2026-11-24T01:52:45.000Z",
+          "topics": [
+            "정치·선거",
+            "외교·안보"
+          ],
+          "titleKo": "시진핑, 팔레스타인 인민과의 연대 국제의 날 축하 메시지 전달",
+          "tr": "claude"
+        },
+        {
+          "id": "xinhua-5",
           "title": "China's STAR Composite Index closes lower Wednesday",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nU25GRmh6cDhoaVlfYks4UXlGUGZZbFl5U3dQY2ZTZ1VjLTVLcWtHanhkeVJMZ3pVd2o5NzRXaTl4ME1FRkx5VjQ2T3FCTW5XT0txZC0xcG1mVUotLUdUcUdkVGt3WEQtUHF6TUVvUmFJbkIyMDFZakFNWmE?oc=5",
           "date": "2026-11-25T07:45:30.000Z",
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "중국 STAR종합지수는 수요일 하락세로 마감",
-          "tr": "google"
+          "titleKo": "중국 STAR 종합지수, 수요일 하락 마감",
+          "tr": "claude",
+          "titleKoAlt": "중국 STAR종합지수는 수요일 하락세로 마감"
         },
         {
-          "id": "xinhua-4",
+          "id": "xinhua-6",
           "title": "Tech-driven specialty agriculture: Western Liaoning farm products go global",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qTmhRSzZYRDBXU0dNOWc4RUsyVE9TNnlsS1VCd3kybm5yZG5NY0lmTUJyOXNkNGI4aDBIQzdUTUNXRlZNRnRZX0FFSXVsMGNRV3lNbDNFWGhJVk1adjlHN3BNRExhZXpYdkJCUTBtLXNqSVZkVjhNS2htVUs?oc=5",
           "date": "2026-11-25T12:27:04.000Z",
           "topics": [
             "산업·시장"
           ],
-          "titleKo": "기술 중심의 전문 농업: 서부 요녕성 농산물이 세계로 진출합니다",
-          "tr": "google"
+          "titleKo": "기술 주도형 특수 농업: 랴오닝성 서부 농산물, 세계 시장 진출",
+          "tr": "claude",
+          "titleKoAlt": "기술 중심의 전문 농업: 서부 요녕성 농산물이 세계로 진출합니다"
         },
         {
-          "id": "xinhua-5",
+          "id": "xinhua-7",
           "title": "China, U.S. hold first agricultural working group meeting under Board of Trade",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05aW5ta1JXZFhIbUc2VVNnSFJVUnJMbU9JX0xBeXFCXzZEQ3ZkSERrTDJyWnFyNWJBcWw1cEpzNjNDb1BkdkZtaWJJQ28xZ3BRZU5HTjBnbjdoRF9UcnZzMHlPV1ZCdkk1emM3bFhaUktxNmJ3bVJESlZIeEs?oc=5",
           "date": "2026-11-25T05:35:00.000Z",
@@ -3013,32 +3076,9 @@
           ],
           "titleKo": "중국과 미국, 무역위원회 산하 첫 농업 실무그룹 회의 개최",
           "tr": "google"
-        },
-        {
-          "id": "xinhua-6",
-          "title": "Traditional rice wine brewing boosts local economy in Kengtou Village, China's Jiangxi",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1SY2tvLW80WGRxY1RfYmw2Tm03dTNxZXI0VTEzQUNLZ0lIcTFVNXFmTFZvV0VTeTFvVTFwaHFRV1d0Wm52YVJlMzdmNVVOLURoTWk1SkQyOVA3eEQ1d2hVZURnVnoxaWFSN3FHQU1FeVpkWnN4SUhOX2cxVlM?oc=5",
-          "date": "2026-11-24T23:27:32.000Z",
-          "topics": [
-            "경제·물가",
-            "외교·안보"
-          ],
-          "titleKo": "중국 장시성 켄토우 마을의 전통 막걸리 양조로 지역 경제 활성화",
-          "tr": "google"
-        },
-        {
-          "id": "xinhua-7",
-          "title": "Pakistanis express pride, send wishes to compatriot on China's space mission",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBiNEpvQUJ1eGU0UWJVZkg4b1ktSVFsSHVRanRON25IS2JlcVRwQXZwOXZpVlFYVFR5QnlPanc1RkM5NEJ6NkM3SHQ0aExYY2VDUWR0SmthMC1UcHNaWlJSTExXbmdXRmRORzdFWTZid2s0T19mdmxHc3QwTXM?oc=5",
-          "date": "2026-11-25T06:40:32.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "파키스탄인들은 자부심을 표하고 중국의 우주 임무에 참여하는 동포들에게 소원을 보냅니다",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.061Z",
+      "fetchedAt": "2026-11-25T21:21:38.941Z",
       "status": "ok"
     },
     {
@@ -3067,18 +3107,6 @@
         },
         {
           "id": "caixin-1",
-          "title": "CX Daily: Jensen Huang’s Exit Tests Nvidia — and the AI Boom",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjY3emRjb1FlNUFOWDM2Y1lGSHk5dkFiSzV5MGRGQ1ktUWZpZm9Tb3FEdVhxdjJLal9lbVBHVElZT1FXUDdGcEVSRk8zMkR2eEZ3M2MxQmg4ZWFRQklIU1lJMUg3RXU3bXpnU3pYY0trTmxPajBsZW5fdlY0YTJoaklvWHhtcGhFZktYZjItMEFycm5VNEdXVmd0NFpuR2N2ZWdib0VTMk5EdjU5ZGlZdg?oc=5",
-          "date": "2026-11-24T01:00:00.000Z",
-          "topics": [
-            "AI·반도체",
-            "산업·시장"
-          ],
-          "titleKo": "CX 데일리: 젠슨 황 퇴진, 엔비디아와 AI 붐 시험대에",
-          "tr": "claude"
-        },
-        {
-          "id": "caixin-2",
           "title": "CX Daily: Trade Surplus, Capital Inflows Drive Yuan’s Rise",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTY0X2JsX2lGeFhQdGg4UEk5c3ktYmlHYV9CZ05ydEg0elk2WVJOa29VdEg0RDRuMjhad1cyYUU1Zk5HVHRaTVZ1Y0F0Nkw1OUdaTU1vRXpUU1RJV3gwcmtqVHdQekEwLW1USzdTQTk0RHRmYUtOM3JrR2pPZGZWdnpHU3ZYZThSREdtVThPRHdDVGY0ZFphc0RSYkd4YzR0Mk95aU9RNEhzbXpqWlM0?oc=5",
           "date": "2026-11-25T01:00:00.000Z",
@@ -3089,7 +3117,7 @@
           "tr": "claude"
         },
         {
-          "id": "caixin-3",
+          "id": "caixin-2",
           "title": "Ant’s OceanBase Looks to AI and Overseas Markets for Growth",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDFqMmdEM2NxZGR1RkFJTVVxMWxqb2FVcjNBa0gwREpadzNLLWdHTm41VEFvRXlWQUMzNXg5Mi1KY2wtNzh0aTlFYVhOaTdaM1o4ZXV3azAtRGhNeG5fZDFRZHV5Q3pmRXdfWEkxMV9BVU95Zi1zNWxJb3ViU2dHQmNhZGpIZlc2WGNCQUJvZ1E2ZTRlRHNBUmtQSHktcVJjTGFKVTFvMGMtc3lIOV95UTUxYw?oc=5",
           "date": "2026-11-24T21:30:00.000Z",
@@ -3102,7 +3130,7 @@
           "tr": "claude"
         },
         {
-          "id": "caixin-4",
+          "id": "caixin-3",
           "title": "China’s Tourism Industry Courts Seniors, Families for New Growth",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0J0NDNZY3JnRGZURG00LS1nM05Ea0h0bzNId0cyVUZzTWJtVEN2bC1xTzUwdUdkLVJ0V0gwR0ZxRTFFMENadEpua09BVHlaT0FMMWlmVkJFQTJZb09RSE1QcmdUVU9RV1VObmM2NUhGNzZ5eGc5X0hyZ2J6emoyQ3ZDdFdzUWJlN0tfeGdabDBIREc4cl91SVFZV1FvRndCS051WDdiU25hMjBhbmhTb3FYcVlOSlRD?oc=5",
           "date": "2026-11-24T08:07:00.000Z",
@@ -3117,7 +3145,7 @@
           "titleKoAlt": "중국 관광 산업 법원, 노인, 신성장 가족을 위한 법원"
         },
         {
-          "id": "caixin-5",
+          "id": "caixin-4",
           "title": "ByteDance Expands Personal AI Agent Push With Xiaodou Beta",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMzRNYWhPUk1QUkxFb2hwU25CcEt2b0Y0dXNpWkpaV0pjc0pZcmkxME9kQmpvSVRWdjE1R3d6bzRFQzh0WXd1NTRVdE9BcXVWX1Z6Ykc4SGNNdHVlendPdFRzU3VObzgwQWZURzJoVXZ4ZU5aVHJtYlRqTDRLdWJzRF9XTUp3NW5QbklOZGZiVnVCbXIxLVkxV2RnT2d4cllhTHlBbmNYREQ2UTA4cXZTazkyVQ?oc=5",
           "date": "2026-11-24T17:39:00.000Z",
@@ -3129,7 +3157,7 @@
           "tr": "claude"
         },
         {
-          "id": "caixin-6",
+          "id": "caixin-5",
           "title": "U.S. Proposes Additional 20% Tariff on China Ahead of Trade Truce Deadline",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRldCR0VsUzd6bmk5cGFKdm5xRUlFaTlJUjJUeTV0QmtTN3FwYmRMMXg1Z3JLaEpGUG1UdTdDSDZBYjNOaENtV1VyRGxNWUQtalRacUg0TXRLcmJ0SW9kbUlKTFdsZG1GS19lcFh0eUlxV3B0Mmt0TkVpeE02S0tGUV9qd3ZQRUdhQXhpSFZCQUd2MXU1Um5mM29jQ1ppc2Uwd1drLS1KVmlzeTFpdXZETlZ5dS1VN2w5NjgyU3hyUEpRUnFf?oc=5",
           "date": "2026-11-25T17:53:00.000Z",
@@ -3137,11 +3165,12 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "미국, 무역 휴전 마감일 앞두고 중국에 20% 추가 관세 제안",
-          "tr": "google"
+          "titleKo": "미국, 무역 휴전 시한 앞두고 중국에 추가 관세 20% 부과 방안 제시",
+          "tr": "claude",
+          "titleKoAlt": "미국, 무역 휴전 마감일 앞두고 중국에 20% 추가 관세 제안"
         },
         {
-          "id": "caixin-7",
+          "id": "caixin-6",
           "title": "China’s Fiscal Revenue Returns to Growth, but Spending Remains Weak",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlRPNmFPWUxpLS1WWWZZbV9BcnNMQ3ozVklpVEZ4QkE3emhNNUNnXzN1Q01jN1I0bEJBZWlPekpYV0NxYmE1LS1TWkl2SFR6X3hfQ3k1LTIyeDJpc0o0RTZNNDRxcWdqZmdFNkl0V3hFZ0FDY0tYZHFUVlFuTkFCaEtkUHcxdlB6Rm9rd1lPVzhBRC1XWEl1ZlJxZFkya0dYVFE2ZDdmV3AwQmcxY0JDXzB1ZkdQRFZvWXdJYw?oc=5",
           "date": "2026-11-23T05:37:00.000Z",
@@ -3153,9 +3182,21 @@
           "titleKo": "중국 재정수입 증가세 회복, 지출은 여전히 부진",
           "tr": "claude",
           "titleKoAlt": "중국의 재정 수입은 성장세로 돌아왔지만 지출은 여전히 약세"
+        },
+        {
+          "id": "caixin-7",
+          "title": "EU to Cap Hybrid Imports From China, Other Countries",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVZXcEVsV2ZiNExEa1U4TzBUV011d3c2VWctSkRmVC1nUXlYUTRJMkdFRkpJTWs2MlpwQnVoS052cWdsc3h3TGd5eU1fSFdWUEJNN205ejRzenZhMjg2bmVsOUkwdlJVdHhtLU9vOUduMVBxNkVmdURrTmtseV82MFViUDBoOUNTdDJGMzk4QXdZVTJTVHRUdXBzY3ZXLWR2R255a1hDdjkwQQ?oc=5",
+          "date": "2026-11-25T09:16:00.000Z",
+          "topics": [
+            "외교·안보",
+            "산업·시장"
+          ],
+          "titleKo": "EU, 중국 및 기타 국가로부터 하이브리드 수입 제한",
+          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.154Z",
+      "fetchedAt": "2026-11-25T21:21:38.624Z",
       "status": "ok"
     },
     {
@@ -3228,8 +3269,9 @@
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "부정부패 단속 확산으로 중국 정치국 위축",
-          "tr": "google"
+          "titleKo": "중국 정치국 축소… 부패 척결 확산 여파",
+          "tr": "claude",
+          "titleKoAlt": "부정부패 단속 확산으로 중국 정치국 위축"
         },
         {
           "id": "reuters_cn-5",
@@ -3244,6 +3286,18 @@
         },
         {
           "id": "reuters_cn-6",
+          "title": "Taiwan comedian shoots off punch lines to combat China's anger at his jokes",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3dqNWJYNnNfb1lMYk5wQlh2RHBxUmtHSlpjVUpFdHdWV3duU2lHSmVmZG9Ra2gyNDdqd2Y4ZXhYZFkycjBvejhZSUlialRCLXhrSUdqZ1VwV1JEaW5la2phUGZhUzFEYWpUbmxNVzJWVFBxMVZuekpZVVFFVS16WVdsQ3dHY2NWaHR6WWtVOVNiRlZwcjB1azlyTzZXV1Nfa0ZGSGJXc1Qtb052TDFtSkNHcnFkZms4d2VJaWlIQlItSklBcXQyYXZGalphajA?oc=5",
+          "date": "2026-11-25T04:03:00.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "대만 코미디언, 자신의 농담에 분노한 중국에 맞서 재치 있는 응수로 정면 대응",
+          "tr": "claude",
+          "titleKoAlt": "대만 코미디언, 농담에 중국의 분노에 맞서기 위해 펀치 라인을 쏘다"
+        },
+        {
+          "id": "reuters_cn-7",
           "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
           "date": "2026-11-24T20:16:00.000Z",
@@ -3252,20 +3306,9 @@
           ],
           "titleKo": "중국 화웨이, 이란 사업 관련 미국 대형 형사재판서 유죄 평결",
           "tr": "claude"
-        },
-        {
-          "id": "reuters_cn-7",
-          "title": "Taiwan comedian shoots off punch lines to combat China's anger at his jokes",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb3dqNWJYNnNfb1lMYk5wQlh2RHBxUmtHSlpjVUpFdHdWV3duU2lHSmVmZG9Ra2gyNDdqd2Y4ZXhYZFkycjBvejhZSUlialRCLXhrSUdqZ1VwV1JEaW5la2phUGZhUzFEYWpUbmxNVzJWVFBxMVZuekpZVVFFVS16WVdsQ3dHY2NWaHR6WWtVOVNiRlZwcjB1azlyTzZXV1Nfa0ZGSGJXc1Qtb052TDFtSkNHcnFkZms4d2VJaWlIQlItSklBcXQyYXZGalphajA?oc=5",
-          "date": "2026-11-25T04:03:00.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "대만 코미디언, 농담에 중국의 분노에 맞서기 위해 펀치 라인을 쏘다",
-          "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.426Z",
+      "fetchedAt": "2026-11-25T21:21:39.216Z",
       "status": "ok"
     },
     {
@@ -3360,8 +3403,9 @@
             "정치·선거",
             "외교·안보"
           ],
-          "titleKo": "젠슨 황의 복귀가 중국 시에게 트럼프에 대해 가르쳐준 것",
-          "tr": "google"
+          "titleKo": "젠슨 황의 복귀가 시진핑에게 트럼프를 상대하는 법에 대해 주는 교훈",
+          "tr": "claude",
+          "titleKoAlt": "젠슨 황의 복귀가 중국 시에게 트럼프에 대해 가르쳐준 것"
         },
         {
           "id": "bbc_cn-7",
@@ -3375,7 +3419,7 @@
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.445Z",
+      "fetchedAt": "2026-11-25T21:21:39.093Z",
       "status": "ok"
     },
     {
@@ -3437,6 +3481,17 @@
         },
         {
           "id": "aljazeera-4",
+          "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlU0RXBRWWJMUXd0Z01rcmhMeTI0V1hJLVdXUUY3eEhwb2w2R0pza2RxSnZyd044elUxX3UyemhQTG5wN1VadlphRjE2SGJvMmlRQ0N0TGRScDlwYUVWejFyX0FDMWpQZGJkZWZTSmxia2tTUkZQSFZ1XzBzNVU1ZVB5cFBGblBxWGtfb2ZXZGxTNGRzWlNBdkJaTm9tdWVlQTJfNnJB0gGrAUFVX3lxTFBxMmtCU1JWQ2xhSXBTMEczWEc0MGpvSExWY2xIcEl4VFZCOGdNRWg0ZFJxSzZZek52aV9pdUVFcFdUSEh1YmlVSmRQUU53RzE1dVhkZzc4RWZxSzEtNUZZbUNvbkFJU1hRdDljX21MY0xIZ2NmbGRKZXc3NkFkRTVhdTJZdExmYVJObVNNWk1Hd2EtdHJSb0lCRmplNC1XcXVfd3pnVS03MHkxaw?oc=5",
+          "date": "2026-11-25T18:56:15.000Z",
+          "topics": [
+            "사회·생활"
+          ],
+          "titleKo": "이집트 차량 화재로 최소 30명 사망, 보건부 발표",
+          "tr": "claude"
+        },
+        {
+          "id": "aljazeera-5",
           "title": "Israel’s southern Syria incursion triggers fear and destruction",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQODVlMGRnc2pLdTVaUXlKcUFhYlRMZ2piR3E2aTE1UGprb3NOc1g3NWRtek45R1hYbXpfcTRXQ04yVU12UXROb0phTjNzNmJhWVQ2dm1WWUMtOHJlYjVlN05QZmhFR3VuZ0xvbVZFNE11bVo5TkIwNlRRcW8xM3JhUG5ILWdTRGZxNVM0VFJEZ2YtZ1R6UG5wWmM4cGljdnFtS2xwcTJ5enhUODJyOVoxOG9WZFHSAboBQVVfeXFMTV9DZVpsOFgtYWpHT3VJdE5ZdnBWUElyUkFhbF9taUNzOE9lTDJLdWQ2NGhwd2Z4TEIxV3FURUJqa1RKY0pJdTZBekYxR2R5NkVjUnNqUkZLRUVjNlcweXJnanFnYmFpY2tZMDg2TVJ2TkQ3UUJuZkd2cXhERlFhdEpMenBVMkV2UUNaXzMxWms5SV9GV1BjdWhwRjJmbEpiMTYyYVExOHBMQnpBbkRiRnZjOWk3RUhicFlR?oc=5",
           "date": "2026-11-23T21:19:40.000Z",
@@ -3446,17 +3501,6 @@
           "titleKo": "이스라엘 남부 시리아 진입에 공포와 파괴 확산",
           "tr": "claude",
           "titleKoAlt": "이스라엘의 시리아 남부 침공, 공포와 파괴를 촉발하다"
-        },
-        {
-          "id": "aljazeera-5",
-          "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2pfMWtKZi1pMzc3aElGakNfU1UwRTFnQVIxblFxOXJPa0ZUdENpQllheE5JNXVaR0pFYXJlMi0tcnpzekNrSXFkMTZObTY5WWxqN2tpLTBYX1B3aEhuTldfbG0xa0Mwal92YU5qTkExSFZWZEQyY3FyU3hOV0g0VVJKQ0lTNDE3bmJXczlDQ0ZOWnM2RmJtOG9qbFUyS1JEaFY3YW5OdVpqc1BmWjVFcHFCUGRCUEljRXfSAb8BQVVfeXFMT3NkVTRoM1pGVE02TkRWQmx4Ml9WQjgwT0xNRHY1dVRyVnQwTHVzcURpZXlXUEN4OFNRWEFYYklCUVE5VWtqUG1YZURNTjBWXzdZTVUxQmExalVDUzIzaDVvdFNjTjB6UHMwQlhSSWdRYVIxekZnUXc0bGpSbExiV09BR0U0bkZFX2NOYi1XbEl0Nkg1aWJTVlQwQ2RldTVWcGw4ZmRtcVR4WXVrVHNJaG1BOXUxMnpkSWdUZ3NCbm8?oc=5",
-          "date": "2026-11-23T20:29:12.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "titleKo": "이란, 소강상태 후 걸프만에 있는 미군 기지와 민간인 기지 공격",
-          "tr": "google"
         },
         {
           "id": "aljazeera-6",
@@ -3471,17 +3515,17 @@
         },
         {
           "id": "aljazeera-7",
-          "title": "Iran says it will use ‘all available means’ to counter US blockade",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTktLdU1YVmxRUnlCdUNRZmlIdWloVW12TFNEZGVMdXhoWHdpWGdIMmpkMTJnNWdFdXh2WlhFYWNzckVtcFotcW9ya2JHd1VmLVY2b2hsTFdObno2Q0IxM3oyYWsySUszUEtiTHlEV3JOaW1ZbmJ3YUc4X3BndTRMbmJteXpGTG1VZDU3clloNWNtd3RXdEx5dVdQSlZ6TS14T0tpbUg2eXlZZ9IBrwFBVV95cUxObFRhRTR4SXZfbVZ4c0VMbnJvVVNZbFBjaGw5S29VUG1kcXRieXJjUEROZUoyQTRvSGFOeDdKNUpYbmN4UmZxcTAzNmZjOWR2SmJhVHVHTkxBbUJtc2hjT1NGOTZOUzhpbHZsQ0FKNWhQYkl1S0ZRcTdaTWMzU2N4QnBGV1cwOGpJNERSbmJwYzVNRERpb0JwTGlrUmp4LWczVXVxTXkzLXNRS05JNzBV?oc=5",
-          "date": "2026-11-23T13:25:38.000Z",
+          "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2pfMWtKZi1pMzc3aElGakNfU1UwRTFnQVIxblFxOXJPa0ZUdENpQllheE5JNXVaR0pFYXJlMi0tcnpzekNrSXFkMTZObTY5WWxqN2tpLTBYX1B3aEhuTldfbG0xa0Mwal92YU5qTkExSFZWZEQyY3FyU3hOV0g0VVJKQ0lTNDE3bmJXczlDQ0ZOWnM2RmJtOG9qbFUyS1JEaFY3YW5OdVpqc1BmWjVFcHFCUGRCUEljRXfSAb8BQVVfeXFMT3NkVTRoM1pGVE02TkRWQmx4Ml9WQjgwT0xNRHY1dVRyVnQwTHVzcURpZXlXUEN4OFNRWEFYYklCUVE5VWtqUG1YZURNTjBWXzdZTVUxQmExalVDUzIzaDVvdFNjTjB6UHMwQlhSSWdRYVIxekZnUXc0bGpSbExiV09BR0U0bkZFX2NOYi1XbEl0Nkg1aWJTVlQwQ2RldTVWcGw4ZmRtcVR4WXVrVHNJaG1BOXUxMnpkSWdUZ3NCbm8?oc=5",
+          "date": "2026-11-23T20:29:12.000Z",
           "topics": [
             "외교·안보"
           ],
-          "titleKo": "이란 \"미국 봉쇄 대응 위해 모든 수단 동원할 것\"",
+          "titleKo": "이란, 소강상태 후 걸프만에 있는 미군 기지와 민간인 기지 공격",
           "tr": "google"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.544Z",
+      "fetchedAt": "2026-11-25T21:21:39.194Z",
       "status": "ok"
     },
     {
@@ -3509,7 +3553,7 @@
       ],
       "fetchedAt": "2026-11-21T07:11:42.278Z",
       "status": "stale",
-      "lastAttemptAt": "2026-11-25T19:57:18.356Z",
+      "lastAttemptAt": "2026-11-25T21:21:39.212Z",
       "error": "이번 수집에 실패해 마지막 성공본을 표시합니다."
     },
     {
@@ -3599,18 +3643,6 @@
         },
         {
           "id": "haaretz-6",
-          "title": "Analysis • It's getting darker in Iran. But the regime will survive",
-          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQN1NTYXhkbm45R0ExNEppNUJqWThLNEoxb3FoNjJ3cHpzZURub3cwS3AyZXRIYVMxWXFleXRPZFZNbjZNTl9DRy1kOXF4YUttLXhBVlppZVVlZVA1TGl0elBHVTdNTjRxb1pTa2FNbE5CYmtBaUpSMEdGd3pMdjRKM3YyNlhKajdfLUxpM3FQUXJ1ai03ZzM3NHpMeU1WaUYwVnpFT1VqbkNTeHNUVC13TFRVRlI1R010eWhFLW0wQi12ZDVXb2tKWmM5VWI4YlVSM0s4UTZVRFV0d1JQNGVjRFVJWmprTzhGOV8xUHhyR3U2bTRoajlxcnNIdEkwRjd1aXdxN1NpWDh3YVRuUzlZ?oc=5",
-          "date": "2026-11-24T17:43:00.000Z",
-          "topics": [
-            "외교·안보"
-          ],
-          "opinion": true,
-          "titleKo": "분석 • 이란은 점점 어두워지고 있습니다. 하지만 정권은 살아남을 것이다",
-          "tr": "google"
-        },
-        {
-          "id": "haaretz-7",
           "title": "Protests at several Israeli universities against arrest of Palestinian student",
           "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOV1BVSndvRXRDZnp2NnZqU3lCb1hBZkQtVWkzM1JTaXktQTlXRExud1FkMkVUYVlCTzRmUEt6NDFjaEdHWnZXSkFOTV9uV1duSUdkZjFQNmgxWmJCeGdKN3o0YTd1dW9ER3FBcUtySUJGWmh1WnFMR3gwUFU0WGpJbzBlZlNObDd6SXBiU3puVXBFZXFVS0xYcmpxV3R5bWliMlBZRmtQQUxWdXhad2xhekRMVTYwWWZTRVEteXVlZTR2bGk1emt1Ykx4UkdfMmxFYmhZcC12TXdmeUQ5WXp1ckE0cS00V3E1a1RRLWlFSUdZWFhRYlpEVS1Sa3ZtVWFPVG1rOGlhU1R1ZEx4T3Iw?oc=5",
           "date": "2026-11-23T12:58:00.000Z",
@@ -3618,11 +3650,23 @@
             "외교·안보",
             "사회·생활"
           ],
-          "titleKo": "팔레스타인 학생 체포에 반대하는 이스라엘 여러 대학의 시위",
-          "tr": "google"
+          "titleKo": "팔레스타인 학생 체포에 항의…이스라엘 여러 대학서 시위",
+          "tr": "claude",
+          "titleKoAlt": "팔레스타인 학생 체포에 반대하는 이스라엘 여러 대학의 시위"
+        },
+        {
+          "id": "haaretz-7",
+          "title": "Condemning Jewish terror is easy. What about its enablers?",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVHBZOFJMQkc4dmJuNUpRYXN4WE0zRG1mYmNiVkF5VVkzY0NLZU0zZUxvNlhfUnpyeFYwMjFVVkRfV2dTVHVzamJzN290cV9GaktBb0xPQ2pYaG5FeHl3emNoaHNIRXIxeG14ZlhVSnQ2UDRWNjNZQWVfem9vUUcwa1B1VzhCMTNVSzFFbHprTFFpX0h5dHlTWkRibmtUbXlyTmNWVDZ3TVZrS2QwcWxxbHVtYVROOGdyUjg5Q1NDb1prQ0tPTi1KV3dqU283R0NMa1FDekl4a2ZuWV80eWlQYzBodVhqRDlDaV9QWVRYd0VKZlpqQW4tRVhiSHpDSnVzLWFCR192SDdoX19tOTJZNWVGWFJQZG5RNjBmM2M4WUVldw?oc=5",
+          "date": "2026-11-23T19:24:00.000Z",
+          "topics": [
+            "외교·안보"
+          ],
+          "titleKo": "유대인 테러 규탄은 쉽다. 그 조력자들은?",
+          "tr": "claude"
         }
       ],
-      "fetchedAt": "2026-11-25T19:57:18.766Z",
+      "fetchedAt": "2026-11-25T21:21:39.510Z",
       "status": "ok"
     },
     {
@@ -3645,8 +3689,8 @@
           "topics": [
             "경제·물가"
           ],
-          "titleKo": "사우디, 2026년 경제 위축 전망 하향… 재정적자 추정치는 유지",
-          "tr": "claude"
+          "tr": "claude",
+          "titleKo": "사우디, 2026년 경제 위축 전망 하향… 재정적자 추정치는 유지"
         },
         {
           "id": "asharq-1",
@@ -3658,8 +3702,8 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "미-이란 외교 협상 지속 조짐 속 유가 하락세 이어져",
-          "tr": "claude"
+          "tr": "claude",
+          "titleKo": "미-이란 외교 협상 지속 조짐 속 유가 하락세 이어져"
         },
         {
           "id": "asharq-2",
@@ -3671,8 +3715,8 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "사우디 예산안 도표로 보니…재정적자 축소, 비석유 부문 성장",
-          "tr": "claude"
+          "tr": "claude",
+          "titleKo": "사우디 예산안 도표로 보니…재정적자 축소, 비석유 부문 성장"
         },
         {
           "id": "asharq-3",
@@ -3684,8 +3728,8 @@
             "에너지·원유",
             "외교·안보"
           ],
-          "titleKo": "이란 전쟁 압박에 영국 에너지 요금 26% 급등",
-          "tr": "claude"
+          "tr": "claude",
+          "titleKo": "이란 전쟁 압박에 영국 에너지 요금 26% 급등"
         },
         {
           "id": "asharq-4",
@@ -3697,8 +3741,9 @@
             "외교·안보",
             "산업·시장"
           ],
-          "titleKo": "호르무즈 천문대 | 이란 석유, 유조선 안에 갇혀…항해 제한돼",
-          "tr": "google"
+          "titleKo": "[호르무즈 감시] 이란 원유, 유조선에 갇혀… 항행 제한 지속",
+          "tr": "claude",
+          "titleKoAlt": "호르무즈 천문대 | 이란 석유, 유조선 안에 갇혀…항해 제한돼"
         },
         {
           "id": "asharq-5",
@@ -3722,8 +3767,9 @@
           "topics": [
             "예산·재정"
           ],
-          "titleKo": "사우디아라비아, 10.9% 성장 기대",
-          "tr": "google"
+          "titleKo": "사우디, 성장률 10.9% 전망…2027년 예산 5개 수치로 본 내용은?",
+          "tr": "claude",
+          "titleKoAlt": "사우디아라비아, 10.9% 성장 기대"
         },
         {
           "id": "asharq-7",
@@ -3734,34 +3780,36 @@
             "에너지·원유",
             "산업·시장"
           ],
-          "titleKo": "국제유가 하락…중동 수출 강세 신호 속",
-          "tr": "claude"
+          "tr": "claude",
+          "titleKo": "국제유가 하락…중동 수출 강세 신호 속"
         }
       ],
       "fetchedAt": "2026-11-25T19:57:18.748Z",
-      "status": "ok"
+      "status": "stale",
+      "lastAttemptAt": "2026-11-25T21:21:40.329Z",
+      "error": "이번 수집에 실패해 마지막 성공본을 표시합니다."
     }
   ],
   "collector": {
-    "successful": 41,
+    "successful": 38,
     "total": 43,
-    "translated": 259,
-    "byClaude": 188,
+    "translated": 260,
+    "byClaude": 243,
     "claude": {
       "run": {
-        "titles": 60,
-        "usd": 0.0022432,
-        "rejected": 0,
+        "titles": 59,
+        "usd": 0.0022400000000000002,
+        "rejected": 1,
         "stopped": null
       },
       "month": "2026-11",
-      "monthUsd": 0.1157,
+      "monthUsd": 0.118,
       "limitUsd": 2
     },
     "korea": {
       "date": "2026-11-25",
       "approved": 3,
-      "candidates": 59
+      "candidates": 50
     }
   }
 }
