@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-25T21:21:56.553Z",
-  "count": 1067,
+  "updated": "2026-11-25T21:28:19.131Z",
+  "count": 1070,
   "items": [
     {
       "source": "mk",
@@ -29,6 +29,19 @@
       ]
     },
     {
+      "source": "fox",
+      "country": "us",
+      "title": "EXCLUSIVE: White House accuses South Korea of breaking promise to Trump as US tech giant faces $688M in fines",
+      "titleKo": "백악관, 한국이 트럼프와의 약속 어겼다고 비난…미 기술기업 6억8800만 달러 벌금 직면",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOExidVdWMDhrVFZrSHliVDYyTWVoX3RKWTNRSkxtSW5qQnl6aFlMZWR2TUFjaTJwNlZZNm9VVmVQUXlCQnZQX0U0S3otbFM0M1RIX2l3cFVMSWR5RVpfTVdWUUUzVlFNQXV0a09FSkcycDkxRG5LOFVBZmlseVBlajFGaGJ4aE9TNzdTVm93Uk5jcFdwbWpna0RoVlg0OFlwY1VRcVV4U2xkb0xzY2dxQ1pkVGRaSGpxU3kwSlBuOGlyUmRJWFVZ0gHMAUFVX3lxTFA1bDhEUW90XzVfUnp3NV9YdjhHYUhrMW9iMmhJdWhFX2VEVHhqSEJUbXNINWZ5SzdKZDhISzUzaGNtSXY4U3IzdWZhQ0RvT3BXWVJMRXJFNURacDFLeE5sOEF0VmRhWEJINzVtZW9FMGMwb3h2TTljalJLcGRoZFdPMUlIMnRRcDhvbzBUZDZOYW42bmxKVldyRXZZeHk3M204dWZWbDdZbWUtQU91OUgya3hwd0ptZWF4MGh5MUJMTHZxVFZFSi1RWm95bA?oc=5",
+      "date": "2026-11-25T20:16:44.000Z",
+      "topics": [
+        "정치·선거",
+        "산업·시장"
+      ]
+    },
+    {
       "source": "yomiuri",
       "country": "jp",
       "title": "【本庄東】日本の文化・伝統を理解することが国際理解教育の基礎になる＝中学受験特集",
@@ -53,6 +66,31 @@
       ]
     },
     {
+      "source": "asahi",
+      "country": "jp",
+      "title": "株安・消費低迷、でも利上げ？ 日銀次回会合、確率「７１％」",
+      "titleKo": "주가 하락·소비 침체 속 일본은행 다음 회의서 금리 인상 가능성 71%",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBtMFdaTGkyeVoyRmgyc1haN2syZjFlR0Y1TFhFOXZRdnNNbEUyTnJjS1VrTVVPV1JqVExjVkxic1pfNUVfbXc2dzNjdFJnTUI3ZVN5OUk4ZWJFN2Z1?oc=5",
+      "date": "2026-11-25T20:00:00.000Z",
+      "topics": [
+        "금리·물가",
+        "경제·물가"
+      ]
+    },
+    {
+      "source": "asahi",
+      "country": "jp",
+      "title": "東電、提携条件に廃炉・賠償費関与 政府が拒否権持つ「黄金株」も 候補５陣営",
+      "titleKo": "도쿄전력, 제휴 조건에 폐로·배상비 참여 요구…정부 거부권 '황금주' 포함 후보 5개 진영",
+      "tr": "claude",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9KMGh0WHVLOXpIby1zYW5rbGx1WmdpSm9OR28xaDZlNV9yMGNYeWxSYTFIZWFqNTlHaGN2QXVwSVNmNU9vNjBXbzRJenBjSGhrZHl0RkZLOS1kUkJ1?oc=5",
+      "date": "2026-11-25T20:00:00.000Z",
+      "topics": [
+        "정치·선거"
+      ]
+    },
+    {
       "source": "chosun",
       "country": "kr",
       "title": "美, 관세 부과하며 호남 반도체 언급… “SK 등에 국내 생산 확대 ‘압박’”",
@@ -69,8 +107,8 @@
       "source": "sz",
       "country": "de",
       "title": "Weihnachtszeit vor dem Kanzleramt: Merz nimmt Baum entgegen - Panorama - SZ.de",
-      "titleKo": "총리실 앞의 크리스마스 시간: Merz가 나무를 받아들였습니다 - 파노라마 - SZ.de",
-      "tr": "google",
+      "titleKo": "크리스마스 시즌 총리府 앞 트리 설치…메르츠 총리, 나무 전달받아",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTGl6TEN3Y1U0RzV1UjRTZEtQeE1pUXFSM19oRkY0QnhkUE5fdFlpNzBNQUZPLUN6QVhNcWx2ZFozS0dlcGFwczNOSWNiakxMQ1dBd3YxdTIxZi0wUFNtbkpsUTJYanVHdTl4cUNLZmt5WUdkdXFHVVFnNVRKRUFnWE9QSUJhelJkc2RhTWtIR0VvekxPaGZzTjF5bWhwSWotaklTYTRMdjJKUQ?oc=5",
       "date": "2026-11-25T19:19:41.000Z",
       "topics": [
@@ -94,8 +132,8 @@
       "source": "nyt",
       "country": "us",
       "title": "With Lead Tests Underway After Iowa Detonation, Army Seeks to Ease Fears",
-      "titleKo": "아이오와주 폭발 사건 이후 납 테스트 진행 중, 육군, 두려움 완화 노력",
-      "tr": "google",
+      "titleKo": "아이오와 폭발 사고 후 납 검사 진행 중…육군, 주민 불안 달래기 나서",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WTdhRUhpRWxPb1V3LWV4X0htalpmRHNTN0RVNDc5cDNaQUNqWHp4YkE2OGNocVNLT0dxYU1IbTctUjdubUZzZ1luNklkUzVLOFVXcUNlcFJ1OFpWUl93X0NmSWFnb3BRemFTTExKcENESVlpMkF6LVNCSW0tYmc?oc=5",
       "date": "2026-11-25T19:03:01.000Z",
       "topics": [
@@ -521,8 +559,8 @@
       "source": "jagran",
       "country": "in",
       "title": "'इंद्रियों पर नियंत्रण का अर्थ है अच्छा जीवन-मोक्ष', PM मोदी ने साझा किया संस्कृत श्लोक; जानिए क्या है अर्थ",
-      "titleKo": "'감각에 대한 통제는 좋은 생명 구원을 의미합니다', PM Modi는 산스크리트어 구절을 공유합니다. 무슨 뜻인지 알아보세요",
-      "tr": "google",
+      "titleKo": "모디 총리, 감각 통제가 곧 좋은 삶과 해탈이라는 산스크리트 시구 공유…뜻은?",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG5tUVlYcW5VSEc1UzRCci14aXZjeEQ1dzNnTEdvQ3NwLWtzaDVPckEyLVhUQ25EZk54Skw4OVQwRUJ3dnNPWE9KbGphdFdNeTBzdEhQZlJhTUFXNHF5NjRJd3dOd0cxR1E5Vmg1Xy15cV9UV0dVQWJmOE5yQjZFM0xLN0ItR2NUWEN0YUZLcFN4Qnc4bHNqTDZaclhPNGFfbGx5bQ?oc=5",
       "date": "2026-11-25T15:31:00.000Z",
       "topics": [
@@ -584,8 +622,8 @@
       "source": "hindu",
       "country": "in",
       "title": "Price rise, KSRTC fare hike trigger BJP protests in Mysuru",
-      "titleKo": "가격 인상, KSRTC 요금 인상으로 인해 마이소루에서 BJP 시위가 발생함",
-      "tr": "google",
+      "titleKo": "물가 상승·KSRTC 요금 인상에 인도국민당, 마이소르서 항의 시위",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV3RCWmVJZkx3RXJBTk10V2lwY0RSZFJmeFA1YnN3SWNJM0g5LWJFS1BVU0hXaTE4TU5kZWJDRzNGZHdVeXhMSW1VdGdCWHNhRnhCU2F2Um5wcktZampJMXM3cGYxLVMtVFJkMmFQUlcyNWFkaUJqc3BkM29nN1hfOTU5RF8yNGdCVTY1Ul9IMnA5c3ViS041Uy1vbENDRHI2TGpUbTdobURNLTdNaHdLQVNFYVMzLUFaQXdEdG9KQzhBRUxE0gHLAUFVX3lxTFByUFFaalpLeDY3RXZnVXlQM0thcmVIczdiWVpLMm5uRlFfSEM4UEJ4SjNBQXJvVDFnb2JobFhZemNPTmhBNEZLR0pUT2dWenVybDN3ZjhTX1FrZWFZaDNjNHIxSThYcFpNY2Y4aHlYVHFNR3JqYzdkZ2kwTlhZMFhZT3RKSG9JOVVEYld2Skc5SUdmU0FUTG1HbDViNmNtcldnVzFpOS1lcDNtdGxJSDlEX0Q2clI2WW9jdU5PVDIyR243eG1ZazBrUHA4?oc=5",
       "date": "2026-11-25T14:57:12.000Z",
       "topics": [
@@ -913,8 +951,8 @@
       "source": "reuters_ru",
       "country": "ru",
       "title": "Russian attack damages Ukraine's energy and gas sites, cuts power in five regions",
-      "titleKo": "러시아의 공격으로 우크라이나의 에너지 및 가스 현장이 손상되고 5개 지역의 전력이 차단되었습니다.",
-      "tr": "google",
+      "titleKo": "러시아 공격에 우크라이나 에너지·가스 시설 피해…5개 지역 정전",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDhyeUxrcS1sWnpSWnJPa1JGcXM0VDJ1U2FDamw1U2JxTm9May1fN1FPYmI2UjFqcTA0dmsxejlwS1NwRGpwR2RqQnN3cVJWU0VTcERHTzlhOHpzVmp6QUcwRUtNVzJQQjhmSTdmQ3h4YnptankzQ0RzRzZWWkk5LUNOTWRVT3dYUjhwZnh1NktRVjFpTGVadE5qTFZTb0xBU0lKbTdpdno1RmZrbzJHSDJxSHl6TzI0WDJqVml3?oc=5",
       "date": "2026-11-25T13:02:14.000Z",
       "topics": [
@@ -1090,8 +1128,8 @@
       "source": "wire",
       "country": "in",
       "title": "Connectivity as the Next Frontier for Indias Banks, Fintechs and Travel Apps",
-      "titleKo": "인도의 은행, 핀테크 및 여행 앱을 위한 차세대 개척지로서의 연결성",
-      "tr": "google",
+      "titleKo": "인도 은행·핀테크·여행앱의 다음 격전지는 연결성",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmtrdEJza3ROXy1YOEQwYUdtZ0FFYkl6bU9PZFpYN2NoUEM1c3cwVG9fUUpRbnd2NUZ6ZVpocDBNaUlFVzE4RDJBSjh1TjF6OHY0RHNXdlBhY25jVDJDNU94Wm15VlVjTkdYOC11Sms2elJNVzFKd2VUZ0dFYWZkX0tzZUVUemo0SkZJcnA5bS1QYnBjem5jb1ZMcC01TWttcVZYdkdoTzBjeUJ5YXFWVXFQbnHSAboBQVVfeXFMUG1BcUlfVWZneFlyTTd1WXdIRm5sakt0YkI4VWpZOUdrMDVYY1VwcWxmS2xMdVV5dXk1X3o1TXNxSl9xVXhJck9ENDRDMzctaVBScG5RUWVIOGxIVnJ5TVl6eEpGUFlPajJFejZQeFZQdFNDRmZoOGw5cGRfaEZLWExfb2pZaEFlYjdsTHp0am5PQlZYc2RkMzFiNVpTZUFVbGZGNXVoYnc0aUl4TVFJbVJwRFN5em1qS2pn?oc=5",
       "date": "2026-11-25T12:00:34.000Z",
       "topics": [
@@ -1544,8 +1582,8 @@
       "source": "guardian",
       "country": "uk",
       "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
-      "titleKo": "M&G 사장, 영국에 Compass 퇴출 이후 런던 증권거래소를 떠나는 기업의 홍수를 막을 것을 촉구",
-      "tr": "google",
+      "titleKo": "M&G 대표 \"컴패스 이탈 후 런던증시 떠나는 기업 물결 막아야\" 영국에 촉구",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeHctSVZ4Z2lIalFrTlgxR3QtaDFpejlUUWNKbUdJLXNwSF9hX0xodDRUVXhhaW5sN2FmN0pwUzJqUnhCN3IwaElqNV9NWnlQOGM5YlBuMXJPUVV5YTJlcm5DWjJBVWJOS2dTenZJLWdyRVhCU1Z1VEczNXYwNU1yRV82VW9ZaTIzd2RKXzl4R3VYSlJFMjdZZWtiWXpYeVZ1VkFzeGFpak1Xdw?oc=5",
       "date": "2026-11-25T09:22:00.000Z",
       "topics": [
@@ -1556,8 +1594,8 @@
       "source": "caixin",
       "country": "cn",
       "title": "EU to Cap Hybrid Imports From China, Other Countries",
-      "titleKo": "EU, 중국 및 기타 국가로부터 하이브리드 수입 제한",
-      "tr": "google",
+      "titleKo": "EU, 중국 등 제3국산 하이브리드 차량 수입 상한 설정 추진",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdVZXcEVsV2ZiNExEa1U4TzBUV011d3c2VWctSkRmVC1nUXlYUTRJMkdFRkpJTWs2MlpwQnVoS052cWdsc3h3TGd5eU1fSFdWUEJNN205ejRzenZhMjg2bmVsOUkwdlJVdHhtLU9vOUduMVBxNkVmdURrTmtseV82MFViUDBoOUNTdDJGMzk4QXdZVTJTVHRUdXBzY3ZXLWR2R255a1hDdjkwQQ?oc=5",
       "date": "2026-11-25T09:16:00.000Z",
       "topics": [
@@ -1675,8 +1713,8 @@
       "source": "reuters_kr",
       "country": "kr",
       "title": "Aramco, S-Oil inaugurate $7 billion petrochemicals complex in South Korea",
-      "titleKo": "아람코-에쓰오일, 한국에 70억 달러 규모 석유화학 단지 착공",
-      "tr": "google",
+      "titleKo": "아람코·에스오일, 한국에 70억 달러 규모 석유화학 복합단지 준공",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdC1LV09jNTg1TExDUjBUUDgyRWhmYk9xNFV6QmdfYUtRZXlERDF0aS1rZlpuLXh0eWpMZTJXMUM5c1dHMGJJZ2k1YlJjOUdaeUNmMmdFTk1Gc3JTUC1zX242dWxGVmV0NDBSR2VsTjhIU013bGZyWFc1Q2xNWWR1cHMtdjJ5bTlwME84S0Z5T0xRQnhKVmlGYUFrYjFaQnZXTWM2R1FqS0dHMi02d0h5UlZnZnlQdzVockxLMg?oc=5",
       "date": "2026-11-25T08:42:39.000Z",
       "topics": [
@@ -2288,8 +2326,8 @@
       "source": "xinhua",
       "country": "cn",
       "title": "China, U.S. hold first agricultural working group meeting under Board of Trade",
-      "titleKo": "중국과 미국, 무역위원회 산하 첫 농업 실무그룹 회의 개최",
-      "tr": "google",
+      "titleKo": "미중, 무역위원회 산하 첫 농업 실무그룹 회의 개최",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05aW5ta1JXZFhIbUc2VVNnSFJVUnJMbU9JX0xBeXFCXzZEQ3ZkSERrTDJyWnFyNWJBcWw1cEpzNjNDb1BkdkZtaWJJQ28xZ3BRZU5HTjBnbjdoRF9UcnZzMHlPV1ZCdkk1emM3bFhaUktxNmJ3bVJESlZIeEs?oc=5",
       "date": "2026-11-25T05:35:00.000Z",
       "topics": [
@@ -2455,8 +2493,8 @@
       "source": "ft",
       "country": "uk",
       "title": "M&G boss calls for stamp duty cut to halt London companies’ flight to New York",
-      "titleKo": "M&G 사장, 런던 기업의 뉴욕 진출을 중단하기 위해 인지세 인하 요구",
-      "tr": "google",
+      "titleKo": "M&G 대표 \"런던 기업들의 뉴욕行 막으려면 인지세 인하 필요\" 주장",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZlNIaTlhSXZSRWJqRkMzTFo3TnhJMWhJdDVYcURqWlpPeW5aRmstamFnWGl3cE5mS3ZwRjE1Z3l2RkdweDIwclBuWmdNNFRhZVljRkQyTzF0VFg5WGs5N0IxSFVGWm5Qb2NfNkgwdEg5YVpUZndSbnl6Vkdnd0F6Yjc1Rlk?oc=5",
       "date": "2026-11-25T05:01:50.000Z",
       "topics": [
@@ -2517,8 +2555,8 @@
       "source": "reuters_kr",
       "country": "kr",
       "title": "South Korea to unveil EV industry support measures as Chinese competition grows",
-      "titleKo": "한국, 중국 경쟁 심화에 따라 전기차 산업 지원방안 공개",
-      "tr": "google",
+      "titleKo": "한국, 중국 경쟁 심화 속 전기차 산업 지원 대책 발표 예정",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdVJPbmFFdHNoOWFvak9na2g4QjVyODdxSk9MTDFGYUtzWUhOVi1qOF9VaERvcUdqZ2tlRVNTU2Q4MEFlZ2padWVCOWF1NUNsbjV3V3ZIdjB3enA3Q29mTXMybGVnNUpIYzhYS2l1ZGJmQlJwLUNaNFQzWVM2dmpqdU1YTTN0bDdBVm9zNTVJUjBrZnpQcUZjWGQxNEtaOEphNVdFWk1VZlpfRmwzU3psM2NHVFhoMDZ4bFVXa3hRSEJWTVljWkdHZA?oc=5",
       "date": "2026-11-25T04:29:00.000Z",
       "topics": [
@@ -2529,8 +2567,8 @@
       "source": "et",
       "country": "in",
       "title": "Why India’s agentic AI boom needs both strong corporate governance and a light legal floor",
-      "titleKo": "인도의 주체적 AI 붐에 강력한 기업 거버넌스와 가벼운 법적 근거가 모두 필요한 이유",
-      "tr": "google",
+      "titleKo": "인도 에이전틱 AI 붐에 강력한 기업 지배구조와 가벼운 법적 하한선이 모두 필요한 이유",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ2dxdVFGd3EzOWZHT0pFTEJFNE1SZGk4djVqS0tKbkE4U25oU242enhPMHQxNi03Yk9DUmw3MmhfUWQ4LU9OWUpxUFRuMWd6NGNxZXJyVy1BU3d6QWY0TnEwRGN4S2JCNGZCNlFQak80dV9GNWNmRzlqOGd6WjdJUWdoVnBzb2VVUEE3a1JabkZ4b1cyM0dvd044RGhlUEtjd1FzMDNwVFY2c3hlR3JlR3YxWkI0WnVkNzlVUk1FU2hDOHdiNlM4ZHIzLWJUWFhVM3dwQlZ3MG1MNWZKZ21zRTVJRFFRZ2PSAewBQVVfeXFMTWpFbGZ3UjFxc3V0bFZhaFVxQ25hc0hNaHpZRklHX0c1WVpiSl9Ha09yeEpkWXRYVnZpSmExMV9uWEprZGJDeUdZQXRjb00wRDBxNDNkTjRqS2hrMGU3U01WLTYtRElENTEwZjM3SEJCXzV4ZW9kWjJ3bVZTSmdweTJWS2hLOHZwdGdUdkdnWmtzbVNIXy1rQS1LSWtvQ0FIa3FWYVNBbDJrZXJfVFBNemt0NDYtRU82Y1BwLUpqUjd3VmhMTS14Z0VJQUVjaFVsd3dVLTZ6c01LVTdrdF9NSWlpWTlnZW4xX21nYWk?oc=5",
       "date": "2026-11-25T04:16:13.000Z",
       "topics": [
@@ -3211,8 +3249,8 @@
       "source": "bbc_cn",
       "country": "cn",
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
-      "titleKo": "화웨이, 미국 영업기밀 훔친 혐의로 유죄 판결 받았지만 공갈 혐의는 무죄",
-      "tr": "google",
+      "titleKo": "화웨이, 미국 영업비밀 절도 유죄 판결…다만 범죄 조직 혐의는 무죄",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Ob0RXbGVjVm9xcjdLQkl6UW9ndDFEcjViS0lpN1c4RW9BX1RBYzNzcmhyN0lVN3JnSU1nY1JDN2ZRemYyY2wzUm9GcjNsMC03cXlGSnRZWTgtTjQ?oc=5",
       "date": "2026-11-24T22:24:23.000Z",
       "topics": [
@@ -3926,8 +3964,8 @@
       "source": "haaretz",
       "country": "me",
       "title": "Analysis • Iran is running out of electricity. Is the regime running out of time?",
-      "titleKo": "분석 • 이란은 점점 어두워지고 있습니다. 하지만 정권은 살아남을 것이다",
-      "tr": "google",
+      "titleKo": "분석 | 이란 상황 악화하고 있지만 정권은 생존할 것",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQN1NTYXhkbm45R0ExNEppNUJqWThLNEoxb3FoNjJ3cHpzZURub3cwS3AyZXRIYVMxWXFleXRPZFZNbjZNTl9DRy1kOXF4YUttLXhBVlppZVVlZVA1TGl0elBHVTdNTjRxb1pTa2FNbE5CYmtBaUpSMEdGd3pMdjRKM3YyNlhKajdfLUxpM3FQUXJ1ai03ZzM3NHpMeU1WaUYwVnpFT1VqbkNTeHNUVC13TFRVRlI1R010eWhFLW0wQi12ZDVXb2tKWmM5VWI4YlVSM0s4UTZVRFV0d1JQNGVjRFVJWmprTzhGOV8xUHhyR3U2bTRoajlxcnNIdEkwRjd1aXdxN1NpWDh3YVRuUzlZ?oc=5",
       "date": "2026-11-24T17:43:00.000Z",
       "topics": [
@@ -4255,8 +4293,8 @@
       "source": "republic",
       "country": "in",
       "title": "'Terror Gets No Applause, Nation Comes First': Cine Body Writes To PM Modi, Seeks Ban On Pakistani Series On Netflix India",
-      "titleKo": "'테러는 박수를 받지 못하고 국가가 우선이다': 시네 바디(Cine Body)가 모디(Modi) 총리에게 편지를 쓰고 넷플릭스 인도에서 파키스탄 시리즈 금지를 요구합니다",
-      "tr": "google",
+      "titleKo": "\"테러에 박수는 없다, 국가가 먼저\"…영화계 단체, 모디 총리에 파키스탄 드라마 넷플릭스 인도 상영 금지 요청",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPS1dYdzVHc1ZBc3hxT0hsQXdsd09BT0ozQVpGS0RHM3NkZXNDTjU1RWNIS2dFM1FXU2lhNVZnWG05VlZxZDk3bG1jbkp5ZnI5bHozbWFod2tkQTlQU0pad0hlWWllOEp2aG9feVZNVjMwRGJ4alV4STJsWmVyendkODNiYWdZX2NiVV94amw3TkRTdFJHNm1zSldiVjVrZkZnTUROVXlVQkQ0VkJtZ2Z2bDdkYXdNMGE3eHFxblpYN1NzRGxwb0dtN215VDduQUY2Slp1WGVIR3p5QkdPWUllS3ZHcnFHa2xGbWE1SVFSRUw5bk96R3g4QWJ2Y2JTWXRMaENYWmg1VEVHV1HSAZACQVVfeXFMUHhpT1FqR1FkVk0tOUVyallhaWJaS3I5UHNuTG9NSVpfT05TWll3MHhybVJ6dm5OTUt1ek1kd0dnaGVKNXY5NXZ3S21WX1ZpTzJiX3Y3X05pRDFuSURPMkpPS3gzVnM2QUtQZ19xazVlbjZjNXAyYWFDVjRjaDVWMk95VUJBb0ZMd3RWWEl2TElSeENxYmZIemFJUTNpN2NyWmNkNV9peWhabUZ3X1RkeXVZbWJ5a1ctMTA2aEZYOWtheW1iUFg2ZHVHZlRINUl1bk9LZjUzck9sSk9KSHJVX1VKdFNlenFTQ1YxX0RrSEpjOXpCWjF1YXNfVGxCWXJSZzZRWGFTZ25aT2F0ejJmZDQ?oc=5",
       "date": "2026-11-24T15:56:29.000Z",
       "topics": [
@@ -7370,8 +7408,8 @@
       "source": "aljazeera",
       "country": "me",
       "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
-      "titleKo": "이란, 소강상태 후 걸프만에 있는 미군 기지와 민간인 기지 공격",
-      "tr": "google",
+      "titleKo": "이란, 소강 상태 이후 걸프 지역 미군 기지와 민간 시설 공격",
+      "tr": "claude",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2pfMWtKZi1pMzc3aElGakNfU1UwRTFnQVIxblFxOXJPa0ZUdENpQllheE5JNXVaR0pFYXJlMi0tcnpzekNrSXFkMTZObTY5WWxqN2tpLTBYX1B3aEhuTldfbG0xa0Mwal92YU5qTkExSFZWZEQyY3FyU3hOV0g0VVJKQ0lTNDE3bmJXczlDQ0ZOWnM2RmJtOG9qbFUyS1JEaFY3YW5OdVpqc1BmWjVFcHFCUGRCUEljRXfSAb8BQVVfeXFMT3NkVTRoM1pGVE02TkRWQmx4Ml9WQjgwT0xNRHY1dVRyVnQwTHVzcURpZXlXUEN4OFNRWEFYYklCUVE5VWtqUG1YZURNTjBWXzdZTVUxQmExalVDUzIzaDVvdFNjTjB6UHMwQlhSSWdRYVIxekZnUXc0bGpSbExiV09BR0U0bkZFX2NOYi1XbEl0Nkg1aWJTVlQwQ2RldTVWcGw4ZmRtcVR4WXVrVHNJaG1BOXUxMnpkSWdUZ3NCbm8?oc=5",
       "date": "2026-11-23T20:29:12.000Z",
       "topics": [
