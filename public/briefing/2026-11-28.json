@@ -1,0 +1,1467 @@
+{
+ "date": "2026-11-28",
+ "title": "11월 28일(토) 아침 이슈 브리핑",
+ "window": "11월 25~28일",
+ "articles": 815,
+ "author": "Claude",
+ "headline": [
+  "미국은 대중 반도체 통제를 조이고 중국은 자립을 앞세운다.",
+  "EU 예산 정상회의가 결렬돼 독·프 공방이 연말로 넘어갔다.",
+  "트럼프는 '탱고엔 둘'이라 했고 전선의 공습은 계속됐다."
+ ],
+ "headlineDetail": [
+  {
+   "status": "cont",
+   "change": "NYT '화웨이가 중국 AI 중심'·WSJ '미국 우위' 엇갈린 평가",
+   "keys": [
+    "반도체 통제",
+    "화웨이",
+    "AI 칩"
+   ],
+   "desc": "미국의 대중 반도체 규제 강화 뒤 미국 언론은 효과를 두고 엇갈렸고, 중국 군사·경제 압박 속 한국은 AI 칩 호황에 수출 최대 증가가 전망됐다.",
+   "items": [
+    {
+     "c": "us",
+     "t": "NYT '화웨이, 중국 AI 중심'·WSJ '미국 우위'"
+    },
+    {
+     "c": "kr",
+     "t": "AI 칩 호황에 11월 수출 50여 년 만 최대 전망"
+    },
+    {
+     "c": "cn",
+     "t": "증시 2년 만 최대 급등 (신화 언급 없음)"
+    }
+   ]
+  },
+  {
+   "status": "cont",
+   "change": "특별 정상회의 결렬, 크리스마스 전 재협상으로",
+   "keys": [
+    "EU 예산",
+    "메르츠",
+    "마크롱"
+   ],
+   "desc": "추가 삭감을 요구한 독일과 증액을 요구한 프랑스가 맞선 EU 예산 특별 정상회의가 결렬됐고, 양국은 국내 예산과 경기 부진 문제까지 안게 됐다.",
+   "items": [
+    {
+     "c": "de",
+     "t": "정상회의 결렬, '크리스마스 전 격돌' 예고"
+    },
+    {
+     "c": "de",
+     "t": "연방하원 2027 예산 5559억 유로 가결"
+    },
+    {
+     "c": "fr",
+     "t": "성장률 악화로 '기술적 경기침체' 진입 보도"
+    }
+   ]
+  },
+  {
+   "status": "cont",
+   "change": "트럼프 '탱고엔 둘'·'푸틴 G20 가능', 우크라 드론 상트페테르부르크 공격",
+   "keys": [
+    "트럼프",
+    "푸틴",
+    "드론",
+    "G20"
+   ],
+   "desc": "트럼프가 러시아의 평화 의지를 언급하며 푸틴의 G20 참석을 열어 뒀지만, 우크라이나 드론이 상트페테르부르크를 공격하고 러시아는 진격을 주장했다.",
+   "items": [
+    {
+     "c": "ru",
+     "t": "타스 '러시아는 해결 추구' 트럼프 발언 부각"
+    },
+    {
+     "c": "ru",
+     "t": "우크라 드론 상트페테르부르크 타격 (타스 언급 없음)"
+    },
+    {
+     "c": "uk",
+     "t": "젤렌스키 '푸틴과 친구는 히틀러와 친구'"
+    }
+   ]
+  }
+ ],
+ "know": [
+  {
+   "c": "jp",
+   "t": "CPTPP, 인도네시아·필리핀·UAE 가입 협상 착수",
+   "why": "가입 협상국이 늘며 CPTPP 중심의 자유무역 확대 흐름이 이어진다.",
+   "source": "nikkei"
+  },
+  {
+   "c": "de",
+   "t": "독일 정부, AI 제공업체에 비용 부담 요구 검토",
+   "why": "정부가 AI 기업에 비용을 물리려 한다는 보도로, 독일 AI 정책 방향을 보여준다.",
+   "source": "handelsblatt"
+  },
+  {
+   "c": "in",
+   "t": "인도 대법원, 식품 경고 라벨 기준 강화",
+   "why": "대법원 판단으로 식품업계의 표시 규제 부담이 한층 커졌다.",
+   "source": "et"
+  }
+ ],
+ "countries": [
+  {
+   "id": "us",
+   "issues": [
+    {
+     "title": "미 대중 반도체 통제 강화, 화웨이는 중국 AI의 중심으로",
+     "status": "cont",
+     "change": "NYT '화웨이가 중국 AI 중심', WSJ '미국에 우위' 엇갈린 평가",
+     "keys": [
+      "화웨이",
+      "엔비디아",
+      "AI 칩",
+      "수출통제"
+     ],
+     "what": "미국이 대중 반도체 규제를 조이면서 엔비디아가 동남아 판매를 멈췄다는 보도에 이어, 규제 효과를 두고 미국 언론의 평가가 엇갈렸다. 트럼프 행정부가 옥죄려 한 화웨이가 오히려 중국 AI 추진의 중심이 됐다는 분석이 나왔다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "뉴욕타임스는 '트럼프가 화웨이를 무력화하려 했지만 이제 중국 AI의 중심'이라며 제재의 역효과에 초점을 맞췄다."
+      },
+      {
+       "source": "wsj",
+       "text": "월스트리트저널은 '판도를 바꾼 조치가 미국에 AI 경쟁 우위를 줬다'며 규제 효과를 강조했다."
+      },
+      {
+       "source": "fox",
+       "text": "폭스뉴스는 이 사안을 제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nyt",
+       "title": "트럼프가 옥죄려 한 화웨이, 이제 중국 AI 추진의 중심에",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TcDdtZ0tkZWZ4OE1nUFM2TDY0bVJFTGkwTzJVaEgyNVRqd2x1RExGWTZQem9jcWFpbEx6bDI0UGJhZjdtalR5alVFVXZlOGhiY0luVDg0OTRvbkplSXgyX2dKMjRQUFowMndaZEp3bTNIOHJHYzlUSFRn?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "판도를 바꾼 조치, 미국에 AI 경쟁서 중국 앞설 우위 안겨",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc1dvWjR3SFB3M2hyVEtON1huQkRwWGJsX3g3aWZZS3ZpYVpsRjgtR3VfWjQyNGRhSWpRbENpTWVzNGNoNEhZbzBxaU51aE5lb3otbDF4d0JtRm0yak1lX1dtV1k2My1TZlBKbVA5OU9sRjhxZlk1NGVrX1FGcVFoZHdOcVNhMERSZkhaSHlPN2FKcHFVbTZUbm5FUmdtbmc?oc=5"
+      },
+      {
+       "source": "nyt",
+       "title": "엔비디아, 미국의 대중 규제 강화에 동남아 판매 중단",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHM3RHJjQzd5X25CS3B2YkpjVm9fa092SkJjUmlWLS1xRi1EaFZNam9wTi1lbUpmTXdPeVRaYXdjM2hnT2dLenQyQXVtOHZzcDJ5SkZSeGdlS0ZCZHMtMUNfclhqT3VJVUNmNy1yUmtNMnlnRkhvd1ZWV2FKdVQ1QmtB?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "트럼프 추수감사절 메시지…소말리아인 복지 의존 비판, 장병과 통화",
+     "status": "new",
+     "keys": [
+      "추수감사절",
+      "소말리아",
+      "장병 통화",
+      "석유 50%"
+     ],
+     "what": "트럼프 대통령이 추수감사절 메시지에서 소말리아계 이민자의 복지 의존을 비판하며 미국에 남을 사람의 기준을 제시했다는 보도가 나왔다. 장병과의 통화에서는 '미국이 세계 석유의 50% 가까이를 가졌다'고 말하고 이란에 대한 러시아·중국의 지원을 깎아내렸다고 알자지라가 전했다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "뉴욕타임스는 추수감사절 메시지를 제목으로 다루지 않고 2028년 대선 쟁점과 의회·트럼프 충돌을 짚었다."
+      },
+      {
+       "source": "wsj",
+       "text": "월스트리트저널은 이 사안을 다루지 않고 연휴 장세를 전했다."
+      },
+      {
+       "source": "fox",
+       "text": "폭스뉴스는 '소말리아인 복지 의존에 맞섰다'는 표현으로 메시지를 전하고 장병 통화·전투기 일화를 연이어 부각했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "fox",
+       "title": "트럼프, 추수감사절 메시지서 소말리아인 복지 의존 비판…미국에 남을 사람 기준 제시",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXYxRmtaY1RiZ2V0WnI1OHQtX1lXUWtpYWZGR3pVZkRaV0pDQzAwSXJWOWx0V3UxZ1gza0xoZUxLSjYzQ2RtU0tia18xeGJndHoxbWpfV3RSTHRUZ3kzWmdjY3A4dk93eW8xMVpock5leWZHWk81dHZaZlZxRUFtUGxDOHd4d2hUdFRadUVFdDg2Y3dESTJIVjY2V09tSFJETHM5UXJNTXE0WEt0REtDOVg4U2UzZ9IBuwFBVV95cUxNTS1mdWVUNUN3WGZUOTdzQWRZS2U3cDB3aS1nc0V3NHZadEF5U3BIaU9LR1ZQcHF3akM4bEI2VXlNSVAzV2hIeXlyZHBwODZkN2pydll2NE5XVy1IV1FQNzZmZzUzdlBEUGZRRjFBSlZMWVY5MnRPUDlBbmtRR082YU5xU3pNcjhVWkJISW40YVkxRDhldjdoVmJpanhEQjlEMV8ycXh0LUJLRXc1dTRBUk5SeXhHdHNRb3M0?oc=5"
+      },
+      {
+       "source": "fox",
+       "title": "트럼프 대통령·영부인, 추수감사절에 미 군 장병들과 통화 (생중계)",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVVkpfR2RfYmdGMC1qMmNhYmF3Smo1RV9MNm5CcU9odmt6UlJodmNtSG9rNWlfV21hdmRzWlpGWXZCVVE0MUdLYnhqYzdWd0RlY1c4cjl3?oc=5"
+      },
+      {
+       "source": "aljazeera",
+       "title": "트럼프 \"미국이 세계 석유의 '거의 50%' 보유\"",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkVpSWE0aGtyVzMxamxNZk5BLVFoOFkwLWdEVHVsZkhZWlFZY0NtSmYtUXYwTWFfdnZ5clBGLUNLQXJvUkZKMjFEcy1NcGV4c1JSMEtqczBneWRxUG9oYjZUZXJGbWNVTE1ZYTE1MDhTRDZCMnRXdUxoN3pNUFlpdEd4N2dYb2llclo4ZTVQTGdhSmtDd3VVSG9pOWl5elJT0gGmAUFVX3lxTFA2NmFCT09JZjNGb3JXSy16ekk1QnBxYmtRTkgtMDA4LVJnSEJfd0x2Z0IxRkU3eVNGQnMxNHZNYWt2OXNEWnk3eXoteXRmOUZFVXN1bFdNWG9FMkJVbXFjQ2tKb2dYSlVVTkVXSzZTRnlDaG1MR1cwaW0xNms1bmdwS3Q1X1FhSEdwZlZ5V2Rkd1ZWeWlCWmRWajQ5VDlySTlnaEktaXc?oc=5"
+      },
+      {
+       "source": "aljazeera",
+       "title": "트럼프, 미군 장병과 대화 중 이란에 대한 러시아·중국 지원 축소 발언",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd256NGN4WEpKSTFrZzlVR21VZl81clNOdVdhUzkzQTktcHhIV1VzaUppUEdxUUZISXFlRmFMaEdCWGlMcmZDMVlfSVZjbTNnMGIyS3NJUlZGZEIxYldYcThUaERlU2xvN09fRE1ta2drMWtuSXRLdGhfdFZqZG9ob2daNmFDV295dENhUlNuR2M3ZDF6UnlMMWRCcXY4MTdkQ2NnSExkUHBLSEV5bWhsd2xZOW8xZw?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "추수감사절 뒤 AI 거래 반등 기대, 주가선물 급등",
+     "status": "new",
+     "keys": [
+      "AI 거래",
+      "주가선물",
+      "국채 금리"
+     ],
+     "what": "11월 AI 관련주 급락 뒤 추수감사절 연휴를 지나며 투자 심리가 안정돼 미국 주가선물이 크게 올랐다. 단축 거래일에 미 국채 금리는 상승했다.",
+     "stances": [
+      {
+       "source": "nyt",
+       "text": "뉴욕타임스는 증시 반등을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "wsj",
+       "text": "월스트리트저널은 'AI 거래 안정', 'AI 거래 반등 준비'로 연휴 전후 시장 회복을 연이어 전했다."
+      },
+      {
+       "source": "fox",
+       "text": "폭스뉴스는 이 사안을 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "wsj",
+       "title": "미 주가선물 강세… AI 거래 안정세에 추수감사절 연휴 앞두고 상승",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYVpJLTJSaU9XYTF3eFlMR2RLUl9zblNqVXpYQ2k2MGk4M3dZdGduVzRxWEZHWVJFX052TVIta1lIS2xILVBtdUVRYTRtMUloa21KXzhaUGFBdDdWcVdjNTFwcXRwcUhtaFg5ZUthalFGd0ZzWl9vbjJUX21KSWdLa2ZGdm1pa05HM0VTd0FWNHBtSWdTVVNfYW5mcUtHeDlWd2F3NU00MWxIVzQwNUF4dkJn?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "아시아 증시 상승…AI 투자 심리 안정 조짐",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcnRDczhFTDhaVXp4YmhscHNzZ3M3Z2JIVkNtdXJoQlJxai1BYnVtczd2Z3B6LThnRUVaWUxtVllXZnZWY0gzWVdTUlJSOFNMVXZfSWEwX2wyUVRnWUVtcVJlY1E4eXdaSk5wNDV2Z0lMSlBuUm13dy1saXp6ZlhLTTdBNHVLT1huOGpjYXNFbWtVdw?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "반등을 위한 AI 거래 세트로 주식 선물 점프",
+       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS0hzcmlIem9tcHVGU25zUE1LcVowbGZnWjA4NXgzVkt3Z1hUSDdYR0tUazluNXpjQlA0V3dPX1ZabGdBZ0xRTTBRbE5SUHd2TS1rQW8yTk55U3RCeloxdk1HeXdNMnBVeG5pV2xBTFZOTm9zcEFEdUNuVjNCOENYU29sYkRjc1psS3FFeGlIbEZIbmtQ?oc=5"
+      },
+      {
+       "source": "wsj",
+       "title": "추수감사절 후 단축 거래일, 미 국채 금리 상승",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTW1zSXpjNUxaVHZQNEZGUnVUWHAzRmlkRzBrd01SbllIUmVUQUVHZFZ5WHlRcmxmd0tWODJwTGRvSGZXRWtIQXd4MEx0LVY5Qi1PazkyX0YyeGZ2TXhlaTNRLVpvUk1rTlB0Qk93bktRRi1UU0R6dU1XOWdjam5MTFByT0h2UG4wMkJTSFhpa0VsRlJlMkVoZUZZcFBfVFUwdzdiSk1LTkM5MC10?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "cn",
+   "issues": [
+    {
+     "title": "중국 증시 2년 만에 최대 급등, 당국 '시장 지원 강화'",
+     "status": "new",
+     "keys": [
+      "증시 부양",
+      "산업이익",
+      "2년 만 최대"
+     ],
+     "what": "중국 당국이 주식시장 지원을 강화하겠다는 신호를 보내자 중국 증시가 2년 만에 가장 큰 폭으로 올랐다는 보도가 나왔다. 같은 날 발표된 산업이익 증가율은 5개월 만에 가장 높았지만 회복은 고르지 않다는 평가가 따랐다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "신화통신은 증시 급등과 지원책을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "caixin",
+       "text": "차이신은 '중국, 주식시장 지원 강화 신호'로 당국의 정책 의지를 앞세웠다."
+      },
+      {
+       "source": "reuters_cn",
+       "text": "로이터는 '2년 만에 최대 급등'과 '5개월 만에 가장 빠른 산업이익 증가'를 전하면서 '회복은 불균형'이라는 단서를 붙였다."
+      }
+     ],
+     "links": [
+      {
+       "source": "caixin",
+       "title": "중국, 주식시장 지원 강화 신호",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaU9KZHYwZ3BjNTgxN1lUdUJHNkp3Nl9IVHBiNkNEU2xwQ3dycEhtaEdjN2FMR3JLLXhDTkFOTHpTM0hIOGVRb0EzdDEwMUFnZWZxTUs0dmN6R3BNU1RpOEh5Nk44VXBYOEtoNll4akY0Ym81YUhZT20zNWZ3VGg3NDgzWFFnZFoyT01TTkNyczlobHlfSjV1UUdqTUpuZmVzUUVPTw?oc=5"
+      },
+      {
+       "source": "reuters_cn",
+       "title": "중국 증시, 중국 정부가 더욱 강력한 시장 지원을 약속함에 따라 2년 만에 최대 급등",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp?oc=5"
+      },
+      {
+       "source": "reuters_cn",
+       "title": "중국 산업이익 증가율, 회복 불균형 속 5개월 만에 최고치",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXpmLS1vbkF6ZV9ZNmNyaUpnUGVQTGx6RHRFSXNGX0NhWGhxQ0tET29xdFhjSi15VWloX1lscXVRZ3dKM0g2MVBwU3ppVkVKNE1KWmhNZDV2Y2dwUWt4MTV3YzBGdUhRYTBDVjg4cEgxam9yX3F2OGpIMXJNV2V1amg5bU43MzFoUFlKNFV1OUFUZDRfUnVhank3V2VVRHQ0?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "대만 선거 막바지, 중국군 상륙 신전술 훈련·전투기 출격",
+     "status": "new",
+     "keys": [
+      "대만 선거",
+      "상륙 훈련",
+      "전투기"
+     ],
+     "what": "대만 지방선거 유세가 대규모 집회로 마무리되는 가운데 중국이 전투기를 보냈다고 로이터가 전했다. 중국군은 연안 훈련에서 대만 상륙 신전술을 시험했고, 영국 텔레그래프는 우주에서도 보이는 선박 교량을 이용한 상륙 연습이라고 보도했다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "신화통신은 대만 선거와 군사 훈련을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "caixin",
+       "text": "차이신도 이 사안을 다루지 않았다."
+      },
+      {
+       "source": "reuters_cn",
+       "text": "로이터는 '연안 훈련에서 대만 상륙 신전술 시험', '선거 유세 막바지에 전투기 파견'을 연이어 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_cn",
+       "title": "중국군, 연안 훈련에서 대만 상륙 신전술 시험",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHU2ODhzTFRNUi1YM1VpRVZEZlg4MXFpaGxIZU5SZ2xxNVZFTWlFWHlITkJLNXhSendCb3RYckhpQkhqcDRVeDdRdVJWRl9WWnJWYlZvV2tMM1VaalU2SlRQQTRYNVZzc0Y2SVp0WmJKai1kN3NtSEU1MkxLSkhGN0M2TW9JOHFianYwZEtrNTE2NW81aGlLTWRpc18xd2hwUmI1XzdQVGxON0dJREhldE5R?oc=5"
+      },
+      {
+       "source": "reuters_cn",
+       "title": "대만 선거 유세 막바지 대규모 집회…중국, 전투기 출격",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRzJNWEpPd2tGOERUMUhtUXFlcjBfSzhwZ2xnTVRGUjVSQlJIbEZ3TjJuT3hUMFJCa2tJVGhJdlNsVFBSVW9JVGw3ZHE4dWhZZElLNnVmWnhDS2pYWDgyemx6YzRsQURWV1psM1h4ancxWm15bGFKV0wzMkZZOXk1cVRMZ2JJcXlqazV2OEJmWkpWT29USEFSOHRPaFpxRG82OVVZWHVRNA?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "중국, 우주에서도 보이는 배 교량으로 대만 상륙 연습",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWUNGV3VsS3c0OC03ZXkyMVEyWnQtTmo0MzhSNUJMN2EwMDYyRGJaa2p6Mk1JVDdub3ZjejRpVHcyWUVBLU5iLURSNmF6cGt3bVFHMGpFMWw0SFppTnQ2Yzc2YnZfVW1WN3FkQ0FidUprT3ltZXJZVFFsb0xoemg4TXVXeTgxTkVNQ0hISVdvR1BXZC1JRXA5YQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "중국 외교부 '역외 국가, 남중국해 간섭 중단해야'",
+     "status": "cont",
+     "change": "국방부의 대일 경고에 이어 외교부가 '역외 국가' 전반으로 확대",
+     "keys": [
+      "남중국해",
+      "역외 국가",
+      "일본"
+     ],
+     "what": "중국 국방부가 일본에 남중국해 분쟁을 부추기지 말라고 요구한 데 이어, 외교부 대변인이 역외 국가들에 남중국해 문제 간섭을 멈추라고 촉구했다. 대상을 특정 국가에서 '역외 국가'로 넓힌 발언이다.",
+     "stances": [
+      {
+       "source": "xinhua",
+       "text": "신화통신은 대변인의 '역외 국가들은 간섭을 멈추라'는 발언을 그대로 제목에 올렸다."
+      },
+      {
+       "source": "caixin",
+       "text": "차이신은 이 사안을 다루지 않았다."
+      },
+      {
+       "source": "reuters_cn",
+       "text": "로이터는 앞서 국방부가 일본에 '부추기기'를 멈추라고 촉구했다는 점을 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "xinhua",
+       "title": "중국 \"역외 국가들, 남중국해 문제에 간섭 중단해야\" - 대변인",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42a0hkY2RNQVlMTDRreFRSeHNqemdkWVlJamk4ejRwbWNGX09tV2FveDQ5dF9yMkVKR2tXdGgwR2hOYU91VmJGSFRRTGZudEY0YzE5cy1qeTVqbmdnZzV5STB3X3ktdFVWMzE1SW1PQk15YkdIVnVVWlRHQTY?oc=5"
+      },
+      {
+       "source": "reuters_cn",
+       "title": "중국 국방부, 일본에 남중국해 분쟁 \"부추기기\" 중단 촉구",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbUJVQ2JZcnNsSFBFOTVuU0tTUjZUOHpSNFhpMXFkOVIxR0NFSUJ5d0F4a3BVa1BRcXdIUldMZjFKd1lMV2c3VjYxRHZEWnpvOTY2UE92dXowSUh6U00xRHpVYm52Y3VYQklTaVNQWFJBdFVFNUxxSk9uX2R6X25qNjkzNE1LOUM1a011ZmpUd29sMHI2OTdyNmJrSVFScmNUTkl3WFhfc0h4N3ZHZkctRnlWNFRncUg1Wi13SHVDU0ZldkE?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "kr",
+   "issues": [
+    {
+     "title": "이란 '외국군 주둔은 분쟁 확대'…한국 해군 걸프 역할 확대에 경고",
+     "status": "new",
+     "keys": [
+      "조현",
+      "이란 외교장관",
+      "걸프",
+      "해군"
+     ],
+     "what": "조현 외교부 장관이 이란 외교장관과 통화하며 이란 전쟁에 개입하지 않겠다는 뜻을 밝혔고, 이란 측은 외국군 주둔이 분쟁 범위를 넓힌다고 경고했다. 로이터는 한국이 걸프 지역 해군 역할 확대를 준비하는 가운데 이란이 경고했다고 전했다.",
+     "stances": [
+      {
+       "source": "hani",
+       "text": "한겨레는 조현 장관의 '전쟁 불개입' 발언과 이란 외교장관의 '외국군 주둔은 분쟁 범위 확대' 경고를 차례로 전했다."
+      },
+      {
+       "source": "hankyung",
+       "text": "한국경제·매일경제는 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "chosun",
+       "text": "조선일보·중앙일보도 이 통화를 제목으로 다루지 않았다."
+      },
+      {
+       "source": "reuters_kr",
+       "text": "로이터는 '한국이 해군 역할 확대를 준비하는 가운데 이란이 걸프 군사 주둔에 경고'라며 한국의 파병 준비에 초점을 뒀다."
+      }
+     ],
+     "links": [
+      {
+       "source": "hani",
+       "title": "조현, 이란 외교장관과 통화 “전쟁 불개입”",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sVTJwYUZvZG5xNy1zclh5R0lmV1RaMjMtSU5femRvYVZMb1N4ZEF3U0J6YmdTSDVwQ0xKY2RCNjVFaWFrOEJyR3RnbVZ5R1FpckJfa25icXBIbnVYbXBid2cxNVdXNmhqeHVFY1NmXzVxQTJY?oc=5"
+      },
+      {
+       "source": "hani",
+       "title": "이란 외교장관, 조현에 “외국군 주둔은 분쟁 범위 확대” 경고",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wRkc3NjhISWpnTlJ5MTNMRGlfaVRNbG5nRnpfbWJuZFE0UkRnbHZ6ZV8wanduUVFCdGxTNF9NeUVBeUs1cVBneHEzZU9icG9rSTN3dFRCZU9EcWpTWUpJb3lTdWFEWkNYNmY5MTBxUTFfY00?oc=5"
+      },
+      {
+       "source": "reuters_kr",
+       "title": "이란, 걸프 지역 군사 주둔에 경고…한국은 해군 역할 확대 준비",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjgyMVEwOUJRYll3NXdiU29vVVlmcGMxc3VhTGdEZ3BaZzZ0bUFtemt1c01oMXhjcHlJMEoxVWppTFV2YU12Qk4xRjlzVTNZaEVyR0dBZGtRNEdvaGhCTHhPY2VEVTUtZUw3a3dGekV4VTZkYmp3ZzFjVmxMRnliRmhwZmJOdkZhS3dBNWVfVkU4SjdObjF4WFY4Mmo4ZDlGWFcxYTZnMmVDUXN3NTVPY2lObHZlRFd0aXhjbTR0NXkwWkFkSHVr?oc=5"
+      }
+     ],
+     "international": {
+      "reason": "미국의 이란 봉쇄와 걸프 지역 공격이 이어지는 가운데 한국 해군의 걸프 역할 확대 여부가 한·이란 관계와 호르무즈 해상 수송 안전에 직접 연결된다.",
+      "evidence": [
+       {
+        "kind": "media",
+        "source": "reuters_kr",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjgyMVEwOUJRYll3NXdiU29vVVlmcGMxc3VhTGdEZ3BaZzZ0bUFtemt1c01oMXhjcHlJMEoxVWppTFV2YU12Qk4xRjlzVTNZaEVyR0dBZGtRNEdvaGhCTHhPY2VEVTUtZUw3a3dGekV4VTZkYmp3ZzFjVmxMRnliRmhwZmJOdkZhS3dBNWVfVkU4SjdObjF4WFY4Mmo4ZDlGWFcxYTZnMmVDUXN3NTVPY2lObHZlRFd0aXhjbTR0NXkwWkFkSHVr?oc=5",
+        "title": "Iran warns on Gulf military presence as South Korea readies expanded naval role",
+        "date": "2026-11-27T05:12:00.000Z"
+       }
+      ]
+     },
+     "reactions": []
+    },
+    {
+     "title": "11월 수출, AI 칩 호황에 50여 년 만의 최대 증가 전망",
+     "status": "new",
+     "keys": [
+      "11월 수출",
+      "AI 칩",
+      "수출 1조 달러"
+     ],
+     "what": "로이터는 한국의 11월 수출이 AI 반도체 호황에 힘입어 50여 년 만에 가장 빠른 증가율을 기록할 것으로 전망된다고 보도했다. 정부는 반도체 경기와 금융시장의 연계성이 높아졌다고 진단했고, 국내에선 반도체 쏠림과 시황 변화 신호를 짚는 보도가 이어졌다.",
+     "stances": [
+      {
+       "source": "khan",
+       "text": "경향신문·한겨레는 수출 전망 자체보다 반도체 호황기 초과세수의 비반도체 투자(산업연구원)와 '코스닥 매수 사이드카, 반도체 주춤'을 다뤘다."
+      },
+      {
+       "source": "hankyung",
+       "text": "한국경제는 '없어서 못 판다더니…반도체 시장에 심상찮은 신호'로 호황 속 경고음을 부각했다."
+      },
+      {
+       "source": "chosun",
+       "text": "조선일보는 '수출 1조불 韓의 미래는?'으로 독일·중국과 비교하고 정부의 '반도체-금융시장 연계성' 진단을 전했다."
+      },
+      {
+       "source": "reuters_kr",
+       "text": "로이터는 'AI 칩 급증으로 50여 년 만의 최고 증가율'을 제목으로 올렸다."
+      }
+     ],
+     "links": [
+      {
+       "source": "reuters_kr",
+       "title": "11월 한국 수출, AI 칩 호황에 50여 년 만의 최고 증가율 전망",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkp1LWozY2ZReDhYRHNMVDFCYXFRd0p5UXFrbnltSC0weTB2TUdpaXZpSlYyUXJMbzJDMmRTbU15ajBYU2pTMEpNT2wzT2dlRy1TQzRaZXRQaERGMVlIamV0NWxPVnU1U2t1UzRHZ1ZLUUIzYVVWSWpjb2xvdVZNY1c1SmVfem03dF9kMGZqMnZkZUFCaGFJdWtkVDBEM290NXdpaFlwS0NybmV0Nmp4dTY3N1hlZlRhTmRnYmE4SG1GZ0Vfb05JMnZTaWFDUQ?oc=5"
+      },
+      {
+       "source": "chosun",
+       "title": "환율 덕 본 獨은 정체, 물량 늘린 中은 재도약… ‘수출 1조불’ 韓의 미래는?",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSktyVGxzRmFibnRmWnZSSnlTZEJmY2FOOFlCa3gxSElQMnl3cUFzdEhhMnk4NE43NjFKTERHMDdqX0RITWZRanYwUjJkaVJxeXBKaXpnNW1KczdncXpLMnUwcV9mTEx2M0ZrXzlFcTg3Vkp4SnF5SnM0N2JzMjM0b0hoR2xBSG9acnlZYnJ3bw?oc=5"
+      },
+      {
+       "source": "chosun",
+       "title": "정부 “반도체 경기와 금융시장 연계성 높아져”",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXZ0ZTJUaEx6ajVVZFpIOV9YR0lCMGdjanpWcDc4ay10UVU4OEVSUFg1a011bEFjQ21xeXNFTUpVSEg3TDVyNlNZM2JvSEZvZW1VcEZPWjFpaE9zTTZfamw5di1DYjQwQjFqSWVzLTBxaW4tc3ZVZklkNDZ2YU1jbTdrXzV4QdIBmgFBVV95cUxOVnpRbVpiVWc3cmdta3d1ZkozLWJsOVhWSzYwaE93cTZjaVhmTl82bzAydXdfQTdqMk5ERlAzUFEzZFhhQ2xjUEoyVzFhV0QwcFVrLTlndjdfTk96UW9kdk01dy1BQ0ZnWHlIRTQyNW5ud0IwUDFpU0pyaTNuczJEdmJUWG5vZHhZNnlYNUMzcUE5RVllMGgyU0p3?oc=5"
+      },
+      {
+       "source": "hankyung",
+       "title": "\"없어서 못 판다더니 웬일\"…반도체 시장에 심상찮은 신호",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhZ085a2U0Ui01czVPZHZFd2RtUEotSU9jdHlMaVBpVWllS1d3VGdEOEdvLV9WNmxZTkhhSHlrUnJweFZvenI0Zkhud2xEWnVvRTY2SF9wOTgtUQ?oc=5"
+      },
+      {
+       "source": "khan",
+       "title": "산업연구원 “반도체 호황기 초과세수, 비반도체 주력산업에 투자해야”",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWEN6NU54MmhUX0NlNm1fMU4tbFpBNHJWN29uRlJLdGUyd1pwUGFlcjVtME9neGhxejNXX1NOUXhXdXJTV2YxcTFfVDRndjR6M2tkNllRRWt3M0pJaFcw0gFfQVVfeXFMTldYQ3o1TngyaFRfQ2U2bV8xTi1sWkE0clY3b25GUkt0ZTJ3WnBQYWVyNW0wT2d4aHF6M1dfU05ReFd1clNXZjFxMV9UNGd2NHoza2Q2WVFFa3czSkloVzA?oc=5"
+      }
+     ],
+     "international": {
+      "reason": "AI 반도체 수요가 한국 수출을 끌어올리는 흐름은 세계 반도체 공급망과 미국의 대중 반도체 통제·관세 협상과 맞물려 있다.",
+      "evidence": [
+       {
+        "kind": "media",
+        "source": "reuters_kr",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTkp1LWozY2ZReDhYRHNMVDFCYXFRd0p5UXFrbnltSC0weTB2TUdpaXZpSlYyUXJMbzJDMmRTbU15ajBYU2pTMEpNT2wzT2dlRy1TQzRaZXRQaERGMVlIamV0NWxPVnU1U2t1UzRHZ1ZLUUIzYVVWSWpjb2xvdVZNY1c1SmVfem03dF9kMGZqMnZkZUFCaGFJdWtkVDBEM290NXdpaFlwS0NybmV0Nmp4dTY3N1hlZlRhTmRnYmE4SG1GZ0Vfb05JMnZTaWFDUQ?oc=5",
+        "title": "South Korea November exports seen posting fastest growth in over 50 years on AI chip surge",
+        "date": "2026-11-27T05:03:00.000Z"
+       }
+      ]
+     },
+     "reactions": []
+    }
+   ]
+  },
+  {
+   "id": "jp",
+   "issues": [
+    {
+     "title": "세키 문과상 문책결의안 4표 차 부결, 감세법안 심의 재개",
+     "status": "new",
+     "keys": [
+      "세키 문과상",
+      "문책결의안",
+      "참의원",
+      "감세법안"
+     ],
+     "what": "참의원 본회의에서 세키 문부과학상에 대한 문책결의안이 자민당·유신회 등 여당의 반대로 4표 차로 부결됐다. 참의원은 감세법안 심의를 재개하며, 다카이치 총리는 세키 장관을 유임시킬 방침이라고 요미우리가 전했다.",
+     "stances": [
+      {
+       "source": "asahi",
+       "text": "아사히는 '여당 등 반대 다수로 부결'이라고 사실 위주로 전했다."
+      },
+      {
+       "source": "nikkei",
+       "text": "닛케이는 '4표 차' 부결과 감세법안 심의 재개를 함께 짚어 국회 일정에 무게를 뒀다."
+      },
+      {
+       "source": "yomiuri",
+       "text": "요미우리는 총리의 유임 방침과 함께 자민당 의원의 '깊은 반성 촉구', 반대표를 던진 의원의 '국회 뒤 즉시 사임' 요구까지 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "asahi",
+       "title": "세키 문과상 문책결의안 부결…참의원 본회의, 여당 등 반대 다수",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56djVIb0gycjJQd1ZpdFRMM3RSckl0UndFYjdSUHZ0RjQzYXRNSEphUktpeVF3WF9la0Vza1k1T1hLb19PNkRMaDdOVVJ2M0c2SUhPc3lFNjZqN2R2YTc4SkVLTHZoRTg?oc=5"
+      },
+      {
+       "source": "nikkei",
+       "title": "세키 문과상 문책결의안 4표 차로 부결…참의원, 감세법안 심의 재개",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wOUpycmlWZTZMTVFQUThnSklqcjBsVEFReUxxdXFGYVE1QzB5amtReXpndVpoZkpTQ0lqeTV2NGxZalVoa2pXMmlKbDM0V0JtQTU4UldWb1ctaFVza1duUjhDS2RYc2RBcHk0ZA?oc=5"
+      },
+      {
+       "source": "yomiuri",
+       "title": "관문과상의 문책결의안, 자민·유신 여당 등의 반대 다수로 부결… 다카시 총리는 속투할 의향",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ieFdEa1hHMDBBTDJJMTdYbmZXSnVVWUJEcFBZNU1CaUczZnAwYXRHUURzRVkzUFBPdHNfZnh0bWJyWUNVeUpOZGg2cU5NTTh4QmlpWEJGN2JuLXZUWWR1NDVnclJPQQ?oc=5"
+      },
+      {
+       "source": "yomiuri",
+       "title": "세키 문과상에 자민당 의원 \"깊이 반성 촉구\"…문책안 반대한 햐쿠타 씨 \"국회 끝나면 즉시 사임해야\"",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sY3VOVjRhYURBYVdrYXl2ZHNFNnpIdmV2VHRTMXFYWVY0SXhTOG96eHpCRWV3MmNrc0w5cEVQb1JWWWttT01LVTE1ZEIyTVB6QTBQX0lqTTFaR1V4V3otS2JFSmlEQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "도쿄 11월 물가 2.9%, 12월 일은 금리 인상 관측 확산",
+     "status": "cont",
+     "change": "도쿄 물가 2.9% 발표, 은행주 강세·우에다 강연에 관심",
+     "keys": [
+      "도쿄 물가",
+      "2.9%",
+      "우에다",
+      "12월 인상"
+     ],
+     "what": "도쿄 23구 11월 소비자물가가 전기·가스 보조금 종료 영향으로 2.9% 올랐다. 12월 일본은행 금리 인상 관측에 은행주가 강세를 보였고, 시장은 우에다 총재 강연에서 '매파' 강도를 가늠하려 하고 있다.",
+     "stances": [
+      {
+       "source": "asahi",
+       "text": "아사히는 물가·금리 인상 전망을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "nikkei",
+       "text": "닛케이는 도쿄 물가 2.9%, 12월 인상 관측에 따른 은행주 강세, 우에다 강연의 엔화 영향까지 연이어 다뤘다."
+      },
+      {
+       "source": "yomiuri",
+       "text": "요미우리는 이 사안을 제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nikkei",
+       "title": "도쿄 23개 구 소비자물가 11월 2.9% 상승…전기·가스 보조금 종료가 끌어올려",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1abmJlb1NiQkJaSkhqai1DM1ZZRFpiLXVRdWVmaUllZXpHb0ZaV25vTnhVdnBhbnZXUVhmaEowZjdIMV9keldFYlpqd1A0OUhkTzRteEFLY0gxajZuSkV6c3luazIxRjVkbXJEaQ?oc=5"
+      },
+      {
+       "source": "nikkei",
+       "title": "미쓰비시UFJ 등 은행주 강세…12월 일본은행 금리 인상 기대에 저가 매수",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ODFyOVNfczVkU09BMVZKWkNnTkxza2hZazZzRDRzX181RXBab2lPdVRpWC12Ny1sYTV3RUpLb2ZLdjVQYXp6N21OZ0lzOGZ1RF9Qd2lxdnZmb3JJS093a1BUOHdWUzgtUmY1ZA?oc=5"
+      },
+      {
+       "source": "nikkei",
+       "title": "일본은행 '매파' 성향 가늠할 우에다 총재 강연…주가 하락 우려 드러나면 엔화 매도 가속 전망",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qb2xqUVZ0TnZKTURIeEw0X21fdG9aX2gxblEzTUw0czl0WWI5OG1VSzgtT0tkc1N0b00zbXRGOU9SM2NSY0pzcXZHUkxSSDRja2czMnN2bjRXc1dqaXlCTmJ4YmRmYzFrLTRzZA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "니혼게이자이 독자 정보 540만 건 유출, GMO도 51만 건",
+     "status": "new",
+     "keys": [
+      "정보 유출",
+      "540만 건",
+      "GMO",
+      "사이버 피해"
+     ],
+     "what": "니혼게이자이신문 독자 정보 540만 건이 위탁업체에 대한 부정 접속으로 유출됐고, GMO의 서버 대여 사업에서도 고객 정보 51만 건이 유출됐다. 정부 시스템을 겨냥한 사이버 피해도 이어지고 있다.",
+     "stances": [
+      {
+       "source": "asahi",
+       "text": "아사히는 사설에서 '정부가 표적이 된 사이버 피해'의 검증이 시급하다고 썼다."
+      },
+      {
+       "source": "nikkei",
+       "text": "닛케이는 자사 독자 정보 540만 건 유출과 GMO 51만 건 유출을 직접 보도했다."
+      },
+      {
+       "source": "yomiuri",
+       "text": "요미우리는 이 사안을 제목으로 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "nikkei",
+       "title": "니혼게이자이 독자 정보 540만 건 유출…위탁업체 부정 접속 탓",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ybXhBN05HRnk0Nmo2N0RWbzRyWUkza2tqTm0yQUVoemlqVWNXbkhZMnRZWndMSEJEYlA3dlA5VnRVbGY2Sl9QeGc0UUVadUFPbl9PSDQteU0wakNoMVk4Qm84ODlUZ0p6OHFKMw?oc=5"
+      },
+      {
+       "source": "nikkei",
+       "title": "GMO, 서버 대여 사업서 부정 접속…고객 정보 51만 건 유출",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KdGY5RnRscWlhb0RWRzNQdkF5dVE1a0hUanBsR3h3RVJoZjNneFQ3SENmOWFIMkwtMldWMS1fcWZxU2t5dWF6bWVaZHFDcGdiU2RtazVsaXJRUjlBeTdHWUpHVlNsS0oxbVZ6eQ?oc=5"
+      },
+      {
+       "source": "asahi",
+       "title": "(사설) 사이버 피해 정부가 표적으로 검증 급무",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1EMExaNFRBN0trclgzSXJXY1lvSHNtZGZXRVgyck9FUF91Y0lnUkJTSVh0TEo2MlhZZUVTMVNsRDFnbk9Fc3lGZWFiUFpla2Y4RTVKbnN3RkxpbUFG?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ru",
+   "issues": [
+    {
+     "title": "트럼프 '탱고엔 둘이 필요'…'푸틴 원하면 G20 참석 가능'",
+     "status": "cont",
+     "change": "트럼프 '탱고엔 둘 필요'·'푸틴 G20 참석 가능' 발언 추가",
+     "keys": [
+      "트럼프",
+      "G20",
+      "탱고",
+      "안보 보장"
+     ],
+     "what": "트럼프 대통령은 러시아가 우크라이나 분쟁 해결을 원하지만 '탱고에는 두 사람이 필요하다'고 말했고, 푸틴 대통령이 원하면 G20에 올 수 있다고 밝혔다. 젤렌스키 대통령은 BBC 인터뷰에서 트럼프와 푸틴의 '이상한' 우정에 의문을 제기했다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "타스는 '러시아는 분쟁 해결을 추구한다'는 트럼프 발언을 앞세웠다."
+      },
+      {
+       "source": "kommersant",
+       "text": "코메르산트는 이 발언을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "reuters_ru",
+       "text": "로이터는 'G20 참석 가능' 발언을, BBC는 젤렌스키가 '이상한' 트럼프-푸틴 우정에 의문을 던진 인터뷰를 전했다."
+      },
+      {
+       "source": "meduza",
+       "text": "메두자는 러시아가 나토 5조식 안보 보장에 반대한다는 우크라이나 매체 보도를 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "tass",
+       "title": "러시아는 우크라이나 분쟁 해결을 추구하지만 '탱고에는 두 사람이 필요하다' — 트럼프",
+       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA0VDk2QzJkdU1SdGVCVkV3bG1rYlV5SjBiS1pZOG82WGRveEJ4cGpEZFFPbkx5TGt6dG5YSWx5Zm1QU01R0gFKQVVfeXFMT18zWkY3REJXOEw2Y2ZtaGVBdGZlZE13N2RPMUFNVnEyYno2a3hZNndOLXpIb1ZYdWZHTWo5RjRrSXRlSlpNRENfZ2c?oc=5"
+      },
+      {
+       "source": "reuters_ru",
+       "title": "트럼프 \"푸틴, 원하면 G20 참석 가능\"",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUjY3Sm9MUkZXUEQyNDc3MFdwRlFBaWcyWkpxbDRYT21RVFYySkgtUm9WeFNFb1lZUU9lM1BqbDBWLW5VLW9PR1ZvMjFxVHZNX2Q2b01rNXdVQUJIYmZ5ZHd4eEI1RkI3dlctelgwODgwczQta2ZWZEpDU2Jwa29MT21ZMlJ1clVNMkM0?oc=5"
+      },
+      {
+       "source": "bbc_ru",
+       "title": "젤렌스키, BBC 인터뷰서 트럼프-푸틴 '이상한' 우정 의문 제기",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PdzZBUkdXX1k4d2pDXzhhRXd0Qnd5YWo4Sml0TmNLTU1RYVlaWUdSUkdkM01xbUFSR2NpT0lrQ0xRallpZEpRN08wUkJXY2pNaHdSU2NtUWI?oc=5"
+      },
+      {
+       "source": "meduza",
+       "title": "러시아, 우크라이나에 나토 5조 방식 안보 보장 부여 반대 — RBC-우크라이나 보도",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNalE3V20wM3Y5aXFlQ01yOXJybDJlblRLTGpZTm8yNTNsWkNqNll6dGxTSHBXTWZjVzF1VlJUUFp0cnZWWVNReWtsZ1NscWk2R3AyRFFVWEg1aUtuakVQNFJmY29jbEpaSEoyd1F0aVBDSnBLTDk3VDI4NlJjdnBtWU1pSU93ZG14TUJqM2lpYWM5TWdqeElIQzJiSXNzV1FFamt4WUM0eDN2WTlxUGZwZERWb2x3WnhFMXNYSUFMTG1LUlVOdE55VGZCaUotYndGQ3fSAdcBQVVfeXFMUDJDaUFpSmNIWWhLSVdGZ2NmS2QzUmNVM2hnOUJ0SzVCQkE4WWM1REtCdGdrRV9hcFJlWkRreGNqN0V1LXpMUXNKcm5tV052bUp4Q1pRblAtQURPMmdneEZiVTlEa1FYZlFmYlZNc3kyYmI1VHVicmpBc1hlZHJXam1sWmVoSEZXLW5ZRjFCaVItU1hjZ2lCQlRGWmtLakN6UXVpNDhQanVtWUl5UFRUTWszaVI0WC1CRk5yTHpGekVXY0tjTnNfc3ZKOFR4VmFtcGktVS1RYVE?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "젤렌스키 \"푸틴과 친구가 되는 것은 히틀러와 친구가 되는 것과 같다\"",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR0dReE5FcVNCTVRmazNPVk5SNFNKTHhUQWd4WWNXdWNzU2xyVDlQQWtVbG5HX0R4Vlp3ZTZxYnQ0M3ZGNVJSdUxKNHdSYXIydEdIRnJfbWVKWHVhcUpTMkNNazAtNlZmVXJicWwtZ1RZNUt4NVg1NEFzcXBURHc5T203OC1wXzZNbG1DN1ItemJkS2RXU0xHSm1sYjhhNlpmelFEbGR3dUFaNjBQOE5z?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "우크라 드론 상트페테르부르크 타격, 러시아는 '두 마을 해방' 주장",
+     "status": "cont",
+     "change": "우크라 드론 상트페테르부르크 등 공격, IAEA 자포리자 국지 휴전 협의",
+     "keys": [
+      "상트페테르부르크",
+      "드론",
+      "자포리자",
+      "IAEA"
+     ],
+     "what": "우크라이나 드론이 상트페테르부르크와 러시아 3개 지역을 공격해 3명이 다치고 항공편이 차질을 빚었다고 메두자가 전했다. 러시아군은 일주일간 두 마을을 장악했다고 주장했고, IAEA는 자포리자 원전 송전선 복구를 위한 일시 휴전을 양측과 협의 중이다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "타스는 '수송·군수 시설 타격', '두 마을 해방'으로 러시아군 공세만 전하고 상트페테르부르크 피격은 제목에 올리지 않았다."
+      },
+      {
+       "source": "kommersant",
+       "text": "코메르산트는 전황을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "reuters_ru",
+       "text": "로이터는 IAEA의 자포리자 송전선 복구용 휴전 협의와 리비아행 러시아 함대 회항을 단독 보도했다."
+      },
+      {
+       "source": "meduza",
+       "text": "메두자는 상트페테르부르크 등 드론 피격과 함께 최정예 특수부대원 87명 손실 조사를 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "meduza",
+       "title": "우크라이나 드론, 상트페테르부르크 및 러시아 3개 지역 공격…3명 부상, 항공편 차질",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQWZzQUY3QVBRdGdIUjhUWE5XVW1BRnJWUU9INWtCbzJvbnhzWV9oaWJHSmdqN0IxaUhIekE0dWJlSEhZWWthRmdzc0UzRXJEZnptT2JFNEw3dkVsMGJpZDhlcVJ0UzFVX3RscFQ2aVFtcXo4MkFxZW5iYzJwajFBd3ZobWEyZ3lpMWs2Z0hrSXVUdWFyajRkQ0FrQ3RnTDJuQU11cVF5YjdyTHhkX3N6OEZkb1FuWXpTMFNYQk5PcjNQTFQ2RjNYWHR0OE9vQkZaT1U4Z9IB2gFBVV95cUxPMGo0OFhpWmpUb1V2enAya2pPd3VqRlZ2MDlCb1RIV1c1NUVhcXpfYzZCSmtIbmlpRnQ5TVhkQkgwaU9HM2pRbmxjdEx4dWdXdkltUWpCd2t5ZmhrOUw5QlAyb1RPWXI5NWVBb3ZGbDZTZnJETDlFZGtLOXhveHdnZmpBWlJFc29SZ2VjWUtCQkQ4LVlHYnJYMEFnYW5WVnZTZTl4dDZVTmRHMUxZMjRTT1Rmc1JUb0ZFbGdfenBlZVNmUHVIeFJtcFAxZldQclVHaW1FVXE1WWFKZw?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "러시아군, 수송 시설·군수산업 시설 타격 주장",
+       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1nSmZ0MDBfSmh4VWE4U3o2UWYwRE10QVBHcnhxT2ttOWFHVXpTaTVKX1dSRTlNQXZCa0ZxYXVGMUU0eHBUY0lZ0gFMQVVfeXFMTXdQVE40eFFzYXFFM2RSQlF5dzNrLWo2UXFYM3FGenJ4Y1I4cDc5RDNCT2NJQUh5ZzZ0M3dnRUUxTXg4S0VVZGJKa3R1eA?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "러시아군, 일주일간 작전으로 우크라이나 두 지역 해방 — 군 수뇌부 발표",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHUlk1SlY0aGFxUTlVcjdtODc4dmxHaHJIT2pnUTNmWnR5WVpObnFEMmNNOWlvR0lpNEUtMVZrRGhnVXozcHhFONIBTkFVX3lxTE84aEc2LWh5aTk0QVJKZmw2a3hWTzNLcGk4Ym5BN203UDU0aWdjdlNqYXlfYkpXbks2SkFMUWZUYUI5dVdubTQyd3FNTDZRZw?oc=5"
+      },
+      {
+       "source": "reuters_ru",
+       "title": "IAEA, 자포리자 원전 송전선 복구 위해 러시아·우크라이나와 일시 휴전 협의 중",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXlld0FmMFoxdUVjNlhmNURVMmZwLXJNcXZrVkhEQWxOLS14ajJFb2VQZzBOOUZKM1Z1VGwzLURERG9lUWdGczh0bTZGTGJqdC00Nk9tYjZLR21iN1ZRbEtmTHhnRFAzV3lYRzVRN2txb3h0TUxoeENQbmNTeHlmN1AtNnBnTE1rYTRnYmxxTXNBUkh1WTdZVHpBN3h2XzNYMXlUaWVLRmlOR051bTIwbE9BWVhJRjRHSWxVd0pXQy1tdnc?oc=5"
+      },
+      {
+       "source": "reuters_ru",
+       "title": "단독: 11월 22일 군함 침몰 후 리비아행 러시아 함대 회항, 소식통 전해",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "러 외무부, MS·애플 등 서방 기업에 '우크라 공격 협력 대가' 경고",
+     "status": "new",
+     "keys": [
+      "외무부",
+      "마이크로소프트",
+      "애플",
+      "서방 기업"
+     ],
+     "what": "러시아 외무부는 우크라이나의 러시아 공격을 돕는 서방 기업들이 그 결과를 감수해야 한다고 경고했다. 코메르산트는 외무부가 마이크로소프트와 애플이 우크라이나 해커를 지원한다고 비난했다고 전했다.",
+     "stances": [
+      {
+       "source": "tass",
+       "text": "타스는 '우크라이나 공격을 돕는 서방 기업은 결과를 감수해야 한다'는 외무부 경고를 제목에 올렸다."
+      },
+      {
+       "source": "kommersant",
+       "text": "코메르산트는 외무부가 마이크로소프트·애플을 '우크라이나 해커 지원'으로 지목했다고 구체적 기업명을 앞세웠다."
+      },
+      {
+       "source": "reuters_ru",
+       "text": "로이터·BBC는 이 경고를 제목으로 다루지 않았다."
+      },
+      {
+       "source": "meduza",
+       "text": "메두자도 이 사안을 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "tass",
+       "title": "외무부 \"우크라이나의 러시아 공격에 협력한 서방 기업들, 결과 감수해야\"",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9neHdDbTZRRS01QUF1THR1RG1NdXpxNkwtN1U1aUdZc0MwSFE1THIwRWpOQTdPWFcyamFiUFNReFRSVVh1b3FYcdIBTkFVX3lxTE9rR3J3RW9HQm1HaC1oRk1XZjVvT09vdC0zX0pheFEwMkpuX2RIU3dCOFFQc2RtcHdLQkY3OEZrOWdwMmdvRWtkSlFtS25VUQ?oc=5"
+      },
+      {
+       "source": "kommersant",
+       "title": "러시아 외무부, 마이크로소프트와 애플이 우크라이나 해커를 지원한다며 비난",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9xbnBhbVZFRXVkUDhiZFFzZnBFd1FpOUNGU0tiMjhScUx4NnFUNVhYbmJOM2ktZ2FncEN5MXhTUVR5UEFGU3dVRW5icWVldw?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "uk",
+   "issues": [
+    {
+     "title": "로즈뱅크 유전 둘러싼 노동당 내분, '내전'·사퇴론까지",
+     "status": "cont",
+     "change": "큰 변화 없음, 텔레그래프 '내전'·가디언 '사퇴 이어지나' 보도 계속",
+     "keys": [
+      "로즈뱅크",
+      "노동당",
+      "92명",
+      "버넘"
+     ],
+     "what": "노동당 하원의원 92명이 로즈뱅크 유전 개발을 불허하라고 요구한 서한 이후 당내 갈등이 이어지고 있다. 서한 주도 의원은 버넘 총리에게 불허를 촉구한 이유를 직접 기고했다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "가디언은 '분열 노출'과 '사퇴가 이어질까'를 다루고 서한 주도 의원의 기고를 실었다."
+      },
+      {
+       "source": "ft",
+       "text": "FT는 '92명이 불허 촉구'로 숫자 중심으로 전했다."
+      },
+      {
+       "source": "telegraph",
+       "text": "텔레그래프는 '로즈뱅크 두고 노동당 내전'이라는 강한 표현을 썼다."
+      }
+     ],
+     "links": [
+      {
+       "source": "guardian",
+       "title": "노동당 내 분열 드러나…의원 100명 가까이 서명한 서한이 로즈뱅크 유전 개발 논란 부각",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUjE5V1NZbW50dHJKWmhWVlRwdzI4amNwNzVpNXlOdkNWX1M0MUFrT2Q4LW5QYTRsMFpkOS0wWW94T2dVMDJTWDRNSVFOVXdqaG9uM0k4bDN0OHBWQlJxQXFIb3R3MjlsU2JGV3ZrRUJnZm5lcTNtRXJLWF9DMWxYOHVfUWxLenNVVENtYWpUcnNoRnNWc2Fiay10Tl9ERWhwSjdKWW9ZLWRtbWhEYk41UlNtSm00bk5vLUhsRmNQYw?oc=5"
+      },
+      {
+       "source": "guardian",
+       "title": "로즈뱅크 항거: 사퇴 이어질까 – 팟캐스트",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0xtRWNfNG95UVVKNTJYNDYtNXc2UGtDOFNFMTB3cTkxSm9zS3E5TU95d012RkU2U2p2ZDlPbXZIREh3YXd4ZlNBNXpGTS1tQ1oxTERwS3kzVzh5bXZpQmFRSTJqMXR2UDdGN08zMVBKampnUWsxdkxMSTJoa3JrWEhxd2hCYTFJaFEyaEJ5RG1SdndNeGtCYVV0aXRGU08yTUhTTk5R?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "노동당 하원의원 92명, 로즈뱅크 유전 개발 불허 촉구",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVQ1YkJFUW9Wa0t5djFKaUYwT0NSS0lQd0lHTEw0WVZEa3ZlUzJHcWVBRU5CZE4yUVlQZHk3elpEQmN4NUNBNkJneGRBU3BSY0VybGNDWXlyRFpzQWZCZnktVU0xY25HNmRCZkpsUHJNTjZnN1NfcXVDZGd0dWFvaUZOY1E?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "노동당 내분 격화…로즈뱅크 유전 개발 두고 '내전' 양상",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLW5yVnZqc053NFZJd0NfODlWQUJCNVgwYnhOTmpDcWFRSVlxaWltTGh2d1EyeEhyaGNmS3dEV3NPVVFZRVJpeV9Ldk94TlVyUFhJYkVBMm5ON2UzUGowVTljUFNncnFmS0w3UlVfbmhCQURvcU5YUTBDMjBKazlaN0dreWFneVFvZFk5X1NXd2VxNENEQzlMVjczUURKOG8?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "영란은행, 시장 전망 거슬러 점진 긴축 고수 전망…주담대 부담 경고",
+     "status": "new",
+     "keys": [
+      "영란은행",
+      "점진적 긴축",
+      "자본 요건",
+      "주담대"
+     ],
+     "what": "영란은행이 AI 위험을 경고하면서도 은행 자본 요건을 낮추기로 했고, 수백만 가구의 주택담보대출 이자가 크게 오를 것이라고 경고했다. FT는 영란은행이 시장 가격과 달리 점진적 긴축 기조를 고수할 것이라고 전했다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "가디언은 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "ft",
+       "text": "FT는 '자본 요건 완화'와 '시장 전망을 거스른 점진 긴축'으로 정책 방향에 초점을 뒀다."
+      },
+      {
+       "source": "telegraph",
+       "text": "텔레그래프는 '수백만 명이 고통스러운 주담대 인상에 직면'이라며 가계 부담을 앞세웠다."
+      }
+     ],
+     "links": [
+      {
+       "source": "ft",
+       "title": "영란은행, AI 위험 경고 속 은행 자본 요건 완화 방침",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDJkbmhUX0JFZ1F3TTYtR2VqanBRckRPRzNsaFgtOEhTVDdDblJoRnNlSW5wSkwzREFvU0FwMkIyd3JObThLYlh2bmdZNUo2X1VnTUFIWUZsSllPWEs2ZUQ5bmxmZzM0OXpYT21vZHV5UmkxeWpkUG9jdTEtWFo5c081cnU?oc=5"
+      },
+      {
+       "source": "ft",
+       "title": "영란은행, 시장 전망과 달리 점진적 긴축 기조 고수 전망",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQZXJ5N3RRa3hKLThzQ0VLWUZHVXc3ZzBpS1hqTHBJYkRYSF9oYlhVbG1QV1dhN1VUNFhiYkxiWU1wb2JxYXJoWXF3MnBlUGNzQmpPMDgzcWZ1cXBNQjNONmRVRXlrc2ZFWWFvekduVk0?oc=5"
+      },
+      {
+       "source": "telegraph",
+       "title": "영란은행 경고: 수백만 가구 주택담보대출 이자 고통스럽게 오를 것",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0FySlY0Qlh3cTdJaWdaVXFjeldMZ1h4ZVpfbGktX2VFNEtiOEhSYjUxbVF2ZzI0TGtiMHpla282VDkzamhHV3o2Sy1oLXplSjh3Z05aR1VMUUF3cjAzOW52TmtiZWk0VW94dDNkMGVrbG5tRzRzZWV4X3BTQ0RYeHlLZVIwRXhLWWZ1cU1BTlVTU3l3LUFpbHBfbHFJTkQtRUpodWdqVU9ZSzA?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "영국 노동연금부 사이버 사고",
+     "status": "new",
+     "keys": [
+      "노동연금부",
+      "사이버 사고"
+     ],
+     "what": "영국 노동연금부(DWP)가 사이버 사고 피해를 입었다고 FT가 보도했다. 같은 주 프랑스 AFP와 일본 니혼게이자이 등도 사이버 공격·정보 유출 피해를 공개했다.",
+     "stances": [
+      {
+       "source": "guardian",
+       "text": "가디언은 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "ft",
+       "text": "FT는 '노동연금부, 사이버 사고 피해'를 단독으로 제목에 올렸다."
+      },
+      {
+       "source": "telegraph",
+       "text": "텔레그래프는 이 사안을 다루지 않고 해군 본부 '폭탄 위협'을 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "ft",
+       "title": "영국 노동연금부, 사이버 공격 피해",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2tmUkUwZlpmeFlNdGFsWDVhRzR0MkEzOUwxSzlpRDVBYzNlTm94UUk5R0JtcGc4emJJMzZxVGEzU05HcDBuOHJsSG53SHBWNDhnWnhnemM3TTVIMER5ZFJsc2lpbDZkT0xXTEtOYTJ4ZGQ1UlFlUGNjRUtFbldqclA3dGY?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "de",
+   "issues": [
+    {
+     "title": "EU 예산 특별 정상회의 결렬…'크리스마스 전 격돌' 예고",
+     "status": "cont",
+     "change": "특별 정상회의 결렬, 12월 재협상으로 넘어가",
+     "keys": [
+      "EU 예산",
+      "특별 정상회의",
+      "메르츠",
+      "결렬"
+     ],
+     "what": "브뤼셀 EU 예산 특별 정상회의가 합의 없이 끝났다는 보도가 나왔다. 추가 삭감을 요구한 메르츠 총리는 '낙관을 유지한다'고 밝혔고, 협상은 크리스마스 전 담판으로 넘어갔다.",
+     "stances": [
+      {
+       "source": "sz",
+       "text": "쥐트도이체차이퉁은 메르츠의 '추가 삭감' 압박을 전했지만 결렬 이후는 제목에 올리지 않았다."
+      },
+      {
+       "source": "handelsblatt",
+       "text": "한델스블라트는 '크리스마스 전 담판'으로 다음 협상 일정에 무게를 뒀다."
+      },
+      {
+       "source": "faz",
+       "text": "FAZ는 '결렬…메르츠는 낙관', '계획대로의 실패', '실패가 의문을 낳는다'로 결렬의 의미를 여러 각도로 다뤘다."
+      }
+     ],
+     "links": [
+      {
+       "source": "faz",
+       "title": "EU 예산 정상회의 결렬…메르츠 \"낙관 유지\"",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSG1hVWRIV0ZQU2RpMVo3MFNTSWxBNHZMTFRaMF9XSkZSMWQ5c2ZnWnhQMW1JUkJOeThkclR2SkR1V1ZhU2tLTmZ0b0NGNUJIc1NOekVkRDM5c0FJUzdYYks4RGlobGR3UWYyTXAtcUk5andqRkxVdzk4WmlHWUpEN0EzVTExLS1tQXVlY3RmQktYTUVsWTVRUTEzSnl6QVliSVp1N0R6UmRvaVk2ZFo4Sg?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "메르츠·마크롱 참석 EU 정상회의, 계획대로 결렬 수순",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2VLbkZjdmR3MFBlU1E1dHFrX05MM0pFQlJ1NEJmMmdKaUZlVy1idXl2SUVLMGxxTktla3hjMXVtckQxYW9BYXZXVnRBcmRZUXlYNFZKdUtzMjNqQklZSE50MjNHLUF2OXZMU0dzM2JRWEsxZzliRzA5OV94ZS1SQzFtbF90N2xadXd3UW5zYlR6YXZPUTJkSVNTejdueGxPNmRjMEpB?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "EU 예산 놓고 특별 정상회의 결렬…협상 불확실성 증폭",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXZDNmhlNHFoRjltWGJkZy03QjI0NXpQNEJEeV9fYVJZZDBhSHBuS1l2VGVoczlUR2FzUG9BbWtZZnlqaFdVRi1vMmpGQWZXM2Z0SV9kQVQxTVo2dUd0NHRva3cyRnhPNVU3Z1lIZW4yYXlUbnk4QXpPMk52d3ZWbVV0N1ItVEVGX01RdzRUZmZrUjdlSXJ1UnBmc2pVSnYzMmtlWWN5X1RGcDRuYTFXeVE5TGthNGpoeS1ZWA?oc=5"
+      },
+      {
+       "source": "handelsblatt",
+       "title": "EU 정상회의: EU 예산 놓고 크리스마스 전 격돌 예고",
+       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWlppQnhuWHYwWFJGcWx3RGtmVFVBWV9uY1Z1dmdxcFQxVlNUclFRQ0VWQXVXc09MQ09rUHZfbzBjTmYwYUJmTVgtYXh3eWdpcGY0bmtaWThfSnRXQkNLM1JyV1kteE9vb2M1bDlWNXJXWm5uSW5OZ1hyc242YlhBMGhEQXZSM1RNUmRUXzk1dHBqc00ta1RhclU2VTVBcUlCOVRGdlBhaTZPM3Q2ekstVU5rTDdkU2VhcHFuTUlNeGd1dw?oc=5"
+      },
+      {
+       "source": "sz",
+       "title": "브뤼셀 정상회담 - EU 예산: Merz, 추가 삭감을 추진 - 정치 - SZ.de",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWFdsdjM2QnFwS0NoMEcxcDZ4aHFYTEJXWWd3SmVITzFQOXN0a3FtNW9DWHlDcWVmZ0hZQ3JIVEk4cGJLZVc1QzZqYUViamNzSVFSWEZ0WVBXeHBhN1ZxazRQQVoxNTFWalRmUHUtbjJMYkNHTTgxazRkOVh2NkpzVi13QVFleExudXVwT2lYblVGcUdoSUdGbVdCRkxSdHJlWDMxMTFHelE4bHZTV1M1bFN2YnpQb25qdTZfbDVwSWJzMEtrbE9ITExvWi1MM041bnhTSVk0WDRCSlNlMXRsOHJ3?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "연방하원, 2027년 예산 5559억 유로 가결…신규 부채 역대 두 번째",
+     "status": "new",
+     "keys": [
+      "2027 예산",
+      "5559억 유로",
+      "신규 부채"
+     ],
+     "what": "독일 연방하원이 2027년 예산 5559억 유로를 가결했다. 지출은 310억 유로 늘었고 신규 부채는 역대 두 번째 규모라고 SZ가 전했다.",
+     "stances": [
+      {
+       "source": "sz",
+       "text": "쥐트도이체차이퉁은 '역대 두 번째 신규 부채'와 '미해결 쟁점이 남았다'를 부각했다."
+      },
+      {
+       "source": "handelsblatt",
+       "text": "한델스블라트는 '신규 국채 발행'을 제목에 붙여 부채에 초점을 맞췄다."
+      },
+      {
+       "source": "faz",
+       "text": "FAZ는 '5560억 유로, 기록적 예산'으로 규모를 앞세웠다."
+      }
+     ],
+     "links": [
+      {
+       "source": "faz",
+       "title": "독일 연방하원, 2027년 예산 5,559억 유로 가결",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkJsRExiOXhUUzVhTmFWOFE5QmRidlQwMWhhOU1aaUI3Sm5kZXd5d1V4VEpBOUQweHg4eE1pMDhPNHZ1MG1peXBTOTlzX1dDRHV0MVNFWEk3ckJjdFpvalk3blVvaU1DYm1IcnQ0eFllZVhQQkx3cWVUd3p5TWh5NXB5cFpmN0pYOEpXb1RzNFN3WWNQTTZQZ0cwdWI1WlIyQjZjVV9Rbw?oc=5"
+      },
+      {
+       "source": "sz",
+       "title": "독일 연방하원, 신규 부채 역대 두 번째 규모의 예산안 가결",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGJTTUZuWUJfRDMwN1RyX05fQWZCMUJKZUVqbEFNTVFwNTdXYUNUblJ3S1NrTWU1dE1BZDhSRXRQX29tbE5wWm84MnhhRExUQ1cyNXFRZWxRUzJLTk5mbWRjNUM3cVhONG9CY2E0aTE0cjN2NnVxdkRxTkhUUXpJZ05MeWF6TF9IcmlmUk1sSkZURnQ4WGNTbWlWVzZnMi1kT2t5Z3ZVMURVZmpCc3Baaw?oc=5"
+      },
+      {
+       "source": "handelsblatt",
+       "title": "연방하원, 2027년 예산안 통과…신규 국채 발행 확정",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaTY1TFcyMVZmZEdxMk4tTFJNZk00Wk9fZTZwcFZuLWJuM0wtRkI0dEUxLVIwN0U5Wktma19FS1RfVThHMzBMUm5hdUY4RllyUEVXR1NuWl9WSmdUNHUydDFRUEI5ZmRjZjM5S0JEOG5XTEI4eExmWHRsVTJ2VUNGczBtZl9FOWYydHdDTVZLZm1WcG1LRzZxeWd6NThMOVM3Si1hUjBEZXBLVUZqZUROWXRlVm80aERib1hwcQ?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "5,560억 유로 규모 기록적 예산안, 연방하원 통과",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZms5RFFMQXQwbllNRnZhZmhSQ0p4YW5PSEZ5NGw3eTA2bUxNQTF3R0cyWkFJV2Q1OFNQNVQzVEYwQzNralRWODVsNGlXTnpWa2Z5QVJFWFBMMnJOZDhMTW1MNHo1dWlSWnUxX193QTdQWDlsR3ZKMGRRM3VRUjY0UFd1T2dRWWlqMWlpUkxOb3FrTzlNam9iclZjeXZfOF9ZV3BERTBlaDlWVnJZNTc0?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "슈바이처 새 연금법안…'45년 가입 무감액 조기연금' 유지, 기민련 반발",
+     "status": "new",
+     "keys": [
+      "연금개혁",
+      "슈바이처",
+      "63세 연금",
+      "기민련"
+     ],
+     "what": "슈바이처가 새 연금법안 초안을 내놓았다. 45년 가입자의 무감액 조기연금은 유지하되 '63세 연금'은 축소하는 내용이라는 보도가 나왔다. 기민·기사련은 강하게 반발했고 사민당과 타협을 계속 모색하고 있다.",
+     "stances": [
+      {
+       "source": "sz",
+       "text": "쥐트도이체차이퉁은 '45년 가입 무감액 연금 유지'와 연정의 타협 모색을 전했다."
+      },
+      {
+       "source": "handelsblatt",
+       "text": "한델스블라트는 '기민련이 거세게 반발'과 '연정의 존립 문제'를 강조했다."
+      },
+      {
+       "source": "faz",
+       "text": "FAZ는 '감액 없는 조기연금 축소'로 법안의 제한 측면을 앞세웠다."
+      }
+     ],
+     "links": [
+      {
+       "source": "sz",
+       "title": "신규 법안 초안: 45년 가입 시 조기 연금 감액 없는 수급 제도 유지 방침",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ3JvZl9tZFN6OEpuVDhndWl6eE1sWTJkQTFfNXZfWVhJTFJzbVI0N3pVOS1tS0tIS3dMdkhWWkQ5M0NsYlFneDZzaUZPSXhQZDdKOEVBLVBya0UzYThTZFMyTVNKUV9HUTFpUWRKSWlhdGZZWEUwYVcxTFdHLWNTc3dTUWxhWkRiOWtzYUUyRl82TTlsY0lhU29VbEYydw?oc=5"
+      },
+      {
+       "source": "handelsblatt",
+       "title": "연금 개혁: 슈바이처, 새 법안 제출… 기독教민주연합 반발 격화",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUpKZmdQQXVVQ1lNSGo3WEVOc3FoWXhYdGNLcHFYM1R6cTJ0VE8yMGVRSGE5LUx5ODM5RXZsMW10U3RDeFpvbk5LMkVzb284aUotc0Y4RkpFaEFYZkM1aG52NjZLVkdkYlZ4MlUzVmZubzFzMGRhRUtDUU1ESm5jbjVubkJDVFNqRFJTNVdaZXhORkFDc2cxUkxFanl4aDA5cFRPRFNQalE1WDJHS0szaXhOR3ZOWGxHMXk5TTMzRE4xWWRwZ3Y0b1VSUkRtOGQz?oc=5"
+      },
+      {
+       "source": "faz",
+       "title": "63세 연금: 슈바이처, 감액 없는 조기 연금 축소 추진",
+       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdkpmeXd2ak9rcXJjUFZKZ0hFd3Y3RDFaUFhJU1k4bXdLWTFGUThGSU9uT2MzYWJhak84M1hzNkxJbWdBa2dBaWc3X2s3SUhlQ25IU2w0VTNxYWducWFfel9IZlp1UkdtSFB0NUdZa3Mzckh2YS1QMEJONklMaEJ5WlRZRGdtX1hWNV9vMVdpYnU3ejNjTGxUWmYxVWVFVmI4cVpRTG9Gd3N6empLOHpHek5tNEN6R2ZleGU4UUltRQ?oc=5"
+      },
+      {
+       "source": "sz",
+       "title": "연방하원 예산 토론 — 연금 논쟁: 기민·기사당(Union)과 사민당, 타협점 모색 계속",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZnM0R0RxdU56LS02LUJfLVktSGpwYml5TmZJWVVVOWFtbXM3eVpDenNVWm15R0RDUWtjajNfT2FyNWRId3luMmg1LWRvZ2ZyVjdhbm5fVFhVMGpjTjVlS0c3eDNUV0N5Mjdpelpac0JvUlNEZ1hpdnFmNFlVSldOMU85R3pIZWpLU24yYmVla1Z1Nm1YSlRWeDRYYmFBNExNMGVJbUZoSWVvYUV0V04tRi04N2djSzN0eVJRcjdkMy0wSmlmVTFlQ2ltN041V084Rmt4VFdXeE03U245bzlZVHBkZlNLRjBaeW1DWWRSbmJkaUI5MG1FMUx3?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fr",
+   "issues": [
+    {
+     "title": "프랑스 성장률 예상보다 악화, '기술적 경기침체' 진입",
+     "status": "new",
+     "keys": [
+      "경기침체",
+      "성장률",
+      "S&P",
+      "물가 2.9%"
+     ],
+     "what": "프랑스 성장률이 예상보다 나빠 기술적 경기침체에 들어섰다는 보도가 나왔다. 앞서 국립통계청(INSEE) 속보치로 3분기 국내총생산은 0.1% 줄었고, 시장은 S&P의 프랑스 신용등급 판단을 기다리고 있다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "리베라시옹은 '예상보다 성장 정체, 기술적 침체'를 사실 위주로 전했다."
+      },
+      {
+       "source": "echos",
+       "text": "레제코는 '예상보다 더 어두운 성장'과 S&P 신용평가 대기를 함께 다뤘다."
+      },
+      {
+       "source": "figaro",
+       "text": "르피가로는 '10년 넘은 마크롱주의의 결산'이라며 대선 후보들의 마크롱 비판과 연결했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "liberation",
+       "title": "프랑스 성장세 예상보다 둔화…기술적 경기침체 진입",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMWpmZGpxSDVQUmFhYlVwT2pBTG0tUGdydjJXdERnZzhLYU9HU3VRR2UwUllQa09LbzI5Ty1xSTBneXhSTW9qcGp6SEp5R2FBYjJvMXhhUXpmX0tnQWJTYlhBZlkybnBGUWNRTWV6WTR6WDc0dTBzVHpCQTNoYnpPa2hFaUJILVVNRU9uMEV6a0xhNXJrY3lYSmNFRVpGSlVFaTlCUUpmWlBwVlc3dDVNWUVORy14VkZLTXRnUm03a0djTHBBcUQ1Z3JCY1NTZ2hpQ1JoS3dBUEZKY3Q0?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "예상보다 나쁜 성장률… 프랑스 경제 침체 진입",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2R0VEtzNk9RWjJPSG1lZTNldjM2VmllMDBScGwwT0lMNnE1RW1McTVOc1VvNWJ5S085c25jSHVnaXpWMWlQM0JhcThsWTdWcExwYi1DTVRxTGdqTGM1Q2lZTUZlTi1ONTA3TURpdVhoQVZtZjJKMXFxcnFBZGNSUGtBMzlyOVJfVE5pei1uOEZyV2R6MTIxREswUndxZElFaU9LZU1sMlA2eHVJb0N6MklR?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "\"10년 넘은 마크롱주의의 결산\" : 프랑스 경기침체 속 대선 후보 다수 마크롱 대통령 맹비난",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNRGNOZDRCWHNXdlkwS0NGR0lVTFBpVVExWngwMDg0cnRkTDlhSUtFZEhKbG1ORkkteW42aDJvTy1pTkt1a0EwdVBfUE02a1JmenV3S1lwUTA5SHdyVi1pY1FsdHl6c3gzREZIblZrNnlrTThKdmhwdzh1ZGY2SElLTDV2NE1vc3FuZVdPT1E2LUtGa19UaXpFYnh0blhUT0xqNEhubWpKSi03OUJSMV9YcmdudXVaNmV2c01oVGNCOTFNX1B2LUo2a1B3Ni1PaVVyQWRKTWNjbFd1N18yQkJPTzg0X3NrV3RKOUVieVFWcDJac191Sm9JQ0FtXzRQN3RCTXlQdg?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "기술주, 11월 폭락 뒤 반등 모색…프랑스는 S&P 신용평가 결과 대기 중",
+       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOWGhxU1hidWo0R2p4b1BESGNzRlIxb3g2aWtPQm5BX2UxaFhXalk1N0pkZlRiSTc4aGhCbUtyU1VmZWhFZkVqMm5fUUo3TC1Eck9oVGpFRVgxQUtfMEhabE1mRkJxcndyTEJBRXh0NlgzYk5yNjRxcjRKN3ZDZkVZZkZOUU1wdkFzRWVGOVFxcmRhempXTVRWVEhyX1VwR0FBZ3hmMFQ2bzg3VzB5SkJSbU9VWVFEZk0xbXExX1l6ZDhnRkhrNWVrSlZwZXNGbXNma3pFZU9jLUlKQlRqM2IyQVVRcUFqYm41d0lMSE04cUZHMHA4WC0zRHVLT2x5cm8?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "2027 예산, 상원 긴축안 후퇴…물리에 가문 '인건비 인상' 반기",
+     "status": "new",
+     "keys": [
+      "2027 예산",
+      "상원",
+      "물리에 가문",
+      "인건비"
+     ],
+     "what": "프랑스 상원이 2027년 예산의 긴축 방안에서 물러섰고, 사회보장 예산을 두고 의회는 르코르뉘 총리의 결정을 기다리고 있다. 오샹·데카틀롱을 소유한 물리에 가문은 예산안의 인건비 인상에 공개 반대했다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "리베라시옹은 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "echos",
+       "text": "레제코는 상원 후퇴, 사회보장 예산 교착, 물리에 가문의 반발을 연이어 다뤘다."
+      },
+      {
+       "source": "figaro",
+       "text": "르피가로는 예산 대신 노총 CGT의 '임금 협상 기업 엄정 조치' 요구를 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "echos",
+       "title": "2027년 예산: 상원, 제시된 긴축 방안 후퇴",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa1FGS1lGQTlzUDBEU2NYNkZ3X2NtMV84N1p2dWdjRkQzZGQ0SkRkS1M5b0oxM2FVTUxPb0ZERzJfbi15NmtraTdfU1U2TUNFNjRzczR3SVJZYndMaDJmZXNLWTdHbjlCSFpvMW1XeXQ1N04tWUZhR1Z4U0hPR29WN0k4ZmxXRU5IejVsT1MyZm56SkZRdk1Id3paMjNJdHczZGhncDk5UzVscVRiN3JTS0dycms5Qy1jLVBTajQ5d2RqajdzamZ6OU1lRHk3Zw?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "사회보장 예산: 여야 이견 여전…의회, 르코르뉘 총리 패 공개만 기다려",
+       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRl9MVXB5Skg3dXlsUnVTMnFUWlVVdERFVGV5dlF5V3VidG8waVRMRUVPVmtMdDVGZ3kxdjFMQW9Kajd5ZG84WHpldjhqMm5vOTBSQ29FRWUyUkdHZHlCS1ZmT1JuTUdTeGhfZmdrVF9iMC1HX1Y2VGJweUNGRFN3d2hkVnJnbXg2Zmg2Y29hRTd4cFdPTTV2RXQ0bHdFMktMcTBhYnp4WFdMMk9RbUN1SnlnTkh6Tm1aeWh2bl9Pa3MyUDVHNjE5OUdUblU1SmZXVmhyN0JkOEFmdW9EOW1WbWVR?oc=5"
+      },
+      {
+       "source": "echos",
+       "title": "오샹·데카틀롱·키아비 여는 물리에 가문, 2027년 예산안의 인건비 인상에 반기…직접 펜 들어",
+       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOakRmSGdTekVyOGRsZVFNNndGVkFDT292TVRBUFdiQ2RXSEhDWHMyX29jdEc1UzI0T1FvU2Nuelp4XzBpRGJyWTlXMEVPQzRKUEU5dzBrQ1dyYndWLTBhdGswMG9Xbk5xLVdaRVlvb1VnUW0wX0FGcmdnNi1sS0F5VVBUcER3dTZfWVl5Q2xrNFVpaHJkUEpzM0I2Q1dySXdpUTBPYlNBS3l2QUVZSnk2VmtBMmJKaTg0Uk9obC1DM1ZTbGRxNFlpaEY3Sk5ybldsVThVS04zWllCMDlibEs5NzU3V2tpSmtiSGFabC01VHNtdkRwZURsTG9sbDNmNk1mOFJlNEh0TTl1YkxFNklzeEV3Rm0xa1IyX3l5SzVXTFpTX2s?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "노총 CGT, 임금 협상 재개하지 않는 기업 「엄정 조치」 정부에 촉구",
+       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTE5wMWZUUWlMaHRQNldzTFVTWkhIaXhpazIyLWM1b2xNVHhQM1JhU2ZEV0h1Y3Y3NDZhQ2stdVJiNG1nSnhFWmpPYUdfWTAtclBiWWVIel96N1VoOWpHaWtOb0xEUk1ncHQtTkN3ajlwdVV3cERGdG1tWlc5MzFIQ3hVQWNJajJ1Z0laUmRUN09MMGZsNDFXNFJxdFBKQ0dNbXYwTnZUcTNmd0FnVENBZXZFczUyS2thTWU4R2JfN3pWNXJLbkRtUHJ2Smg0ME1JV0ZHQ2NrZzl2V2JYeEsyaWl5UmdMdndk?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "마크롱, EU-메르코수르 협정 반대 재확인…유럽 업적 흔들",
+     "status": "new",
+     "keys": [
+      "메르코수르",
+      "마크롱",
+      "브라질 육류"
+     ],
+     "what": "마크롱 대통령이 EU-메르코수르 협정 반대를 '올해의 싸움'이라며 재확인하고 브라질의 '약물 투여 육류'를 비판했다. 타스는 마크롱이 농산물 시장에서 러시아와의 경쟁에 불만을 드러냈다고 전했다.",
+     "stances": [
+      {
+       "source": "liberation",
+       "text": "리베라시옹은 메르코수르 발언을 다루지 않고 르펜에 대한 마크롱의 일침을 전했다."
+      },
+      {
+       "source": "echos",
+       "text": "레제코는 이 발언을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "figaro",
+       "text": "르피가로는 협정 반대 재확인에 이어 '마크롱의 유럽 업적이 빠져나간다'는 분석을 실었다."
+      }
+     ],
+     "links": [
+      {
+       "source": "figaro",
+       "title": "\"올해의 싸움이었다\"…마크롱, EU-메르코수르 협정 반대 재확인, 브라질 '약물 투여 육류' 비판",
+       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc0FHSG9HX2xGaFFTQ1BFcHJyUkc3Unp3VlpSeU0xMGlOanRCcV9OWDYta1VoSHJIMVN2SXNyOWtRNFR0ekNCUjg5eW5INnJocllxTVZKWVh0Q0w2bjMyUVlXLWd4UmptUWtfazJyUWhKVTlGemhITlpVVTBoeDkwSVpaYlBHZk9DWUF2WnJncDRsODM4SUJ5N19ZN2xIaVVybDI3ci1vQUg0VWEtQ0NjX09LdnNRbWt3TzNmaXBja2ZUTl9Qc2VWSXQtY284R0w2U0RDVE82X2J3UjBlclNwUFVpZ1l4b2J3YWFFZXNMMWZGa291d05hWjFrdHNiSWFVWmg5Tw?oc=5"
+      },
+      {
+       "source": "figaro",
+       "title": "주권, 공동 방위, 유럽 우선주의…마크롱, 유럽 업적 흔들린다",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYXBGSzVmejJiOWo1YVpleVFtXy1rWWpJZVdfU3hkX2h5WHg4NjJpWXk1aXBfczBZNFJHZzNVaElVdGRUMzM5WWRXSElQSE9FMHdiVDZQREJVZXh0MUJsWFotTjYyNm4yS0xsSThkOWFCWURmRXpUMm55MlctU3gtN0pWZk0xcTFOT0dFZnFMZUtCSXhuVG9HVGdxZjFnNHpLX05mdWxyV3ZUTXBnVG9Ya2tETlA5M1FoZ2hxcm1iS1pFVF8zZjVzdzlmTE9IdWNaQjhZQXlEVE1LNkZkRHFOV25kNFU?oc=5"
+      },
+      {
+       "source": "tass",
+       "title": "프랑스 대통령, 농산물 시장에서 러시아와의 경쟁에 불만",
+       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBXRnhNemJ6NTVFM1RMSHpmRlRabThJWUJqQnZMRzYwNFpuM0ZQeFJIR1hzREV5OVJkY01rX1dDZ3F6MS1VdzUw0gFMQVVfeXFMTkg3Z1FzRHJRRG9tQXRzR21Ja2o3aS1aSDRVV2lLQXVLSXNfaXRDY1VHN2FoR2hLX2tpLTFITjlrNVVrUWZNdXJzOS0yYg?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "me",
+   "issues": [
+    {
+     "title": "쿠웨이트 드론 공격 이탈리아인 사망, 이란은 책임 부인",
+     "status": "cont",
+     "change": "이란 책임 부인, '젤렌스키 자작극' 주장까지",
+     "keys": [
+      "쿠웨이트",
+      "이탈리아인",
+      "이란",
+      "자작극"
+     ],
+     "what": "쿠웨이트 '핵심 시설'에 대한 드론 공격으로 이탈리아인 2명이 숨진 뒤 이란은 책임을 부인했다. 폭스뉴스는 이란이 이를 트럼프의 관심을 끌려는 젤렌스키의 '자작극'이라고 주장했다고 전했다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "알자지라는 '이란은 왜 책임을 부인하나'로 이란의 부인 자체를 분석 대상으로 삼았다."
+      },
+      {
+       "source": "haaretz",
+       "text": "하레츠는 '이란 드론 공격'이라고 공격 주체를 제목에 명시했다."
+      },
+      {
+       "source": "presstv",
+       "text": "프레스TV는 이 사안을 수집 기간 제목으로 다루지 않았다."
+      },
+      {
+       "source": "asharq",
+       "text": "아샤르크는 사건 대신 '중동 긴장 속 사우디 증시 2주 연속 하락'을 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "쿠웨이트서 이탈리아인 사망…이란은 책임 부인하는 이유는?",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "이탈리아인 2명 사망, 이란 드론의 쿠웨이트 '핵심 시설' 공격으로",
+       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRmlKR3Y1WFFwWnh4NVNwVXFodDFQazZkSm8yS3Q1bU5BbWVBWTB5Q1I3T2FOUXNSN3M0X3VEck55RVYzQjFPQy1PMFBQQVpoZ0FOLVlnR1ZuSEJqMk81TzhqVE1uSU9jTFRqbjN2N2MtQmZnUGl2d1pKdzVhZHI5UHk3ZzhpQ1JyWG96VEdxZHFYQ0FWSDZTU044WlFPMi02MGZYNVJOU0JxaHlwdk85LTAwdEtUUXI5UWIwUjh0R0pfZHRpdWRXVFdvYjNCZFZoQUpiXzBHQUJuTklycmRJOUphTGZTeEd5NWptckhhMmtld21QYzJEN3NDOA?oc=5"
+      },
+      {
+       "source": "fox",
+       "title": "이란, 쿠웨이트 드론 공격은 젤렌스키의 '자작극'이라며 트럼프 관심 끌기 의도 주장",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc0VhN2ZaYnJnT0NiT2NVc0JlZTJ4NDBFWDFQYzNBbUh0VEVzVkJyTEhNNkhUa1N3Z2RTTUI5dzE0Njc1ZWlQS0x0cktnYnNNZTl4aW9Sem12bzRMSmpmZHlrcXhtQWhKOG0xbUgzZWZLWXc5emlsRy1jb2ltUXdKYzk4SUpBRlJQR3BjbGVTUHZVWVFxZnVNUnp4VmRfUTVrd1h6a3Z1eEhBR3PSAbABQVVfeXFMTnJON0RxOWJ4d2N2anJWLUdZSzRnSHp3RThEVDVCaVBzVjFtRjRjTzlOUS1veC1BWkhaakhuVkk2NFNObkVON0lCUUZMVDlzbWxJWmdUc1UxbnpPWWFyZl9jQTVRUFNNaXl3TWdRejRiUVZqTU44RE0yRmVFTV84YjFsNFV5MGNSdmtQbVRTME5JeUxiYzBOdk1VNkg3czl0Q0RnUTFnMkNBQ0JYSl9zUVQ?oc=5"
+      },
+      {
+       "source": "asharq",
+       "title": "사우디 증시, 중동 긴장 고조 속 2주 연속 하락세 확대",
+       "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOLWxJbVB4VmM3eEtGc1VrX2VqN0RfUVBCYThLSnhEc0tSSVdYUmpJcW1kbERWX1c2Mldndl9GNDFGX3dBMlR4VEdiUTlHb18zVTgwODlfQ2pFeUU3YVdTSldFQXQ2SV94WXVPYUlJQ045bjc4TDhUVWJoeV90ZFFnNl9LSGprdWNiX21WRlFlV0x6bmpDbk1XdnBIRzM4Vk5mU1dvZWp0OG9YRlNSMExVNlJkYXhQcHBLVFZocGF3TVBnUllYel9LalQzRk40NlpZRDU0dHZCNV9hMkwtczBhbTdsSE9adnZFSm9NN01jaUNjNmxCcmRCTHk0cnlrOHdvU0JFQ3BsSzFmU1ZKTjVKWWQza0FIV3Y4RFFfZ3R6MzZjMHo3a2FPNmxpZlJPLTJsZ1VNSzNvRzVOMWdfQWk5R1BfU2J1OF9LTEVr?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "트럼프 '미국이 세계 석유 50% 근접'…이란 지원 러·중 역할 축소",
+     "status": "new",
+     "keys": [
+      "트럼프",
+      "석유 50%",
+      "이란 전쟁",
+      "러·중"
+     ],
+     "what": "트럼프 대통령이 미군 장병과의 통화에서 미국이 세계 석유의 '거의 50%'를 가졌다고 말하고, 이란에 대한 러시아·중국의 지원을 깎아내렸다고 알자지라가 전했다. 알자지라는 자금 제한 속에서도 이란 전쟁이 지속될 수 있는지도 짚었다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "알자지라는 '석유 50%' 발언과 러·중 지원 축소 발언, 전쟁 자금 제약을 연이어 다뤘다."
+      },
+      {
+       "source": "haaretz",
+       "text": "하레츠는 이 발언을 다루지 않았다."
+      },
+      {
+       "source": "presstv",
+       "text": "프레스TV는 수집 기간 제목이 없었다."
+      },
+      {
+       "source": "asharq",
+       "text": "아샤르크는 '중동 긴장 속 유가 등락', '달러 약세·기술주 반등에 금값 상승'으로 시장 반응만 전했다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "트럼프 \"미국이 세계 석유의 '거의 50%' 보유\"",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkVpSWE0aGtyVzMxamxNZk5BLVFoOFkwLWdEVHVsZkhZWlFZY0NtSmYtUXYwTWFfdnZ5clBGLUNLQXJvUkZKMjFEcy1NcGV4c1JSMEtqczBneWRxUG9oYjZUZXJGbWNVTE1ZYTE1MDhTRDZCMnRXdUxoN3pNUFlpdEd4N2dYb2llclo4ZTVQTGdhSmtDd3VVSG9pOWl5elJT0gGmAUFVX3lxTFA2NmFCT09JZjNGb3JXSy16ekk1QnBxYmtRTkgtMDA4LVJnSEJfd0x2Z0IxRkU3eVNGQnMxNHZNYWt2OXNEWnk3eXoteXRmOUZFVXN1bFdNWG9FMkJVbXFjQ2tKb2dYSlVVTkVXSzZTRnlDaG1MR1cwaW0xNms1bmdwS3Q1X1FhSEdwZlZ5V2Rkd1ZWeWlCWmRWajQ5VDlySTlnaEktaXc?oc=5"
+      },
+      {
+       "source": "aljazeera",
+       "title": "트럼프, 미군 장병과 대화 중 이란에 대한 러시아·중국 지원 축소 발언",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd256NGN4WEpKSTFrZzlVR21VZl81clNOdVdhUzkzQTktcHhIV1VzaUppUEdxUUZISXFlRmFMaEdCWGlMcmZDMVlfSVZjbTNnMGIyS3NJUlZGZEIxYldYcThUaERlU2xvN09fRE1ta2drMWtuSXRLdGhfdFZqZG9ob2daNmFDV295dENhUlNuR2M3ZDF6UnlMMWRCcXY4MTdkQ2NnSExkUHBLSEV5bWhsd2xZOW8xZw?oc=5"
+      },
+      {
+       "source": "aljazeera",
+       "title": "트럼프, 자금 제약에도 이란 전쟁 지속 가능할까",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3RqQ0dlWHRjbm5jSTd1SjV0YU9vUlhIX1JCUTh6ZFh6RWVHSFY4V2ZWWWNjMG9DVEd6QnUxckNYdFZ1TGtjTjZqTDc5U3E4eUJwYUw5S0dUN0JLR19QazVucDdlai1IN1FTZlhZbGc3dmY3R1o5UEZVRFFiRmNGd2RUQ3piVmZ2VlBaczVkYXN0Yy01N1Fjd1B5cTVOYTl5NnpFZElB0gGrAUFVX3lxTFBzYkdXQXFreExwcXdDQ2Q3Ung3MlFVU21HMnA2RnN5dFdUeklpWHNtX3lBTUxPaThVSDBZMmZzOE5aYldab3l4cHJwQW1tTzNfODZGYTZOUlk2eEQwRFV1VWotclhidVlwVVc0SVRUODRGVGhKRUZqa3ptZ1M3MExfMUdVLUsyaTVvallfbTg3aldjNHNCS1ZlVHJNYWFPN1pMSk9QNTlaNXdQOA?oc=5"
+      },
+      {
+       "source": "asharq",
+       "title": "중동 긴장 고조 속 유가 등락",
+       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbkw5T2VUZlR1UXdyNnY2a210VGx0Y3hQUHAtMmNSMGtHTlBScXl6Z1RPYkpIdm9PUnBkVjR6UnA0bXFndXBwbzRtbnhHNUhQYjlROEZfeFlTcDhuendvV3NEOGg4VHNyQm9vUE0yaTBJN05ZdXIzWVdzdjVtX1V4a2JCMHFKMFI5RWdNd0VmSkhfYmtZS2JqNXM4djFWZm1IUGNGTWFHME8zVGE2VG1id01teFpWZDFwa2w5SmxPM3hySVlaeThfcXl4ZXFpVEwxRTFwanNsdzRjb25GUjlzMFdoMDVxRkhPSVRTWjlkSWdrZlhXZmlMelMwNG5FR2VOcjZSaHhUMkhHdw?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "아이젠코트 '네타냐후 당이 연정 협상 지연'",
+     "status": "new",
+     "keys": [
+      "아이젠코트",
+      "네타냐후",
+      "연정 협상"
+     ],
+     "what": "이스라엘 아이젠코트가 네타냐후 총리의 리쿠드당이 연정 협상을 지연시키고 있다고 비판했다. 하레츠는 그가 이스라엘 정치에서 벤그비르 색채를 지울 수 있을지를 다뤘다.",
+     "stances": [
+      {
+       "source": "aljazeera",
+       "text": "알자지라는 아이젠코트의 '연정 협상 지연' 비판을 전했다."
+      },
+      {
+       "source": "haaretz",
+       "text": "하레츠는 '이 남자가 이스라엘에서 벤그비르 색을 지울까'로 기대와 의문을 함께 던졌다."
+      },
+      {
+       "source": "presstv",
+       "text": "프레스TV는 수집 기간 제목이 없었다."
+      },
+      {
+       "source": "asharq",
+       "text": "아샤르크는 이 사안을 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "aljazeera",
+       "title": "이스라엘 아이젠코트, 네타냐후 여당이 연정 협상 지연 중이라고 비판",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbklRajNUbVQyQ1NQZDREVURsT3hhN3Eyc1c0cVVEektfTmFocTlWb3l4RlZBTUlrZ29NY2N1TGZNZE1ueU5GZWxPX085ZGxReVA1OVdrY3Vpbl9UYndmeTJkMC1aNEpIZGNQbUJPQVctWThQTmpnRjN5NUgzWmZ2YUJSUF9Zb2NmT2pzMnY2VzE4SzlhQlZwRHZndGdTSXgteFMzWjJEZFcyRjY4dVk5NdIBtgFBVV95cUxQanJoSUpJazZ3aVVpdnBtYnNPQnJRYUdOVFI2RFJvQzVIckF2YUowZzV3OWlzVDVDSTVCSV9abWlmckI2cjAtdkM4SVpyd1JyQWNOX05lZl8weTBILWxBamNfVGwxemZ5dl90RV9sZHVsQVpCTlpNcjNIS2VNUEkwUV9lSy1yUWx1OWJNcll1LWJ6QmFEM1ZDcUhVZmx6ZmJ4ZUotOHBoSmdvQ1VCclpQZTlKNWhBdw?oc=5"
+      },
+      {
+       "source": "haaretz",
+       "title": "하레츠 투데이: 이 남자가 이스라엘에서 벤그비르 색을 지울 수 있을까?",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSy14bUZaclIzMGtwUnBpdG9EemVucWJ6cGlLTDVLVWJlQjFNano3dmQ5Z29KcUtSSlg0UEhHNVJjTTY2cGFZQy0zYVpORndGczhPMl9WMlVqRng4X093WVEwT0ZWczFKS2hqQUw2LWJxaTY0LXNKZ2FVTmpWTlVlTFowRTVWVS0zWHlZY1FXa19rNU14LUhGZ09aSjRWMFNMbDlQYWp0Tld1U0YyelE0QUMyRzRoTWhobjk5cTVWZV9nMFhNaXBBWUJHVk9EVFA3OGhYMUxCRzFmWlJRWGlUYWpWVE45QzJBVmFZ?oc=5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "in",
+   "issues": [
+    {
+     "title": "선거구 획정법안 특별 회기 상정 앞, NCP-SP 지지·국민회의 '유감'",
+     "status": "cont",
+     "change": "NCP-SP 지지 표명에 국민회의 '유감', 정부는 짧은 특별 회기 택해",
+     "keys": [
+      "선거구 획정",
+      "NCP-SP",
+      "특별 회기",
+      "여성 33%"
+     ],
+     "what": "개정 선거구 획정법안이 11월 30일부터 열리는 특별 회기에 상정될 전망인 가운데 NCP-SP가 지지를 밝혔고 국민회의는 '유감'이라고 반응했다. 정부는 겨울 회기 대신 짧은 특별 회기를 택했다.",
+     "stances": [
+      {
+       "source": "jagran",
+       "text": "자그란은 '겨울 회기 대신 짧은 회의를 택한 정부의 새 전략'에 주목했다."
+      },
+      {
+       "source": "hindu",
+       "text": "힌두는 특별 회기 상정 전망과 NCP-SP 지지, 국민회의의 '유감' 반응을 차례로 전했다."
+      },
+      {
+       "source": "republic",
+       "text": "리퍼블릭은 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "wire",
+       "text": "와이어는 '공정한 획정은 선거관리위원회의 신뢰성과 직결된다'며 절차의 공정성을 짚었다."
+      },
+      {
+       "source": "et",
+       "text": "이코노믹타임스는 이 사안을 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "hindu",
+       "title": "개정 선거구 획정법안, 11월 30일 특별 회기에 상정될 듯",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVVXeUROenNyelhVTFhKMDNFTUxfS011NHQ2Y2VNbFA5a01KcEtEUWtMNjE0RXNpR1JEckwxMzN2RzBOU0EwaEp0Q1ViQWFLQzdEeXF1dFVuRjlkVHJVdlRJbFlNN1BMMTJkTWM2Sk5RZ3BibTY0VU5DMXRUZllPTEtsVmVPNXFyUGdNVmFDcG1rM3h0LTI4bGduZGpDYUlzWERVanh6VGRzMWFMYzZfR3ZqNUNjVmt2TDI2Y09BZF9aOXNRZExuRVoxZlZKdGtLRTdB0gHaAUFVX3lxTFBmMDU4Ykh1NjNLTm1iamI4UXVnQ2RnU3BvUDBiOThUT2tsYmNiT1UtZ0VVS2ZUR1NocHpyMG1WS1d6UzUyS29VaUZxZDV3WjVoYTVOMS14WWJRaXEzWndhZE9VR3h5LUV0MThqekFJSFRMdXByNU5ZVUdNRU1yOEJUZFAzR3ZIU3BvaGk4SzcyTmdJTlF3OXJxRjZTZDd0RkJ5NTJ0V2xBNkV6cVUzZV93d3F6VzRMdFVKc1pGNUFwemhRcEV5WmZLRnJBMjhWaHNTUzBGWnJCUUNn?oc=5"
+      },
+      {
+       "source": "hindu",
+       "title": "NCP-SP, 선거구 재조정 지지 표명… 국민회의 \"유감스럽다\"",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHdTbHVUTGdUMFFpc01fLWtvNFlfWlhuQjh1YjZNdHFuRzVWaG9YeVN2S2dlODZ4cUs1dHhYczhiR05MRTVKbTZ2SURVOEQtZWpFLUdYM0laSTFYbkF0TmZXcXhqM0J1THZqYktVSUZHTlFYc191RWpUdnlzd3lDQ242TDVXbzhtV2NKMnZabjFXQ18wTVJyT0NJX1FHeDFBRk02cG9wcnJnLTYtWTJjRkxEc9IBugFBVV95cUxNWndMdUZnWTB3QWEzM3drMVhRSU1CMnRhdmMzT3ctQVd6aF90LUd1dGhlY2d2T0pvQ2FZY3MzQmtlejVMX3h1NFlOaW0yNjBZS2NiVkJtZ2lrQk5pX1F2TmpYa2lMSWZmUXVPQUVYdk5JOGxrd0lhT3V4ZHBDWjluOG1Ob1dKUlpnRURkUUZ6NENRdjRNWDFSWXFqWVlNQ29IWUVuQTZCZ0dJZC00ZG9uOEtoQWU4dUp4c0E?oc=5"
+      },
+      {
+       "source": "jagran",
+       "title": "정부의 획정법안 새 전략, 겨울방학 대신 소규모 회의는 왜?",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYjN3T0JFSjh4V0EwMTlXUm42YU1tTUFlMDJJanQwcm4tX3ExcnJ3cS1ySHdaMHM5dzFKTzdPNU00dHlPUHZXZ2dHbWtndXQ2ckJ4MTAyQy1BTWtGa2Q0S0lfT0djMndqX25vTGJKSE5jNEVXaDZBZHBhTFpkakRKaVhHdkVwQzZsblB3MXFYRllzRTBUcXFYdnN6dGlUaF9JXzdfU19FaFY3U2xoYmpaemNR?oc=5"
+      },
+      {
+       "source": "wire",
+       "title": "공정한 선거구 획정은 선거관리위원회의 신뢰성과 직결된다",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd05jbkFxU2RwZWVranVfcHpESUlKSm5peVRQS1dTVjhpLWN2a2J4MHlEWDlHVl9kUnRheDBYeThjellrZ2hBNmV2SmJoalNpZG5MSHNJOXkxeWJZVFhRWHFkeWtUMlNhVDFvczFESE1salhaWVU0ODBaTzM3MkUzRDJuWS1vVUU1NjJnZVVzd1VxSjBKdEdlcDJVc1hFRUFBU29PU3B5WGZhVm95MGdJ0gG0AUFVX3lxTE1tN2U1SmE5Q2dBd3Jpel84TklYeTBDVlFVd05DNDY1bDlwamVGLW0xbTFkQWxMdVRoSlQtVEZhcGlKU1lyTlQxdnh5Y1ZHNjFMNTROMklhMmp4aTAwLU01UnN6NFRsN3EzeUh6WXdNNUZDRnZUNnYxZDZiMWN3dGkxenBHVzRLTFNVY3dzZkh5WjhuZkJ2N0RnUWxEMjlOY3ctZ2ZibEJaRHptR3cwNDAwN3NGWQ?oc=5"
+      }
+     ]
+    },
+    {
+     "title": "가바이 전 대법원장, 대통령에 '사법 임명서 능력·포용성 무시' 서한",
+     "status": "new",
+     "keys": [
+      "가바이",
+      "사법 임명",
+      "무르무 대통령"
+     ],
+     "what": "가바이 전 대법원장이 무르무 대통령에게 서한을 보내 사법 임명에서 능력과 포용성이 '완전히 무시됐다'고 주장했다. 전직 대법원장이 사법부 인사를 공개 비판한 것이다.",
+     "stances": [
+      {
+       "source": "jagran",
+       "text": "자그란은 이 사안을 제목으로 다루지 않았다."
+      },
+      {
+       "source": "hindu",
+       "text": "힌두는 가바이의 서한과 '완전한 무시' 표현을 그대로 전했다."
+      },
+      {
+       "source": "republic",
+       "text": "리퍼블릭은 이 사안을 다루지 않았다."
+      },
+      {
+       "source": "wire",
+       "text": "와이어는 이 사안 대신 '식민지 시대보다 심한 불평등 위기'라는 경제학자 발언을 전했다."
+      },
+      {
+       "source": "et",
+       "text": "이코노믹타임스는 이 사안을 다루지 않았다."
+      }
+     ],
+     "links": [
+      {
+       "source": "hindu",
+       "title": "전 대법원장 가바이, 무르무 대통령에 서한…사법 임명서 \"능력과 포용성 완전 무시\" 주장",
+       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNVluMEJfQkxhLWdxZC1BMHNucWthVWM2eVFkTUFHUEhZNzFua01JUno5UGZKUEdmN2xaNkh1b1NlTjlSaWo4aXJaYzUwUlktVWcxR0VCT3FYVVBhbWU1dlcyZWllX29vWDJMaGo2YmE0TUR4VFlBQ3FpeWpPbTA1aFFlUDVlOHdhajVnbi03c0l4NW0yOGhGYmtFVGVXWXNjamFqeTV4THZFZWhUX09mMm9VMURaWEk5UG9WQkhKdXJ0cG9MUXE4SHRPYUlLeFI4VXpTYldrMXBmVzA4VXpQU1Fyc3ctZzRudE1va205M3Y1bTl0cUpWeU51OEs5UFhYbXNHSXZR0gGMAkFVX3lxTE4teFFHRjFYWWlzV1hjMUcxaG5SWFM4cWo1OWc3N3FTTURscDhRaWRCeXN0dzU3OENVcjVlZW8tTUs4bVByaHg4TGRCQWJIbm91RW04Q0R2QVYwQXhUUDd4eXlqWWsxMzNpNENlOWxxMEZaOXRqLXRSYWVaU2xWcXVrVTd1Y2ZUdk5maGhHdXVlYlc4b2I4a0s4OXJhRVlzb0dXc3RfVDdtUnlwNUt2eUU3T3F1aWpVREFpampmUi1HMU5HMURnSDBTUVJLTV9Wcy02em44RHJTN2duQ2VUaEhNbFAzQ0tja0FuODhuVjZ2XzNOREcxWm9iTmo4MHRwWURkcjdUOWFoVERNNDU?oc=5"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
